@@ -1,0 +1,3176 @@
+medcodeid,readterm,cancer
+1960041000006116,AJCC tumour staging,1
+441041000006116,"Accid cut,puncture,perf,h'ge - aspirate fluid/tiss, cath NOS",1
+441141000006117,"Accid cut,puncture,perf,h'ge - injection or vaccination NOS",1
+441201000006112,"Accid cut,puncture,perf,h'ge - other perfusion",1
+446271000006110,"Accidental cut,puncture,perf,h'ge - puncture procedure NOS",1
+446281000006113,"Accidental cut,puncture,perf,h'ge during catheterisation NOS",1
+287021015,Acquired human immunodeficiency virus infection syndrome NOS,1
+2460981000000118,Active surveillance of prostate cancer,1
+456641000006119,Acute erythraemia and erythroleukaemia,1
+476225016,Acute erythroid leukaemia,1
+289964018,Acute leukaemia NOS,1
+509741017,Acute lymphoid leukaemia,1
+414220013,Acute monoblastic leukaemia,1
+2534415018,Acute monocytic leukaemia,1
+1815651000006110,Acute myeloblastic leukaemia,1
+344846014,Acute myelofibrosis,1
+201612010,Acute myeloid leukaemia,1
+2872264019,Acute myeloid leukaemia with multilineage dysplasia,1
+458201000006115,Acute myelomonocytic leukaemia,1
+133678011,Acute panmyelosis,1
+2532080014,Acute panmyelosis with myelofibrosis,1
+459741000006115,Acute promyelocytic leukaemia,1
+1773151000006112,Adenocarcinoma of lung,1
+933251000006113,Adenocarcinoma of rectum,1
+1488604019,Administration of cancer treatment,1
+283540016,Admit radiotherapy emergency,1
+289885019,Adult T-cell leukaemia,1
+1815601000006111,Adult T-cell lymphoma/leukaemia (HTLV-1-associated),1
+1014181000006112,Adverse reaction to Drugs Used In Malignant Disease And Immunosuppression,1
+1014321000006110,Adverse reaction to Oestrogens In Malignant Diseases,1
+1014331000006113,Adverse reaction to Progestogens In Malignant Disease,1
+1014311000006119,Adverse reaction to Sex Hormones And Antagonists In Malignant Disease,1
+2023171000006116,Agreement to participate in national cancer registry not applicable,1
+2023161000006111,Agreement to participate in national cancer registry not known,1
+289884015,Aleukaemic lymphoid leukaemia,1
+289928019,Aleukaemic monocytic leukaemia,1
+289908018,Aleukaemic myeloid leukaemia,1
+2659763011,Alpha heavy chain disease,1
+460119017,Ambulatory chemotherapy,1
+451077018,Anaemia in ovarian carcinoma,1
+380137014,Anal carcinoma,1
+1780500014,Anal intraepithelial neoplasia grade I,1
+1780499017,Anal intraepithelial neoplasia grade II,1
+1788227011,Anal intraepithelial neoplasia grade III,1
+134219012,Anaplasia of cervix,1
+1815321000006110,"Anaplastic large cell lymphoma, ALK-negative",1
+2168491000000113,"Anaplastic large cell lymphoma, ALK-positive",1
+2534468012,Angioimmunoblastic T-cell lymphoma,1
+288761012,Angiosarcoma of spleen,1
+494336018,Antineoplastic antibiotic poisoning,1
+324069016,Antineoplastic antibiotic poisoning NOS,1
+287191010,Arthropod-borne disease NOS,1
+260992011,Ascitic fluid: malignant cells,1
+474604011,"Atypical chronic myeloid leukaemia, BCR/ABL negative",1
+1140091000000112,Awaiting chemotherapy,1
+1484959013,Awaiting radiotherapy,1
+378182015,Ayala's disease,1
+414160018,B-cell acute lymphoblastic leukaemia,1
+414008012,B-cell chronic lymphocytic leukaemia,1
+414248013,B-cell prolymphocytic leukaemia,1
+215751000000116,Basal cell carcinoma,1
+853151000006113,Basal cell carcinoma,1
+880451000006115,Benign Bladder Papilloma,1
+1815401000006114,Blastic NK-cell lymphoma,1
+260879014,Bone marrow: myeloma cells,1
+520651000006114,Bone tumour/metast.irradiat.,1
+517421000000115,Bowel cancer detected by national screening programme,1
+2280371000000117,Bowel scope (flexible sigmoidoscopy) screen: cancer detected,1
+140927016,Bowen's disease,1
+1842171000006113,Breast cancer follow up - enhanced services administration,1
+2663190016,Burkitt's lymphoma,1
+289612010,Burkitt's lymphoma NOS,1
+289605018,Burkitt's lymphoma of intra-abdominal lymph nodes,1
+289608016,Burkitt's lymphoma of intrapelvic lymph nodes,1
+289604019,Burkitt's lymphoma of intrathoracic lymph nodes,1
+289606017,Burkitt's lymphoma of lymph nodes of axilla and upper limb,1
+289603013,"Burkitt's lymphoma of lymph nodes of head, face and neck",1
+527801000006112,Burkitt's lymphoma of lymph nodes of inguinal region and leg,1
+289611015,Burkitt's lymphoma of lymph nodes of multiple sites,1
+289610019,Burkitt's lymphoma of spleen,1
+289602015,Burkitt's lymphoma of unspecified site,1
+1215905010,Burkitt's tumour,1
+557371000006110,"CIN I - II, cervical dysplasia",1
+557381000006113,CIN I - mild dyskaryosis,1
+557391000006111,CIN II - moderate dyskaryosis,1
+557401000006113,CIN III - carcinoma in situ of cervix,1
+557411000006111,CIN III - severe dyskaryosis,1
+880771000006118,Ca - unspecified site,1
+988751000006115,Ca - unspecified site,1
+880511000006115,Ca - unspecified site NOS,1
+1222170010,Ca Body - stomach,1
+879911000006113,Ca anus,1
+1228541018,Ca ascending colon,1
+880081000006117,Ca bone/articular cartilage,1
+880141000006110,Ca bone/joint cartilage NOS,1
+990571000006118,Ca breast - NOS,1
+880331000006115,Ca breast - NOS,1
+880321000006118,Ca breast - axillary tail,1
+880341000006113,Ca breast - male,1
+880271000006114,Ca breast - nipple/central,1
+880291000006110,"Ca breast-lower,inner quadrant",1
+880311000006114,"Ca breast-lower,outer quadrant",1
+880281000006112,"Ca breast-upper,inner quadrant",1
+880301000006111,"Ca breast-upper,outer quadrant",1
+1222167011,Ca cardia - stomach,1
+880521000006111,Ca cerebrum,1
+880361000006112,Ca cervix uteri - endocervix,1
+880371000006117,Ca cervix uteri - exocervix,1
+1228539019,Ca descending colon,1
+880441000006117,Ca epididymis/spermatic cord,1
+1490770018,Ca extrahepatic bile ducts,1
+531851000006119,Ca female breast,1
+1222169014,Ca fundus - stomach,1
+879971000006116,Ca gall bladder,1
+880501000006118,Ca genital organs NOS,1
+879821000006114,Ca greater curvature - stomach,1
+879711000006110,"Ca gum, + rest of mouth",1
+1228537017,Ca hepatic flexure - colon,1
+881201000006113,Ca in situ bladder - papilloma,1
+879951000006114,Ca intrahepatic bile ducts,1
+880481000006111,Ca kidney,1
+880471000006113,Ca kidney/other urinary organs,1
+880491000006114,Ca kidney/urinary organs NOS,1
+880021000006116,Ca larynx - NOS,1
+1494921019,Ca larynx - glottis,1
+1228557018,Ca larynx - subglottis,1
+1222176016,Ca larynx - supraglottis,1
+879811000006118,Ca lesser curvature - stomach,1
+879731000006116,"Ca lip, oral, pharynx NOS",1
+1235891015,Ca liver - primary,1
+879931000006119,Ca liver/biliary system,1
+879961000006111,Ca liver/biliary system NOS,1
+880131000006117,Ca lower limb bones,1
+880071000006115,Ca lower lobe bronchus/lung,1
+1216078017,Ca lower third oesophagus,1
+880571000006112,Ca lymph nodes - secondary,1
+879701000006112,Ca major salivary gland,1
+880061000006110,Ca middle lobe bronchus/lung,1
+1216077010,Ca middle third oesophagus,1
+879721000006119,Ca oro/naso/hypopharynx,1
+1222189010,Ca ovary/other uterine adnexa,1
+880411000006116,Ca ovary/uterine adnexa NOS,1
+1494922014,Ca pelvic bones/sacrum/coccyx,1
+880431000006110,Ca penis,1
+1222168018,Ca pylorus - stomach,1
+1228543015,Ca rectosigmoid junction,1
+879891000006111,Ca rectum + Ca anus,1
+879921000006117,Ca rectum + Ca anus NOS,1
+1222177013,Ca ribs/sternum/clavicle,1
+1228540017,Ca sigmoid colon,1
+880561000006117,Ca skin - head/neck,1
+880241000006118,Ca skin - lower limb,1
+880211000006117,Ca skin - other,1
+990561000006113,Ca skin - other NOS,1
+880251000006116,Ca skin - other NOS,1
+880221000006113,Ca skin - trunk,1
+880231000006111,Ca skin - upper limb,1
+880091000006119,Ca skull/face/jaw bone,1
+1228542013,Ca splenic flexure - colon,1
+880531000006114,Ca thyroid,1
+880041000006111,Ca trachea/bronchus/lung,1
+880031000006118,Ca trachea/bronchus/lung NOS,1
+1228538010,Ca transverse colon,1
+880111000006111,Ca upper limb bones/scapula,1
+880051000006113,Ca upper lobe bronchus/lung,1
+1216076018,Ca upper third oesophagus,1
+880391000006116,Ca uterus NOS,1
+990581000006115,Ca uterus NOS,1
+880421000006112,Ca vulva,1
+531861000006117,Ca-in-situ of G.I. tract,1
+1877231000006117,Cancer and/or significant invasive tumors,1
+1488781019,Cancer care plan,1
+1489330018,Cancer care plan discussed with patient,1
+1489331019,Cancer care plan discussed with significant other,1
+62561000000111,Cancer care plan given,1
+1780324019,Cancer care review,1
+501450016,Cancer chemotherapy,1
+1551691000000115,Cancer chemotherapy management plan,1
+1877461000006110,Cancer chemotherapy management plan no longer in place,1
+1488798019,Cancer confirmed,1
+1488780018,Cancer diagnosis discussed,1
+1489329011,Cancer diagnosis discussed with patient,1
+1489328015,Cancer diagnosis discussed with significant other,1
+2533542012,Cancer emotional and psychosocial support and advice,1
+1842161000006118,Cancer follow up - enhanced services administration,1
+2549900011,Cancer home care pack given,1
+2309351000000112,Cancer hormonal treatment drugs Band 1,1
+2533540016,Cancer hospital treatment completed,1
+939971000006111,Cancer medication review,1
+1688911000000114,Cancer multidisciplinary team report,1
+841331000006115,Cancer of bowel,1
+1228570010,Cancer of ovary,1
+2534102018,Cancer pain and symptom management,1
+1488803011,Cancer primary healthcare multidisciplinary team,1
+2534080010,Cancer rehabilitation and readaption,1
+940011000006113,Cancer review administration,1
+940021000006117,Cancer review invite 1,1
+940031000006119,Cancer review invite 2,1
+940041000006112,Cancer review invite 3,1
+2548867016,Cancer shared care medication card,1
+2534079012,Cancer short term health assessment,1
+1780314010,Cancer supportive care worker,1
+1488772013,Cancer treatment started,1
+533321000006119,Cancers,1
+1772971000006112,Carcinoid tumour of lung,1
+880461000006118,Carcinoma bladder,1
+880381000006119,Carcinoma body of uterus,1
+880261000006119,Carcinoma breast,1
+380139012,Carcinoma common bile duct,1
+535221000006113,Carcinoma gallbladder,1
+880351000006110,Carcinoma genital organs,1
+2659784018,Carcinoma in situ,1
+290901019,Carcinoma in situ NOS,1
+881181000006112,Carcinoma in situ breast,1
+881191000006110,Carcinoma in situ cervix uteri,1
+153248016,Carcinoma in situ of Meckel's diverticulum,1
+153085017,Carcinoma in situ of adrenal gland,1
+153088015,Carcinoma in situ of ampulla of Vater,1
+153089011,Carcinoma in situ of anal canal,1
+290753018,Carcinoma in situ of anus NOS,1
+153099018,Carcinoma in situ of appendix,1
+290783010,Carcinoma in situ of aryepiglottic fold,1
+290780013,Carcinoma in situ of arytenoid cartilage,1
+153102018,Carcinoma in situ of ascending colon,1
+535331000006115,Carcinoma in situ of biliary system,1
+153107012,Carcinoma in situ of bladder,1
+153111018,Carcinoma in situ of body of stomach,1
+153112013,Carcinoma in situ of body of uterus,1
+290868010,Carcinoma in situ of breast,1
+290867017,Carcinoma in situ of breast and genitourinary system,1
+290788018,Carcinoma in situ of bronchus and lung,1
+290794014,Carcinoma in situ of bronchus or lung NOS,1
+201638010,Carcinoma in situ of caecum,1
+153124018,Carcinoma in situ of cardia of stomach,1
+290789014,Carcinoma in situ of carina of bronchus,1
+153129011,Carcinoma in situ of cervix uteri,1
+510029018,Carcinoma in situ of cheek,1
+153133016,Carcinoma in situ of colon,1
+290750015,Carcinoma in situ of colon NOS,1
+153136012,Carcinoma in situ of common bile duct,1
+290778019,Carcinoma in situ of cricoid cartilage,1
+290782017,Carcinoma in situ of cuneiform cartilage,1
+153140015,Carcinoma in situ of cystic duct,1
+153141016,Carcinoma in situ of descending colon,1
+535541000006116,Carcinoma in situ of digestive organs,1
+290775016,Carcinoma in situ of digestive organs NOS,1
+153143018,Carcinoma in situ of duodenum,1
+380242014,Carcinoma in situ of ear,1
+153146014,Carcinoma in situ of endocervix,1
+153149019,Carcinoma in situ of endometrium,1
+153150019,Carcinoma in situ of epididymis,1
+153151015,Carcinoma in situ of epiglottis,1
+153155012,Carcinoma in situ of ethmoidal sinus,1
+153156013,Carcinoma in situ of eustachian tube,1
+153157016,Carcinoma in situ of exocervix,1
+153160011,Carcinoma in situ of eye,1
+153162015,Carcinoma in situ of fallopian tube,1
+290889018,Carcinoma in situ of female genital organs NOS,1
+153169012,Carcinoma in situ of floor of mouth,1
+153173010,Carcinoma in situ of frontal sinus,1
+153174016,Carcinoma in situ of fundus of stomach,1
+535711000006110,Carcinoma in situ of gall bladder,1
+153180012,Carcinoma in situ of glottis,1
+535731000006116,Carcinoma in situ of gums,1
+290768017,Carcinoma in situ of hepatic duct,1
+153187010,Carcinoma in situ of hepatic flexure of colon,1
+153191017,Carcinoma in situ of hypopharynx,1
+153193019,Carcinoma in situ of ileum,1
+153200017,Carcinoma in situ of intrahepatic bile ducts,1
+153203015,Carcinoma in situ of jejunum,1
+153218019,Carcinoma in situ of larynx,1
+290787011,Carcinoma in situ of larynx NOS,1
+153229015,Carcinoma in situ of lip,1
+406054011,"Carcinoma in situ of lip, oral cavity and pharynx",1
+290718013,"Carcinoma in situ of lip, oral cavity and pharynx NOS",1
+153231012,Carcinoma in situ of liver,1
+406332017,Carcinoma in situ of liver and biliary system,1
+290772018,Carcinoma in situ of liver or biliary system NOS,1
+1217274016,Carcinoma in situ of lower 1/3 oesophagus,1
+290793015,Carcinoma in situ of lower lobe bronchus and lung,1
+153239014,Carcinoma in situ of main bronchus,1
+290893012,Carcinoma in situ of male genital organs NOS,1
+153246017,Carcinoma in situ of mastoid air cells,1
+153247014,Carcinoma in situ of maxillary sinus,1
+1217275015,Carcinoma in situ of middle 1/3 oesophagus,1
+290792013,Carcinoma in situ of middle lobe bronchus and lung,1
+153256018,Carcinoma in situ of nasal cavity,1
+535981000006118,Carcinoma in situ of nasal sinuses,1
+153258017,Carcinoma in situ of nasopharynx,1
+201640017,Carcinoma in situ of oesophagus,1
+290732010,Carcinoma in situ of oesophagus NOS,1
+510061019,Carcinoma in situ of oral cavity,1
+153265013,Carcinoma in situ of oropharynx,1
+290773011,Carcinoma in situ of other and unspecified digestive organs,1
+403735010,Carcinoma in situ of other and unspecified parts of uterus,1
+290895017,Carcinoma in situ of other and unspecified sites,1
+290758010,Carcinoma in situ of other and unspecified small intestine,1
+536081000006111,Carcinoma in situ of other specified part respiratory system,1
+290896016,Carcinoma in situ of other specified site,1
+290900018,Carcinoma in situ of other specified site NOS,1
+290865013,Carcinoma in situ of other specified sites of skin,1
+153267017,Carcinoma in situ of ovary,1
+153268010,Carcinoma in situ of palate,1
+153272014,Carcinoma in situ of pancreas,1
+153276012,Carcinoma in situ of parathyroid gland,1
+153280019,Carcinoma in situ of penis,1
+153282010,Carcinoma in situ of perianal skin,1
+153283017,Carcinoma in situ of pharynx,1
+153286013,Carcinoma in situ of pituitary gland,1
+153288014,Carcinoma in situ of pleura,1
+153295017,Carcinoma in situ of prostate,1
+153296016,Carcinoma in situ of pyloric antrum,1
+510074013,Carcinoma in situ of pyloric canal,1
+153299011,Carcinoma in situ of rectosigmoid junction,1
+153300015,Carcinoma in situ of rectum,1
+290751016,Carcinoma in situ of rectum and rectosigmoid junction,1
+290752011,Carcinoma in situ of rectum or rectosigmoid junction NOS,1
+290804014,Carcinoma in situ of respiratory organ NOS,1
+290776015,Carcinoma in situ of respiratory system,1
+536301000006117,Carcinoma in situ of salivary glands,1
+290822012,Carcinoma in situ of scalp,1
+290821017,Carcinoma in situ of scalp and skin of neck,1
+290824013,Carcinoma in situ of scalp or skin of neck NOS,1
+153311011,Carcinoma in situ of scrotum,1
+153313014,Carcinoma in situ of sigmoid colon,1
+153358015,Carcinoma in situ of skin,1
+290866014,Carcinoma in situ of skin NOS,1
+290830013,Carcinoma in situ of skin of abdominal wall,1
+290808012,Carcinoma in situ of skin of auricle,1
+153317010,Carcinoma in situ of skin of axilla,1
+153318017,Carcinoma in situ of skin of back,1
+153319013,Carcinoma in situ of skin of breast,1
+153320019,Carcinoma in situ of skin of buttock,1
+153321015,Carcinoma in situ of skin of cheek,1
+290827018,Carcinoma in situ of skin of chest wall NOS,1
+153327016,Carcinoma in situ of skin of eyebrow,1
+290806011,Carcinoma in situ of skin of eyelid including canthus,1
+153332015,Carcinoma in situ of skin of foot,1
+1235762013,Carcinoma in situ of skin of forehead skin,1
+153335018,Carcinoma in situ of skin of groin,1
+153336017,Carcinoma in situ of skin of hand,1
+153337014,Carcinoma in situ of skin of hip,1
+290819010,Carcinoma in situ of skin of jaw,1
+153338016,Carcinoma in situ of skin of knee,1
+536561000006111,Carcinoma in situ of skin of leg,1
+153340014,Carcinoma in situ of skin of lip,1
+290839014,Carcinoma in situ of skin of lower arm,1
+290849012,Carcinoma in situ of skin of lower leg,1
+290843013,Carcinoma in situ of skin of lower limb and hip,1
+290851011,Carcinoma in situ of skin of lower limb or hip NOS,1
+153343011,Carcinoma in situ of skin of neck,1
+153344017,Carcinoma in situ of skin of nose,1
+536641000006113,Carcinoma in situ of skin of other parts of face,1
+536651000006110,Carcinoma in situ of skin of other parts of face NOS,1
+153345016,Carcinoma in situ of skin of perineum,1
+153348019,Carcinoma in situ of skin of shoulder,1
+290818019,Carcinoma in situ of skin of temple,1
+153350010,Carcinoma in situ of skin of thigh,1
+290835015,Carcinoma in situ of skin of trunk NOS,1
+290825014,"Carcinoma in situ of skin of trunk, excluding scrotum",1
+290838018,Carcinoma in situ of skin of upper arm,1
+290836019,Carcinoma in situ of skin of upper limb and shoulder,1
+290841010,Carcinoma in situ of skin of upper limb or shoulder NOS,1
+536751000006117,Carcinoma in situ of specified parts respiratory system NOS,1
+153364010,Carcinoma in situ of sphenoidal sinus,1
+153365011,Carcinoma in situ of spleen,1
+290749015,Carcinoma in situ of splenic flexure of colon,1
+153367015,Carcinoma in situ of stomach,1
+290741017,Carcinoma in situ of stomach NOS,1
+153376010,Carcinoma in situ of testis,1
+290777012,Carcinoma in situ of thyroid cartilage,1
+153380017,Carcinoma in situ of thyroid gland,1
+153382013,Carcinoma in situ of tongue,1
+153386011,Carcinoma in situ of trachea,1
+153388012,Carcinoma in situ of transverse colon,1
+1217276019,Carcinoma in situ of upper 1/3 oesophagus,1
+290791018,Carcinoma in situ of upper lobe bronchus and lung,1
+290894018,Carcinoma in situ of urinary organs NOS,1
+153410011,Carcinoma in situ of vagina,1
+290784016,Carcinoma in situ of vestibular fold,1
+510045016,Carcinoma in situ of vocal fold - glottis,1
+153422014,Carcinoma in situ of vulva,1
+536981000006110,Carcinoma in situ other and unspecified female genital organ,1
+536991000006113,Carcinoma in situ other and unspecified male genital organs,1
+537001000006117,Carcinoma in situ other and unspecified small intestine NOS,1
+537011000006119,Carcinoma in situ skin of ear and external auricular canal,1
+537021000006110,Carcinoma in situ skin of ear/external auricular canal NOS,1
+380094018,"Carcinoma of bone, connective tissue, skin and breast",1
+380129018,Carcinoma of caecum,1
+537051000006118,Carcinoma of digestive organs and peritoneum,1
+380092019,Carcinoma of genitourinary organ,1
+403771011,Carcinoma of lip,1
+380095017,"Carcinoma of lip, oral cavity and pharynx",1
+380211016,Carcinoma of other and unspecified sites,1
+379088010,Carcinoma of rectum,1
+380110012,Carcinoma of respiratory tract and intrathoracic organs,1
+450901012,Carcinomatosis,1
+1009591000006119,Cause of learning disabilities: Brain tumour,1
+878631000006116,Caustic injected into tumour,1
+543041000006111,Cerebral metastasis,1
+543111000006111,Cerebral tumour - malignant,1
+543481000006111,Cervical carcinoma (uterus),1
+424694018,Cervical intraepithelial neoplasia,1
+424992017,Cervical intraepithelial neoplasia grade I,1
+424999014,Cervical intraepithelial neoplasia grade II,1
+543771000006118,Cervical intraepithelial neoplasia grade III,1
+1884201000006111,Cervical smear - ?endocervical type glandular neoplasia,1
+1884211000006114,Cervical smear - ?non-cervical type glandular neoplasia,1
+116189017,Chemotherapy,1
+283786017,Chemotherapy follow-up,1
+299381000000111,Chemotherapy started,1
+289903010,Chloroma,1
+552511000006110,Chondroma,1
+552661000006114,Choriocarcinoma,1
+289184018,Choriocarcinoma,1
+554151000006112,Chronic erythraemia,1
+554641000006115,Chronic granulocytic leukaemia,1
+289967013,Chronic leukaemia NOS,1
+555131000006118,Chronic lymphatic leukaemia,1
+2168681000000113,Chronic lymphocytic leukaemia of B-cell type,1
+201652012,Chronic lymphoid leukaemia,1
+289923011,Chronic monocytic leukaemia,1
+201656010,Chronic myeloid leukaemia,1
+289900013,Chronic myeloid leukaemia NOS,1
+1815631000006115,"Chronic myeloid leukaemia, BCR/ABL positive",1
+474077018,Chronic myelomonocytic leukaemia,1
+138122012,Clark melanoma level 1,1
+84190018,Clark melanoma level 2,1
+35572018,Clark melanoma level 3,1
+3704012,Clark melanoma level 4,1
+27148012,Clark melanoma level 5,1
+2233381000000115,Clinical stage A chronic lymphocytic leukaemia,1
+2233421000000112,Clinical stage B chronic lymphocytic leukaemia,1
+2233461000000116,Clinical stage C chronic lymphocytic leukaemia,1
+573611000006118,Colonic cancer,1
+262820017,Combined internal radiotherapy,1
+1588601000006116,Combined photochemotherapy and UVA light therapy to skin,1
+1588611000006118,Combined photochemotherapy and UVB light therapy to skin,1
+1488637017,Combined post-operative chemotherapy and radiotherapy,1
+1488636014,Combined pre-operative chemotherapy and radiotherapy,1
+262799017,Combined radiotherapy,1
+262805011,Combined radiotherapy NOS,1
+283784019,Combined therapy follow-up,1
+2023181000006118,Consent to participate in national cancer registry,1
+453168018,Continuous infusion of chemotherapy,1
+593611000006110,Convalescence after chemother.,1
+593631000006116,Convalescence after radiother.,1
+1884191000006113,Crv smr - hi grade dyskaryosis? invasive squamous carcinoma,1
+1815331000006113,Cutaneous T-cell lymphoma,1
+1815221000006115,Cutaneous follicle centre lymphoma,1
+988581000006116,Cytotoxic bladder instillation,1
+878841000006110,Cytotoxic given orally,1
+226911000000117,Date cancer diagnosis received in primary care,1
+2534072015,Date chemotherapy completed,1
+2534095012,Date chemotherapy stopped,1
+1937971000006115,Delayed diagnosis of cancer,1
+1555061000006111,Deliv complex parenteral chemotherapy neopl first attendance,1
+1555071000006116,Deliver simple parenteral chemother neoplas first attendance,1
+1556101000006116,Delivery fraction complex radiotherapy megavoltage machine,1
+1556121000006114,Delivery fraction radiotherapy superficial orthovoltage mach,1
+1556111000006118,Delivery fraction simple radiotherapy megavoltage machine,1
+490611000000119,Delivery of a fraction of external beam radiotherapy NEC,1
+385761000000110,Delivery of a fraction of interstitial radiotherapy,1
+381941000000114,Delivery of a fraction of intracavitary radiotherapy,1
+380261000000112,Delivery of chemotherapy for neoplasm,1
+387451000000112,Delivery of chemotherapy for neoplasm NOS,1
+380141000000118,Delivery of oral chemotherapy for neoplasm,1
+387331000000112,Delivery of oral chemotherapy for neoplasm NOS,1
+1555081000006118,Delivery subsequent element cycle chemotherapy for neoplasm,1
+413089014,Dermatofibrosarcoma protuberans,1
+201658011,Di Guglielmo's disease,1
+2901912012,Diffuse follicle centre lymphoma,1
+198006010,Diffuse large B-cell lymphoma,1
+621041000006116,Diffuse non-Hodgkin mixed sml & lge cell (diffuse) lymphoma,1
+444799014,Diffuse non-Hodgkin's centroblastic lymphoma,1
+1219545019,Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma,1
+1668101000000112,Diffuse non-Hodgkin's large cell lymphoma,1
+621071000006112,Diffuse non-Hodgkin's lymphoblastic (diffuse) lymphoma,1
+289812013,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse),1
+621091000006113,"Diffuse non-Hodgkin's lymphoma, unspecified",1
+289799010,Diffuse non-Hodgkin's small cell (diffuse) lymphoma,1
+289801013,Diffuse non-Hodgkin's small cleaved cell (diffuse) lymphoma,1
+1844571000006114,Discharge from cancer primary healthcare MDT,1
+2492161000000114,Discharge from secondary care cancer service,1
+880761000006113,Disseminated Ca -unspecif site,1
+988761000006118,Disseminated Ca -unspecif site,1
+403704016,Disseminated malignancy NOS,1
+2023191000006115,Dissent to participate in national cancer registry,1
+354343018,Drash syndrome,1
+282787016,Drug prophylaxis,1
+6411000033115,Drugs Used In Malignant Disease And Immunosuppression,1
+633341000006117,Dysplasia of vulva,1
+2189111000000116,Electrochemotherapy,1
+1805911000006118,Electrochemotherapy,1
+2306981000000110,Electroporation therapy,1
+414298014,Enteropathy-associated T-cell lymphoma,1
+1815371000006111,Enteropathy-type (intestinal) T-cell lymphoma,1
+474703011,Eosinophilic granuloma,1
+411225019,Epithelioma basal cell,1
+118574012,Erythroplasia,1
+2180581000000112,Establishing focus of care with specialist cancer team,1
+139191000000116,Excepted from cancer quality indicators: Informed dissent,1
+139181000000118,Excepted from cancer quality indicators: Patient unsuitable,1
+158091000000113,Exception reporting: cancer quality indicators,1
+598561000000110,Excision biopsy of basal cell carcinoma,1
+598801000000114,Excision biopsy of rodent ulcer,1
+651081000006111,Excision malignant skin tumour,1
+657671000006110,Ext.beam + chemotherapy,1
+657691000006111,Ext.beam-surgery+chemotherapy,1
+2676252014,External beam radiotherapy to lesion of retina,1
+658421000006110,External radiotherapy,1
+262806012,External radiotherapy NOS,1
+2532159017,Extramedullary plasmacytoma,1
+1815131000006111,Extranod marg zone B-cell lymphom mucosa-assoc lymphoid tiss,1
+2534467019,"Extranodal NK/T-cell lymphoma, nasal type",1
+378691015,FIGO staging of gynaecological malignancy,1
+672281000006111,Fetus/neonate affected-plac./breast transfer chemotherapy,1
+288762017,Fibrosarcoma of spleen,1
+1815151000006116,Follicular lymphoma,1
+763421000006116,Follicular lymphoma NOS,1
+1815161000006119,Follicular lymphoma grade 1,1
+1815171000006114,Follicular lymphoma grade 2,1
+1815181000006112,Follicular lymphoma grade 3,1
+2124491000000113,Follicular lymphoma grade 3a,1
+2124511000000117,Follicular lymphoma grade 3b,1
+763431000006118,Follicular non-Hodg mixed sml cleavd & lge cell lymphoma,1
+414278016,Follicular non-Hodgkin's large cell lymphoma,1
+451429010,Follicular non-Hodgkin's lymphoma,1
+414257019,Follicular non-Hodgkin's small cleaved cell lymphoma,1
+258131000000113,GP out of hours service notified of cancer care plan,1
+2659693012,Gamma heavy chain disease,1
+844951000006111,Gleason grading of prostate cancer,1
+1490806016,Gleason prostate grade 2-4 (low),1
+1488634012,Gleason prostate grade 5-7 (medium),1
+1490807013,Gleason prostate grade 8-10 (high),1
+175996013,Glioma,1
+304036011,Glomerular disorders in neoplastic diseases,1
+1755801000006118,Grade 1 (Stage pTa) papillary urothelial/transitional cell carcinoma,1
+1755811000006115,Grade 2 (Stage pTa) papillary urothelial/transitional cell carcinoma,1
+1755821000006111,Grade 3 (Stage pTa) papillary urothelial/transitional cell carcinoma,1
+289904016,Granulocytic sarcoma,1
+825711000006111,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu",1
+825721000006115,HIV dis resulting oth types of non-Hodgkin's lymphoma,1
+2168331000000117,HIV disease resulting in Burkitt lymphoma,1
+287029018,HIV disease resulting in Burkitt's lymphoma,1
+1814931000006110,HIV disease resulting in Kaposi sarcoma,1
+825771000006119,HIV disease resulting in Kaposi's sarcoma,1
+825791000006118,HIV disease resulting in multiple diseases CE,1
+287031010,HIV disease resulting in multiple malignant neoplasms,1
+1814951000006115,HIV disease resulting in other types of non-Hodgkin lymphoma,1
+825841000006115,HIV disease resulting in unspecified malignant neoplasm,1
+1591211000006111,Hairy cell leukaemia,1
+1699081000006116,Has cancer key worker,1
+1149831000000113,Has cancer key worker,1
+114573012,Heavy chain disease,1
+819461000006112,Heilmeyer - Schoner disease,1
+342834014,Hepatoblastoma of liver,1
+342807011,Hepatocellular carcinoma,1
+2872841013,Hepatosplenic T-cell lymphoma,1
+459527013,Hereditary nonpolyposis colon cancer,1
+1728161000006116,Hereditary nonpolyposis colon cancer,1
+299581000000117,High grade prostatic intraepithelial neoplasia,1
+289921013,Histiocytic leukaemia,1
+2659772015,Histiocytic sarcoma,1
+824231000006111,"Histiocytosis X (acute, progressive)",1
+824241000006118,Histiocytosis X (chronic),1
+824251000006116,"Histiocytosis X , chronic",1
+293617011,"Histiocytosis X , unspecified",1
+293618018,"Histiocytosis, unspecified",1
+1815031000006110,Hodgkin lymphoma,1
+1815101000006115,Hodgkin lymphoma NOS,1
+2663377018,"Hodgkin lymphoma, lymphocyte-rich",1
+2663473018,Hodgkin's disease,1
+289702012,Hodgkin's disease NOS,1
+826121000006114,Hodgkin's disease NOS,1
+289706010,Hodgkin's disease NOS of intra-abdominal lymph nodes,1
+289709015,Hodgkin's disease NOS of intrapelvic lymph nodes,1
+289705014,Hodgkin's disease NOS of intrathoracic lymph nodes,1
+826171000006110,Hodgkin's disease NOS of lymph nodes inguinal region and leg,1
+826181000006113,Hodgkin's disease NOS of lymph nodes of axilla and arm,1
+289704013,"Hodgkin's disease NOS of lymph nodes of head, face and neck",1
+289711012,Hodgkin's disease NOS of lymph nodes of multiple sites,1
+289710013,Hodgkin's disease NOS of spleen,1
+289703019,"Hodgkin's disease NOS, unspecified site",1
+2663187010,"Hodgkin's disease, lymphocytic depletion",1
+289701017,"Hodgkin's disease, lymphocytic depletion NOS",1
+289699017,"Hodgkin's disease, lymphocytic depletion of spleen",1
+826261000006110,"Hodgkin's disease, lymphocytic-histiocytic predominance",1
+2663461018,"Hodgkin's disease, mixed cellularity",1
+289679011,"Hodgkin's disease, mixed cellularity NOS",1
+154798010,"Hodgkin's disease, mixed cellularity of spleen",1
+289670010,"Hodgkin's disease, mixed cellularity of unspecified site",1
+1220414014,"Hodgkin's disease, nodular sclerosis",1
+289669014,"Hodgkin's disease, nodular sclerosis NOS",1
+154811011,"Hodgkin's disease, nodular sclerosis of spleen",1
+289660013,"Hodgkin's disease, nodular sclerosis of unspecified site",1
+2663476014,Hodgkin's granuloma,1
+289638010,Hodgkin's granuloma NOS,1
+826361000006117,Hodgkin's granuloma lymph nodes of inguinal region and leg,1
+289632011,Hodgkin's granuloma of intra-abdominal lymph nodes,1
+154837014,Hodgkin's granuloma of intrapelvic lymph nodes,1
+154838016,Hodgkin's granuloma of intrathoracic lymph nodes,1
+289633018,Hodgkin's granuloma of lymph nodes of axilla and upper limb,1
+289629013,"Hodgkin's granuloma of lymph nodes of head, face and neck",1
+289637017,Hodgkin's granuloma of lymph nodes of multiple sites,1
+154846015,Hodgkin's granuloma of spleen,1
+289628017,Hodgkin's granuloma of unspecified site,1
+826461000006111,Hodgkin's lymphocytic depletion intra-abdominal lymph nodes,1
+826471000006116,Hodgkin's lymphocytic depletion lymph nodes axilla and arm,1
+826481000006118,Hodgkin's lymphocytic depletion lymph nodes inguinal and leg,1
+826491000006115,Hodgkin's lymphocytic depletion lymph nodes multiple sites,1
+826501000006111,"Hodgkin's lymphocytic depletion of head, face and neck",1
+826511000006114,Hodgkin's lymphocytic depletion of intrapelvic lymph nodes,1
+826521000006118,Hodgkin's lymphocytic depletion of intrathoracic lymph nodes,1
+289680014,Hodgkin's lymphocytic depletion of unspecified site,1
+826541000006113,Hodgkin's mixed cellularity of intra-abdominal lymph nodes,1
+826551000006110,Hodgkin's mixed cellularity of intrapelvic lymph nodes,1
+826561000006112,Hodgkin's mixed cellularity of intrathoracic lymph nodes,1
+826571000006117,"Hodgkin's mixed cellularity of lymph nodes head, face, neck",1
+826581000006119,Hodgkin's mixed cellularity of lymph nodes inguinal and leg,1
+826591000006116,Hodgkin's mixed cellularity of lymph nodes of axilla and arm,1
+826601000006112,Hodgkin's mixed cellularity of lymph nodes of multiple sites,1
+826611000006110,"Hodgkin's nodular sclerosis of head, face and neck",1
+826621000006119,Hodgkin's nodular sclerosis of inguinal region and leg,1
+826631000006116,Hodgkin's nodular sclerosis of intra-abdominal lymph nodes,1
+826641000006114,Hodgkin's nodular sclerosis of intrapelvic lymph nodes,1
+826651000006111,Hodgkin's nodular sclerosis of intrathoracic lymph nodes,1
+826661000006113,Hodgkin's nodular sclerosis of lymph nodes of axilla and arm,1
+826671000006118,Hodgkin's nodular sclerosis of lymph nodes of multiple sites,1
+826681000006115,Hodgkin's paragranuloma,1
+289627010,Hodgkin's paragranuloma NOS,1
+826691000006117,Hodgkin's paragranuloma lymph nodes inguinal region and leg,1
+289621011,Hodgkin's paragranuloma of intra-abdominal lymph nodes,1
+289624015,Hodgkin's paragranuloma of intrapelvic lymph nodes,1
+289618014,Hodgkin's paragranuloma of intrathoracic lymph nodes,1
+826741000006115,Hodgkin's paragranuloma of lymph nodes of axilla and arm,1
+826751000006118,"Hodgkin's paragranuloma of lymph nodes of head, face, neck",1
+289626018,Hodgkin's paragranuloma of lymph nodes of multiple sites,1
+154859011,Hodgkin's paragranuloma of spleen,1
+289616013,Hodgkin's paragranuloma of unspecified site,1
+2663376010,Hodgkin's sarcoma,1
+289648012,Hodgkin's sarcoma NOS,1
+154862014,Hodgkin's sarcoma of intra-abdominal lymph nodes,1
+154863016,Hodgkin's sarcoma of intrapelvic lymph nodes,1
+154864010,Hodgkin's sarcoma of intrathoracic lymph nodes,1
+289643015,Hodgkin's sarcoma of lymph nodes of axilla and upper limb,1
+289640017,"Hodgkin's sarcoma of lymph nodes of head, face and neck",1
+826861000006114,Hodgkin's sarcoma of lymph nodes of inguinal region and leg,1
+289647019,Hodgkin's sarcoma of lymph nodes of multiple sites,1
+154872012,Hodgkin's sarcoma of spleen,1
+289639019,Hodgkin's sarcoma of unspecified site,1
+826901000006119,"Hodgkin's, lymphocytic-histiocytic pred axilla and arm",1
+826911000006116,"Hodgkin's, lymphocytic-histiocytic pred inguinal and leg",1
+826921000006112,"Hodgkin's, lymphocytic-histiocytic pred intra-abdominal node",1
+826931000006110,"Hodgkin's, lymphocytic-histiocytic pred intrapelvic nodes",1
+826941000006117,"Hodgkin's, lymphocytic-histiocytic pred intrathoracic nodes",1
+826951000006115,"Hodgkin's, lymphocytic-histiocytic pred of head, face, neck",1
+826961000006118,"Hodgkin's, lymphocytic-histiocytic pred of multiple sites",1
+289659015,"Hodgkin's, lymphocytic-histiocytic predominance NOS",1
+289657018,"Hodgkin's, lymphocytic-histiocytic predominance of spleen",1
+826991000006114,"Hodgkin's, lymphocytic-histiocytic predominance unspec site",1
+143288017,Human immunodeficiency virus infection,1
+287020019,Human immunodeficiency virus with other clinical findings,1
+287014015,Human immunodeficiency virus with secondary cancers,1
+289288012,Hypernephroma,1
+787791000006118,I131 radiotherapy,1
+262907016,Infrared therapy NOS,1
+174577011,Intraductal carcinoma in situ of breast,1
+394637016,Intramuscular chemotherapy,1
+877611000006114,Intramuscular drug injection,1
+768601000006119,Intramuscular drug therapy,1
+768011000006114,Intrathecal chemotherapy,1
+394636013,Intravenous chemotherapy,1
+768321000006115,Intravenous drug therapy,1
+767711000006113,Intravesical install chemotherapeutic agent for malignancy,1
+759311000006114,Iodine 131 radiotherapy,1
+1488620012,Iodine seed radiotherapy,1
+2871720012,Juvenile myelomonocytic leukaemia,1
+344818012,Kahler's disease,1
+173950019,Kaposi's sarcoma of lymph nodes,1
+755631000006110,Kaposi's sarcoma of multiple organs,1
+173946014,Kaposi's sarcoma of palate,1
+173944012,Kaposi's sarcoma of skin,1
+289008015,Kaposi's sarcoma of soft tissue,1
+755671000006113,"Kaposi's sarcoma, unspecified",1
+457317011,Lambda light chain myeloma,1
+967761000006115,Langerhans' cell histiocytosis,1
+1773161000006114,Large cell carcinoma of lung,1
+745971000006116,Letterer-Siwe disease,1
+289780018,Letterer-Siwe disease NOS,1
+154080016,Letterer-Siwe disease of intra-abdominal lymph nodes,1
+154081017,Letterer-Siwe disease of intrapelvic lymph nodes,1
+154082012,Letterer-Siwe disease of intrathoracic lymph nodes,1
+746021000006112,Letterer-Siwe disease of lymph nodes inguinal region and leg,1
+746031000006110,Letterer-Siwe disease of lymph nodes of axilla and arm,1
+746041000006117,"Letterer-Siwe disease of lymph nodes of head, face and neck",1
+154089015,Letterer-Siwe disease of lymph nodes of multiple sites,1
+154090012,Letterer-Siwe disease of spleen,1
+289776011,Letterer-Siwe disease of unspecified sites,1
+880921000006117,Leukaemia - specif. cell NOS,1
+988791000006114,Leukaemia - specif. cell NOS,1
+880911000006113,Leukaemia - specif.cell type,1
+880971000006116,Leukaemia - unspec. cell NOS,1
+880941000006112,Leukaemia - unspec. cell acute,1
+880931000006119,Leukaemia - unspecified cell,1
+880951000006114,Leukaemia -unspec.cell chronic,1
+289972016,Leukaemia NOS,1
+289963012,Leukaemia of unspecified cell type,1
+880961000006111,Leukaemia-unspec.cell subacute,1
+746301000006117,Leukaemic reticuloend of intra-abdominal lymph nodes,1
+746311000006119,Leukaemic reticuloend of lymph nodes inguinal region and leg,1
+747131000006114,Leukaemic reticuloend of lymph nodes of axilla and arm,1
+747141000006116,"Leukaemic reticuloend of lymph nodes of head, face and neck",1
+744991000006119,Leukaemic reticuloend of lymph nodes of multiple sites,1
+745001000006114,Leukaemic reticuloendotheliosis,1
+745011000006112,Leukaemic reticuloendotheliosis,1
+289773015,Leukaemic reticuloendotheliosis NOS,1
+510217015,Leukaemic reticuloendotheliosis of intrapelvic lymph nodes,1
+510218013,Leukaemic reticuloendotheliosis of intrathoracic lymph nodes,1
+289769018,Leukaemic reticuloendotheliosis of spleen,1
+289756017,Leukaemic reticuloendotheliosis of unspecified sites,1
+879681000006114,Lip carcinoma,1
+739801000006115,Liver metastases,1
+174576019,Lobular carcinoma in situ of breast,1
+1803781000006110,Local recurrence of malignant tumour of breast,1
+459378019,Local recurrence of malignant tumour of breast,1
+1803771000006112,Local recurrence of malignant tumour of urinary bladder,1
+459399016,Local recurrence of malignant tumour of urinary bladder,1
+733371000006119,Lung cancer,1
+861611000006111,Lung tumour excision,1
+732441000006113,Lymph node metastases,1
+289875015,Lymphatic leukaemia,1
+988781000006111,Lymphatic tissue Ca NOS,1
+880981000006118,Lymphatic tissue Ca NOS,1
+988771000006113,Lymphatic tissue carcinoma,1
+880781000006115,Lymphatic tissue carcinoma,1
+2168691000000110,Lymphoblastic (diffuse) lymphoma,1
+1815071000006113,Lymphocyte depleted classical Hodgkin lymphoma,1
+2870724014,Lymphocyte-rich classical Hodgkin lymphoma,1
+344670010,Lymphoepithelioid lymphoma,1
+403710016,Lymphoid and histiocytic malignancy NOS,1
+289876019,Lymphoid leukaemia,1
+880821000006114,Lymphoid leukaemia - acute,1
+880831000006112,Lymphoid leukaemia - chronic,1
+880841000006119,Lymphoid leukaemia - subacute,1
+289889013,Lymphoid leukaemia NOS,1
+50949017,Lymphoma stage I,1
+126918018,Lymphoma stage II,1
+94699019,Lymphoma stage III,1
+110346017,Lymphoma stage IV,1
+845051000006111,Lymphoma staging system,1
+51959012,Lymphomatoid papulosis,1
+289591011,Lymphosarcoma,1
+289601010,Lymphosarcoma NOS,1
+289580016,Lymphosarcoma and reticulosarcoma,1
+731621000006113,Lymphosarcoma cell leukaemia,1
+289595019,Lymphosarcoma of intra-abdominal lymph nodes,1
+289598017,Lymphosarcoma of intrapelvic lymph nodes,1
+289594015,Lymphosarcoma of intrathoracic lymph nodes,1
+289596018,Lymphosarcoma of lymph nodes of axilla and upper limb,1
+289593014,"Lymphosarcoma of lymph nodes of head, face and neck",1
+731691000006110,Lymphosarcoma of lymph nodes of inguinal region and leg,1
+289600011,Lymphosarcoma of lymph nodes of multiple sites,1
+289599013,Lymphosarcoma of spleen,1
+289592016,Lymphosarcoma of unspecified site,1
+2971579012,Lynch syndrome,1
+293377011,Macroglobulinaemia,1
+293384015,Macroglobulinaemia NOS,1
+730491000006117,"Mal neoplasm/periph nerves+autonomic nervous system,unspc",1
+730001000006117,"Malig neo, overlapping lesion of heart, mediastinum & pleura",1
+730011000006119,"Malig neop auditory tube, middle ear and mastoid air cells",1
+730021000006110,"Malig neop auditory tube, middle ear, mastoid air cells NOS",1
+730031000006113,"Malig neop connective and soft tissue head, face, neck NOS",1
+730241000006113,Malig neop connective and soft tissue hip and leg NOS,1
+730251000006110,Malig neop connective and soft tissue of popliteal space,1
+729281000006113,Malig neop connective and soft tissue other specified site,1
+729291000006111,Malig neop connective and soft tissue upper limb/shoulder,1
+729301000006112,Malig neop connective soft tissue upper limb/shoulder NOS,1
+729311000006110,"Malig neop eyeball excl conjunctiva, cornea, retina, choroid",1
+729321000006119,"Malig neop nasal cavities, middle ear and accessory sinuses",1
+729331000006116,"Malig neop of bone, connective tissue, skin and breast",1
+729341000006114,"Malig neop of bone, connective tissue, skin and breast NOS",1
+729351000006111,"Malig neop of bone, connective tissue, skin and breast OS",1
+729361000006113,"Malig neop of connective and soft tissue head, face and neck",1
+729371000006118,Malig neop of connective and soft tissue of abdomen NOS,1
+729381000006115,Malig neop of connective and soft tissue of abdominal wall,1
+729391000006117,Malig neop of connective and soft tissue of great toe,1
+729401000006115,Malig neop of connective and soft tissue of hip and leg,1
+729411000006117,Malig neop of connective and soft tissue of inguinal region,1
+729421000006113,Malig neop of connective and soft tissue of lower leg,1
+729431000006111,Malig neop of connective and soft tissue of pelvis NOS,1
+729441000006118,Malig neop of connective and soft tissue of thorax NOS,1
+729451000006116,Malig neop of connective and soft tissue thigh and upper leg,1
+729461000006119,Malig neop of connective and soft tissue trunk unspecified,1
+729471000006114,Malig neop of endocrine gland or related structure NOS,1
+729481000006112,Malig neop of kidney and other unspecified urinary organs,1
+729491000006110,Malig neop of other and unspecified female genital organs,1
+729501000006119,Malig neop of other and unspecified parts of nervous system,1
+729511000006116,Malig neop of other endocrine glands and related structures,1
+729521000006112,"Malig neop of other site of heart, thymus and mediastinum",1
+729531000006110,Malig neop of respiratory tract and intrathoracic organs,1
+729541000006117,Malig neop of scapula and long bones of upper arm NOS,1
+729551000006115,"Malig neop of upper respiratory tract, part unspecified",1
+729561000006118,Malig neop oth/ill-defined sites digestive tract/peritoneum,1
+729571000006113,"Malig neop other site nasal cavity, middle ear and sinuses",1
+729581000006111,"Malig neop other site rectum, rectosigmoid junction and anus",1
+729591000006114,"Malig neop other/ill-defined sites lip, oral cavity, pharynx",1
+729601000006118,Malig neop other/ill-defined sites resp/intrathoracic organs,1
+730041000006115,Malig neop pituitary gland or craniopharyngeal duct NOS,1
+729611000006115,Malig neop skin of ear and external auricular canal NOS,1
+728451000006110,Malig neopl of connective and soft tissue - sacrum or coccyx,1
+728461000006112,Malig neopl peripheral nerves and autonomic nervous system,1
+728471000006117,"Malig neopl, overlap lesion brain & other part of CNS",1
+728481000006119,Malig neoplasm of connective and soft tissues of lumb spine,1
+728491000006116,Malig neoplasm of connective and soft tissues of thor spine,1
+353772013,Malignant ascites,1
+445586018,Malignant histiocytosis,1
+289754019,Malignant histiocytosis NOS,1
+154183017,Malignant histiocytosis of intra-abdominal lymph nodes,1
+154184011,Malignant histiocytosis of intrapelvic lymph nodes,1
+154185012,Malignant histiocytosis of intrathoracic lymph nodes,1
+728571000006118,"Malignant histiocytosis of lymph nodes head, face and neck",1
+728581000006115,Malignant histiocytosis of lymph nodes inguinal and leg,1
+728591000006117,Malignant histiocytosis of lymph nodes of axilla and arm,1
+154192019,Malignant histiocytosis of lymph nodes of multiple sites,1
+154193012,Malignant histiocytosis of spleen,1
+289750011,Malignant histiocytosis of unspecified site,1
+289826016,Malignant immunoproliferative small intestinal disease,1
+289829011,Malignant lymphoma NOS,1
+728721000006111,Malignant lymphoma NOS,1
+289842011,Malignant lymphoma NOS of intra-abdominal lymph nodes,1
+289845013,Malignant lymphoma NOS of intrapelvic lymph nodes,1
+289832014,Malignant lymphoma NOS of intrathoracic lymph nodes,1
+728771000006112,Malignant lymphoma NOS of lymph node inguinal region and leg,1
+728781000006110,Malignant lymphoma NOS of lymph nodes of axilla and arm,1
+289831019,"Malignant lymphoma NOS of lymph nodes of head, face and neck",1
+289847017,Malignant lymphoma NOS of lymph nodes of multiple sites,1
+289846014,Malignant lymphoma NOS of spleen,1
+289830018,Malignant lymphoma NOS of unspecified site,1
+289820010,Malignant lymphoma otherwise specified,1
+289793011,Malignant mast cell tumour NOS,1
+289781019,Malignant mast cell tumours,1
+289052011,Malignant melanoma of ankle,1
+289012014,Malignant melanoma of auricle (ear),1
+289028016,Malignant melanoma of axilla,1
+454085011,Malignant melanoma of back,1
+289029012,Malignant melanoma of breast,1
+289030019,Malignant melanoma of buttock,1
+457109011,Malignant melanoma of chest wall,1
+289017015,Malignant melanoma of chin,1
+1694781000006115,Malignant melanoma of choroid,1
+289011019,Malignant melanoma of ear and external auricular canal,1
+289014010,Malignant melanoma of ear and external auricular canal NOS,1
+289013016,Malignant melanoma of external auditory meatus,1
+1235785014,Malignant melanoma of external surface of cheek,1
+1235798017,Malignant melanoma of external surface of nose,1
+409844012,Malignant melanoma of eye,1
+1235786010,Malignant melanoma of eyebrow,1
+728201000006110,Malignant melanoma of eyelid including canthus,1
+289022015,Malignant melanoma of face NOS,1
+289043019,Malignant melanoma of finger,1
+289054012,Malignant melanoma of foot,1
+289041017,Malignant melanoma of fore-arm,1
+289019017,Malignant melanoma of forehead,1
+289056014,Malignant melanoma of great toe,1
+289031015,Malignant melanoma of groin,1
+289042012,Malignant melanoma of hand,1
+289053018,Malignant melanoma of heel,1
+289047018,Malignant melanoma of hip,1
+1697891000006116,Malignant melanoma of iris,1
+289049015,Malignant melanoma of knee,1
+289009011,Malignant melanoma of lip,1
+289051016,Malignant melanoma of lower leg,1
+289046010,Malignant melanoma of lower limb and hip,1
+289057017,Malignant melanoma of lower limb or hip NOS,1
+289025018,Malignant melanoma of neck,1
+289015011,Malignant melanoma of other and unspecified parts of face,1
+289060012,Malignant melanoma of other specified skin site,1
+154231019,Malignant melanoma of perianal skin,1
+289033017,Malignant melanoma of perineum,1
+289050015,Malignant melanoma of popliteal fossa area,1
+289024019,Malignant melanoma of scalp,1
+289023013,Malignant melanoma of scalp and neck,1
+289026017,Malignant melanoma of scalp and neck NOS,1
+289039018,Malignant melanoma of shoulder,1
+155060012,Malignant melanoma of skin,1
+289063014,Malignant melanoma of skin NOS,1
+289021010,Malignant melanoma of temple,1
+1694771000006118,Malignant melanoma of the cilary body,1
+289048011,Malignant melanoma of thigh,1
+289044013,Malignant melanoma of thumb,1
+289055013,Malignant melanoma of toe,1
+289027014,Malignant melanoma of trunk (excluding scrotum),1
+289037016,"Malignant melanoma of trunk, excluding scrotum, NOS",1
+289034011,Malignant melanoma of umbilicus,1
+289040016,Malignant melanoma of upper arm,1
+727731000006113,Malignant melanoma of upper limb and shoulder,1
+289045014,Malignant melanoma of upper limb or shoulder NOS,1
+2438511000000112,Malignant melanoma stage IA,1
+2438551000000111,Malignant melanoma stage IB,1
+2438591000000115,Malignant melanoma stage IIA,1
+2438631000000115,Malignant melanoma stage IIB,1
+2438671000000118,Malignant melanoma stage IIC,1
+2438711000000117,Malignant melanoma stage IIIA,1
+2438751000000118,Malignant melanoma stage IIIB,1
+2438791000000114,Malignant melanoma stage IIIC,1
+2438871000000117,Malignant melanoma stage IV M1a,1
+2438911000000115,Malignant melanoma stage IV M1b,1
+2438951000000116,Malignant melanoma stage IV M1c,1
+881281000006116,Malignant neoplasm NOS,1
+988801000006110,Malignant neoplasm NOS,1
+727761000006116,"Malignant neoplasm aryepiglottic fold, hypopharyngeal aspect",1
+727771000006111,Malignant neoplasm cerebrum (excluding lobes and ventricles),1
+727781000006114,Malignant neoplasm gallbladder and extrahepatic bile ducts,1
+727791000006112,Malignant neoplasm gallbladder/extrahepatic bile ducts NOS,1
+289987014,Malignant neoplasm lymphatic or haematopoietic tissue NOS,1
+727811000006111,Malignant neoplasm lymphatic or haematopoietic tissue OS,1
+289206014,Malignant neoplasm of Gartner's duct,1
+288727010,Malignant neoplasm of Islets of Langerhans,1
+288659012,Malignant neoplasm of Meckel's diverticulum,1
+288578017,Malignant neoplasm of Waldeyer's ring,1
+289441010,Malignant neoplasm of abdomen,1
+288597017,Malignant neoplasm of abdominal oesophagus,1
+288792014,Malignant neoplasm of accessory sinus NOS,1
+727841000006110,Malignant neoplasm of acoustic nerve,1
+155068017,Malignant neoplasm of acromion,1
+288533015,Malignant neoplasm of adenoid,1
+1210553016,Malignant neoplasm of adrenal cortex,1
+155072018,Malignant neoplasm of adrenal gland,1
+289406011,Malignant neoplasm of adrenal gland NOS,1
+1210554010,Malignant neoplasm of adrenal medulla,1
+727911000006116,Malignant neoplasm of ampulla of Vater,1
+155076015,Malignant neoplasm of anal canal,1
+288414010,Malignant neoplasm of anterior 2/3 of tongue dorsal surface,1
+288430019,Malignant neoplasm of anterior 2/3 of tongue unspecified,1
+288423013,Malignant neoplasm of anterior 2/3 of tongue ventral surface,1
+288506019,Malignant neoplasm of anterior epiglottis,1
+288509014,Malignant neoplasm of anterior epiglottis NOS,1
+155078019,Malignant neoplasm of anterior mediastinum,1
+288443019,Malignant neoplasm of anterior portion of floor of mouth,1
+288552014,Malignant neoplasm of anterior wall of nasopharynx,1
+288561014,Malignant neoplasm of anterior wall of nasopharynx NOS,1
+288653013,Malignant neoplasm of anterior wall of stomach NEC,1
+289271017,Malignant neoplasm of anterior wall of urinary bladder,1
+288685011,Malignant neoplasm of anus unspecified,1
+155085015,Malignant neoplasm of aortic body,1
+289413011,Malignant neoplasm of aortic body and other paraganglia,1
+289419010,Malignant neoplasm of aortic body or paraganglia NOS,1
+727281000006117,Malignant neoplasm of appendix,1
+155089014,Malignant neoplasm of areola of female breast,1
+155090017,Malignant neoplasm of areola of male breast,1
+288799017,Malignant neoplasm of arytenoid cartilage,1
+727321000006111,Malignant neoplasm of ascending colon,1
+288779011,Malignant neoplasm of auditory (Eustachian) tube,1
+289435015,Malignant neoplasm of axilla NOS,1
+289146012,Malignant neoplasm of axillary tail of female breast,1
+289449012,Malignant neoplasm of back NOS,1
+289337012,Malignant neoplasm of basal ganglia,1
+727381000006110,Malignant neoplasm of base of tongue,1
+288411019,Malignant neoplasm of base of tongue dorsal surface,1
+289275014,Malignant neoplasm of bladder neck,1
+288717016,Malignant neoplasm of body of pancreas,1
+289246015,Malignant neoplasm of body of penis,1
+288647013,Malignant neoplasm of body of stomach,1
+1210561014,Malignant neoplasm of body of uterus,1
+289198014,Malignant neoplasm of body of uterus NOS,1
+403691010,Malignant neoplasm of bone and articular cartilage,1
+288959010,Malignant neoplasm of bone and articular cartilage NOS,1
+288869015,Malignant neoplasm of bones of skull and face,1
+288883018,Malignant neoplasm of bones of skull and face NOS,1
+2692069010,Malignant neoplasm of brain,1
+289365014,Malignant neoplasm of brain NOS,1
+727511000006114,Malignant neoplasm of brain stem,1
+727521000006118,Malignant neoplasm of brain stem NOS,1
+727531000006115,Malignant neoplasm of branchial cleft,1
+155155010,Malignant neoplasm of broad ligament,1
+403689019,Malignant neoplasm of bronchus or lung NOS,1
+727561000006112,Malignant neoplasm of buccal mucosa,1
+1216464010,Malignant neoplasm of caecum,1
+288941012,Malignant neoplasm of calcaneum,1
+454201010,Malignant neoplasm of canthus,1
+288625013,Malignant neoplasm of cardia of stomach,1
+288633014,Malignant neoplasm of cardia of stomach NOS,1
+288628010,Malignant neoplasm of cardiac orifice of stomach,1
+288632016,Malignant neoplasm of cardio-oesophageal junction of stomach,1
+288813012,Malignant neoplasm of carina of bronchus,1
+155168019,Malignant neoplasm of carotid body,1
+288915018,Malignant neoplasm of carpal bone - capitate,1
+288916017,Malignant neoplasm of carpal bone - hamate,1
+288910011,Malignant neoplasm of carpal bone - lunate,1
+288912015,Malignant neoplasm of carpal bone - pisiform,1
+288909018,Malignant neoplasm of carpal bone - scaphoid,1
+288913013,Malignant neoplasm of carpal bone - trapezium,1
+288914019,Malignant neoplasm of carpal bone - trapezoid,1
+288911010,Malignant neoplasm of carpal bone - triquetrum,1
+380145016,Malignant neoplasm of carpal bones,1
+288962013,Malignant neoplasm of cartilage of ear,1
+288771014,Malignant neoplasm of cartilage of nose,1
+288809017,Malignant neoplasm of cartilage of trachea,1
+482741013,Malignant neoplasm of cauda equina,1
+289141019,Malignant neoplasm of central part of female breast,1
+155175018,Malignant neoplasm of cerebellum,1
+289376013,Malignant neoplasm of cerebral arachnoid mater,1
+289338019,Malignant neoplasm of cerebral cortex,1
+289375012,Malignant neoplasm of cerebral dura mater,1
+482737014,Malignant neoplasm of cerebral meninges,1
+289379018,Malignant neoplasm of cerebral meninges NOS,1
+289355015,Malignant neoplasm of cerebral peduncle,1
+289378014,Malignant neoplasm of cerebral pia mater,1
+289354016,Malignant neoplasm of cerebral ventricle NOS,1
+482734019,Malignant neoplasm of cerebral ventricles,1
+289346018,Malignant neoplasm of cerebrum NOS,1
+288589012,Malignant neoplasm of cervical oesophagus,1
+289179012,Malignant neoplasm of cervical stump,1
+288885013,Malignant neoplasm of cervical vertebra,1
+1228493018,Malignant neoplasm of cervix uteri,1
+289182019,Malignant neoplasm of cervix uteri NOS,1
+289426010,Malignant neoplasm of cheek NOS,1
+727151000006117,Malignant neoplasm of cheek mucosa,1
+289436019,Malignant neoplasm of chest wall NOS,1
+727181000006113,Malignant neoplasm of choroid,1
+289352017,Malignant neoplasm of choroid plexus,1
+289308013,Malignant neoplasm of ciliary body,1
+155191015,Malignant neoplasm of clavicle,1
+1210566016,Malignant neoplasm of clitoris,1
+174518012,Malignant neoplasm of cloacogenic zone,1
+155193017,Malignant neoplasm of coccygeal body,1
+288929017,Malignant neoplasm of coccygeal vertebra,1
+726331000006111,Malignant neoplasm of colon,1
+403682011,Malignant neoplasm of colon NOS,1
+726351000006116,Malignant neoplasm of commissure of lip,1
+726361000006119,Malignant neoplasm of common bile duct,1
+726371000006114,Malignant neoplasm of conjunctiva,1
+288960017,Malignant neoplasm of connective and other soft tissue,1
+288991011,Malignant neoplasm of connective and soft tissue of abdomen,1
+288986010,Malignant neoplasm of connective and soft tissue of axilla,1
+288999013,Malignant neoplasm of connective and soft tissue of buttock,1
+288971016,Malignant neoplasm of connective and soft tissue of finger,1
+288979019,Malignant neoplasm of connective and soft tissue of foot,1
+288969016,Malignant neoplasm of connective and soft tissue of fore-arm,1
+288970015,Malignant neoplasm of connective and soft tissue of hand,1
+288975013,Malignant neoplasm of connective and soft tissue of hip,1
+288995019,Malignant neoplasm of connective and soft tissue of pelvis,1
+289001014,Malignant neoplasm of connective and soft tissue of perineum,1
+288967019,Malignant neoplasm of connective and soft tissue of shoulder,1
+288985014,Malignant neoplasm of connective and soft tissue of thorax,1
+288972011,Malignant neoplasm of connective and soft tissue of thumb,1
+288980016,Malignant neoplasm of connective and soft tissue of toe,1
+289007013,"Malignant neoplasm of connective and soft tissue, site NOS",1
+288968012,"Malignant neoplasm of connective and soft tissue, upper arm",1
+289317013,Malignant neoplasm of connective tissue of orbit,1
+726561000006114,Malignant neoplasm of cornea,1
+289188015,Malignant neoplasm of cornu of corpus uteri,1
+289361017,Malignant neoplasm of corpus callosum,1
+289339010,Malignant neoplasm of corpus striatum,1
+289192010,Malignant neoplasm of corpus uteri NOS,1
+289187013,"Malignant neoplasm of corpus uteri, excluding isthmus",1
+288894019,Malignant neoplasm of costal cartilage,1
+726631000006118,Malignant neoplasm of costo-vertebral joint,1
+726641000006111,Malignant neoplasm of cranial nerves,1
+289374011,Malignant neoplasm of cranial nerves NOS,1
+289409016,Malignant neoplasm of craniopharyngeal duct,1
+288800018,Malignant neoplasm of cricoid cartilage,1
+289314018,Malignant neoplasm of crystalline lens,1
+155206014,Malignant neoplasm of cuboid,1
+288801019,Malignant neoplasm of cuneiform cartilage,1
+155207017,Malignant neoplasm of cystic duct,1
+174562015,Malignant neoplasm of descended testis,1
+473991000000119,Malignant neoplasm of descended testis NOS,1
+725951000006112,Malignant neoplasm of descending colon,1
+155209019,Malignant neoplasm of diaphragm,1
+403673017,Malignant neoplasm of digestive organs and peritoneum,1
+288766019,Malignant neoplasm of digestive tract and peritoneum NOS,1
+289267015,Malignant neoplasm of dome of urinary bladder,1
+155211011,Malignant neoplasm of dorsal surface of tongue,1
+288418013,Malignant neoplasm of dorsum of tongue NOS,1
+726021000006110,Malignant neoplasm of duodenum,1
+288734012,Malignant neoplasm of ectopic pancreatic tissue,1
+289149017,Malignant neoplasm of ectopic site of female breast,1
+289158012,Malignant neoplasm of ectopic site of male breast,1
+289224011,Malignant neoplasm of ectopic testis,1
+726071000006111,Malignant neoplasm of endocardium,1
+289171010,Malignant neoplasm of endocervical canal,1
+289172015,Malignant neoplasm of endocervical gland,1
+155218017,Malignant neoplasm of endocervix,1
+289173013,Malignant neoplasm of endocervix NOS,1
+980021000006113,Malignant neoplasm of endometrium,1
+289190019,Malignant neoplasm of endometrium of corpus uteri,1
+155222010,Malignant neoplasm of epicardium,1
+726141000006116,Malignant neoplasm of epididymis,1
+451428019,Malignant neoplasm of epiglottis NOS,1
+288507011,"Malignant neoplasm of epiglottis, free border",1
+155228014,Malignant neoplasm of ethmoid bone,1
+1228553019,Malignant neoplasm of ethmoid sinus,1
+155231010,Malignant neoplasm of exocervix,1
+726201000006111,Malignant neoplasm of extrahepatic bile ducts,1
+288712010,Malignant neoplasm of extrahepatic bile ducts NOS,1
+289318015,Malignant neoplasm of extraocular muscle of orbit,1
+1208876015,Malignant neoplasm of eye,1
+289330014,Malignant neoplasm of eye NOS,1
+289316016,Malignant neoplasm of eyeball NOS,1
+726261000006112,Malignant neoplasm of eyelid including canthus,1
+726271000006117,Malignant neoplasm of fallopian tube,1
+288485015,Malignant neoplasm of faucial pillar,1
+1228530015,Malignant neoplasm of faucial tonsil,1
+1210642019,Malignant neoplasm of female breast,1
+289151018,Malignant neoplasm of female breast NOS,1
+289219013,Malignant neoplasm of female genital organ NOS,1
+155246015,Malignant neoplasm of femur,1
+155247012,Malignant neoplasm of fibula,1
+288921019,Malignant neoplasm of fifth metacarpal bone,1
+288951013,Malignant neoplasm of fifth metatarsal bone,1
+288917014,Malignant neoplasm of first metacarpal bone,1
+288947011,Malignant neoplasm of first metatarsal bone,1
+288412014,Malignant neoplasm of fixed part of tongue NOS,1
+289451011,Malignant neoplasm of flank NOS,1
+289353010,Malignant neoplasm of floor of cerebral ventricle,1
+725611000006117,Malignant neoplasm of floor of mouth,1
+288449015,Malignant neoplasm of floor of mouth NOS,1
+288554010,Malignant neoplasm of floor of nasopharynx,1
+288920018,Malignant neoplasm of fourth metacarpal bone,1
+288950014,Malignant neoplasm of fourth metatarsal bone,1
+288427014,Malignant neoplasm of frenulum linguae,1
+155259011,Malignant neoplasm of frontal bone,1
+482730011,Malignant neoplasm of frontal lobe,1
+719021000006111,Malignant neoplasm of frontal sinus,1
+289189011,Malignant neoplasm of fundus of corpus uteri,1
+288644018,Malignant neoplasm of fundus of stomach,1
+725711000006113,Malignant neoplasm of gallbladder,1
+288631011,Malignant neoplasm of gastro-oesophageal junction,1
+406263015,Malignant neoplasm of genitourinary organ,1
+289301019,Malignant neoplasm of genitourinary organ NOS,1
+725761000006111,Malignant neoplasm of genitourinary organ OS,1
+725771000006116,Malignant neoplasm of glans penis,1
+289341011,Malignant neoplasm of globus pallidus,1
+155269017,Malignant neoplasm of glomus jugulare,1
+288508018,Malignant neoplasm of glossoepiglottic fold,1
+725811000006116,Malignant neoplasm of glossopalatine fold,1
+288794010,Malignant neoplasm of glottis,1
+155272012,Malignant neoplasm of great vessels,1
+288650011,Malignant neoplasm of greater curve of stomach unspecified,1
+289209019,Malignant neoplasm of greater vestibular (Bartholin's) gland,1
+725861000006118,Malignant neoplasm of gum,1
+288440016,Malignant neoplasm of gum NOS,1
+403697014,Malignant neoplasm of hand bones,1
+288923016,Malignant neoplasm of hand bones NOS,1
+725101000006111,Malignant neoplasm of hard palate,1
+289425014,Malignant neoplasm of head NOS,1
+725121000006118,Malignant neoplasm of head of pancreas,1
+289424013,"Malignant neoplasm of head, neck and face",1
+289431012,"Malignant neoplasm of head, neck and face NOS",1
+725151000006110,Malignant neoplasm of heart,1
+288847010,Malignant neoplasm of heart NOS,1
+288852017,"Malignant neoplasm of heart, thymus and mediastinum NOS",1
+288707014,Malignant neoplasm of hepatic duct,1
+725191000006116,Malignant neoplasm of hepatic flexure of colon,1
+155287019,Malignant neoplasm of hilus of lung,1
+289347010,Malignant neoplasm of hippocampus,1
+725221000006111,Malignant neoplasm of histiocytic tissue,1
+288901015,Malignant neoplasm of humerus,1
+725241000006116,Malignant neoplasm of hypopharynx,1
+288571011,Malignant neoplasm of hypopharynx NOS,1
+289343014,Malignant neoplasm of hypothalamus,1
+725271000006112,Malignant neoplasm of ileum,1
+155294016,Malignant neoplasm of ilium,1
+289442015,Malignant neoplasm of inguinal region NOS,1
+288694017,Malignant neoplasm of interlobular bile ducts,1
+2475562018,Malignant neoplasm of interlobular biliary canals,1
+288943010,Malignant neoplasm of intermediate cuneiform,1
+288759015,"Malignant neoplasm of intestinal tract, part unspecified",1
+155305011,Malignant neoplasm of intrahepatic bile ducts,1
+288699010,Malignant neoplasm of intrahepatic bile ducts NOS,1
+2619456011,Malignant neoplasm of intrahepatic biliary passages,1
+288697012,Malignant neoplasm of intrahepatic canaliculi,1
+288698019,Malignant neoplasm of intrahepatic gall duct,1
+289437011,Malignant neoplasm of intrathoracic site NOS,1
+289311014,Malignant neoplasm of iris,1
+155308013,Malignant neoplasm of ischium,1
+289193017,Malignant neoplasm of isthmus of uterine body,1
+289195012,Malignant neoplasm of isthmus of uterine body NOS,1
+289428011,Malignant neoplasm of jaw NOS,1
+725451000006118,Malignant neoplasm of jejunum,1
+288470014,Malignant neoplasm of junction of hard and soft palate,1
+288510016,Malignant neoplasm of junctional region of epiglottis,1
+289299014,Malignant neoplasm of kidney or urinary organs NOS,1
+289285010,Malignant neoplasm of kidney parenchyma,1
+482690017,Malignant neoplasm of labia majora,1
+289210012,Malignant neoplasm of labia majora NOS,1
+482691018,Malignant neoplasm of labia minora,1
+724721000006116,Malignant neoplasm of lacrimal duct,1
+289327019,Malignant neoplasm of lacrimal duct NOS,1
+289322013,Malignant neoplasm of lacrimal gland,1
+289325010,Malignant neoplasm of lacrimal sac,1
+724761000006110,Malignant neoplasm of laryngeal cartilage,1
+288803016,Malignant neoplasm of laryngeal cartilage NOS,1
+724781000006117,Malignant neoplasm of laryngopharynx,1
+724791000006119,Malignant neoplasm of larynx,1
+288807015,Malignant neoplasm of larynx NOS,1
+288806012,"Malignant neoplasm of larynx, other specified site",1
+288944016,Malignant neoplasm of lateral cuneiform,1
+288444013,Malignant neoplasm of lateral portion of floor of mouth,1
+724841000006116,Malignant neoplasm of lateral wall of nasopharynx,1
+288550018,Malignant neoplasm of lateral wall of nasopharynx NOS,1
+155332018,Malignant neoplasm of lateral wall of oropharynx,1
+289270016,Malignant neoplasm of lateral wall of urinary bladder,1
+288649011,Malignant neoplasm of lesser curve of stomach unspecified,1
+724881000006110,Malignant neoplasm of lingual tonsil,1
+724891000006113,Malignant neoplasm of lip,1
+724901000006112,"Malignant neoplasm of lip unspecified, buccal aspect",1
+288390016,"Malignant neoplasm of lip unspecified, frenulum",1
+288388017,"Malignant neoplasm of lip unspecified, inner aspect",1
+288391017,"Malignant neoplasm of lip unspecified, mucosa",1
+288403012,"Malignant neoplasm of lip, inner aspect NOS",1
+288393019,"Malignant neoplasm of lip, oral aspect",1
+406052010,"Malignant neoplasm of lip, oral cavity and pharynx",1
+288582015,"Malignant neoplasm of lip, oral cavity and pharynx NOS",1
+453301018,"Malignant neoplasm of lip, unspecified",1
+288408015,"Malignant neoplasm of lip, unspecified, external",1
+288409011,"Malignant neoplasm of lip, unspecified, lipstick area",1
+288410018,"Malignant neoplasm of lip, vermilion border NOS",1
+288688013,Malignant neoplasm of liver and intrahepatic bile ducts,1
+288702015,Malignant neoplasm of liver and intrahepatic bile ducts NOS,1
+288700011,Malignant neoplasm of liver unspecified,1
+288931014,Malignant neoplasm of long bones of leg,1
+288935017,Malignant neoplasm of long bones of leg NOS,1
+288459019,Malignant neoplasm of lower buccal sulcus,1
+457111019,Malignant neoplasm of lower eyelid,1
+724311000006111,Malignant neoplasm of lower gum,1
+288465019,Malignant neoplasm of lower labial sulcus,1
+289447014,Malignant neoplasm of lower limb NOS,1
+288380012,"Malignant neoplasm of lower lip, buccal aspect",1
+288354011,"Malignant neoplasm of lower lip, external",1
+288382016,"Malignant neoplasm of lower lip, frenulum",1
+406399011,"Malignant neoplasm of lower lip, inner aspect",1
+288387010,"Malignant neoplasm of lower lip, inner aspect NOS",1
+1228506017,"Malignant neoplasm of lower lip, lipstick area",1
+724401000006116,"Malignant neoplasm of lower lip, mucosa",1
+724411000006118,"Malignant neoplasm of lower lip, oral aspect",1
+724421000006114,"Malignant neoplasm of lower lip, vermilion border",1
+288355012,"Malignant neoplasm of lower lip, vermilion border NOS",1
+288827019,Malignant neoplasm of lower lobe bronchus,1
+288828012,Malignant neoplasm of lower lobe of lung,1
+288826011,"Malignant neoplasm of lower lobe, bronchus or lung",1
+288829016,"Malignant neoplasm of lower lobe, bronchus or lung NOS",1
+288608011,Malignant neoplasm of lower third of oesophagus,1
+289194011,Malignant neoplasm of lower uterine segment,1
+289143016,Malignant neoplasm of lower-inner quadrant of female breast,1
+289145011,Malignant neoplasm of lower-outer quadrant of female breast,1
+288887017,Malignant neoplasm of lumbar vertebra,1
+403705015,Malignant neoplasm of lymphatic and haemopoietic tissue,1
+155361017,Malignant neoplasm of main bronchus,1
+288815017,Malignant neoplasm of main bronchus NOS,1
+288438014,Malignant neoplasm of major salivary gland NOS,1
+1228510019,Malignant neoplasm of major salivary glands,1
+288872010,Malignant neoplasm of malar bone,1
+155364013,Malignant neoplasm of male breast,1
+289159016,Malignant neoplasm of male breast NOS,1
+155368011,Malignant neoplasm of mandible,1
+724621000006112,Malignant neoplasm of mastoid air cells,1
+155370019,Malignant neoplasm of maxilla,1
+724641000006117,Malignant neoplasm of maxillary sinus,1
+288942017,Malignant neoplasm of medial cuneiform,1
+724671000006113,"Malignant neoplasm of mediastinum, part unspecified",1
+289356019,Malignant neoplasm of medulla oblongata,1
+724681000006111,"Malignant neoplasm of meninges, unspecified",1
+482537012,Malignant neoplasm of mesentery,1
+288749016,Malignant neoplasm of mesocaecum,1
+288748012,Malignant neoplasm of mesocolon,1
+288751017,Malignant neoplasm of mesorectum,1
+380146015,Malignant neoplasm of metacarpal bones,1
+723951000006113,Malignant neoplasm of metatarsal bones of foot,1
+289357011,Malignant neoplasm of midbrain,1
+288823015,Malignant neoplasm of middle lobe bronchus,1
+288824014,Malignant neoplasm of middle lobe of lung,1
+288822013,"Malignant neoplasm of middle lobe, bronchus or lung",1
+288825010,"Malignant neoplasm of middle lobe, bronchus or lung NOS",1
+288607018,Malignant neoplasm of middle third of oesophagus,1
+288417015,Malignant neoplasm of midline of tongue,1
+288474017,Malignant neoplasm of mouth NOS,1
+288810010,Malignant neoplasm of mucosa of trachea,1
+724051000006110,Malignant neoplasm of myocardium,1
+289191015,Malignant neoplasm of myometrium of corpus uteri,1
+155402013,Malignant neoplasm of nasal bone,1
+1228552012,Malignant neoplasm of nasal cavities,1
+288776016,Malignant neoplasm of nasal cavities NOS,1
+288772019,Malignant neoplasm of nasal conchae,1
+289326011,Malignant neoplasm of nasolacrimal duct,1
+288556012,Malignant neoplasm of nasopharyngeal soft palate surface,1
+288522018,Malignant neoplasm of nasopharynx,1
+288564018,Malignant neoplasm of nasopharynx NOS,1
+288946019,Malignant neoplasm of navicular,1
+289429015,Malignant neoplasm of neck NOS,1
+289397014,Malignant neoplasm of nervous system NOS,1
+289137018,Malignant neoplasm of nipple and areola of female breast,1
+289153015,Malignant neoplasm of nipple and areola of male breast,1
+155417012,Malignant neoplasm of nipple of female breast,1
+155418019,Malignant neoplasm of nipple of male breast,1
+289140018,Malignant neoplasm of nipple or areola of female breast NOS,1
+289156011,Malignant neoplasm of nipple or areola of male breast NOS,1
+289427018,Malignant neoplasm of nose NOS,1
+155421017,Malignant neoplasm of occipital bone,1
+482733013,Malignant neoplasm of occipital lobe,1
+1216488012,Malignant neoplasm of oesophagus,1
+403674011,Malignant neoplasm of oesophagus NOS,1
+289369015,Malignant neoplasm of olfactory bulb,1
+482641017,Malignant neoplasm of omentum,1
+288548014,Malignant neoplasm of opening of auditory tube,1
+155425014,Malignant neoplasm of optic nerve,1
+723541000006115,Malignant neoplasm of orbit,1
+289319011,Malignant neoplasm of orbit NOS,1
+288875012,Malignant neoplasm of orbital bone,1
+723571000006111,Malignant neoplasm of oropharynx,1
+288518011,Malignant neoplasm of oropharynx NOS,1
+288516010,"Malignant neoplasm of oropharynx, other specified sites",1
+723601000006116,Malignant neoplasm of other and ill defined site NOS,1
+289423019,Malignant neoplasm of other and ill-defined sites,1
+288450015,Malignant neoplasm of other and unspecified parts of mouth,1
+289574012,Malignant neoplasm of other and unspecified site NOS,1
+723641000006119,Malignant neoplasm of other and unspecified site OS,1
+406265010,Malignant neoplasm of other and unspecified sites,1
+288437016,Malignant neoplasm of other major salivary glands,1
+289251014,Malignant neoplasm of other male genital organ,1
+289259011,Malignant neoplasm of other male genital organ NOS,1
+289364013,Malignant neoplasm of other part of brain NOS,1
+289360016,Malignant neoplasm of other parts of brain,1
+289178016,Malignant neoplasm of other site of cervix,1
+289181014,Malignant neoplasm of other site of cervix NOS,1
+289148013,Malignant neoplasm of other site of female breast,1
+289150017,Malignant neoplasm of other site of female breast NOS,1
+289157019,Malignant neoplasm of other site of male breast,1
+288857011,Malignant neoplasm of other site of respiratory tract,1
+289279015,Malignant neoplasm of other site of urinary bladder,1
+289203018,Malignant neoplasm of other site of uterine adnexa,1
+289197016,Malignant neoplasm of other site of uterine body,1
+723801000006115,"Malignant neoplasm of other sites lip, oral cavity, pharynx",1
+288832018,Malignant neoplasm of other sites of bronchus or lung,1
+288448011,Malignant neoplasm of other sites of floor of mouth,1
+288439018,Malignant neoplasm of other sites of gum,1
+288406016,Malignant neoplasm of other sites of lip,1
+288434011,Malignant neoplasm of other sites of tongue,1
+289421017,Malignant neoplasm of other specified endocrine gland,1
+289217010,Malignant neoplasm of other specified female genital organ,1
+288570012,Malignant neoplasm of other specified hypopharyngeal site,1
+288473011,Malignant neoplasm of other specified mouth parts,1
+289396017,Malignant neoplasm of other specified part of nervous system,1
+288614016,Malignant neoplasm of other specified part of oesophagus,1
+288839010,Malignant neoplasm of other specified pleura,1
+289329016,Malignant neoplasm of other specified site of eye,1
+288563012,Malignant neoplasm of other specified site of nasopharynx,1
+288517018,Malignant neoplasm of other specified site of oropharynx NOS,1
+288652015,Malignant neoplasm of other specified site of stomach,1
+288655018,Malignant neoplasm of other specified site of stomach NOS,1
+723221000006112,Malignant neoplasm of other specified site small intestine,1
+289448016,Malignant neoplasm of other specified sites,1
+288671018,Malignant neoplasm of other specified sites of colon,1
+288731016,Malignant neoplasm of other specified sites of pancreas,1
+289131017,Malignant neoplasm of other specified skin sites,1
+289297011,Malignant neoplasm of other urinary organs,1
+723281000006111,Malignant neoplasm of ovary,1
+289199018,Malignant neoplasm of ovary and other uterine adnexa,1
+723301000006110,Malignant neoplasm of overlapping lesion of bronchus & lung,1
+289196013,Malignant neoplasm of overlapping lesion of corpus uteri,1
+288404018,Malignant neoplasm of overlapping lesion of lip,1
+723321000006117,Malignant neoplasm of overlapping lesion of tonsil,1
+289298018,Malignant neoplasm of overlapping lesion of urinary organs,1
+723341000006112,Malignant neoplasm of overlapping lesion of vulva,1
+288471013,Malignant neoplasm of palate NOS,1
+288469013,Malignant neoplasm of palate unspecified,1
+1228529013,Malignant neoplasm of palatine tonsil,1
+2475984012,Malignant neoplasm of palatoglossal arch,1
+723391000006115,Malignant neoplasm of palatopharyngeal arch,1
+723401000006118,Malignant neoplasm of pancreas,1
+288736014,Malignant neoplasm of pancreas NOS,1
+288723014,Malignant neoplasm of pancreatic duct,1
+155441010,Malignant neoplasm of parametrium,1
+723441000006116,Malignant neoplasm of parathyroid gland,1
+723451000006119,Malignant neoplasm of paraurethral glands,1
+155444019,Malignant neoplasm of parietal bone,1
+482732015,Malignant neoplasm of parietal lobe,1
+155446017,Malignant neoplasm of parietal peritoneum,1
+155447014,Malignant neoplasm of parietal pleura,1
+723501000006117,Malignant neoplasm of parotid gland,1
+155449012,Malignant neoplasm of patella,1
+288924010,"Malignant neoplasm of pelvic bones, sacrum and coccyx",1
+155452016,Malignant neoplasm of pelvic peritoneum,1
+722761000006119,Malignant neoplasm of pelvis,1
+289445018,Malignant neoplasm of pelvis NOS,1
+288930010,"Malignant neoplasm of pelvis, sacrum or coccyx NOS",1
+289260018,Malignant neoplasm of penis and other male genital organ NOS,1
+289242018,Malignant neoplasm of penis and other male genital organs,1
+289249010,"Malignant neoplasm of penis, part unspecified",1
+155457010,Malignant neoplasm of periadrenal tissue,1
+155458017,Malignant neoplasm of perianal skin,1
+155459013,Malignant neoplasm of pericardium,1
+288741018,Malignant neoplasm of perinephric tissue,1
+289389019,Malignant neoplasm of peripheral nerve of abdomen,1
+722871000006117,"Malignant neoplasm of peripheral nerve of low limb, incl hip",1
+289390011,Malignant neoplasm of peripheral nerve of pelvis,1
+289388010,Malignant neoplasm of peripheral nerve of thorax,1
+722901000006117,"Malignant neoplasm of peripheral nerve,upp limb,incl should",1
+722911000006119,"Malignant neoplasm of peripheral nerves of head, face & neck",1
+288952018,Malignant neoplasm of phalanges of foot,1
+288922014,Malignant neoplasm of phalanges of hand,1
+288546013,Malignant neoplasm of pharyngeal recess,1
+288532013,Malignant neoplasm of pharyngeal tonsil,1
+288573014,Malignant neoplasm of pharynx unspecified,1
+722961000006116,Malignant neoplasm of pineal gland,1
+455404011,Malignant neoplasm of pinna NEC,1
+722981000006114,Malignant neoplasm of pituitary gland,1
+155468010,Malignant neoplasm of placenta,1
+723001000006113,Malignant neoplasm of pleura,1
+288840012,Malignant neoplasm of pleura NOS,1
+289358018,Malignant neoplasm of pons,1
+723031000006117,Malignant neoplasm of postcricoid region,1
+155473016,Malignant neoplasm of posterior mediastinum,1
+288568015,Malignant neoplasm of posterior pharynx,1
+1228509012,Malignant neoplasm of posterior third of tongue,1
+288529010,Malignant neoplasm of posterior wall of nasopharynx,1
+288541015,Malignant neoplasm of posterior wall of nasopharynx NOS,1
+288515014,Malignant neoplasm of posterior wall of oropharynx,1
+288654019,Malignant neoplasm of posterior wall of stomach NEC,1
+289272012,Malignant neoplasm of posterior wall of urinary bladder,1
+1228575017,Malignant neoplasm of prepuce (foreskin),1
+722341000006119,Malignant neoplasm of prepylorus of stomach,1
+155477015,Malignant neoplasm of presacral region,1
+722361000006115,Malignant neoplasm of prostate,1
+155479017,Malignant neoplasm of pubis,1
+288641014,Malignant neoplasm of pyloric antrum of stomach,1
+288638017,Malignant neoplasm of pyloric canal of stomach,1
+288635019,Malignant neoplasm of pylorus of stomach,1
+288639013,Malignant neoplasm of pylorus of stomach NOS,1
+722421000006115,Malignant neoplasm of pyriform sinus,1
+155483017,Malignant neoplasm of radius,1
+722441000006110,Malignant neoplasm of rectosigmoid junction,1
+155488014,Malignant neoplasm of rectum,1
+288675010,"Malignant neoplasm of rectum, rectosigmoid junction and anus",1
+722471000006119,Malignant neoplasm of renal calyces,1
+722481000006116,Malignant neoplasm of renal pelvis,1
+289296019,Malignant neoplasm of renal pelvis NOS,1
+288858018,Malignant neoplasm of respiratory tract NOS,1
+722511000006112,Malignant neoplasm of retained testis,1
+722521000006116,Malignant neoplasm of retina,1
+288742013,Malignant neoplasm of retrocaecal tissue,1
+722541000006111,Malignant neoplasm of retromolar area,1
+1228549016,Malignant neoplasm of retroperitoneum,1
+288744014,Malignant neoplasm of retroperitoneum NOS,1
+288739019,Malignant neoplasm of retroperitoneum and peritoneum,1
+288757018,Malignant neoplasm of retroperitoneum and peritoneum NOS,1
+155495017,Malignant neoplasm of rib,1
+288897014,"Malignant neoplasm of rib, sternum and clavicle NOS",1
+288889019,"Malignant neoplasm of ribs, sternum and clavicle",1
+1228523014,Malignant neoplasm of roof of mouth,1
+1228532011,Malignant neoplasm of roof of nasopharynx,1
+289202011,Malignant neoplasm of round ligament,1
+288928013,Malignant neoplasm of sacral vertebra,1
+155501015,Malignant neoplasm of sacrococcygeal region,1
+289092013,Malignant neoplasm of scalp,1
+289091018,Malignant neoplasm of scalp and skin of neck,1
+289094014,Malignant neoplasm of scalp or skin of neck NOS,1
+155503017,Malignant neoplasm of scapula,1
+288898016,Malignant neoplasm of scapula and long bones of upper arm,1
+289315017,Malignant neoplasm of sclera,1
+723111000006110,Malignant neoplasm of scrotum,1
+289066018,Malignant neoplasm of sebaceous gland,1
+288918016,Malignant neoplasm of second metacarpal bone,1
+288948018,Malignant neoplasm of second metatarsal bone,1
+289252019,Malignant neoplasm of seminal vesicle,1
+721961000006111,Malignant neoplasm of septum of nose,1
+403698016,Malignant neoplasm of short bones of leg,1
+288953011,Malignant neoplasm of short bones of leg NOS,1
+721991000006115,Malignant neoplasm of sigmoid colon,1
+1806421000006110,Malignant neoplasm of skin,1
+289132012,Malignant neoplasm of skin NOS,1
+289099016,Malignant neoplasm of skin of abdominal wall,1
+155517014,Malignant neoplasm of skin of ankle,1
+289079010,Malignant neoplasm of skin of auricle (ear),1
+289096011,Malignant neoplasm of skin of axillary fold,1
+155520018,Malignant neoplasm of skin of back,1
+155521019,Malignant neoplasm of skin of breast,1
+155522014,Malignant neoplasm of skin of buttock,1
+289084016,"Malignant neoplasm of skin of cheek, external",1
+289097019,"Malignant neoplasm of skin of chest, excluding breast",1
+155525011,Malignant neoplasm of skin of chin,1
+289080013,Malignant neoplasm of skin of external auditory meatus,1
+155529017,Malignant neoplasm of skin of eyebrow,1
+155533012,Malignant neoplasm of skin of finger,1
+155534018,Malignant neoplasm of skin of foot,1
+289111016,Malignant neoplasm of skin of fore-arm,1
+155536016,Malignant neoplasm of skin of forehead,1
+289127011,Malignant neoplasm of skin of great toe,1
+155537013,Malignant neoplasm of skin of groin,1
+155538015,Malignant neoplasm of skin of hand,1
+289124016,Malignant neoplasm of skin of heel,1
+155539011,Malignant neoplasm of skin of hip,1
+155540013,Malignant neoplasm of skin of knee,1
+155542017,Malignant neoplasm of skin of lip,1
+289122017,Malignant neoplasm of skin of lower leg,1
+289116014,Malignant neoplasm of skin of lower limb and hip,1
+289128018,Malignant neoplasm of skin of lower limb or hip NOS,1
+155545015,Malignant neoplasm of skin of neck,1
+289088018,Malignant neoplasm of skin of nose (external),1
+155547011,Malignant neoplasm of skin of perineum,1
+289121012,Malignant neoplasm of skin of popliteal fossa area,1
+455405012,Malignant neoplasm of skin of scapular region,1
+155550014,Malignant neoplasm of skin of shoulder,1
+289089014,Malignant neoplasm of skin of temple,1
+155552018,Malignant neoplasm of skin of thigh,1
+289114012,Malignant neoplasm of skin of thumb,1
+155553011,Malignant neoplasm of skin of toe,1
+289095010,"Malignant neoplasm of skin of trunk, excluding scrotum",1
+289107010,"Malignant neoplasm of skin of trunk, excluding scrotum, NOS",1
+155556015,Malignant neoplasm of skin of umbilicus,1
+289110015,Malignant neoplasm of skin of upper arm,1
+289108017,Malignant neoplasm of skin of upper limb and shoulder,1
+289115013,Malignant neoplasm of skin of upper limb or shoulder NOS,1
+288663017,Malignant neoplasm of small intestine NOS,1
+721601000006117,Malignant neoplasm of small intestine and duodenum,1
+721621000006110,Malignant neoplasm of soft palate,1
+1228566019,Malignant neoplasm of soft tissue of face,1
+1228565015,Malignant neoplasm of soft tissue of head,1
+1228567011,Malignant neoplasm of soft tissue of neck,1
+288747019,Malignant neoplasm of specified parts of peritoneum,1
+288756010,Malignant neoplasm of specified parts of peritoneum NOS,1
+289452016,Malignant neoplasm of specified site NOS,1
+288735013,Malignant neoplasm of specified site of pancreas NOS,1
+721701000006112,Malignant neoplasm of spermatic cord,1
+155582012,Malignant neoplasm of sphenoid bone,1
+721721000006119,Malignant neoplasm of sphenoidal sinus,1
+288711015,Malignant neoplasm of sphincter of Oddi,1
+289381016,Malignant neoplasm of spinal arachnoid mater,1
+721751000006111,Malignant neoplasm of spinal cord,1
+289380015,Malignant neoplasm of spinal dura mater,1
+482740014,Malignant neoplasm of spinal meninges,1
+289383018,Malignant neoplasm of spinal meninges NOS,1
+289382011,Malignant neoplasm of spinal pia mater,1
+288760013,Malignant neoplasm of spleen NEC,1
+288763010,Malignant neoplasm of spleen NOS,1
+721821000006114,Malignant neoplasm of splenic flexure of colon,1
+289180010,Malignant neoplasm of squamocolumnar junction of cervix,1
+155592016,Malignant neoplasm of sternum,1
+721851000006117,Malignant neoplasm of stomach,1
+288656017,Malignant neoplasm of stomach NOS,1
+721871000006110,Malignant neoplasm of subglottis,1
+721881000006113,Malignant neoplasm of sublingual gland,1
+1228513017,Malignant neoplasm of submandibular gland,1
+289430013,Malignant neoplasm of supraclavicular fossa NOS,1
+288797015,Malignant neoplasm of supraglottis,1
+721091000006119,Malignant neoplasm of sweat gland,1
+288720012,Malignant neoplasm of tail of pancreas,1
+155604019,Malignant neoplasm of talus,1
+289362012,Malignant neoplasm of tapetum,1
+288963015,Malignant neoplasm of tarsus of eyelid,1
+155607014,Malignant neoplasm of temporal bone,1
+482731010,Malignant neoplasm of temporal lobe,1
+289349013,Malignant neoplasm of temporal lobe NOS,1
+721171000006119,Malignant neoplasm of testis,1
+403702017,Malignant neoplasm of testis NOS,1
+289345019,Malignant neoplasm of thalamus,1
+288754013,Malignant neoplasm of the pouch of Douglas,1
+288919012,Malignant neoplasm of third metacarpal bone,1
+288949014,Malignant neoplasm of third metatarsal bone,1
+288594012,Malignant neoplasm of thoracic oesophagus,1
+288886014,Malignant neoplasm of thoracic vertebra,1
+289432017,Malignant neoplasm of thorax,1
+289438018,Malignant neoplasm of thorax NOS,1
+721271000006114,Malignant neoplasm of thymus,1
+288841011,"Malignant neoplasm of thymus, heart and mediastinum",1
+288802014,Malignant neoplasm of thyroid cartilage,1
+721291000006110,Malignant neoplasm of thyroid gland,1
+155624015,Malignant neoplasm of tibia,1
+721311000006114,Malignant neoplasm of tongue,1
+288435012,Malignant neoplasm of tongue NOS,1
+288433017,"Malignant neoplasm of tongue, junctional zone",1
+288419017,"Malignant neoplasm of tongue, tip and lateral border",1
+721351000006110,Malignant neoplasm of tonsil,1
+721361000006112,Malignant neoplasm of tonsillar fossa,1
+288505015,Malignant neoplasm of tonsillar fossa NOS,1
+288486019,Malignant neoplasm of tonsillar pillar,1
+721391000006116,Malignant neoplasm of trachea,1
+288811014,Malignant neoplasm of trachea NOS,1
+288808013,"Malignant neoplasm of trachea, bronchus and lung",1
+721421000006112,Malignant neoplasm of transverse colon,1
+289262014,Malignant neoplasm of trigone of urinary bladder,1
+289450012,Malignant neoplasm of trunk NOS,1
+289257013,Malignant neoplasm of tunica vaginalis,1
+2475564017,Malignant neoplasm of turbinate,1
+288787012,Malignant neoplasm of tympanic antrum,1
+288784017,Malignant neoplasm of tympanic cavity,1
+155641018,Malignant neoplasm of ulna,1
+289348017,Malignant neoplasm of uncus,1
+289223017,Malignant neoplasm of undescended testis,1
+289234019,Malignant neoplasm of undescended testis NOS,1
+289561018,Malignant neoplasm of unspecified site,1
+289571016,Malignant neoplasm of unspecified site NOS,1
+288454012,Malignant neoplasm of upper buccal sulcus,1
+457110018,Malignant neoplasm of upper eyelid,1
+720761000006115,Malignant neoplasm of upper gum,1
+288460012,Malignant neoplasm of upper labial sulcus,1
+289446017,Malignant neoplasm of upper limb NOS,1
+720791000006111,"Malignant neoplasm of upper lip, buccal aspect",1
+720801000006112,"Malignant neoplasm of upper lip, external",1
+288372017,"Malignant neoplasm of upper lip, frenulum",1
+288363013,"Malignant neoplasm of upper lip, inner aspect",1
+288377011,"Malignant neoplasm of upper lip, inner aspect NOS",1
+288350019,"Malignant neoplasm of upper lip, lipstick area",1
+288364019,"Malignant neoplasm of upper lip, mucosa",1
+288362015,"Malignant neoplasm of upper lip, oral aspect",1
+1228504019,"Malignant neoplasm of upper lip, vermilion border",1
+288351015,"Malignant neoplasm of upper lip, vermilion border NOS",1
+288819011,Malignant neoplasm of upper lobe bronchus,1
+288820017,Malignant neoplasm of upper lobe of lung,1
+403688010,"Malignant neoplasm of upper lobe, bronchus or lung",1
+288821018,"Malignant neoplasm of upper lobe, bronchus or lung NOS",1
+288602012,Malignant neoplasm of upper third of oesophagus,1
+289142014,Malignant neoplasm of upper-inner quadrant of female breast,1
+289144010,Malignant neoplasm of upper-outer quadrant of female breast,1
+720951000006119,Malignant neoplasm of urachus,1
+720961000006117,Malignant neoplasm of ureter,1
+289276010,Malignant neoplasm of ureteric orifice,1
+289294016,Malignant neoplasm of ureteropelvic junction,1
+720991000006113,Malignant neoplasm of urethra,1
+1786811017,Malignant neoplasm of urinary bladder,1
+289281018,Malignant neoplasm of urinary bladder NOS,1
+289204012,Malignant neoplasm of uterine adnexa NOS,1
+289166015,"Malignant neoplasm of uterus, part unspecified",1
+721041000006111,Malignant neoplasm of uvula,1
+721051000006113,Malignant neoplasm of vagina,1
+289208010,Malignant neoplasm of vagina NOS,1
+289207017,Malignant neoplasm of vaginal vault,1
+721481000006111,Malignant neoplasm of vallecula,1
+155669014,Malignant neoplasm of ventral surface of tongue,1
+288429012,Malignant neoplasm of ventral tongue surface NOS,1
+288407013,Malignant neoplasm of vermilion border of lip unspecified,1
+720341000006115,Malignant neoplasm of vertebral column,1
+288888010,Malignant neoplasm of vertebral column NOS,1
+288453018,Malignant neoplasm of vestibule of mouth,1
+288468017,Malignant neoplasm of vestibule of mouth NOS,1
+288775017,Malignant neoplasm of vestibule of nose,1
+155675017,Malignant neoplasm of visceral pleura,1
+155677013,Malignant neoplasm of vomer,1
+403701012,Malignant neoplasm of vulva unspecified,1
+288896017,Malignant neoplasm of xiphoid process,1
+155681013,Malignant neoplasm of zygomatic bone,1
+720451000006113,Malignant neoplasm other gallbladder/extrahepatic bile duct,1
+720461000006110,Malignant neoplasm other spec digestive tract and peritoneum,1
+720471000006115,Malignant neoplasm overlapping lesion of skin,1
+720481000006117,Malignant neoplasm pituitary gland and craniopharyngeal duct,1
+720491000006119,Malignant neoplasm posterior margin nasal septum and choanae,1
+720501000006110,"Malignant neoplasm rectum,rectosigmoid junction and anus NOS",1
+720511000006113,Malignant neoplasm skin of ear and external auricular canal,1
+720521000006117,Malignant neoplasm skin of other and unspecified parts face,1
+720531000006119,Malignant neoplasm skin other and unspec part of face NOS,1
+288964014,Malignant neoplasm soft tissues of cervical spine,1
+288478019,Malignant neoplasm tonsil NOS,1
+720561000006111,"Malignant neoplasm, overlap les bone and artic cart of limbs",1
+720571000006116,"Malignant neoplasm, overlap lesion connective & soft tissue",1
+720581000006118,"Malignant neoplasm, overlap lesion of resp & intrathor orgs",1
+720591000006115,"Malignant neoplasm, overlapping lesion male genital orgs",1
+288790018,"Malignant neoplasm, overlapping lesion of accessory sinuses",1
+1219537012,"Malignant neoplasm, overlapping lesion of biliary tract",1
+289280017,"Malignant neoplasm, overlapping lesion of bladder",1
+720631000006115,"Malignant neoplasm, overlapping lesion of brain",1
+289147015,"Malignant neoplasm, overlapping lesion of breast",1
+289175018,"Malignant neoplasm, overlapping lesion of cervix uteri",1
+288670017,"Malignant neoplasm, overlapping lesion of colon",1
+288764016,"Malignant neoplasm, overlapping lesion of digestive system",1
+1217367011,"Malignant neoplasm, overlapping lesion of eye and adnexa",1
+1219533011,"Malignant neoplasm, overlapping lesion of floor of mouth",1
+1217360013,"Malignant neoplasm, overlapping lesion of hypopharynx",1
+1219468014,"Malignant neoplasm, overlapping lesion of larynx",1
+719931000006113,"Malignant neoplasm, overlapping lesion of major saliv gland",1
+1219467016,"Malignant neoplasm, overlapping lesion of nasopharynx",1
+1215862010,"Malignant neoplasm, overlapping lesion of oesophagus",1
+1219538019,"Malignant neoplasm, overlapping lesion of pancreas",1
+1219540012,"Malignant neoplasm, overlapping lesion of penis",1
+1219535016,"Malignant neoplasm, overlapping lesion of small intestine",1
+1219534017,"Malignant neoplasm, overlapping lesion of stomach",1
+720001000006119,"Malignant neoplasm,overlap lesion periph nerve & auton ns",1
+720011000006116,"Malignant neoplasm-pluriglandular involvement,unspecified",1
+720021000006112,"Malignant neoplasm/bones+articular cartilage/limb,unspfd",1
+720031000006110,Malignant neoplasm/overlap lesion/bone+articulr cartilage,1
+720041000006117,Malignant neoplasm/overlapping lesion/feml genital organs,1
+720051000006115,"Malignant neoplasm/peripheral nerves of trunk,unspecified",1
+881291000006118,Malignant neoplasms,1
+289566011,Malignant neoplasms of independent (primary) multiple sites,1
+289849019,Malignant neoplasms of lymphoid and histiocytic tissue NOS,1
+1219531013,Malignant overlapping lesion of tongue,1
+289867014,"Malignant plasma cell neoplasm, extramedullary plasmacytoma",1
+138104014,Malignant pleural effusion,1
+720161000006119,Malignant reticuloendotheliosis,1
+445587010,Malignant reticulosis,1
+2549374014,Malignant sacral teratoma,1
+380059013,Malignant tumour of unknown origin,1
+414253015,Maltoma,1
+123978016,Mantle cell lymphoma,1
+716861000006117,Mast cell disease,1
+716871000006112,Mast cell leukaemia,1
+289786012,Mast cell malignancy of intra-abdominal lymph nodes,1
+289789017,Mast cell malignancy of intrapelvic lymph nodes,1
+289785011,Mast cell malignancy of intrathoracic lymph nodes,1
+716911000006110,Mast cell malignancy of lymph nodes inguinal region and leg,1
+289787015,Mast cell malignancy of lymph nodes of axilla and upper limb,1
+289784010,"Mast cell malignancy of lymph nodes of head, face and neck",1
+289791013,Mast cell malignancy of lymph nodes of multiple sites,1
+289790014,Mast cell malignancy of spleen,1
+289783016,Mast cell malignancy of unspecified site,1
+203313019,Mastocytosis,1
+2872860018,Mature B-cell leukaemia Burkitt-type,1
+1815301000006117,Mature T/NK-cell lymphoma,1
+62349016,Meckel's diverticulum,1
+313874017,Meckel's diverticulum NOS,1
+313868017,"Meckel's diverticulum, unspecified",1
+2870725010,Mediastinal (thymic) large B-cell lymphoma,1
+289949018,Megakaryocytic leukaemia,1
+450988016,Megakaryocytic myelosclerosis,1
+698821000006119,Megakaryocytic myelosclerosis,1
+748701000000110,Megavoltage treatment for complex radiotherapy,1
+748681000000113,Megavoltage treatment for simple radiotherapy,1
+880161000006114,Melanoma - head/neck,1
+880191000006118,Melanoma - lower limb,1
+880171000006119,Melanoma - trunk,1
+880181000006116,Melanoma - upper limb,1
+459719019,Melanoma in situ of back,1
+459501013,Melanoma in situ of back of hand,1
+711081000006111,Melanoma in situ of ear and external auricular canal,1
+173823013,"Melanoma in situ of eyelid, including canthus",1
+173821010,Melanoma in situ of lip,1
+711111000006117,"Melanoma in situ of lower limb, including hip",1
+711121000006113,Melanoma in situ of other and unspecified parts of face,1
+173825018,Melanoma in situ of scalp,1
+290856018,Melanoma in situ of scalp and neck,1
+335843013,Melanoma in situ of skin,1
+173833017,Melanoma in situ of trunk,1
+711171000006114,"Melanoma in situ of upper limb, including shoulder",1
+711181000006112,"Melanoma in situ, unspecified",1
+880151000006112,Melanoma of skin,1
+990551000006111,Melanoma of skin NOS,1
+880201000006115,Melanoma of skin NOS,1
+103180017,Mesothelioma,1
+173941016,Mesothelioma of pericardium,1
+174532014,Mesothelioma of peritoneum,1
+705211000006111,Mesothelioma of pleura,1
+704711000006119,Metastases of respiratory and/or digestive systems,1
+881301000006117,Metastatic Carcinoma,1
+297901016,Metastatic disseminated retinitis,1
+424994016,Mild cervical dysplasia,1
+413204012,Mild vaginal dysplasia,1
+702131000006116,Mild vulvar dysplasia,1
+1815061000006118,Mixed cellularity classical Hodgkin lymphoma,1
+424998018,Moderate cervical dysplasia,1
+413207017,Moderate vaginal dysplasia,1
+700141000006113,Moderate vulvar dysplasia,1
+289919015,Monoblastic leukaemia,1
+289917018,Monocytic leukaemia,1
+880881000006113,Monocytic leukaemia - acute,1
+880891000006111,Monocytic leukaemia - chronic,1
+880901000006110,Monocytic leukaemia - subacute,1
+289933015,Monocytic leukaemia NOS,1
+414252013,Mucosa-associated lymphoma,1
+1815261000006114,Multifocal and unisystemic Langerhans-cell histiocytosis,1
+1815241000006110,Multifocal multisystemic dissem Langerhans-cell histiocytosi,1
+344820010,Multiple myeloma,1
+1653961000006118,Multiple self-healing epithelioma of Ferguson-Smith,1
+379246013,Multiple self-healing epithelioma of Ferguson-Smith,1
+297583014,Myasthenic syndrome due to disease EC,1
+297592012,Myasthenic syndrome due to disease NOS,1
+297584015,Myasthenic syndrome due to other malignancy,1
+2663191017,Mycosis fungoides,1
+289739013,Mycosis fungoides NOS,1
+157071014,Mycosis fungoides of intra-abdominal lymph nodes,1
+157072019,Mycosis fungoides of intrapelvic lymph nodes,1
+157073012,Mycosis fungoides of intrathoracic lymph nodes,1
+157075017,Mycosis fungoides of lymph nodes of axilla and upper limb,1
+683691000006113,Mycosis fungoides of lymph nodes of inguinal region and leg,1
+289738017,Mycosis fungoides of lymph nodes of multiple sites,1
+157081013,Mycosis fungoides of spleen,1
+683721000006115,"Mycosis fungoides of the lymph nodes of head, face and neck",1
+289727017,Mycosis fungoides of unspecified site,1
+1815691000006116,Myelodysplastic and myeloproliferative disease,1
+289892012,Myeloid leukaemia,1
+880851000006117,Myeloid leukaemia - acute,1
+880861000006115,Myeloid leukaemia - chronic,1
+880871000006110,Myeloid leukaemia - subacute,1
+289912012,Myeloid leukaemia NOS,1
+157091019,Myeloid sarcoma,1
+289905015,Myeloid sarcoma NOS,1
+683191000006119,Myeloma - solitary,1
+344819016,Myelomatosis,1
+289974015,Myelomonocytic leukaemia,1
+682691000006117,Myopathy due to malignant disease,1
+680761000006117,"Neo/uncertn+unknwn behav/lymph,h'matopetc+rel tiss,unspcf",1
+1779731000006118,Neoadjuvant chemotherapy,1
+2156761000000117,Neoadjuvant chemotherapy,1
+354341016,Nephrotic syndrome with pseudohermaphroditism,1
+677251000006118,Nettleship's syndrome,1
+144849016,Neuroblastoma,1
+2168431000000112,Nodular lymphocyte predominant Hodgkin lymphoma,1
+673611000006113,Nodular lymphoma (Brill - Symmers disease),1
+289726014,Nodular lymphoma NOS,1
+157686016,Nodular lymphoma of intra-abdominal lymph nodes,1
+157687013,Nodular lymphoma of intrapelvic lymph nodes,1
+157688015,Nodular lymphoma of intrathoracic lymph nodes,1
+289721016,Nodular lymphoma of lymph nodes of axilla and upper limb,1
+289718018,"Nodular lymphoma of lymph nodes of head, face and neck",1
+673681000006118,Nodular lymphoma of lymph nodes of inguinal region and leg,1
+157692010,Nodular lymphoma of lymph nodes of multiple sites,1
+157693017,Nodular lymphoma of spleen,1
+289717011,Nodular lymphoma of unspecified site,1
+1815051000006115,Nodular sclerosis classical Hodgkin lymphoma,1
+587201000006115,Non - Hodgkin's lymphoma,1
+853831000006113,Non hodgkin lymphoma,1
+2839871014,Non-Hodgkin lymphoma,1
+2168861000000117,Non-follicular lymphoma,1
+1773131000006117,Non-small cell lung cancer,1
+586281000006110,Non-urgent radiotherapy admisn,1
+1815451000006113,Nonfollicular lymphoma,1
+1216486011,Oesophageal cancer,1
+42511000033112,Oestrogens In Malignant Diseases,1
+867621000006111,Open bladder tumour fulgurat.,1
+867631000006114,Open bladder tumour resection,1
+397167015,Oral chemotherapy,1
+42541000006112,Oral cytotoxic drug therapy,1
+491111000000116,Oral delivery of radiotherapy for thyroid ablation,1
+892311000006114,Osteitis deformans - Paget's,1
+41171000006115,Osteitis deformans - Paget's disease of the bone,1
+312008014,Osteitis deformans in neoplastic disease,1
+40641000006114,Osteoma,1
+444834014,Osteoma,1
+2870704010,Osteomyelofibrosis,1
+312137011,Osteoporosis in multiple myelomatosis,1
+2164653019,Osteosarcoma,1
+39671000006114,Oth and unspecif peripheral & cutaneous T-cell lymphomas,1
+289955011,Other and unspecified leukaemia,1
+289959017,Other and unspecified leukaemia NOS,1
+1906641000006111,Other chemotherapy drugs,1
+1815091000006114,Other classical Hodgkin lymphoma,1
+289971011,Other leukaemia of unspecified cell type,1
+289881011,Other lymphoid leukaemia,1
+289888017,Other lymphoid leukaemia NOS,1
+289565010,Other malignant neoplasm NOS,1
+289713010,Other malignant neoplasm of lymphoid and histiocytic tissue,1
+403700013,Other malignant neoplasm of skin,1
+1815431000006118,Other mature T/NK-cell lymphoma,1
+289926015,Other monocytic leukaemia,1
+289930017,Other monocytic leukaemia NOS,1
+289907011,Other myeloid leukaemia,1
+289911017,Other myeloid leukaemia NOS,1
+1815491000006119,Other non-follicular lymphoma,1
+406048010,Other nuclear therapy,1
+262896017,Other nuclear therapy NOS,1
+226211000000111,Other pituitary/adrenal hormones,1
+880541000006116,Other primary Ca NOS,1
+880551000006119,Other primary carcinomas,1
+262895018,Other radiotherapy NOS,1
+262881016,Other radiotherapy misc.,1
+387871000000117,Other specified delivery of chemotherapy for neoplasm,1
+387891000000118,Other specified delivery of oral chemotherapy for neoplasm,1
+289934014,Other specified leukaemia,1
+289960010,Other specified leukaemia NOS,1
+1906671000006115,Other specified other chemotherapy drugs,1
+747941000000114,Other specified preparation for brachytherapy,1
+747851000000119,Other specified preparation for external beam radiotherapy,1
+385801000000117,Other specified radiotherapy delivery,1
+382021000000110,Other specified radiotherapy preparation,1
+373701000000118,Other specified radiotherapy procedures,1
+382081000000111,Other specified radiotherapy volume definition,1
+289613017,Other specified reticulosarcoma or lymphosarcoma,1
+749001000000117,Other specified support for preparation for radiotherapy,1
+1815231000006117,Other types of follicular lymphoma,1
+289813015,Other types of follicular non-Hodgkin's lymphoma,1
+247091000006118,Overlapping malign lesion of retroperitoneum and peritoneum,1
+173816012,Overlapping malignant melanoma of skin,1
+459732012,Pain from metastases,1
+414849013,Pancoast's syndrome,1
+1488429015,Paraneoplastic antibody level,1
+216227011,Pathological fracture due to metastatic bone disease,1
+472961000000117,Patient on regional cancer register,1
+2659756011,Peripheral T-cell lymphoma,1
+62350016,Persistent omphalomesenteric duct,1
+229731000006113,Persistent omphalomesenteric duct,1
+229901000006119,Persistent vitelline duct,1
+62351017,Persistent vitelline duct,1
+444773019,Phaeochromocytoma,1
+361611000000119,Plaque radiotherapy to lesion of retina,1
+201743012,Plasma cell leukaemia,1
+225051000006119,Plasmacytoma NOS,1
+451430017,Plasmacytoma NOS,1
+219181000006119,Pleural fluid: malignant cells,1
+1234144017,Polyneuropathy in malignant disease,1
+1488599013,Post-operartive chemotherapy,1
+1221143017,Post-radiotherapy hypopituitarism,1
+1488598017,Pre-operative chemotherapy,1
+747901000000111,Preparation for brachytherapy,1
+747921000000119,Preparation for brachytherapy NOS,1
+747711000000111,Preparation for external beam radiotherapy,1
+747871000000111,Preparation for external beam radiotherapy NOS,1
+342851019,Primary angiosarcoma of liver,1
+288690014,Primary carcinoma of liver,1
+1815421000006116,Primary cutaneous CD30-positive T-cell proliferations,1
+6363951000006117,Primary malignant neoplasm,1
+157732017,Primary malignant neoplasm of liver,1
+288692018,Primary malignant neoplasm of liver NOS,1
+1773111000006111,Primary malignant neoplasm of lung,1
+454091013,Primary malignant neoplasm of unknown site,1
+411399019,Primary vulval cancer,1
+1554871000006110,Procurement drugs for chemotherapy for neoplasm in bands 1-5,1
+42611000033113,Progestogens In Malignant Disease,1
+261695019,Progress of radiotherapy,1
+202801000006110,Prolymphocytic leukaemia,1
+2168671000000111,Prolymphocytic leukaemia of B-cell type,1
+2168661000000116,Prolymphocytic leukaemia of T-cell type,1
+925031000006110,Prophylactic chemotherapy,1
+401505010,Prophylactic chemotherapy,1
+264301012,Prophylactic chemotherapy NOS,1
+2453201000000117,Prostate cancer care review,1
+1842181000006111,Prostate cancer follow up - enhanced services administration,1
+1805901000006116,Prostatic intraepithelial neoplasia,1
+379770011,Prostatic intraepithelial neoplasia,1
+261679019,Purpose of radiotherapy,1
+223181000000115,Queyrats's erythroplasia,1
+189731000006115,Radiation therapy,1
+282394015,Radiation/phototherapy NOS,1
+190111000006116,Radio-chemotherapy NOS,1
+262819011,Radioactive drug therapy,1
+190521000006116,"Radiological proced/radiotherapy+complication, no blame, NOS",1
+190531000006118,"Radiological procedure with complication, without blame",1
+190541000006111,"Radiological procedures/radiotherapy + complication,no blame",1
+261675013,Radiological tumour control,1
+262871015,Radiomimetic chemotherapy,1
+1778767018,Radionuclide therapy,1
+2693115017,Radiotherapy,1
+1786803010,Radiotherapy - internal,1
+191091000006118,Radiotherapy - post-op.control,1
+191101000006112,Radiotherapy - pre-op. control,1
+191111000006110,Radiotherapy -intra-op.control,1
+191171000006118,Radiotherapy NEC,1
+261697010,Radiotherapy changed,1
+261699013,Radiotherapy completed,1
+372601000000117,Radiotherapy delivery,1
+381961000000110,Radiotherapy delivery NOS,1
+283785018,Radiotherapy follow-up,1
+261689015,Radiotherapy for analgesia,1
+261690012,Radiotherapy for inflammation,1
+372501000000116,Radiotherapy preparation,1
+382041000000115,Radiotherapy preparation NOS,1
+191181000006115,"Radiotherapy procedure with complication, without blame",1
+1231220012,Radiotherapy procedures,1
+373681000000115,Radiotherapy procedures NOS,1
+261700014,Radiotherapy progress NOS,1
+261694015,Radiotherapy purpose - NOS,1
+283855017,Radiotherapy self-referral,1
+261696018,Radiotherapy started,1
+261698017,Radiotherapy stopped,1
+266761014,Radiotherapy to lacrimal gland,1
+191251000006115,Radiotherapy to lesion of conjunctiva,1
+191261000006118,Radiotherapy to lesion of cornea,1
+266092016,Radiotherapy to lesion of peripheral nerve,1
+347303012,Radiotherapy to lesion of retina,1
+284199015,Radiotherapy treatment groups,1
+372521000000113,Radiotherapy volume definition,1
+382061000000119,Radiotherapy volume definition NOS,1
+191301000006110,Radiotherapy-tumour palliation,1
+379089019,Rectal carcinoma,1
+982801000006112,Recurrence of cancer confirmed,1
+283682011,Referred for radiotherapy,1
+1775301000006110,Referred to Cancer Service,1
+62821000000118,Referred to cancer primary healthcare multidisciplinary team,1
+354521013,Renal involvement in malignant disease,1
+177051000006111,Renal malignant neoplasm,1
+2614161000000116,Resistance to antineoplastic drug,1
+1211679013,Reticulosarcoma,1
+169581000006112,Reticulosarcoma - follicular or nodular,1
+289590012,Reticulosarcoma NOS,1
+157745018,Reticulosarcoma of intra-abdominal lymph nodes,1
+157746017,Reticulosarcoma of intrapelvic lymph nodes,1
+157747014,Reticulosarcoma of intrathoracic lymph nodes,1
+289585014,Reticulosarcoma of lymph nodes of axilla and upper limb,1
+289582012,"Reticulosarcoma of lymph nodes of head, face and neck",1
+169651000006115,Reticulosarcoma of lymph nodes of inguinal region and leg,1
+157751011,Reticulosarcoma of lymph nodes of multiple sites,1
+157752016,Reticulosarcoma of spleen,1
+289581017,Reticulosarcoma of unspecified site,1
+289614011,Reticulosarcoma or lymphosarcoma NOS,1
+853821000006110,Rodent ulcer,1
+379315011,Rodent ulcer,1
+380093012,Sarcoma of bone and connective tissue,1
+1815251000006112,Sarcoma of dendritic cells,1
+880691000006112,Secondary Ca - specified sites,1
+988741000006117,Secondary Ca GIT,1
+880661000006116,Secondary Ca GIT,1
+880751000006111,Secondary Ca NOS,1
+880731000006116,Secondary Ca bone/bone marrow,1
+880721000006119,Secondary Ca brain/spinal cord,1
+880701000006112,Secondary Ca kidney,1
+880681000006114,Secondary Ca liver,1
+880671000006111,Secondary Ca lung,1
+880741000006114,Secondary Ca ovary,1
+880711000006110,Secondary Ca skin,1
+157481000006111,Secondary and unspec malig neop ant mediastinal lymph nodes,1
+157491000006114,Secondary and unspec malig neop anterior cervical LN,1
+157501000006118,Secondary and unspec malig neop axilla and upper limb LN,1
+157511000006115,Secondary and unspec malig neop axilla and upper limb LN NOS,1
+157521000006111,Secondary and unspec malig neop axillary lymph nodes,1
+157531000006114,Secondary and unspec malig neop bronchopulmonary lymph nodes,1
+157541000006116,Secondary and unspec malig neop circumflex iliac LN,1
+157551000006119,Secondary and unspec malig neop coeliac lymph nodes,1
+157561000006117,Secondary and unspec malig neop common iliac lymph nodes,1
+157571000006112,Secondary and unspec malig neop deep cervical LN,1
+157581000006110,Secondary and unspec malig neop deep inguinal lymph nodes,1
+157591000006113,Secondary and unspec malig neop deep parotid lymph nodes,1
+157601000006117,Secondary and unspec malig neop diaphragmatic lymph nodes,1
+157611000006119,Secondary and unspec malig neop external iliac lymph nodes,1
+157621000006110,Secondary and unspec malig neop inferior epigastric LN,1
+157631000006113,Secondary and unspec malig neop inferior mesenteric LN,1
+157641000006115,Secondary and unspec malig neop inferior tracheobronchial LN,1
+157651000006118,Secondary and unspec malig neop infraclavicular lymph nodes,1
+157661000006116,Secondary and unspec malig neop inguinal and lower limb LN,1
+157671000006111,Secondary and unspec malig neop intercostal lymph nodes,1
+157681000006114,Secondary and unspec malig neop internal iliac lymph nodes,1
+157691000006112,Secondary and unspec malig neop internal mammary lymph nodes,1
+157701000006112,Secondary and unspec malig neop intra-abdominal LN NOS,1
+157711000006110,Secondary and unspec malig neop intra-abdominal lymph nodes,1
+157721000006119,Secondary and unspec malig neop intrapelvic LN NOS,1
+157731000006116,Secondary and unspec malig neop intrapelvic lymph nodes,1
+157741000006114,Secondary and unspec malig neop intrathoracic LN NOS,1
+157751000006111,Secondary and unspec malig neop intrathoracic lymph nodes,1
+157781000006115,Secondary and unspec malig neop lymph nodes NOS,1
+157761000006113,Secondary and unspec malig neop lymph nodes head/face/neck,1
+157771000006118,Secondary and unspec malig neop lymph nodes multiple sites,1
+157801000006116,Secondary and unspec malig neop of facial lymph nodes,1
+157811000006118,Secondary and unspec malig neop of inguinal and leg LN NOS,1
+157821000006114,Secondary and unspec malig neop of superficial parotid LN,1
+157831000006112,Secondary and unspec malig neop paratracheal lymph nodes,1
+157841000006119,Secondary and unspec malig neop pectoral lymph nodes,1
+157861000006115,Secondary and unspec malig neop post mediastinal lymph nodes,1
+157871000006110,Secondary and unspec malig neop pulmonary lymph nodes,1
+157881000006113,Secondary and unspec malig neop sacral lymph nodes,1
+157891000006111,Secondary and unspec malig neop submandibular lymph nodes,1
+157901000006110,Secondary and unspec malig neop submental lymph nodes,1
+157911000006113,Secondary and unspec malig neop superfic tracheobronchial LN,1
+157921000006117,Secondary and unspec malig neop superficial cervical LN,1
+157931000006119,Secondary and unspec malig neop superficial inguinal LN,1
+157941000006112,Secondary and unspec malig neop superficial mesenteric LN,1
+157951000006114,Secondary and unspec malig neop supratrochlear lymph nodes,1
+157961000006111,Secondary and unspec malignant neoplasm mastoid lymph nodes,1
+157971000006116,Secondary and unspec malignant neoplasm occipital lymph node,1
+406333010,Secondary and unspecified malignant neoplasm of lymph nodes,1
+289554017,Secondary cancer of the cervix,1
+511385013,Secondary cancer of the vulva,1
+380206018,Secondary carcinoma of other specified sites,1
+380193010,Secondary carcinoma of respiratory and/or digestive systems,1
+151101000006116,Secondary malig neop of large intestine or rectum NOS,1
+151111000006118,Secondary malig neop of respiratory and digestive systems,1
+151121000006114,Secondary malig neop of respiratory or digestive system NOS,1
+151131000006112,Secondary malig neop of retroperitoneum and peritoneum,1
+151141000006119,Secondary malig neop of retroperitoneum or peritoneum NOS,1
+151151000006117,Secondary malig neop of small intestine or duodenum NOS,1
+155711012,Secondary malignant neoplasm of adrenal gland,1
+155773015,Secondary malignant neoplasm of bladder,1
+1235814012,Secondary malignant neoplasm of bone and bone marrow,1
+155879014,Secondary malignant neoplasm of brain,1
+289546019,Secondary malignant neoplasm of brain and spinal cord,1
+289549014,Secondary malignant neoplasm of brain or spinal cord NOS,1
+511250010,Secondary malignant neoplasm of breast,1
+289553011,Secondary malignant neoplasm of cervix uteri,1
+155967013,Secondary malignant neoplasm of colon,1
+156007019,Secondary malignant neoplasm of duodenum,1
+289557012,Secondary malignant neoplasm of epididymis and vas deferens,1
+156169017,Secondary malignant neoplasm of ileum,1
+156231017,Secondary malignant neoplasm of jejunum,1
+156237018,Secondary malignant neoplasm of kidney,1
+151321000006111,Secondary malignant neoplasm of large intestine and rectum,1
+156291015,Secondary malignant neoplasm of liver,1
+151331000006114,Secondary malignant neoplasm of liver,1
+1815011000006116,Secondary malignant neoplasm of liver intrahepatic bile duct,1
+156319016,Secondary malignant neoplasm of lung,1
+156375015,Secondary malignant neoplasm of mediastinum,1
+289530010,Secondary malignant neoplasm of other digestive organ,1
+289550014,Secondary malignant neoplasm of other part of nervous system,1
+289515018,Secondary malignant neoplasm of other respiratory organs,1
+289559010,Secondary malignant neoplasm of other specified site NOS,1
+151401000006110,Secondary malignant neoplasm of other specified site NOS,1
+406266011,Secondary malignant neoplasm of other specified sites,1
+151421000006117,Secondary malignant neoplasm of other specified sites,1
+289536016,Secondary malignant neoplasm of other urinary organ NOS,1
+289535017,Secondary malignant neoplasm of other urinary organs,1
+156493015,Secondary malignant neoplasm of ovary,1
+156557015,Secondary malignant neoplasm of penis,1
+1235875018,Secondary malignant neoplasm of peritoneum,1
+156585018,Secondary malignant neoplasm of pleura,1
+156607018,Secondary malignant neoplasm of prostate,1
+156627017,Secondary malignant neoplasm of rectum,1
+1215809015,Secondary malignant neoplasm of retroperitoneum,1
+156777013,Secondary malignant neoplasm of skin,1
+289545015,Secondary malignant neoplasm of skin NOS,1
+156699010,Secondary malignant neoplasm of skin of breast,1
+156719018,Secondary malignant neoplasm of skin of face,1
+289538015,Secondary malignant neoplasm of skin of head,1
+289543010,Secondary malignant neoplasm of skin of hip and leg,1
+156747019,Secondary malignant neoplasm of skin of neck,1
+289542017,Secondary malignant neoplasm of skin of shoulder and arm,1
+156765015,Secondary malignant neoplasm of skin of trunk,1
+151621000006119,Secondary malignant neoplasm of small intestine and duodenum,1
+156825010,Secondary malignant neoplasm of spinal cord,1
+156883018,Secondary malignant neoplasm of testis,1
+156919012,Secondary malignant neoplasm of tongue,1
+409845013,Secondary malignant neoplasm of unknown site,1
+156973018,Secondary malignant neoplasm of ureter,1
+156977017,Secondary malignant neoplasm of urethra,1
+156989015,Secondary malignant neoplasm of uterus,1
+156997010,Secondary malignant neoplasm of vagina,1
+157025019,Secondary malignant neoplasm of vulva,1
+880611000006119,Secondary nodes - axilla/arm,1
+880581000006110,Secondary nodes - head/neck,1
+880621000006110,Secondary nodes - inguinal/leg,1
+880601000006117,Secondary nodes - intra.abdom.,1
+880631000006113,Secondary nodes - intrapelvic,1
+880641000006115,Secondary nodes - multiple,1
+880591000006113,Secondary nodes -intrathoracic,1
+880651000006118,Secondary nodes NOS,1
+494050018,Secondary polycythaemia,1
+294495017,Secondary polycythaemia NOS,1
+152611000006116,Secondary unspec malig neop lymph nodes head/face/neck NOS,1
+285276016,Seen in radiotherapy clinic,1
+154341000006119,Seen in radiotherapy clinic,1
+1545611000006118,Selective internal radiotherapy microspheres lesion of liver,1
+457319014,Seminoma of descended testis,1
+380180017,Seminoma of testis,1
+457318018,Seminoma of undescended testis,1
+146211000006117,"Severe vaginal dysplasia, not elsewhere classified",1
+146221000006113,"Severe vulvar dysplasia, not elsewhere classified",1
+6711000033112,Sex Hormones And Antagonists In Malignant Disease,1
+2168831000000110,Sezary disease,1
+146651000006118,Sezary's disease,1
+289749011,Sezary's disease NOS,1
+289743012,Sezary's disease of intra-abdominal lymph nodes,1
+289746016,Sezary's disease of intrapelvic lymph nodes,1
+289742019,Sezary's disease of intrathoracic lymph nodes,1
+289744018,Sezary's disease of lymph nodes of axilla and upper limb,1
+289741014,"Sezary's disease of lymph nodes of head, face and neck",1
+146721000006119,Sezary's disease of lymph nodes of inguinal region and leg,1
+289748015,Sezary's disease of lymph nodes of multiple sites,1
+146741000006114,Sezary's disease of spleen,1
+289740010,Sezary's disease of unspecified site,1
+140251000006119,Short dis.+contact radiotherap,1
+140261000006117,Short dist/contact radioth NOS,1
+638841000000113,Siewert type I adenocarcinoma,1
+638721000000113,Siewert type II adenocarcinoma,1
+638821000000118,Siewert type III adenocarcinoma,1
+1815461000006110,Small cell B-cell lymphoma,1
+1773121000006115,Small cell lung cancer,1
+139571000006117,Solitary myeloma,1
+18484012,Solitary plasmacytoma,1
+1488663010,Squamous cell carcinoma antigen level,1
+1773141000006110,Squamous cell carcinoma of lung,1
+379223011,Squamous cell carcinoma of skin,1
+556501000000116,Squamous cell carcinoma of skin NOS,1
+304259014,Squamous metaplasia of bladder,1
+51216011,Squamous metaplasia of cervix,1
+456846015,Squamous metaplasia of lung,1
+1488795016,Stereotactic radiotherapy,1
+1908611000006111,Stewart-Treves syndrome,1
+103875012,Stewart-Treves syndrome,1
+289968015,Subacute leukaemia NOS,1
+289880012,Subacute lymphoid leukaemia,1
+289924017,Subacute monocytic leukaemia,1
+289901012,Subacute myeloid leukaemia,1
+289980011,Subacute myelomonocytic leukaemia,1
+394638014,Subcutaneous chemotherapy,1
+452954017,Subcutaneous drug therapy,1
+1815391000006112,Subcutaneous panniculitic T-cell lymphoma,1
+2872133010,Subcutaneous panniculitis-like T-cell lymphoma,1
+748721000000118,Superficial or orthovoltage treatment for radiotherapy,1
+748761000000114,Support for preparation for radiotherapy,1
+748781000000117,Support for preparation for radiotherapy NOS,1
+414151014,T-cell prolymphocytic leukaemia,1
+344657018,T-zone lymphoma,1
+207325017,T/NK-cell lymphoma,1
+485445011,Teletherapy,1
+289948014,Thrombocytic leukaemia,1
+101681000006111,Thyroid tumour/metast irradiat,1
+879691000006112,Tongue carcinoma,1
+931991000006113,Transitional cell ca bladder,1
+344806015,True histiocytic lymphoma,1
+414230016,Tumour lysis syndrome,1
+1774711000006113,Tumour stage T1a,1
+1774721000006117,Tumour stage T1b,1
+1774731000006119,Tumour stage T2a,1
+1774741000006112,Tumour stage T2b,1
+1774751000006114,Tumour stage T3a,1
+1774761000006111,Tumour stage T3b,1
+1774771000006116,Tumour stage T4,1
+1774631000006111,Tumour stage finding,1
+378528014,Tumour staging,1
+1562151000006111,Under care cancer primary healthcare multidisciplinary team,1
+2168481000000111,Unifocal Langerhans-cell histiocytosis,1
+81401000006110,Unspec malig neop lymphoid/histiocytic intra-abdominal nodes,1
+81411000006113,Unspec malig neop lymphoid/histiocytic lymph node axilla/arm,1
+81421000006117,Unspec malig neop lymphoid/histiocytic lymph node head/neck,1
+81431000006119,Unspec malig neop lymphoid/histiocytic nodes inguinal/leg,1
+81441000006112,Unspec malig neop lymphoid/histiocytic of intrapelvic nodes,1
+81451000006114,Unspec malig neop lymphoid/histiocytic of intrathoracic node,1
+81461000006111,Unspec malig neop lymphoid/histiocytic of multiple sites,1
+81471000006116,Unspec malig neop lymphoid/histiocytic of spleen,1
+81481000006118,Unspec malig neop lymphoid/histiocytic of unspecified site,1
+82041000006113,Unspecified B-cell non-Hodgkin's lymphoma,1
+1906681000006117,Unspecified other chemotherapy drugs,1
+130662013,Urticaria pigmentosa,1
+413202011,Vaginal intraepithelial neoplasia grade 1,1
+413205013,Vaginal intraepithelial neoplasia grade 2,1
+1770471000006116,Vaginal intraepithelial neoplasia grade 3,1
+298769012,Visual cortex disorder due to neoplasm,1
+298762015,Visual pathway disorder due to neoplasm,1
+1555741000006110,"Vol defin superf deep X-ray, elect megavoltag radio sim calc",1
+1555711000006111,Volume definit multiple phases complex radiotherapy dosimetr,1
+510113012,Vulval intraepithelial neoplasia,1
+413210012,Vulval intraepithelial neoplasia grade 1,1
+413211011,Vulval intraepithelial neoplasia grade 2,1
+413216018,Vulval intraepithelial neoplasia grade 3,1
+2168841000000118,Waldenstrom macroglobulinaemia,1
+293380012,Waldenstrom's macroglobulinaemia,1
+1859381000006117,Wells DVT score - active cancer,1
+1859531000006112,Wells PE score - malignancy,1
+1847541000006113,Wilms' tumour + nephrotic syndrome + pseudohermaphroditism,1
+261676014,X-ray metastasis control,1
+261677017,X-ray radiotherapy control,1
+55721000006115,X-ray therapy -external,1
+291960011,[M] Alpha heavy chain disease,1
+304071000006110,[M] Angioendotheliomatosis,1
+1225763012,[M] Cutaneous lymphoma,1
+291962015,[M] Gamma heavy chain disease,1
+215918011,[M] Immunoproliferative small intestinal disease,1
+291963013,[M] Large cell lymphoma,1
+304151000006118,[M] Monocytoid B-cell lymphoma,1
+291959018,[M] Peripheral T-cell lymphoma NOS,1
+291778013,[M] Small cell osteosarcoma,1
+304251000006114,[M]Acidophil carcinoma,1
+304271000006116,[M]Acinar cell carcinoma,1
+1221446018,"[M]Acral lentiginous melanoma, malignant",1
+304331000006110,[M]Acute erythraemia,1
+1220818019,[M]Acute infancy reticulosis,1
+1216160012,[M]Acute leukaemia NOS,1
+292006015,[M]Acute lymphoid leukaemia,1
+292073010,[M]Acute megakaryoblastic leukaemia,1
+304381000006111,[M]Acute monocytic leukaemia,1
+292075015,[M]Acute myelofibrosis,1
+304401000006111,[M]Acute myeloid leukaemia,1
+1216346016,[M]Acute myelomonocytic leukaemia,1
+304421000006118,[M]Acute panmyelosis,1
+304431000006115,[M]Acute panmyelosis,1
+1220816015,[M]Acute progressive histiocytosis X,1
+1216284012,[M]Acute promyelocytic leukaemia,1
+304471000006117,[M]Adamantinoma of long bones,1
+304481000006119,"[M]Adamantinoma, malignant",1
+304491000006116,[M]Adenoacanthoma,1
+1217037013,[M]Adenocarcinoid tumour,1
+291372011,[M]Adenocarcinoma NOS,1
+304521000006119,[M]Adenocarcinoma in adenomatous polposis coli,1
+304531000006116,[M]Adenocarcinoma in adenomatous polyp,1
+1230440012,[M]Adenocarcinoma in multiple adenomatous polyps,1
+304551000006111,[M]Adenocarcinoma in situ,1
+1232066010,[M]Adenocarcinoma in situ in adenomatous polyp,1
+1231004013,[M]Adenocarcinoma in situ in tubulovillous adenoma,1
+1230709016,[M]Adenocarcinoma in situ in villous adenoma,1
+1231622010,[M]Adenocarcinoma in tubulovillous adenoma,1
+291436015,[M]Adenocarcinoma in villous adenoma,1
+304621000006115,[M]Adenocarcinoma with apocrine metaplasia,1
+304631000006117,[M]Adenocarcinoma with cartilaginous and osseous metaplasia,1
+304641000006110,[M]Adenocarcinoma with spindle cell metaplasia,1
+304651000006112,[M]Adenocarcinoma with squamous metaplasia,1
+304661000006114,"[M]Adenocarcinoma, intestinal type",1
+291374012,"[M]Adenocarcinoma, metastatic, NOS",1
+304681000006116,[M]Adenocarcinomas,1
+304701000006118,[M]Adenoid cystic carcinoma,1
+304711000006115,[M]Adenoid squamous cell carcinoma,1
+304901000006115,[M]Adenosarcoma,1
+1227518012,[M]Adenosarcoma,1
+304921000006113,[M]Adenosquamous carcinoma,1
+305011000006117,[M]Adrenal cortical carcinoma,1
+1216940017,[M]Adult T-cell leukaemia/lymphoma,1
+305081000006112,[M]Aesthesioneuroblastoma,1
+305101000006116,[M]Aesthesioneuroepithelioma,1
+291992012,[M]Aleukaemic leukaemia NOS,1
+305141000006119,[M]Aleukaemic monocytic leukaemia,1
+292036012,[M]Aleukaemic myeloid leukaemia,1
+305171000006110,"[M]Alpha-cell tumour,malignant",1
+305181000006113,[M]Alveolar adenocarcinoma,1
+305201000006114,[M]Alveolar cell carcinoma,1
+305211000006112,[M]Alveolar rhabdomyosarcoma,1
+1235321016,[M]Alveolar soft part sarcoma,1
+305231000006118,[M]Amelanotic melanoma,1
+305261000006110,[M]Ameloblastic fibrosarcoma,1
+305271000006115,[M]Ameloblastic odontosarcoma,1
+305291000006119,"[M]Ameloblastoma, malignant",1
+305331000006114,"[M]Androblastoma, malignant",1
+1220814017,[M]AngiocentricT-cell lymphoma,1
+291964019,[M]Angioendotheliomatosis,1
+291641019,[M]Angiomyoliposarcoma,1
+305531000006115,[M]Angiomyosarcoma,1
+305551000006110,[M]Angiosarcoma,1
+305571000006117,[M]Apocrine adenocarcinoma,1
+305651000006111,"[M]Arrhenoblastoma, malignant",1
+305671000006118,[M]Astroblastoma,1
+305681000006115,[M]Astrocytic glioma,1
+1229453012,[M]Astrocytoma NOS,1
+305701000006117,"[M]Astrocytoma, anaplastic type",1
+305711000006119,[M]Astroganglioma,1
+305741000006115,[M]Balloon cell melanoma,1
+1228188010,[M]Basal cell adenocarcinoma,1
+291360017,[M]Basal cell carcinoma NOS,1
+305791000006112,"[M]Basal cell carcinoma, fibroepithelial type",1
+1770511000006114,"[M]Basal cell carcinoma, infiltrative",1
+1770501000006111,"[M]Basal cell carcinoma, micronodular",1
+305801000006113,"[M]Basal cell carcinoma, morphoea type",1
+1770491000006115,"[M]Basal cell carcinoma, nodular",1
+305841000006110,[M]Basaloid carcinoma,1
+305861000006114,[M]Basophil carcinoma,1
+1216868019,[M]Basophilic leukaemia,1
+292045013,[M]Basophilic leukaemia NOS,1
+292042011,[M]Basophilic leukaemias,1
+305901000006119,[M]Basosquamous carcinoma,1
+305921000006112,"[M]Beta-cell tumour, malignant",1
+305941000006117,[M]Bile duct carcinoma,1
+305951000006115,[M]Bile duct cystadenocarcinoma,1
+305971000006113,[M]Biliary tract adenomas and adenocarcinomas,1
+306001000006110,[M]Blast cell leukaemia,1
+306011000006113,[M]Blastic leukaemia,1
+1216845011,"[M]Blue naevus, malignant",1
+407801000000116,[M]Borderline mucinous cystadenoma of the ovary,1
+291356015,[M]Bowen's disease,1
+306091000006115,"[M]Brenner tumour, malignant",1
+306111000006112,[M]Brill - Symmers' disease,1
+306131000006118,[M]Bronchiolar carcinoma,1
+1219789016,[M]Bronchiolo-alveolar adenocarcinoma,1
+306171000006115,[M]Burkitt's cell leukaemia,1
+1216939019,[M]Burkitt's tumour,1
+291981011,[M]Burkitt's tumour NOS,1
+291980012,[M]Burkitt's tumours,1
+306211000006118,[M]C cell carcinoma,1
+306261000006115,[M]Carcinoid bronchial adenoma,1
+1216670013,"[M]Carcinoid tumour, argentaffin, malignant",1
+291414018,"[M]Carcinoid tumour, malignant",1
+291419011,"[M]Carcinoid tumour, nonargentaffin, malignant",1
+291326012,[M]Carcinoma NOS,1
+1221504012,[M]Carcinoma in pleomorphic adenoma,1
+306361000006113,[M]Carcinoma in situ NOS,1
+306381000006115,[M]Carcinoma simplex,1
+291330010,"[M]Carcinoma, anaplastic type, NOS",1
+306401000006115,"[M]Carcinoma, diffuse type",1
+291327015,"[M]Carcinoma, metastatic, NOS",1
+291329017,"[M]Carcinoma, undifferentiated type, NOS",1
+1233222010,[M]Carcinomatosis,1
+291676017,[M]Carcinosarcoma NOS,1
+306451000006116,"[M]Carcinosarcoma, embryonal type",1
+291837016,[M]Cerebellar sarcoma NOS,1
+306571000006113,[M]Ceruminous adenocarcinoma,1
+1228268017,[M]Chloroma,1
+306641000006116,[M]Cholangiocarcinoma,1
+306661000006117,[M]Chondroblastic osteosarcoma,1
+306681000006110,"[M]Chondroblastoma, malignant",1
+291782010,[M]Chondrosarcoma NOS,1
+306771000006119,[M]Chordoma,1
+1230128019,[M]Choriocarcinoma,1
+306821000006110,[M]Choriocarcinoma combined with teratoma,1
+1230127012,[M]Chorioepithelioma,1
+306901000006111,[M]Chromophobe carcinoma,1
+306921000006118,[M]Chronic leukaemia NOS,1
+306931000006115,[M]Chronic lymphoid leukaemia,1
+306951000006110,[M]Chronic monocytic leukaemia,1
+1216809013,[M]Chronic myeloid leukaemia,1
+306971000006117,[M]Chronic myelomonocytic leukaemia,1
+291443014,[M]Clear cell adenocarcinoma NOS,1
+307051000006111,[M]Clear cell sarcoma of kidney,1
+291700017,[M]Clear cell sarcoma of tendons and aponeuroses,1
+307071000006118,[M]Cloacogenic carcinoma,1
+307091000006117,[M]Colloid adenocarcinoma,1
+1231089017,[M]Combined hepatocellular carcinoma and cholangiocarcinoma,1
+291536017,[M]Comedocarcinoma NOS,1
+307131000006115,"[M]Comedocarcinoma, noninfiltrating",1
+307191000006116,[M]Composite carcinoid,1
+292001013,[M]Compound leukaemia,1
+307221000006111,[M]Compound leukaemias,1
+307251000006119,[M]Congenital fibrosarcoma,1
+307271000006112,[M]Cribriform carcinoma,1
+307281000006110,[M]Cylindroid adenocarcinoma,1
+307291000006113,[M]Cylindroid bronchial adenoma,1
+307301000006114,[M]Cylindroma NOS,1
+291495018,[M]Cystadenocarcinoma NOS,1
+307441000006115,"[M]Cystosarcoma phyllodes, malignant",1
+1232905013,[M]Dedifferentiated liposarcoma,1
+1234006011,[M]Dermatofibroma protuberans,1
+215889013,[M]Dermatofibrosarcoma NOS,1
+307531000006112,[M]Dermoid cyst with malignant transformation,1
+307571000006110,[M]Desmoplastic medulloblastoma,1
+1231028010,"[M]Desmoplastic melanoma, malignant",1
+307591000006111,[M]Di Guglielmo's disease,1
+307611000006117,[M]Diktyoma,1
+307631000006111,[M]Duct carcinoma NOS,1
+307671000006114,[M]Dysgerminoma,1
+291718019,[M]Embryonal carcinoma NOS,1
+307801000006119,[M]Embryonal hepatoma,1
+307811000006116,[M]Embryonal liposarcoma,1
+307821000006112,[M]Embryonal rhabdomyosarcoma,1
+307831000006110,[M]Embryonal sarcoma,1
+307841000006117,[M]Embryonal teratoma,1
+307861000006118,[M]Endodermal sinus tumour,1
+307891000006114,[M]Endometrial stromal sarcoma,1
+307921000006115,"[M]Endometrioid adenofibroma, malignant",1
+307971000006119,[M]Endometrioid carcinoma,1
+308001000006111,[M]Endothelial bone sarcoma,1
+308031000006115,[M]Eosinophil carcinoma,1
+308041000006113,[M]Eosinophilic leukaemia,1
+292050019,[M]Eosinophilic leukaemia NOS,1
+292046014,[M]Eosinophilic leukaemias,1
+308071000006117,[M]Ependymoblastoma,1
+291825018,[M]Ependymoma NOS,1
+308091000006116,"[M]Ependymoma, anaplastic type",1
+308111000006113,[M]Epidermoid carcinoma NOS,1
+308101000006110,[M]Epidermoid carcinoma in situ,1
+308121000006117,"[M]Epidermoid carcinoma, keratinising type",1
+1235961012,[M]Epithelial-myoepithelial carcinoma,1
+308181000006118,[M]Epithelioid cell melanoma,1
+308191000006115,[M]Epithelioid cell sarcoma,1
+1216731014,"[M]Epithelioid haemangioendothelioma, malignant",1
+308241000006115,[M]Epithelioid leiomyosarcoma,1
+308261000006116,"[M]Epithelioid mesothelioma, malignant",1
+308291000006112,"[M]Epithelioma, malignant",1
+308311000006111,[M]Erythraemic myelosis,1
+1216029010,[M]Erythroleukaemia,1
+292024018,[M]Erythroleukaemia NOS,1
+292018012,[M]Erythroleukaemias,1
+308351000006112,[M]Ewing's sarcoma,1
+308371000006119,"[M]Extra-adrenal paraganglioma, malignant",1
+308411000006118,[M]Fascial fibrosarcoma,1
+308461000006115,[M]Fibrillary astrocytoma,1
+308491000006111,[M]Fibroblastic osteosarcoma,1
+308501000006115,[M]Fibrochondrosarcoma,1
+308551000006116,[M]Fibroliposarcoma,1
+291635014,[M]Fibromatous neoplasm NOS,1
+291626019,[M]Fibromatous neoplasms,1
+308641000006117,[M]Fibromyxosarcoma,1
+1231237017,[M]Fibrosarcoma NOS,1
+308671000006113,"[M]Fibrous histiocytoma, malignant",1
+308701000006114,"[M]Fibrous mesothelioma, malignant",1
+308731000006118,"[M]Fibroxanthoma, malignant",1
+376870016,[M]Fibroxanthosarcoma,1
+291452017,[M]Follicular adenocarcinoma NOS,1
+308761000006110,"[M]Follicular adenocarcinoma, trabecular type",1
+308771000006115,"[M]Follicular adenocarcinoma, well differentiated type",1
+1222216017,[M]Follicular carcinoma,1
+308801000006118,[M]Follicular lymphosarcoma NOS,1
+308821000006111,"[M]G cell tumour, malignant",1
+308861000006117,[M]Ganglioneuroblastoma,1
+308941000006114,"[M]Gastrinoma, malignant",1
+308951000006111,[M]Gelatinous adenocarcinoma,1
+308961000006113,[M]Gemistocytic astrocytoma,1
+308971000006118,[M]Gemistocytoma,1
+1222222014,[M]Germinoblastic sarcoma NOS,1
+309011000006119,"[M]Germinoblastic sarcoma, follicular",1
+309021000006110,"[M]Germinoblastoma, diffuse",1
+309031000006113,"[M]Germinoblastoma, follicular",1
+309041000006115,[M]Germinoma,1
+309061000006116,[M]Giant cell and spindle cell carcinoma,1
+309071000006111,[M]Giant cell bone sarcoma,1
+309081000006114,[M]Giant cell carcinoma,1
+309091000006112,[M]Giant cell glioblastoma,1
+1235290011,[M]Giant cell sarcoma (except of bone),1
+309131000006114,"[M]Giant cell tumour of bone, malignant",1
+309181000006110,[M]Giant follicular lymphoma,1
+403757015,[M]Glioblastoma NOS,1
+309231000006115,[M]Glioblastoma multiforme,1
+309251000006110,[M]Glioblastoma with sarcomatous component,1
+2552865010,[M]Glioma NOS,1
+309261000006112,[M]Glioma NOS,1
+309281000006119,"[M]Glioma, malignant",1
+2550105015,[M]Gliomas,1
+309301000006115,[M]Gliomatosis cerebri,1
+309321000006113,[M]Gliosarcoma,1
+309351000006116,[M]Glomangiosarcoma,1
+309361000006119,[M]Glomoid sarcoma,1
+309401000006112,"[M]Glucagonoma, malignant",1
+1233722011,[M]Glycogen-rich carcinoma,1
+309431000006116,[M]Goblet cell tumour,1
+309471000006118,[M]Granular cell carcinoma,1
+309501000006113,"[M]Granular cell tumour, malignant",1
+309521000006115,[M]Granulocytic leukaemia NOS,1
+1228267010,[M]Granulocytic sarcoma,1
+309551000006112,"[M]Granulosa cell tumour, malignant",1
+309571000006119,[M]Grawitz tumour,1
+309641000006111,"[M]Haemangioendothelioma, malignant",1
+309701000006119,[M]Haemangiopericytic neoplasms,1
+309731000006110,"[M]Haemangiopericytoma, malignant",1
+309741000006117,[M]Haemangiosarcoma,1
+1216729017,[M]Hairy cell leukaemia,1
+309811000006113,[M]Hepatoblastoma,1
+1224870013,[M]Hepatocellular carcinoma NOS,1
+1221209015,"[M]Hepatocellular carcinoma, fibrolamellar",1
+309851000006114,[M]Hepatocholangiocarcinoma,1
+309891000006115,"[M]Hepatoma, malignant",1
+309941000006119,[M]Histiocytic leukaemia,1
+291958014,[M]Histiocytic medullary reticulosis,1
+1221109014,[M]Hodgkin's disease,1
+309991000006111,[M]Hodgkin's disease NOS,1
+453326010,[M]Hodgkin's disease NOS,1
+215913019,"[M]Hodgkin's disease, lymphocytic depletion NOS",1
+1233353010,"[M]Hodgkin's disease, lymphocytic depletion, reticular type",1
+291931019,"[M]Hodgkin's disease, lymphocytic predominance",1
+1229767019,"[M]Hodgkin's disease, mixed cellularity",1
+215914013,"[M]Hodgkin's disease, nodular sclerosis NOS",1
+1229491012,"[M]Hodgkin's disease, nodular sclerosis, cellular phase",1
+310071000006116,"[M]Hodgkin's disease,lymphocytic depletion,diffuse fibrosis",1
+1233711012,[M]Hodgkin's granuloma,1
+291934010,[M]Hodgkin's paragranuloma,1
+1230406012,[M]Hodgkin's sarcoma,1
+291932014,"[M]Hodgkin,s disease, lymphocytic predominance, diffuse",1
+1233285010,"[M]Hodgkin,s disease, lymphocytic predominance, nodular",1
+310131000006118,"[M]Hodgkin,s disease, nodular sclerosis, lymphocytic deplet",1
+310141000006111,"[M]Hodgkin,s disease, nodular sclerosis, lymphocytic predom",1
+291933016,"[M]Hodgkin,s disease, nodular sclerosis, mixed cellularity",1
+310161000006110,[M]Hurthle cell adenocarcinoma,1
+1232189017,[M]Hutchinson's melanotic freckle,1
+310241000006119,[M]Hypernephroma,1
+310261000006115,[M]Immature teratoma,1
+310281000006113,[M]Infantile fibrosarcoma,1
+1228259019,[M]Infiltrating duct and lobular carcinoma,1
+310311000006110,[M]Infiltrating duct carcinoma,1
+310321000006119,[M]Infiltrating ductular carcinoma,1
+310341000006114,[M]Inflammatory carcinoma,1
+310361000006113,"[M]Insulinoma, malignant",1
+310391000006117,"[M]Interstitial cell tumour, malignant",1
+310411000006117,[M]Intracystic carcinoma NOS,1
+291539012,[M]Intraductal carcinoma and lobular carcinoma in situ,1
+310451000006116,"[M]Intraductal carcinoma, noninfiltrating NOS",1
+1232564019,[M]Intraductal papillary adenocarcinoma with invasion,1
+310491000006110,[M]Intraepidermal carcinoma NOS,1
+1229513011,[M]Intraepidermal epithelioma of Jadassohn,1
+310521000006112,"[M]Intraepit neop,grade III,of cervix, vulva and vagina",1
+310531000006110,[M]Intraepithelial carcinoma NOS,1
+310541000006117,[M]Intraepithelial squamous cell carcinoma,1
+310571000006113,[M]Intraosseous carcinoma,1
+310661000006117,[M]Islet cell carcinoma,1
+310731000006117,[M]Juvenile astrocytoma,1
+310741000006110,[M]Juvenile breast carcinoma,1
+1870401000006113,[M]Juvenile myelomonocytic leukaemia,1
+310791000006118,[M]Juxtacortical chondrosarcoma,1
+310801000006117,[M]Juxtacortical osteogenic sarcoma,1
+215791000000112,[M]Juxtacortical osteosarcoma,1
+1230800010,[M]Kaposi's sarcoma,1
+1216826019,[M]Klatskin's tumour,1
+310861000006116,[M]Krukenberg tumour,1
+310871000006111,[M]Kupffer cell sarcoma,1
+291328013,[M]Large cell carcinoma NOS,1
+291653015,[M]Leiomyosarcoma NOS,1
+310951000006110,[M]Lentigo maligna,1
+310961000006112,[M]Lentigo maligna melanoma,1
+310971000006117,[M]Leptomeningeal sarcoma,1
+1220817012,[M]Letterer - Siwe disease,1
+310991000006116,[M]Leukaemia NOS,1
+291985019,[M]Leukaemia NOS,1
+291995014,"[M]Leukaemia unspecified, NOS",1
+311021000006113,[M]Leukaemias,1
+291984015,[M]Leukaemias unspecified,1
+311051000006116,[M]Leukaemic reticuloendotheliosis,1
+311041000006118,[M]Leukaemic reticuloendotheliosis,1
+311091000006110,"[M]Leydig cell tumour, malignant",1
+1229372013,[M]Linitis plastica,1
+1229424011,[M]Lipid-rich carcinoma,1
+291638011,[M]Liposarcoma NOS,1
+311191000006111,"[M]Liposarcoma, well differentiated type",1
+311211000006112,[M]Liver cell carcinoma,1
+291540014,[M]Lobular carcinoma NOS,1
+311221000006116,[M]Lobular carcinoma in situ,1
+311301000006118,[M]Lymphangiosarcoma,1
+311311000006115,[M]Lymphatic leukaemia,1
+1222221019,[M]Lymphoblastic lymphoma NOS,1
+311351000006119,[M]Lymphoblastic lymphosarcoma NOS,1
+311361000006117,[M]Lymphoblastoma NOS,1
+1222219012,[M]Lymphocytic lymphoma NOS,1
+1222220018,[M]Lymphocytic lymphosarcoma NOS,1
+311391000006113,[M]Lymphoepithelial carcinoma,1
+403760010,"[M]Lymphogranuloma, malignant",1
+1216396015,[M]Lymphoid leukaemia NOS,1
+292005016,[M]Lymphoid leukaemias,1
+311431000006119,[M]Lymphoma NOS,1
+311441000006112,"[M]Lymphoma, diffuse or NOS",1
+291953017,"[M]Lymphoma, nodular or follicular NOS",1
+291887011,"[M]Lymphomas, NOS or diffuse",1
+311461000006111,"[M]Lymphomas, nodular or follicular",1
+311521000006118,[M]Lymphosarcoma NOS,1
+292028015,[M]Lymphosarcoma cell leukaemia,1
+292031019,[M]Lymphosarcoma cell leukaemia NOS,1
+311511000006114,[M]Lymphosarcoma cell leukaemias,1
+311561000006112,"[M]Malig lymp, follicular centre cell, cleaved, follicular",1
+311571000006117,"[M]Malig lymp, lymphocytic, intermediate different, nodular",1
+311581000006119,"[M]Malig lymp, lymphocytic, poorly differentiated, nodular",1
+311591000006116,"[M]Malig lymp,follicular centre cell,noncleaved,follicular",1
+311601000006112,"[M]Malig lymphoma, follicular centre cell, non-cleaved NOS",1
+311611000006110,"[M]Malig lymphoma, lymphocytic, intermediate different NOS",1
+311621000006119,"[M]Malig lymphoma, lymphocytic, well differentiated,nodular",1
+311631000006116,"[M]Malig lymphoma, mixed lymphocytic-histiocytic, nodular",1
+311641000006114,"[M]Malign lymphoma,lymphocytic,intermediate differn, diffuse",1
+311651000006111,[M]Malignant giant cell tumour of soft parts,1
+215915014,[M]Malignant histiocytosis,1
+311671000006118,[M]Malignant lymphoma NOS,1
+291910017,"[M]Malignant lymphoma, centroblastic type NOS",1
+1229648010,"[M]Malignant lymphoma, centroblastic type, follicular",1
+291900014,"[M]Malignant lymphoma, centroblastic-centrocytic, diffuse",1
+291943018,"[M]Malignant lymphoma, centroblastic-centrocytic, follicular",1
+291905016,"[M]Malignant lymphoma, centrocytic",1
+291894014,"[M]Malignant lymphoma, convoluted cell type NOS",1
+291891018,"[M]Malignant lymphoma, diffuse NOS",1
+291902018,"[M]Malignant lymphoma, follicular centre cell NOS",1
+291907012,"[M]Malignant lymphoma, follicular centre cell, cleaved NOS",1
+1234197011,"[M]Malignant lymphoma, immunoblastic type",1
+291914014,"[M]Malignant lymphoma, large cell, cleaved, diffuse",1
+1230392016,"[M]Malignant lymphoma, large cell, diffuse NOS",1
+311801000006113,"[M]Malignant lymphoma, large cell, noncleaved, diffuse",1
+311811000006111,"[M]Malignant lymphoma, lymphocytic, poorly different NOS",1
+291903011,"[M]Malignant lymphoma, lymphocytic, well differentiated NOS",1
+1222289015,"[M]Malignant lymphoma, lymphoplasmacytoid type",1
+403759017,"[M]Malignant lymphoma, mixed lymphocytic-histiocytic NOS",1
+1230828016,"[M]Malignant lymphoma, mixed small and large cell, diffuse",1
+403761014,"[M]Malignant lymphoma, nodular NOS",1
+311871000006119,"[M]Malignant lymphoma, non Hodgkin's type",1
+311881000006116,"[M]Malignant lymphoma, small cell, noncleaved, diffuse",1
+215912012,"[M]Malignant lymphoma, small cleaved cell, diffuse",1
+1232576019,"[M]Malignant lymphoma, small lymphocytic NOS",1
+311911000006116,"[M]Malignant lymphoma, stem cell type",1
+291892013,"[M]Malignant lymphoma, undifferentiated cell type NOS",1
+291913015,[M]Malignant lymphomatous polyposis,1
+1230838014,[M]Malignant mastocytosis,1
+403754010,[M]Malignant melanoma NOS,1
+1230100013,[M]Malignant melanoma in Hutchinson's melanotic freckle,1
+311951000006115,[M]Malignant melanoma in giant pigmented naevus,1
+311971000006113,[M]Malignant melanoma in junctional naevus,1
+311981000006111,[M]Malignant melanoma in precancerous melanosis,1
+1229572014,"[M]Malignant melanoma, regressing",1
+215916010,[M]Malignant reticulosis,1
+312021000006118,"[M]Malignant teratoma, intermediate type",1
+312031000006115,"[M]Malignant teratoma, trophoblastic",1
+312041000006113,"[M]Malignant teratoma, undifferentiated type",1
+312051000006110,"[M]Malignant tumour, fusiform cell type",1
+312061000006112,"[M]Malignant tumour, giant cell type",1
+312071000006117,"[M]Malignant tumour, small cell type",1
+1216016010,[M]Mast cell leukaemia,1
+312101000006110,[M]Mast cell sarcoma,1
+291538016,[M]Medullary carcinoma NOS,1
+312161000006111,[M]Medullary carcinoma with amyloid stroma,1
+312171000006116,[M]Medullary carcinoma with lymphoid stroma,1
+291836013,[M]Medulloblastoma NOS,1
+291852011,[M]Medulloepithelioma NOS,1
+312201000006117,[M]Medullomyoblastoma,1
+312211000006119,[M]Megakaryocytic leukaemia,1
+312231000006113,[M]Megakaryocytic myelosis,1
+312251000006118,[M]Melanocarcinoma,1
+1234193010,[M]Melanoma in situ,1
+312291000006112,[M]Melanosarcoma NOS,1
+312331000006117,[M]Meningeal sarcomatosis,1
+312361000006114,"[M]Meningioma, malignant",1
+312391000006118,[M]Meningothelial sarcoma,1
+1230882017,[M]Merkel cell carcinoma,1
+312421000006114,[M]Mesenchymal chondrosarcoma,1
+291674019,[M]Mesenchymal nephroblastoma,1
+312461000006115,"[M]Mesenchymoma, malignant",1
+312491000006111,[M]Mesodermal mixed tumour,1
+312531000006111,"[M]Mesonephroma, malignant",1
+312591000006110,"[M]Mesothelioma, biphasic type, malignant",1
+312601000006119,"[M]Mesothelioma, malignant",1
+291711013,"[M]Mesothelioma, unspecified",1
+1959991000006111,[M]Metaplastic carcinoma,1
+1960001000006118,[M]Metaplastic melanoma,1
+312621000006112,[M]Metastatic signet ring cell carcinoma,1
+312631000006110,[M]Metatypical carcinoma,1
+291957016,[M]Microglioma,1
+292077011,[M]Miscellaneous leukaemia NOS,1
+292065018,[M]Miscellaneous leukaemias,1
+312781000006117,[M]Mixed acidophil-basophil carcinoma,1
+312801000006118,[M]Mixed cell adenocarcinoma,1
+312841000006116,[M]Mixed cell rhabdomyosarcoma,1
+312851000006119,[M]Mixed epithelioid and spindle melanoma,1
+1216406014,[M]Mixed germ cell tumour,1
+312911000006110,[M]Mixed glioma,1
+312871000006112,[M]Mixed glioma,1
+312881000006110,[M]Mixed islet cell and exocrine adenocarcinoma,1
+291997018,[M]Mixed leukaemia,1
+291669010,"[M]Mixed tumour, malignant, NOS",1
+312951000006111,[M]Mixed type liposarcoma,1
+312961000006113,[M]Monocytic leukaemia NOS,1
+292053017,[M]Monocytic leukaemias,1
+292083014,[M]Monocytoid B-cell lymphoma,1
+313001000006116,[M]Monostotic myeloma,1
+313011000006118,[M]Monstrocellular sarcoma,1
+313031000006112,[M]Mucin-producing adenocarcinoma,1
+313041000006119,[M]Mucinous adenocarcinoma,1
+291515019,[M]Mucinous cystadenocarcinoma NOS,1
+1232889015,[M]Mucinous cystadenoma NOS,1
+313111000006119,"[M]Mucinous cystadenoma, borderline malignancy",1
+1216356017,"[M]Mucocarcinoid tumour, malignant",1
+313131000006113,[M]Mucoepidermoid carcinoma,1
+313171000006111,[M]Mucoid adenocarcionoma,1
+313191000006112,[M]Mucoid cell carcinoma,1
+313201000006110,[M]Mucous adenocarcinoma,1
+313211000006113,[M]Mullerian mixed tumour,1
+313221000006117,[M]Multicentric basal cell carcinoma,1
+313251000006114,[M]Multiple haemorrhagic sarcoma,1
+313271000006116,[M]Multiple myeloma,1
+313301000006119,[M]Mycosis fungoides,1
+313311000006116,[M]Mycosis fungoides,1
+291955012,[M]Mycosis fungoides NOS,1
+1216572014,[M]Myeloid leukaemia NOS,1
+292032014,[M]Myeloid leukaemias,1
+1228269013,[M]Myeloid sarcoma,1
+313381000006111,[M]Myeloma NOS,1
+313391000006114,[M]Myelomatosis,1
+313411000006114,[M]Myelosis NOS,1
+313501000006112,[M]Myosarcoma,1
+313521000006119,[M]Myxoid chondrosarcoma,1
+1221282014,[M]Myxoid leiomyosarcoma,1
+313541000006114,[M]Myxoid liposarcoma,1
+313561000006113,[M]Myxoliposarcoma,1
+1225879015,[M]Myxosarcoma,1
+313621000006115,[M]Naegeli-type monocytic leukaemia,1
+313651000006112,[M]Naevocarcinoma,1
+313691000006118,"[M]Neoplasm, malig, uncertain whether primary or metastatic",1
+313701000006118,"[M]Neoplasm, malignant",1
+313711000006115,"[M]Neoplasm, metastatic",1
+1227517019,[M]Nephroblastoma NOS,1
+313801000006114,"[M]Neurilemmoma, malignant",1
+403758013,[M]Neuroblastoma NOS,1
+1231544010,[M]Neuroendocrine carcinoma,1
+1887221000006112,[M]Neuroendocrine neoplasm,1
+207611012,[M]Neuroendocrine neoplasm,1
+291853018,[M]Neuroepithelioma NOS,1
+291861011,[M]Neuroepitheliomatous neoplasm NOS,1
+291843019,[M]Neuroepitheliomatous neoplasms,1
+313931000006111,[M]Neurofibrosarcoma,1
+314041000006116,[M]Nodular lymphosarcoma NOS,1
+314051000006119,[M]Nodular melanoma,1
+314061000006117,[M]Non Hodgkins lymphoma,1
+1870381000006113,[M]Non-small cell carcinoma,1
+314071000006112,[M]Nonencapsulated sclerosing carcinoma,1
+314081000006110,[M]Noninfiltrating intracystic carcinoma,1
+314091000006113,[M]Noninfiltrating intraductal papillary adenocarcinoma,1
+314111000006116,[M]Oat cell carcinoma,1
+314141000006117,[M]Odontogenic fibrosarcoma,1
+314201000006112,"[M]Odontogenic tumour, malignant",1
+314231000006116,[M]Olfactory neuroblastoma,1
+314241000006114,[M]Olfactory neuroepithelioma,1
+314251000006111,[M]Olfactory neurogenic tumour,1
+314261000006113,[M]Oligodendroblastoma,1
+291835012,[M]Oligodendroglioma NOS,1
+314281000006115,"[M]Oligodendroglioma, anaplastic type",1
+314311000006118,[M]Oncytic adenocarcinoma,1
+314321000006114,[M]Orchioblastoma,1
+314351000006117,[M]Osteoblastic sarcoma,1
+314401000006113,[M]Osteochondrosarcoma,1
+314421000006115,"[M]Osteoclastoma, malignant",1
+314441000006110,[M]Osteofibrosarcoma,1
+314451000006112,[M]Osteogenic sarcoma NOS,1
+1222660012,[M]Osteosarcoma NOS,1
+314501000006114,[M]Osteosarcoma in Paget's disease of bone,1
+314521000006116,[M]Other lymphoid leukaemia NOS,1
+292062015,[M]Other monocytic leukaemia NOS,1
+292041016,[M]Other myeloid leukaemia NOS,1
+314621000006117,[M]Oxyphilic adenocarcinoma,1
+314671000006116,[M]Paget's disease and infiltrating breast duct carcinoma,1
+1231363012,[M]Paget's disease and intraductal carcinoma of breast,1
+314691000006115,"[M]Paget's disease, breast",1
+314701000006115,"[M]Paget's disease, extramammary, exc Paget's disease bone",1
+314711000006117,"[M]Paget's disease, mammary",1
+1231231016,[M]Pancreatoblastoma,1
+291431013,[M]Papillary adenocarcinoma NOS,1
+314791000006110,[M]Papillary and follicular adenocarcinoma,1
+291343010,[M]Papillary carcinoma NOS,1
+314811000006114,[M]Papillary carcinoma in situ,1
+291510012,"[M]Papillary cystadenocarcinoma, NOS",1
+314851000006110,"[M]Papillary cystadenoma, borderline malignancy",1
+1220825014,"[M]Papillary cystadenoma, borderline malignancy",1
+314891000006116,[M]Papillary epidermoid carcinoma,1
+314921000006110,[M]Papillary mucinous cystadenocarcinoma,1
+314971000006111,[M]Papillary serous cystadenocarcinoma,1
+1220826010,"[M]Papillary serous cystadenoma, borderline malignancy",1
+314991000006112,"[M]Papillary serous cystadenoma, borderline malignancy",1
+315011000006119,[M]Papillary squamous cell carcinoma,1
+315031000006113,[M]Papillary transitional cell carcinoma,1
+315071000006111,[M]Parafollicular cell carcinoma,1
+315101000006118,"[M]Paraganglioma, malignant",1
+315161000006117,[M]Parosteal osteosarcoma,1
+315211000006114,[M]Periosteal fibrosarcoma,1
+315221000006118,[M]Periosteal osteogenic sarcoma,1
+1870391000006111,[M]Peripheral neuroectodermal tumour,1
+315231000006115,[M]Phaeochromoblastoma,1
+315251000006110,"[M]Phaeochromocytoma, malignant",1
+1770521000006118,[M]Pigmented basal cell carcinoma,1
+1232355013,[M]Pigmented dermatofibrosarcoma protuberans,1
+315291000006116,[M]Pilocytic astrocytoma,1
+315301000006115,[M]Piloid astrocytoma,1
+315331000006111,[M]Pineoblastoma,1
+1216014013,[M]Plasma cell leukaemia,1
+292017019,[M]Plasma cell leukaemia NOS,1
+292014014,[M]Plasma cell leukaemias,1
+1231541019,[M]Plasma cell myeloma,1
+315441000006114,"[M]Plasma cell tumour, malignant",1
+315461000006113,[M]Plasmacytic myeloma,1
+315471000006118,[M]Plasmacytoma NOS,1
+315501000006113,[M]Pleomorphic carcinoma,1
+315511000006111,[M]Pleomorphic cell sarcoma,1
+315531000006117,[M]Pleomorphic liposarcoma,1
+315541000006110,[M]Pleomorphic rhabdomyosarcoma,1
+1234296013,[M]Pleomorphic xanthoastrocytoma,1
+315581000006116,[M]Pneumoblastoma,1
+315611000006112,[M]Polyembryoma,1
+315621000006116,[M]Polyembryonal embryonal carcinoma,1
+315631000006118,[M]Polygonal cell carcinoma,1
+1960021000006111,[M]Porocarcinoma,1
+291604015,[M]Precancerous melanosis NOS,1
+1216595017,[M]Primitive neuroectodermal tumour,1
+1216015014,[M]Prolymphocytic leukaemia,1
+291909010,[M]Prolymphocytic lymphosarcoma,1
+315721000006112,[M]Protoplasmic astrocytoma,1
+315741000006117,[M]Pseudomucinous adenocarcinoma,1
+315751000006115,[M]Pseudomucinous cystadenoma NOS,1
+1219790013,[M]Pseudomyxoma peritonei,1
+315771000006113,[M]Pseudosarcomatous carcinoma,1
+1229971014,[M]Pulmonary blastoma,1
+1222102015,[M]Queyrat's erythroplasia,1
+315861000006111,[M]Renal cell carcinoma,1
+315881000006118,[M]Reserve cell carcinoma,1
+315911000006118,[M]Reticulolymphosarcoma NOS,1
+315921000006114,"[M]Reticulolymphosarcoma, diffuse",1
+315931000006112,"[M]Reticulolymphosarcoma, follicular",1
+315941000006119,"[M]Reticulolymphosarcoma, nodular",1
+315951000006117,[M]Reticulosarcoma NOS,1
+291923012,[M]Reticulosarcoma NOS,1
+315971000006110,"[M]Reticulosarcoma, nodular",1
+315981000006113,"[M]Reticulosarcoma, pleomorphic cell type",1
+315991000006111,[M]Reticulosarcomas,1
+316001000006112,[M]Reticulum cell sarcoma NOS,1
+291855013,[M]Retinoblastoma NOS,1
+316031000006116,"[M]Retinoblastoma, differentiated type",1
+316041000006114,"[M]Retinoblastoma, undifferentiated type",1
+291854012,[M]Retinoblastomas,1
+1234787012,[M]Rhabdoid sarcoma,1
+215896010,[M]Rhabdomyosarcoma NOS,1
+316111000006114,[M]Round cell carcinoma,1
+316121000006118,[M]Round cell liposarcoma,1
+316131000006115,[M]Round cell sarcoma,1
+291622017,[M]Sarcoma NOS,1
+316141000006113,[M]Sarcoma botryoides,1
+1785811000006114,[M]Sarcomatoid mesothelioma,1
+291623010,[M]Sarcomatosis NOS,1
+316171000006117,[M]Schilling-type monocytic leukaemia,1
+316181000006119,[M]Schneiderian carcinoma,1
+316211000006115,"[M]Schwannoma, malignant",1
+316221000006111,[M]Scirrhous adenocarcinoma,1
+1231370012,[M]Sebaceous adenocarcinoma,1
+316291000006113,[M]Secondary carcinoma,1
+316301000006114,[M]Secondary neoplasm,1
+316311000006112,[M]Secretory breast carcinoma,1
+291715016,[M]Seminoma NOS,1
+316331000006118,"[M]Seminoma, anaplastic type",1
+291714017,[M]Seminomas,1
+291508010,"[M]Serous cystadenocarcinoma, NOS",1
+1220823019,"[M]Serous cystadenoma, borderline malignancy",1
+316381000006117,"[M]Serous cystadenoma, borderline malignancy",1
+316401000006117,[M]Serous surface papillary carcinoma,1
+316441000006115,[M]Sertoli cell carcinoma,1
+1230735015,[M]Sezary's disease,1
+316511000006118,[M]Signet ring carcinoma,1
+291528014,[M]Signet ring carcinoma NOS,1
+316531000006112,[M]Signet ring cell carcinoma,1
+291474011,[M]Skin appendage carcinoma,1
+291332019,[M]Small cell carcinoma NOS,1
+316591000006111,"[M]Small cell carcinoma, fusiform cell type",1
+1231976013,"[M]Small cell carcinoma, intermediate cell",1
+316611000006117,[M]Small cell sarcoma,1
+1222626017,[M]Small cell-large cell carcinoma,1
+291403016,[M]Solid carcinoma NOS,1
+316691000006110,[M]Solid carcinoma with amyloid stroma,1
+316711000006113,[M]Solitary myeloma,1
+316741000006112,[M]Spermatocytic seminoma,1
+291331014,[M]Spheroidal cell carcinoma,1
+316761000006111,[M]Spindle cell carcinoma,1
+291607010,[M]Spindle cell melanoma NOS,1
+316791000006115,"[M]Spindle cell melanoma, type A",1
+316801000006119,"[M]Spindle cell melanoma, type B",1
+316821000006112,[M]Spindle cell sarcoma,1
+316831000006110,[M]Spinous cell carcinoma,1
+291828016,[M]Spongioblastoma NOS,1
+316851000006115,[M]Spongioblastoma multiforme,1
+316871000006113,[M]Spongioblastoma polare,1
+316881000006111,[M]Spongioneuroblastoma,1
+316891000006114,"[M]Squamous cell ca-in-situ, questionable stromal invasion",1
+291347011,[M]Squamous cell carcinoma NOS,1
+1231967018,[M]Squamous cell carcinoma in situ NOS,1
+556511000000119,[M]Squamous cell carcinoma of skin NOS,1
+1216064018,"[M]Squamous cell carcinoma, keratinising type NOS",1
+316931000006117,"[M]Squamous cell carcinoma, large cell, non-keratinising",1
+291348018,"[M]Squamous cell carcinoma, metastatic NOS",1
+316951000006112,"[M]Squamous cell carcinoma, microinvasive",1
+316961000006114,"[M]Squamous cell carcinoma, small cell, non-keratinising",1
+316971000006119,"[M]Squamous cell carcinoma, spindle cell type",1
+317011000006112,[M]Stem cell leukaemia,1
+317041000006111,"[M]Struma ovarii, malignant",1
+291988017,[M]Subacute leukaemia NOS,1
+292009010,[M]Subacute lymphoid leukaemia,1
+317101000006113,[M]Subacute monocytic leukaemia,1
+292035011,[M]Subacute myeloid leukaemia,1
+1770481000006118,[M]Superficial basal cell carcinoma,1
+317191000006118,[M]Superficial spreading adenocarcinoma,1
+317201000006115,[M]Superficial spreading melanoma,1
+291480015,[M]Sweat gland adenocarcinoma,1
+317271000006114,[M]Sympathicoblastoma,1
+376939013,[M]Sympathicogonioma,1
+376938017,[M]Sympathogonioma,1
+1232439019,[M]Synovial sarcoma NOS,1
+317341000006113,"[M]Synovial sarcoma, biphasic type",1
+317351000006110,"[M]Synovial sarcoma, epithelioid cell type",1
+317361000006112,"[M]Synovial sarcoma, spindle cell type",1
+1232438010,[M]Synovioma NOS,1
+317411000006116,[M]Telangiectatic osteosarcoma,1
+317421000006112,"[M]Teratoblastoma, malignant",1
+317431000006110,[M]Teratocarcinoma,1
+317441000006117,[M]Teratoid medulloepithelioma,1
+1222303015,"[M]Teratoma, malignant, NOS",1
+317571000006112,[M]Thrombocytic leukaemia,1
+317611000006119,"[M]Thymoma, malignant",1
+457307018,[M]Tibial adamantinoma,1
+317651000006118,[M]Trabecular adenocarcinoma,1
+291363015,[M]Transitional cell carcinoma NOS,1
+317671000006111,[M]Transitional cell carcinoma in situ,1
+317691000006112,"[M]Transitional cell carcinoma, spindle cell type",1
+1216442018,"[M]Triton tumour, malignant",1
+1220820016,[M]True histiocytic lymphoma,1
+317821000006114,[M]Tubular adenocarcinoma,1
+317901000006110,"[M]Tumour cells, malignant",1
+291320018,[M]Unspecified tumour cell NOS,1
+318001000006113,[M]Urothelial carcinoma,1
+291344016,[M]Verrucous carcinoma NOS,1
+318051000006112,[M]Verrucous epidermoid carcinoma,1
+318081000006116,[M]Verrucous squamous cell carcinoma,1
+318101000006112,[M]Villous adenocarcinoma,1
+1227435013,[M]Vipoma,1
+318171000006118,[M]Waldenstrom's macroglobulinaemia,1
+318191000006117,[M]Water-clear cell adenocarcinoma,1
+318211000006116,[M]Wilms' tumour,1
+318231000006110,[M]Wolffian duct carcinoma,1
+318241000006117,[M]Wuchernde Struma Langhans,1
+318261000006118,[M]Yolk sac tumour,1
+907331000006114,[RFC] Bowel cancer,1
+907341000006116,[RFC] Breast cancer,1
+908781000006110,[RFC] Cancer,1
+907091000006110,[RFC] Cancer of the cervix,1
+907361000006117,[RFC] Cancer of the eye,1
+907121000006114,[RFC] Cancer of the larynx,1
+907401000006110,[RFC] Cancer of the mouth,1
+907391000006113,[RFC] Cancer of the oesophagus,1
+907041000006118,[RFC] Cancer of the ovary,1
+906971000006110,[RFC] Cancer of the prostate,1
+907001000006115,[RFC] Cancer of the rectum,1
+907371000006112,[RFC] Cancer of the stomach,1
+907021000006113,[RFC] Cancer of the testes,1
+907351000006119,[RFC] Cancer of the thyroid,1
+907061000006119,[RFC] Cancer of the uterus,1
+907101000006116,[RFC] Cancer of the vagina & vulva,1
+907291000006119,[RFC] Hodgkin's disease,1
+907271000006115,[RFC] Leukaemia,1
+907381000006110,[RFC] Liver cancer,1
+907111000006118,[RFC] Lung cancer,1
+907281000006117,[RFC] Multiple myeloma,1
+907431000006119,[RFC] Neoplasm,1
+907261000006110,[RFC] Neoplasm,1
+318991000006119,[SO] Subsidiary classification of operation sites NOS,1
+319001000006119,[SO] Subsidiary classification of operation sites OS,1
+321861000006116,[SO]Digestive tract and abdominal organs NOS,1
+321871000006111,[SO]Digestive tract or abdominal organs OS,1
+322511000006113,"[SO]Endocrine, breast and special senses NOS",1
+322521000006117,"[SO]Endocrine, breast or special senses OS",1
+328581000006116,[SO]Other operation sites and laterality,1
+328741000006117,[SO]Other specified part of respiratory tract or mouth,1
+330401000006113,[SO]Respiratory tract and mouth NOS,1
+1227549019,[V]Chemoprophylaxis,1
+461062012,[V]Chemotherapy follow-up,1
+460942013,[V]Chemotherapy session for neoplasm,1
+461065014,[V]Combined treatment follow-up,1
+461053010,[V]Convalescence after chemotherapy,1
+461052017,[V]Convalescence after radiotherapy,1
+340421000006119,[V]Follow-up exam aft combined treatment for malig neoplasm,1
+340451000006111,[V]Follow-up exam after chemotherapy for other conditions,1
+340471000006118,[V]Follow-up exam after radiotherapy for malignant neoplasm,1
+340481000006115,[V]Follow-up exam after radiotherapy for other conditions,1
+340491000006117,[V]Follow-up examin after chemotherapy for malign neoplasm,1
+340511000006111,[V]Follow-up examination aft surgery for malignant neoplasm,1
+1216381019,[V]Follow-up examination after chemotherapy for leukaemia,1
+340541000006110,[V]Folow-up exam aft other treatment for malignant neoplasm,1
+340561000006114,[V]Folow-up exam aft unspec treatment for malignant neoplasm,1
+460935013,[V]Maintenance chemotherapy,1
+460252017,[V]Other prophylactic chemotherapy,1
+928751000006112,[V]PH of cervical intraepithelial neoplasia grade II,1
+928731000006117,"[V]PH of cervical intraepithelial neoplasia, grade I",1
+928781000006116,"[V]PH of cervical intraepithelial neoplasia, grade III",1
+1780321010,[V]Personal history of mild cervical dysplasia,1
+1780258013,[V]Personal history of moderate cervical dysplasia,1
+1780259017,[V]Personal history of severe cervical dysplasia,1
+1227548010,[V]Prophylactic antibiotic,1
+461061017,[V]Radiotherapy follow-up,1
+460934012,[V]Radiotherapy session,1
+350661000006112,[X] Adverse react to antineoplastic/immunosuppress drugs NOS,1
+350891000006117,[X] Adverse reaction to actinomycin D,1
+351561000006117,[X] Adverse reaction to antineoplastic antibiotics,1
+351571000006112,[X] Adverse reaction to antineoplastic antibiotics NOS,1
+352061000006117,[X] Adverse reaction to bleomycin,1
+352151000006115,[X] Adverse reaction to busulfan,1
+352301000006116,[X] Adverse reaction to carboplatin,1
+352391000006111,[X] Adverse reaction to carmustine,1
+352621000006117,[X] Adverse reaction to chlorambucil,1
+352831000006115,[X] Adverse reaction to cisplatin,1
+353141000006114,[X] Adverse reaction to cyclophosphamide,1
+353181000006115,[X] Adverse reaction to cytarabine,1
+353561000006116,[X] Adverse reaction to doxorubicin hydrochloride,1
+353751000006110,[X] Adverse reaction to estramustine phosphate,1
+353861000006119,[X] Adverse reaction to etoposide,1
+354051000006110,[X] Adverse reaction to fluorouracil,1
+354571000006114,[X] Adverse reaction to hydroxyurea,1
+355091000006117,[X] Adverse reaction to lomustine,1
+355331000006118,[X] Adverse reaction to melphalan,1
+355381000006117,[X] Adverse reaction to mercaptopurine,1
+355531000006112,[X] Adverse reaction to methotrexate,1
+355661000006119,[X] Adverse reaction to mitomycin,1
+355671000006114,[X] Adverse reaction to mitozantrone,1
+355711000006113,[X] Adverse reaction to mustine hydrochloride,1
+357001000006115,[X] Adverse reaction to plicamycin,1
+357211000006112,[X] Adverse reaction to procarbazine,1
+357561000006112,[X] Adverse reaction to rozoxane,1
+358331000006110,[X] Adverse reaction to thiotepa,1
+358301000006119,[X] Adverse reaction to tioguanine,1
+358471000006117,[X] Adverse reaction to treosulfan,1
+358781000006110,[X] Adverse reaction to vinblastine sulphate,1
+358791000006113,[X] Adverse reaction to vincristine sulphate,1
+359271000006110,[X]2ndry malignant neoplasm/bladder+oth+unsp urinary organs,1
+359281000006113,[X]2ndry malignant neoplasm/oth+unspec parts/nervous system,1
+359291000006111,[X]2ndry+unspcf malignant neoplasm lymph nodes/multi regions,1
+363511000006114,[X]Antineoplast antimetabs caus adverse eff in therap use,1
+363521000006118,[X]Antineoplast natural prod caus adverse eff in therap use,1
+292200019,"[X]Carcinoma in situ of digestive organ, unspecified",1
+370111000006119,[X]Carcinoma in situ of oth+unspecified male genital organs,1
+292208014,[X]Carcinoma in situ of other parts of cervix,1
+292201015,[X]Carcinoma in situ of other parts of respiratory system,1
+292199017,[X]Carcinoma in situ of other specified digestive organs,1
+292212015,[X]Carcinoma in situ of other specified sites,1
+370161000006116,[X]Carcinoma in situ of other+unspcfd female genital organs,1
+370171000006111,[X]Carcinoma in situ of other+unspecified urinary organs,1
+292202010,"[X]Carcinoma in situ of respiratory system, unspecified",1
+292206013,[X]Carcinoma in situ of skin of other sites,1
+370201000006110,[X]Carcinoma in situ of skin of other+unspecified parts/face,1
+292207016,"[X]Carcinoma in situ of skin, unspecified",1
+292191019,"[X]Diffuse non-Hodgkin's lymphoma, unspecified",1
+387141000006112,[X]Follow-up examinat after chemother for other conditions,1
+387151000006114,[X]Follow-up examinat after other treatment for malig neopl,1
+387161000006111,[X]Follow-up examinat after radiother for other conditions,1
+387171000006116,[X]Follow-up examinat after unspec treatment for malig neop,1
+461348011,[X]Follow-up examination after surgery for other conditions,1
+388171000006115,[X]Glomerular disorders in neoplastic diseases CE,1
+388991000006116,"[X]HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu",1
+389011000006118,[X]HIV disease resulting in multiple diseases CE,1
+288174013,[X]HIV disease resulting in other bacterial infections,1
+288185010,[X]HIV disease resulting in other malignant neoplasms,1
+288178011,[X]HIV disease resulting in other mycoses,1
+1815001000006119,[X]HIV disease resulting in other non-Hodgkin lymphoma,1
+288182013,[X]HIV disease resulting in other non-Hodgkin's lymphoma,1
+288190013,[X]HIV disease resulting in other specified conditions,1
+288186011,[X]HIV disease resulting in unspecified malignant neoplasm,1
+288173019,[X]Human immunodeficiency virus disease,1
+299401016,[X]Hydrocephalus in neoplastic disease classified elsewhere,1
+292197015,[X]In situ neoplasms,1
+292127010,[X]Kaposi's sarcoma of multiple organs,1
+292136014,[X]Kaposi's sarcoma of other sites,1
+292128017,"[X]Kaposi's sarcoma, unspecified",1
+396091000006118,"[X]Mal neoplasm/connective+soft tissue of trunk,unspecified",1
+396101000006112,"[X]Mal neoplasm/lymphoid,haematopoietic+related tissu,unspcf",1
+396111000006110,[X]Mal neoplasm/overlap les/periph nerv+autonomic nerv systm,1
+396121000006119,[X]Mal neoplasm/overlap lesion/bone+articular cartilage/limb,1
+396131000006116,"[X]Mal neoplasm/periph nerves+autonomic nervous system,unspc",1
+396161000006113,"[X]Malig neopl, overlap lesion brain & other part of CNS",1
+396171000006118,[X]Malignant melanoma of other+unspecified parts of face,1
+292118014,"[X]Malignant melanoma of skin, unspecified",1
+396191000006117,[X]Malignant neopl/overlapping les/resp+intrathoracic organs,1
+292111015,[X]Malignant neoplasm of bone and articular cartilage,1
+292137017,[X]Malignant neoplasm of breast,1
+292105018,"[X]Malignant neoplasm of bronchus or lung, unspecified",1
+292099015,[X]Malignant neoplasm of digestive organs,1
+292156010,"[X]Malignant neoplasm of endocrine gland, unspecified",1
+396251000006115,"[X]Malignant neoplasm of eye, brain and other parts of cent",1
+292142013,"[X]Malignant neoplasm of female genital organ, unspecified",1
+292138010,[X]Malignant neoplasm of female genital organs,1
+396281000006111,"[X]Malignant neoplasm of ill-defined, secondary and unspeci",1
+292102015,"[X]Malignant neoplasm of intestinal tract, part unspecified",1
+396301000006110,"[X]Malignant neoplasm of lip, oral cavity and pharynx",1
+292146011,"[X]Malignant neoplasm of male genital organ, unspecified",1
+292143015,[X]Malignant neoplasm of male genital organs,1
+292110019,"[X]Malignant neoplasm of mediastinum, part unspecified",1
+292152012,"[X]Malignant neoplasm of meninges, unspecified",1
+292121011,[X]Malignant neoplasm of mesothelial and soft tissue,1
+292158011,[X]Malignant neoplasm of other specified sites,1
+292132011,"[X]Malignant neoplasm of peritoneum, unspecified",1
+396381000006118,[X]Malignant neoplasm of respiratory and intrathoracic orga,1
+292120012,"[X]Malignant neoplasm of skin, unspecified",1
+292154013,[X]Malignant neoplasm of thyroid and other endocrine glands,1
+292148012,"[X]Malignant neoplasm of urinary organ, unspecified",1
+292147019,[X]Malignant neoplasm of urinary tract,1
+292139019,"[X]Malignant neoplasm of uterine adnexa, unspecified",1
+292135013,[X]Malignant neoplasm overlapping lesion of skin,1
+292166019,[X]Malignant neoplasm without specification of site,1
+396461000006117,"[X]Malignant neoplasm-pluriglandular involvement,unspecified",1
+396471000006112,"[X]Malignant neoplasm/bone+articular cartilage, unspecified",1
+396481000006110,"[X]Malignant neoplasm/bones+articular cartilage/limb,unspfd",1
+396491000006113,"[X]Malignant neoplasm/central nervous system, unspecified",1
+396501000006117,"[X]Malignant neoplasm/connective + soft tissue,unspecified",1
+396511000006119,[X]Malignant neoplasm/ill-defined sites within resp system,1
+396521000006110,[X]Malignant neoplasm/other and unspecified cranial nerves,1
+396531000006113,[X]Malignant neoplasm/other specified female genital organs,1
+396541000006115,[X]Malignant neoplasm/other specified male genital organs,1
+396551000006118,[X]Malignant neoplasm/overlap lesion/bone+articulr cartilage,1
+396561000006116,"[X]Malignant neoplasm/overlap lesion/heart,mediastinm+pleura",1
+396571000006111,[X]Malignant neoplasm/overlap lesion/other+ill-defined sites,1
+396581000006114,[X]Malignant neoplasm/overlapping lesion/feml genital organs,1
+396591000006112,[X]Malignant neoplasm/overlapping lesion/male genital organs,1
+396601000006116,"[X]Malignant neoplasm/peripheral nerves of trunk,unspecified",1
+396611000006118,"[X]Malignant neoplasm/upper resp tract, part unspecified",1
+396621000006114,"[X]Malignant neoplasms of lymphoid, haematopoietic and rela",1
+396631000006112,[X]Malignant neoplasms/independent (primary) multiple sites,1
+396641000006119,[X]Malignant neoplasms/independent(primary)multiple sites,1
+396651000006117,[X]Malignant neoplsm/ill-defin sites within digestive system,1
+292116013,[X]Melanoma and other malignant neoplasms of skin,1
+292203017,[X]Melanoma in situ of other and unspecified parts of face,1
+292204011,[X]Melanoma in situ of other sites,1
+292213013,"[X]Melanoma in situ, unspecified",1
+398291000006110,[X]Mesothelioma of lung,1
+403762019,[X]Mesothelioma of other sites,1
+292126018,"[X]Mesothelioma, unspecified",1
+461382017,[X]Need for other prophylactic chemotherapy,1
+399621000006119,"[X]Neo/uncertn+unknwn behav/lymph,h'matopetc+rel tiss,unspcf",1
+399811000006111,[X]Nerve root+plexus compressions in neoplastic disease CE,1
+400011000006119,[X]Non-Hodgkin's lymphoma NOS,1
+406154013,"[X]Non-Hodgkin's lymphoma, unspecified type",1
+404441000006117,[X]Oth and unspecif peripheral & cutaneous T-cell lymphomas,1
+404801000006116,[X]Oth malignant neoplasm/skin of oth+unspecfd parts of face,1
+405081000006118,"[X]Oth spcf mal neoplsm/lymphoid,haematopoietic+rltd tissue",1
+405501000006119,[X]Oth systemic atrophy affecting CNS in neoplastc diseas CE,1
+292169014,[X]Other Hodgkin's disease,1
+406831000006117,[X]Other antineoplast drugs caus adverse eff in therap use,1
+292214019,[X]Other carcinoma in situ of breast,1
+461426018,[X]Other chemotherapy,1
+292185016,[X]Other leukaemia of unspecified cell type,1
+292177013,[X]Other lymphoid leukaemia,1
+292175017,[X]Other malignant immunoproliferative diseases,1
+292181013,[X]Other monocytic leukaemia,1
+412051000006115,[X]Other myasthenic syndromes in neoplastic disease CE,1
+292178015,[X]Other myeloid leukaemia,1
+292100011,[X]Other sarcomas of the liver,1
+292101010,[X]Other specified carcinomas of liver,1
+292182018,[X]Other specified leukaemias,1
+292174018,[X]Other specified types of non-Hodgkin's lymphoma,1
+292173012,[X]Other types of diffuse non-Hodgkin's lymphoma,1
+292170010,[X]Other types of follicular non-Hodgkin's lymphoma,1
+299306010,[X]Paraneoplastic neuromyopathy and neuropathy,1
+420481000006112,"[X]Personl hist/oth mal neop/lymphd,h'matopoietc+relat tissu",1
+424811000006114,[X]Renal tubulo-interstitial disordrs/neoplastic diseases CE,1
+292165015,[X]Secondary malignant neoplasm of other specified sites,1
+425771000006113,[X]Secondary malignant neoplasm/oth+unspc respiratory organs,1
+425781000006111,[X]Secondary malignant neoplasm/oth+unspcfd digestive organs,1
+305268019,"[X]Severe vaginal dysplasia, not elsewhere classified",1
+305269010,"[X]Severe vulvar dysplasia, not elsewhere classified",1
+292193016,[X]Unspecified B-cell non-Hodgkin's lymphoma,1
+288191012,[X]Unspecified human immunodeficiency virus [HIV] disease,1

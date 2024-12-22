@@ -1,0 +1,42 @@
+medcodeid,readterm,hf
+18472010,Acute congestive heart failure,1
+94251011,Acute heart failure,1
+300190010,Acute left ventricular failure,1
+510016018,Biventricular failure,1
+4005301000006110,Biventricular failure,1
+3182551000006115,CCF - Congestive cardiac failure,1
+3182561000006118,CHF - Congestive heart failure,1
+139482012,Cardiac failure,1
+223981000000118,Cardiac failure NOS,1
+3868351000006116,Cardiac insufficiency,1
+147247018,Chronic congestive heart failure,1
+300180019,Compensated cardiac failure,1
+493287011,Congestive cardiac failure,1
+3182541000006117,Congestive cardiac failure,1
+3182531000006110,Congestive heart disease,1
+70653017,Congestive heart failure,1
+2675255018,Congestive heart failure due to valvular disease,1
+300179017,Decompensated cardiac failure,1
+3868341000006118,HF - Heart failure,1
+1661371000000112,HFNEF - heart failure with normal ejection fraction,1
+139475013,Heart failure,1
+395772015,Heart failure NOS,1
+350484012,Heart failure as a complication of care,1
+1647701000000118,Heart failure with normal ejection fraction,1
+7321121000006119,Heart failure with preserved ejection fraction,1
+2227501000000110,Heart failure with preserved ejection fraction,1
+3886071000006114,LVF - Left ventricular failure,1
+3886041000006118,Left heart failure,1
+141306010,Left ventricular failure,1
+3886061000006119,Left-sided heart failure,1
+3868311000006117,Myocardial failure,1
+2616470012,New York Heart Association Classification - Class I,1
+2616471011,New York Heart Association Classification - Class II,1
+2616472016,New York Heart Association Classification - Class III,1
+2616473014,New York Heart Association Classification - Class IV,1
+72934016,Rheumatic left ventricular failure,1
+206703015,Right heart failure,1
+490972013,Right ventricular failure,1
+1816101000006113,Right ventricular failure,1
+139481017,Weak heart,1
+3868321000006113,Weak heart,1

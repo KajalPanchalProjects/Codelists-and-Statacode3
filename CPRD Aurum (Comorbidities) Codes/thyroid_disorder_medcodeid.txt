@@ -1,0 +1,89 @@
+medcodeid,readterm,thy
+356012016,Acquired atrophy of thyroid,1
+178809013,Acquired hypothyroidism,1
+881391000006112,Acquired hypothyroidism NOS,1
+988831000006119,Acquired hypothyroidism NOS,1
+355964016,Autoimmune myxoedema,1
+312190010,Brown tumour of hyperparathyroidism,1
+292373016,Congenital hypothyroidism,1
+398783013,Congenital hypothyroidism NOS,1
+2694639017,Congenital hypothyroidism screening declined,1
+2421021000000119,Congenital hypothyroidism screening related finding,1
+1780191013,Congenital hypothyroidism screening test,1
+415432015,Congenital hypothyroidism with diffuse goitre,1
+355957018,Congenital hypothyroidism without goitre,1
+588661000006115,Congenital thyroid insufficiency,1
+600791000006112,Cretinism,1
+329968011,Cretinism,1
+166251000000116,DNA - Did not attend hyperthyroidism clinic,1
+958231000006113,DNA - Did not attend hypothyroidism clinic,1
+49080014,Ectopic hyperparathyroidism,1
+415431010,Goitrous cretin,1
+251587014,H/O: hyperthyroidism,1
+251589012,H/O: hypothyroidism,1
+111289013,Hyperparathyroidism,1
+57561015,Hyperthyroidism,1
+292683010,Hypoparathyroidism NOS,1
+355961012,"Hypothyroid goitre, acquired",1
+68268011,Hypothyroidism,1
+398784019,Hypothyroidism NOS,1
+637341000000118,Hypothyroidism annual review,1
+2474336017,Hypothyroidism clinical management plan,1
+1823931000006116,Hypothyroidism confirmed,1
+939981000006114,Hypothyroidism medication review,1
+940091000006115,Hypothyroidism monitoring administration,1
+225971000000116,Hypothyroidism monitoring administration,1
+2533422017,Hypothyroidism monitoring first letter,1
+940101000006114,Hypothyroidism monitoring invite 1,1
+940111000006112,Hypothyroidism monitoring invite 2,1
+940121000006116,Hypothyroidism monitoring invite 3,1
+2533534011,Hypothyroidism monitoring second letter,1
+406721000000115,Hypothyroidism monitoring telephone invitation,1
+2533420013,Hypothyroidism monitoring third letter,1
+2548835019,Hypothyroidism monitoring verbal invite,1
+292401017,Hypothyroidism resulting from para-aminosalicylic acid,1
+292402012,Hypothyroidism resulting from phenylbutazone,1
+292403019,Hypothyroidism resulting from resorcinol,1
+881381000006114,Hypothyroidism-congen.+ acqui.,1
+292404013,Iatrogenic hypothyroidism NOS,1
+356185013,Idiopathic hypoparathyroidism,1
+292397013,Iodine hypothyroidism,1
+292395017,Irradiation hypothyroidism,1
+297588017,Myasthenic syndrome due to hypothyroidism,1
+493538010,Myxoedema,1
+106351014,Neonatal hypoparathyroidism,1
+316625012,Neonatal jaundice with congenital hypothyroidism,1
+1874471000006114,Newborn blood spot outcome status (congenital hypothyroidism),1
+292408011,Other acquired hypothyroidism,1
+292400016,Other iatrogenic hypothyroidism,1
+292394018,Other postablative hypothyroidism,1
+292376012,Other specified congenital hypothyroidism,1
+216181000006112,Post ablative hypothyroidism,1
+292396016,Postablative hypothyroidism NOS,1
+211321000006115,Postinfectious hypothyroidism,1
+212401000006110,Postsurgical hypoparathyroidism,1
+2536050019,Postsurgical hypothyroidism,1
+292417011,Premature puberty due to hypothyroidism,1
+208391000006113,Pretibial myxoedema - hypothyroid,1
+60663012,Primary hyperparathyroidism,1
+498253016,Pseudohypoparathyroidism,1
+356191010,Pseudopseudohypoparathyroidism,1
+151534010,Secondary hyperparathyroidism,1
+1539151000006110,Secondary hypothyroidism,1
+2694980014,Subclinical hyperthyroidism,1
+1842051000006119,Subclinical hyperthyroidism,1
+933261000006110,Subclinical hypothyroidism,1
+91116012,Subclinical hypothyroidism,1
+988821000006117,Subclinical hypothyroidism,1
+123651000006111,Subclinical iodine-deficiency hypothyroidism,1
+2693005013,Suspected congenital hypothyroidism,1
+1834931000006117,Suspected congenital hypothyroidism,1
+1757291000006118,Suspected hypothyroidism,1
+1707531000000116,Suspected hypothyroidism,1
+129770011,Tertiary hyperparathyroidism,1
+101171000006116,Thyroid deficiency,1
+101581000006112,Thyroid insufficiency,1
+905741000006112,[RFC] Hyperthyroidism,1
+293766019,[X]Other hyperparathyroidism,1
+293765015,[X]Other hypoparathyroidism,1
+413721000006119,[X]Other sp cified hypothyroidism,1

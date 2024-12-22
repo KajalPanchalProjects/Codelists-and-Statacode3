@@ -1,0 +1,241 @@
+medcodeid,readterm,current,alcohol
+106878015,Alcohol detoxification,current,1
+110629012,Chronic alcoholism,current,1
+117761000006116,Suspect alcohol abuse - denied,current,1
+1221271018,Alcohol consumption,current,1
+12878014,Alcoholism,current,1
+138527014,Alcoholic cardiomyopathy,current,1
+14103017,Alcoholic polyneuropathy,current,1
+144179014,Heavy drinker,current,1
+1484890014,Referral to community alcohol team,current,1
+15243013,Alcohol withdrawal delirium,current,1
+1538911000006119,Structured alcohol intervention,current,1
+1662551000006113,Dental recall - excessive alcohol use,current,1
+1675391000006112,Referral by community alcohol team,current,1
+1680121000006110,Brief intervention for excessive alcohol consumptn completed,current,1
+1680131000006113,Extended intervention for excessive alcohol consumptn complt,current,1
+1704281000006117,Brief intervention for excessive alcohol consumptn declined,current,1
+1724531000000116,Advised to abstain from alcohol consumption,current,1
+1738341000000110,Increasing risk drinking,current,1
+1738381000000119,Higher risk drinking,current,1
+1738421000000111,Lower risk drinking,current,1
+17390014,Acute alcoholic hepatitis,current,1
+1745961000006111,Extended intervention for excessive alcohol consumption declined,current,1
+1746481000000112,Referral to community alcohol team declined,current,1
+1754191000006119,Extended interven for excessive alcohol consumption declined,current,1
+1806211000006115,Unsuccessful attempts to reduce alcohol consumption,current,1
+1808601000006116,OATP - Outpatient alcohol treatment program,current,1
+1841341000006113,Epworth score - sitting quietly after lunch without alcohol,non,1
+1899441000006114,AUDIT score-freq unable to stop drinking when started in last yr,current,1
+1899471000006118,AUDIT score-freq of guilt or remorse after drinking in last year,current,1
+1899491000006117,AUDIT score - injury to self/other as a result of drinking,current,1
+1899501000006113,AUDIT score - others concerned about drinking/suggest cut down,current,1
+1926131000006117,Refer to MH services deferred until alcohol misuse resolved,current,1
+1954461000006112,Psychiatry/ toxicology/ drug and alcohol (primary group),current,1
+1955011000006117,Drug/ alcohol (secondary group),current,1
+1957791000006115,Reduced alcohol intake,current,1
+1972151000006110,"Mental & behav dis due to use alcohol: acute intoxication, uncomplicated",current,1
+1972161000006112,"Mental & behav dis due to use alcohol: acute intoxication, with trauma or other bodily injury",current,1
+1972271000006112,"Mental & behav dis due to use alcohol: acute intoxication, with other medical complications",current,1
+1973241000006113,"Mental & behav dis due to use alcohol: acute intoxication, with delirium",current,1
+1973321000006113,"Mental & behav dis due to use alcohol: acute intoxication, with perceptual distortions",current,1
+1973411000006110,"Mental & behav dis due to use alcohol: acute intoxication, with coma",current,1
+1973441000006114,"Mental & behav dis due to use alcohol: acute intoxication, with convulsions",current,1
+1973481000006115,"Mental & behav dis due to use alcohol: acute intoxication, pathological intoxication",current,1
+1973701000006119,"Mental and behav dis due to use alcohol: dependence syndr, currently abstinent",current,1
+1973811000006113,"Mental and behav dis due to use alcohol: dependence syndr, currently abstinent, but in a protected environment",current,1
+1973871000006116,"Mental and behav dis due to use alcohol: dependence syndr, currently on a clinically supervised maintenance or replacement regime [controlled dependence]",current,1
+1974021000006112,"Mental and behav dis due to use alcohol: dependence syndr, currently abstinent, but receiving treatment with aversive or blocking drugs",current,1
+1974071000006113,"Mental and behav dis due to use alcohol: dependence syndr, currently using the substance [active dependence]",current,1
+1974111000006117,"Mental and behav dis due to use alcohol: dependence syndr, continuous use",current,1
+1974141000006118,"Mental and behav dis due to use alcohol: dependence syndr, episodic use [dipsomania]",current,1
+1974191000006110,"Mental and behav dis due to use alcohol: withdrawal state, uncomplicated",current,1
+1974231000006117,"Mental and behav dis due to use alcohol: withdrawal state, with convulsions",current,1
+1974301000006117,"Mental & behav dis due to use alcohol: withdrawl state with delirium, without convulsions",current,1
+1974521000006117,"Mental & behav dis due to use alcohol: withdrawl state with delirium, with convulsions",current,1
+1975141000006117,"Mental & behav dis due to use alcohol: psychotic disorder, schizophrenia-like",current,1
+1975181000006111,"Mental & behav dis due to use alcohol: psychotic disorder, predominantly delusional",current,1
+1975291000006117,"Mental & behav dis due to use alcohol: psychotic disorder, predominantly hallucinatory",current,1
+1975341000006119,"Mental & behav dis due to use alcohol: psychotic disorder, predominantly polymorphic",current,1
+1975371000006110,"Mental & behav dis due to use alcohol: psychotic disorder, predominantly depressive symptoms",current,1
+1975411000006111,"Mental & behav dis due to use alcohol: psychotic disorder, predominantly manic symptoms",current,1
+1975461000006114,"Mental & behav dis due to use alcohol: psychotic disorder, mixed",current,1
+1975511000006112,"Mental & behav dis due to use alcohol: resid & late-onset psychot dis, flashbacks",current,1
+1975541000006111,"Mental & behav dis due to use alcohol: resid & late-onset psychot dis, personality or behaviour disorder",current,1
+1975591000006119,"Mental & behav dis due to use alcohol: resid & late-onset psychot dis, dementia",current,1
+1975661000006111,"Mental & behav dis due to use alcohol: resid & late-onset psychot dis, residual affective disorder",current,1
+1976071000006119,"Mental & behav dis due to use alcohol: resid & late-onset psychot dis, other persisting cognitive impairment",current,1
+1976111000006110,"Mental & behav dis due to use alcohol: resid & late-onset psychot dis, late-onset psychotic disorder",current,1
+2007461000006118,SRH care activity - alcohol brief intervention,current,1
+216585018,Under care of community alcohol team,current,1
+217461000000118,Current non drinker,non,1
+2222181000000110,Declines to state current alcohol consumption,current,1
+223671000000110,Hangover (alcohol),current,1
+226571000000116,Alcohol misuse - enhanced service completed,current,1
+240741000006114,Patient advised about alcohol,current,1
+2419601000000110,Specialist alcohol treatment service signposted,current,1
+2454281000000112,Hospital attendance related to personal alcohol consumption,current,1
+2462911000000112,Withdrawn from alcohol detoxification programme,current,1
+250312016,Light drinker - 1-2u/day,current,1
+250313014,Moderate drinker - 3-6u/day,current,1
+250314015,Heavy drinker - 7-9u/day,current,1
+250316018,Very heavy drinker - >9u/day,current,1
+250317010,Stopped drinking alcohol,ex,1
+250321015,Ex-trivial drinker (<1u/day),ex,1
+250322010,Ex-light drinker - (1-2u/day),ex,1
+250323017,Ex-moderate drinker - (3-6u/d),ex,1
+250324011,Ex-heavy drinker - (7-9u/day),ex,1
+250329018,Ex-very heavy drinker-(>9u/d),ex,1
+250331010,Spirit drinker,current,1
+250332015,Beer drinker,current,1
+250333013,Drinks beer and spirits,current,1
+250334019,Drinks wine,current,1
+250335018,Alcohol intake above recommended sensible limits,current,1
+250340014,Alcohol intake within recommended sensible limits,current,1
+251195015,Alcoholics anonymous,current,1
+251626014,H/O: alcoholism,current,1
+2532939017,Alcohol consumption counselling,current,1
+2534258017,Alcohol counselling by other agencies,current,1
+254305017,O/E - breath - alcohol smell,current,1
+254306016,O/E - alcoholic breath,current,1
+2549646014,Referral to community drug and alcohol team,current,1
+2549849017,Alcohol induced hallucinations,current,1
+263572010,Maternal alcohol abuse,current,1
+283028013,Alcohol leaflet given,current,1
+283451018,Aversion therapy - alcoholism,current,1
+283559019,Admitted to alcohol detoxification centre,current,1
+291352018,Non-drinker alcohol,non,1
+294662017,Korsakov's alcoholic psychosis with peripheral neuritis,current,1
+294664016,Alcohol amnestic syndrome NOS,current,1
+294668018,Chronic alcoholic brain syndrome,current,1
+294669014,Alcohol withdrawal hallucinosis,current,1
+294671014,Pathological alcohol intoxication,current,1
+294672019,Alcoholic paranoia,current,1
+294673012,Other alcoholic psychosis,current,1
+294674018,Alcohol withdrawal syndrome,current,1
+294675017,Other alcoholic psychosis NOS,current,1
+294676016,Alcoholic psychosis NOS,current,1
+295126010,Alcohol dependence with acute alcoholic intoxication,current,1
+295127018,Acute alcoholic intoxication in alcoholism,current,1
+295128011,"Acute alcoholic intoxication, unspecified, in alcoholism",current,1
+295129015,Continuous acute alcoholic intoxication in alcoholism,current,1
+295130013,Episodic acute alcoholic intoxication in alcoholism,current,1
+295131012,"Acute alcoholic intoxication in remission, in alcoholism",current,1
+295132017,Acute alcoholic intoxication in alcoholism NOS,current,1
+295136019,Unspecified chronic alcoholism,current,1
+295139014,Continuous chronic alcoholism,current,1
+295141010,Episodic chronic alcoholism,current,1
+295142015,Chronic alcoholism in remission,current,1
+295143013,Chronic alcoholism NOS,current,1
+295144019,Alcohol dependence syndrome NOS,current,1
+295251015,"Nondependent alcohol abuse, unspecified",current,1
+295252010,"Nondependent alcohol abuse, continuous",current,1
+295253017,"Nondependent alcohol abuse, episodic",current,1
+295254011,Nondependent alcohol abuse in remission,current,1
+295255012,Nondependent alcohol abuse NOS,current,1
+295765017,[X]Mental and behavioural disorders due to use of alcohol,current,1
+297011014,Alcoholic encephalopathy,current,1
+299061000000117,Hazardous alcohol use,current,1
+299081000000114,Harmful alcohol use,current,1
+303456012,Other non-alcoholic chronic liver disease,current,1
+306615012,Maternal care for (suspected) damage to fetus from alcohol,current,1
+3122331000006110,Patient referral for alcoholism rehabilitation,current,1
+315091000000117,[X]Alcohol withdrawal-induced seizure,current,1
+315571015,Fetal alcohol syndrome,current,1
+315575012,Fetus and newborn affected by maternal use of alcohol,current,1
+324488015,Other alcohol causing toxic effect,current,1
+328738016,Accidental poisoning by alcoholic beverages,current,1
+328760018,Accidental poisoning by alcohol NOS,current,1
+342320016,Light drinker,current,1
+342322012,Very heavy drinker,current,1
+342366014,Binge drinker,current,1
+342421016,Feels should cut down drinking,current,1
+346501000006111,[V]Problems related to lifestyle alcohol use,current,1
+346929012,Alcoholic dementia NOS,current,1
+353594015,Alcoholic fibrosis and sclerosis of liver,current,1
+353595019,Alcoholic hepatic failure,current,1
+353698013,Alcohol-induced chronic pancreatitis,current,1
+355467015,Suspect fetal damage from maternal alcohol,current,1
+360481000006111,[X]Accid pois/expos to alcohol other spec place,current,1
+362251000006117,[X]Acute alcoholic drunkenness,current,1
+362921000006118,[X]Alcohol addiction,current,1
+362941000006113,[X]Alcoholic dementia NOS,current,1
+362961000006112,[X]Alcoholic jealousy,current,1
+362971000006117,[X]Alcoholic paranoia,current,1
+362981000006119,[X]Alcoholic psychosis NOS,current,1
+370961000006119,[X]Chronic alcoholic brain syndrome,current,1
+370971000006114,[X]Chronic alcoholism,current,1
+371501000000110,Delivery of rehabilitation for alcohol addiction,current,1
+376451000006113,"[X]Delirium tremens, alcohol induced",current,1
+380031000006116,[X]Evid of alcohol involv determind by level of intoxication,current,1
+3890681000006118,Uncomplicated alcohol withdrawal,current,1
+393311000006117,[X]Intent self pois alcohol in street/highway,current,1
+393591000006118,[X]Intent self poison alcohol at res institut,current,1
+394681000006119,"[X]Korsakov's psychosis, alcohol induced",current,1
+397241000006119,[X]Men & behav dis due to use alcohol: oth men & behav dis,current,1
+397431000006111,[X]Ment & behav dis due use alcohol: unsp ment & behav dis,current,1
+397611000006115,[X]Mental & behav dis due to use alcohol: acute intoxication,current,1
+397621000006111,[X]Mental & behav dis due to use alcohol: psychotic disorder,current,1
+397729013,Trivial drinker - <1u/day,current,1
+397791000006118,[X]Mental and behav dis due to use alcohol: amnesic syndrome,current,1
+397801000006117,[X]Mental and behav dis due to use alcohol: dependence syndr,current,1
+397811000006119,[X]Mental and behav dis due to use alcohol: withdrawal state,current,1
+397881000006114,[X]Mental and behav dis due to use of alcohol: harmful use,current,1
+401760017,Other alcoholic dementia,current,1
+401797010,Nondependent alcohol abuse,current,1
+409424013,SADQ - Severity of alcohol dependence questionnaire,current,1
+451124014,Chronic alcoholic hepatitis,current,1
+4525015,Alcoholic gastritis,current,1
+453265010,Oesophageal varices in alcoholic cirrhosis of the liver,current,1
+459715013,Pain in lymph nodes after alcohol consumption,current,1
+460276013,[V]Personal history of alcoholism,current,1
+47085011,Social drinker,current,1
+476361000006114,Alcohol amnestic syndrome,current,1
+476611000006116,Alcoholic cirrhosis of liver,current,1
+476701000006114,Alcoholic myopathy,current,1
+476741000006111,Alcoholic psychoses,current,1
+478024019,Alcohol-induced epilepsy,current,1
+478046010,Cerebellar ataxia due to alcoholism,current,1
+480271000000113,Disqualified from driving due to excess alcohol,current,1
+500478011,Alcohol dependence syndrome,current,1
+500729017,Alcohol causing toxic effect,current,1
+502017010,Alcohol problem drinking,current,1
+542611000006114,Cerebral degeneration due to alcoholism,current,1
+587231000006111,Non drinker alcohol,non,1
+606991000000117,Alcohol misuse,current,1
+622961000000116,Referral to specialist alcohol treatment service,current,1
+629811000006113,Drinks occasionally,current,1
+629821000006117,Drinks rarely,current,1
+669211000006118,Fetal alcohol syndrome,current,1
+6881361000006118,Suspected alcohol abuse,current,1
+7264381000006117,Referral to specialist alcohol treatment service declined by patient,current,1
+73012011,Moderate drinker,current,1
+7382961000006113,Assessment using alcohol use disorders identification test,current,1
+739501000000112,Advised to contact primary care alcohol worker,current,1
+740641000000115,Referral to alcohol brief intervention service,current,1
+750531000000113,Declined referral to specialist alcohol treatment service,current,1
+753331000006118,Korsakov's alcoholic psychosis,current,1
+769451000006111,Intoxication - alcohol,current,1
+817981000006115,Health ed. - alcohol,current,1
+831091000006115,Referral to alcohol abuse team,current,1
+831101000006114,Referral to alcohol counsellor,current,1
+8364771000006117,Injury following alcohol use,current,1
+851931000006116,Referral to alcohol recovery project,current,1
+852151000006117,AUDIT score >5 alcohol dependence syndrome,current,1
+852161000006115,AUDIT score >5 alcohol problem drinker,current,1
+852391000006113,Not interested in reducing alcohol,current,1
+852401000006110,Ready to start reducing alcohol,current,1
+852411000006113,Thinking about reducing alcohol,current,1
+855071000006115,Grade A none drinker or rare,non,1
+882221000006114,Other alcoholic psychoses,current,1
+882531000006110,Non-dependent abuse of alcohol,current,1
+899411000006110,Toxic effects of alcohol,current,1
+923621000006117,Health ed. - alcohol,current,1
+936001000006111,Lifestyle advice regarding alcohol,current,1
+940781000006116,Evidence of alcohol withdrawal,current,1
+961571000006111,Excessive use of alcohol,current,1
+15244019,Delirium tremens,current,1
+291355016,Teetotaller,non ,1
+294670010,Drunkenness-pathological,current,1
+501294012,Wernicke-Korsakov syndrome ,current,1
+507053019,DTs-delirium tremens,current,1

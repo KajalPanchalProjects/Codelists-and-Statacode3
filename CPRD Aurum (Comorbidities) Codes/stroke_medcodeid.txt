@@ -1,0 +1,123 @@
+medcodeid,readterm,stroke
+300363010,Anterior cerebral artery syndrome,1
+4777811000006117,Basal ganglia hemorrhage,1
+6837061000006117,Basal ganglion infarct,1
+6837051000006119,Basal ganglion stroke,1
+503791000006114,Basal nucleus haemorrhage,1
+3964611000006111,Binswanger's dementia,1
+149347010,Binswanger's disease,1
+1235534016,Binswanger's encephalopathy,1
+4057031000006117,Brain stem infarct,1
+4057041000006110,Brain stem stroke,1
+524511000006116,Brain stem stroke syndrome,1
+524541000006117,Brainstem infarction,1
+345650013,Brainstem infarction NOS,1
+483988011,Bulbar haemorrhage,1
+3662331000006119,CT - Cerebral thrombosis,1
+605491000006113,CVA - Cerebrovascular accident unspecified,1
+605461000006117,CVA - cerebral artery occlusion,1
+605471000006112,CVA - cerebrovascular accid due to intracerebral haemorrhage,1
+605481000006110,CVA - cerebrovascular accident in the puerperium,1
+605501000006117,CVA unspecified,1
+542251000006112,"Cereb infarct due cerebral venous thrombosis, nonpyogenic",1
+542261000006114,Cereb infarct due unsp occlus/stenos precerebr arteries,1
+502878012,Cerebellar haemorrhage,1
+3719851000006116,Cerebellar hemorrhage,1
+158118014,Cerebellar infarction,1
+300366019,Cerebellar stroke syndrome,1
+3728451000006116,Cerebral arterial embolism,1
+1222398015,Cerebral arterial occlusion,1
+3662321000006117,Cerebral arterial thrombosis,1
+125470015,Cerebral embolism,1
+542831000006116,Cerebral embolus,1
+989201000006117,Cerebral haemorrhage,1
+884421000006119,Cerebral haemorrhage,1
+989211000006119,Cerebral haemorrhage NOS,1
+12762021000006116,Cerebral hemorrhage,1
+13031191000006112,Cerebral hemorrhage,1
+300312010,Cerebral infarct due to thrombosis of precerebral arteries,1
+395780010,Cerebral infarction NOS,1
+300322016,Cerebral infarction due to embolism of cerebral arteries,1
+300313017,Cerebral infarction due to embolism of precerebral arteries,1
+300321011,Cerebral infarction due to thrombosis of cerebral arteries,1
+118689010,Cerebral thrombosis,1
+543141000006110,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,1
+5011021000006113,Cerebrovascular accident due to cerebral artery occlusion,1
+11878511000006113,Cerebrovascular accident due to occlusion of cerebral artery,1
+3964671000006119,Chronic progressive subcortical encephalopathy,1
+495394013,Cortical haemorrhage,1
+3299621000006119,Cortical hemorrhage,1
+3964621000006115,Encephalitis subcorticalis chronica,1
+300276019,External capsule haemorrhage,1
+4777831000006111,External capsule hemorrhage,1
+7951271000006116,Haemorrhage of medulla oblongata,1
+3719861000006119,Haemorrhagic cerebellum,1
+7951281000006118,Hemorrhage of medulla oblongata,1
+3719871000006114,Hemorrhagic cerebellum,1
+12223121000006111,ICH - intracerebral haemorrhage,1
+12223131000006114,ICH - intracerebral hemorrhage,1
+218511000000117,Infarction - cerebral,1
+345639010,Infarction - precerebral,1
+2474651019,Infarction of basal ganglia,1
+4057051000006112,Infarction of brain stem,1
+3778011000006112,Inferior cerebellar artery syndrome,1
+496232015,Internal capsule haemorrhage,1
+3346051000006110,Internal capsule hemorrhage,1
+12223101000006118,Intracerebral haemorrhage,1
+744901000006114,Intracerebral haemorrhage,1
+300287010,Intracerebral haemorrhage NOS,1
+744921000006116,"Intracerebral haemorrhage in hemisphere, unspecified",1
+4777881000006112,"Intracerebral haemorrhage, multiple localised",1
+746571000006116,"Intracerebral haemorrhage, multiple localized",1
+12223111000006115,Intracerebral hemorrhage,1
+5560161000006111,Intracerebral hemorrhage (ICH),1
+4777891000006110,"Intracerebral hemorrhage, multiple localized",1
+2622631000006114,Intrapontine haemorrhage,1
+2622641000006116,Intrapontine hemorrhage,1
+5011171000006110,LACI - Lacunar infarction,1
+5011181000006113,LI - Lacunar infarction,1
+3778021000006116,LMS - Lateral medullary syndrome,1
+5011161000006115,Lacunar stroke,1
+130375018,Lateral medullary syndrome,1
+300370010,Left sided CVA,1
+4778181000006119,Left sided cerebral hemisphere cerebrovascular accident,1
+451133011,Left sided cerebral infarction,1
+748941000006115,"Left sided intracerebral haemorrhage, unspecified",1
+345675012,Lobar cerebral haemorrhage,1
+5011401000006110,Lobar cerebral hemorrhage,1
+300362017,Middle cerebral artery syndrome,1
+2818821000006111,Occlusion of cerebral artery,1
+1212072018,Occlusive stroke,1
+503469016,Pontine haemorrhage,1
+2622651000006119,Pontine hemorrhage,1
+300364016,Posterior cerebral artery syndrome,1
+3777981000006119,Posterior inferior cerebellar artery syndrome,1
+5011191000006111,Pure motor lacunar infarction,1
+345655015,Pure motor lacunar syndrome,1
+5011211000006112,Pure sensory lacunar infarction,1
+345658018,Pure sensory lacunar syndrome,1
+300371014,Right sided CVA,1
+4778201000006118,Right sided cerebral hemisphere cerebrovascular accident,1
+451134017,Right sided cerebral infarction,1
+12722481000006116,"Right sided intracerebral haemorrhage, unspecified",1
+5010981000006119,Stroke,1
+405339016,Stroke and cerebrovascular accident unspecified,1
+122361000006113,Stroke due to cerebral arterial occlusion,1
+11903571000006110,Stroke due to intracerebral haemorrhage,1
+122371000006118,Stroke due to intracerebral haemorrhage,1
+411416011,Stroke in the puerperium,1
+122401000006115,Stroke unspecified,1
+3964651000006112,Subcortical arteriosclerotic encephalopathy,1
+3964661000006114,Subcortical atherosclerotic dementia,1
+3964591000006117,Subcortical leucoencephalopathy,1
+3964601000006113,Subcortical leukoencephalopathy,1
+3662311000006113,Thrombosis of cerebral arteries,1
+57341000006119,Wallenberg syndrome,1
+370661000006114,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,1
+370701000006118,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,1
+300956017,"[X]Intracerebral haemorrhage in hemisphere, unspecified",1
+300943012,[X]Occlusion and stenosis of other cerebral arteries,1
+300941014,[X]Other cerebral infarction,1
+300939013,[X]Other intracerebral haemorrhage,1
+11919571000006110,[X]Other intracerebral haemorrhage,1
+299342019,[X]Other lacunar syndromes,1

@@ -1,0 +1,164 @@
+medcodeid,readterm,cld
+3269016,Agenesis of bile duct,1
+314033011,Agenesis of hepatic ducts,1
+53033015,Alagille syndrome,1
+476611000006116,Alcoholic cirrhosis of liver,1
+353594015,Alcoholic fibrosis and sclerosis of liver,1
+353595019,Alcoholic hepatic failure,1
+1222437010,Alper's disease,1
+221941000000113,Atresia of bile duct,1
+314034017,Atresia of hepatic ducts,1
+303404016,Autoimmune chronic active hepatitis,1
+2159899016,Autoimmune hepatitis,1
+500401000006116,Auxillary liver transplant,1
+303437019,Bacterial portal cirrhosis,1
+511611000006113,Bile duct atresia,1
+128627011,Biliary atresia,1
+314035016,Biliary atresia NOS,1
+4044018,Biliary cirrhosis,1
+303453016,Biliary cirrhosis NOS,1
+303452014,Biliary cirrhosis of children,1
+352567014,Blakemore intubation of oesophagus,1
+303425016,Capsular portal cirrhosis,1
+396391011,Cardiac portal cirrhosis,1
+303438012,Cardituberculous cirrhosis,1
+550431000006116,Childhood function cirrhosis,1
+303401012,Chronic active hepatitis,1
+553311000006111,Chronic aggressive hepatitis,1
+451124014,Chronic alcoholic hepatitis,1
+127487019,Chronic hepatitis,1
+303410016,Chronic hepatitis NOS,1
+683211000000113,Chronic hepatitis annual review,1
+1680591000006117,Chronic hepatitis annual review - enhanced services admin,1
+303409014,Chronic hepatitis unspecified,1
+303465017,Chronic liver disease NOS,1
+95368015,Chronic lobular hepatitis,1
+69895016,Chronic persistent hepatitis,1
+17930015,Chronic viral hepatitis,1
+1232261014,Chronic viral hepatitis B,1
+353580016,Chronic viral hepatitis B with delta-agent,1
+286879013,Chronic viral hepatitis B without delta-agent,1
+557071000006112,Chronic viral hepatitis C,1
+557081000006110,"Chronic viral hepatitis, unspecified",1
+221111000000114,Cirrhosis - non alcoholic,1
+303393017,Cirrhosis and chronic liver disease,1
+353613017,Cirrhosis of liver NOS,1
+1763641000006113,Cirrhosis of liver due to cystic fibrosis,1
+85961019,Cirrhosis of lung,1
+538081000000115,Compensation for liver failure,1
+538101000000114,Compensation for liver failure NOS,1
+3268012,Congenital absence of bile duct,1
+314032018,Congenital absence of hepatic ducts,1
+113108015,Congenital hypoplasia of bile duct,1
+123999018,Congestive cirrhosis,1
+603321000006118,Cryptogenic cirrhosis of liver,1
+1736361000000112,Cystic fibrosis related cirrhosis,1
+303419015,Diffuse nodular cirrhosis,1
+352929018,Exploration of liver transplant,1
+660151000006116,Extrahepatic atresia of bile duct,1
+303420014,Fatty portal cirrhosis,1
+1544611000006117,Fibreopt endoscop rubber band ligation of upper GIT varices,1
+268885015,Fibreoptic endoscopic banding of oesophageal varices,1
+708811000006119,Fibreoptic endoscopic injection sclerotherapy oesoph varices,1
+126721013,Florid cirrhosis,1
+150964016,Gastric varices,1
+803961000006119,Glycogenosis with hepatic cirrhosis,1
+103853010,Hepatic fibrosis,1
+820381000006112,Hepatic fibrosis,1
+353627010,Hepatic fibrosis with hepatic sclerosis,1
+303525019,Hepatic granulomas in sarcoidosis,1
+353625019,Hepatic sclerosis,1
+85441018,Hepatorenal syndrome,1
+325081012,Hepatorenal syndrome as a complication of care,1
+822591000006117,Heterotopic transplantation of liver,1
+493707012,Hypertrophic portal cirrhosis,1
+11267010,Indian childhood cirrhosis,1
+303441015,Infectious cirrhosis NOS,1
+768541000006118,Intrahepatic atresia of bile duct,1
+396392016,Juvenile portal cirrhosis,1
+2579818016,Laennec's cirrhosis,1
+353621011,"Laennec's cirrhosis, non-alcoholic",1
+303489012,Liver abscess and chronic liver disease causing sequelae NOS,1
+303466016,Liver abscess and sequelae of chronic liver disease,1
+2675247013,Liver disease due to cystic fibrosis,1
+864281000006116,Liver transplant,1
+324976011,Liver transplant failure and rejection,1
+739931000006118,"Liver transplant with complication, without blame",1
+737961000006116,Local ligation of oesophageal varices,1
+731231000006114,Macronodular cirrhosis of liver,1
+477604016,Mixed portal cirrhosis,1
+396390012,Multilobular portal cirrhosis,1
+396393014,Non-alcoholic cirrhosis NOS,1
+267161000006118,Oesophageal tamponade,1
+48003016,Oesophageal varices,1
+456800015,Oesophageal varices NOS,1
+453265010,Oesophageal varices in alcoholic cirrhosis of the liver,1
+451442010,Oesophageal varices in cirrhosis of the liver,1
+300775019,Oesophageal varices in diseases EC,1
+300784019,Oesophageal varices in diseases EC NOS,1
+862771000006116,Oesophageal varices injected,1
+987751000006119,Oesophageal varices injected,1
+1216060010,Oesophageal varices with bleeding,1
+300776018,Oesophageal varices with bleeding in diseases EC,1
+24192017,Oesophageal varices without bleeding,1
+300779013,Oesophageal varices without bleeding in diseases EC,1
+862761000006111,Oesophageal vessels ligated,1
+268819017,Open injection sclerotherapy to oesophageal varices,1
+268827014,Open operation on oesophageal varices NOS,1
+268812014,Open operations on oesophageal varices,1
+31211000006119,Orthotopic transplantation of liver,1
+376141000000113,Orthotopic transplantation of liver NEC,1
+2676200013,Orthotopic transplantation of whole liver,1
+303456012,Other non-alcoholic chronic liver disease,1
+303464018,Other non-alcoholic chronic liver disease NOS,1
+396394015,Other sequelae of chronic liver disease,1
+538121000000117,Other specified compensation for liver failure,1
+394102015,Other specified open operation on oesophageal varices,1
+270233014,Other specified transplantation of liver,1
+286867013,Other specified viral hepatitis with coma,1
+286869011,Other specified viral hepatitis with hepatic coma NOS,1
+225661000006111,Piggy back liver transplant,1
+1786709019,Pigmentary cirrhosis of liver,1
+303433015,Pigmentary portal cirrhosis,1
+226161000006113,Pipe-stem portal cirrhosis,1
+2576980018,Portal cirrhosis,1
+303442010,Portal cirrhosis unspecified,1
+303458013,Portal fibrosis without cirrhosis,1
+57989014,Portal hypertension,1
+211821000006111,Postnecrotic cirrhosis of liver,1
+52980015,Primary biliary cirrhosis,1
+303614019,Primary sclerosing cholangitis,1
+1850901000006115,Reason for influenza vaccine - chronic liver disease,1
+270232016,Replacement of previous liver transplant,1
+268957016,Rigid oesophagoscopic banding of oesophageal varices,1
+163571000006112,Rigid oesophagoscopic injection sclerotherapy oesoph varices,1
+394251013,Roux-en-Y procedure for biliary atresia,1
+161771000006119,Sawaguchi roux-en-y procedure for biliary atresia,1
+21289010,Secondary biliary cirrhosis,1
+352566017,Sengstaken intubation of oesophagus,1
+303439016,Syphilitic portal cirrhosis,1
+114801000006118,Tanner devascularisation for bleeding varices,1
+864291000006118,Total hepatectomy,1
+303517016,Toxic liver disease with chronic active hepatitis,1
+303516013,Toxic liver disease with chronic lobular hepatitis,1
+303515012,Toxic liver disease with chronic persistent hepatitis,1
+303518014,Toxic liver disease with fibrosis and cirrhosis of liver,1
+303435010,Toxic portal cirrhosis,1
+30458014,Transplantation of liver,1
+270234015,Transplantation of liver NOS,1
+303414013,Unilobular portal cirrhosis,1
+286876018,Unspecified viral hepatitis with coma,1
+286858013,Viral hepatitis A with coma,1
+286862019,Viral hepatitis B with coma,1
+286868015,Viral hepatitis C with coma,1
+68294019,Viral hepatitis with hepatic coma,1
+55851000006118,Xanthomatous portal cirrhosis,1
+303440019,Zooparasitic portal cirrhosis,1
+906081000006114,[RFC] Cirrhosis,1
+461319017,[V]Assessment for liver transplant,1
+460651015,[V]Liver transplanted,1
+288170016,"[X]Chronic viral hepatitis, unspecified",1
+300993011,[X]Oesophageal varices in diseases classified elsewhere,1
+303781011,[X]Other and unspecified cirrhosis of liver,1
+288169017,[X]Other chronic viral hepatitis,1
+288171017,[X]Unspecified viral hepatitis with coma,1

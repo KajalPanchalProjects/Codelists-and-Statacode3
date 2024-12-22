@@ -1,0 +1,153 @@
+medcodeid,readterm,depression
+474171000006112,Agitated depression,1
+138421012,Agitated depression,1
+5024071000006110,Anxiety depression,1
+488211000006112,Anxiety with depression,1
+294894013,Atypical depressive disorder,1
+513721000006114,"Bipolar affect disord, now depressed, severe with psychosis",1
+295537016,Chronic depression,1
+6201571000006110,Cotard syndrome,1
+6201561000006110,Cotard's syndrome,1
+3071801000006110,Depressed,1
+295535012,Depressive disorder NEC,1
+7515151000006110,Depressive disorder in remission,1
+3071791000006110,Depressive illness,1
+882421000006113,Depressive personality,1
+613781000006118,Depressive personality disorder,1
+613791000006115,Depressive psychoses,1
+441826016,Endogenous depression,1
+410861011,Endogenous depression - recurrent,1
+346972018,Endogenous depression first episode,1
+642461000006116,Endogenous depression first episode,1
+3094941000006110,"Major depression, single episode",1
+2809821000006110,"Major depression, single episode, in complete remission",1
+2809831000006110,"Major depression, single episode, in full remission",1
+3650771000006110,"Major depression, single episode, in partial remission",1
+3094951000006110,"Major depressive disorder, single episode",1
+346973011,Masked depression,1
+6000691000006110,Mild depression,1
+882811000006119,Mild depression,1
+3789581000006110,"Mild major depression, single episode",1
+6000711000006110,Moderate depression,1
+882821000006110,Moderate depression,1
+2748031000006110,"Moderate major depression, single episode",1
+3071811000006110,Mood disorder of depressed type,1
+677031000006115,Nervous exhaustion,1
+11924881000006100,Neurasthenia,1
+677321000006115,Neurasthenia - nervous debility,1
+675861000006113,Neurotic depression reactive type,1
+5023901000006110,Post-schizophrenic depression,1
+294642013,Presenile dementia with depression,1
+202561000006114,Prolonged depressive reaction,1
+3700911000006110,Psychotic depression,1
+294918011,Psychotic reactive depression,1
+882401000006115,Reactive (neurotic) depression,1
+294917018,Reactive depressive psychosis,1
+3153071000006110,Recurrent brief depressive disorder,1
+294844012,Recurrent depression,1
+182721000006111,Recurrent major depressive episode,1
+294845013,Recurrent major depressive episode NOS,1
+8237831000006110,"Recurrent major depressive episodes, in partial remission",1
+294837015,"Recurrent major depressive episodes, mild",1
+294838013,"Recurrent major depressive episodes, moderate",1
+182771000006112,"Recurrent major depressive episodes, severe, no psychosis",1
+294840015,"Recurrent major depressive episodes, severe, with psychosis",1
+8232591000006110,"Recurrent major depressive episodes, severe, with psychosis, psychosis in remission",1
+1755911000006110,"Recurrent major depressive episodes, severe, with psychosis, psychosis in remission",1
+294836012,"Recurrent major depressive episodes, unspecified",1
+182801000006114,"Recurrent major depressive episodes,partial/unspec remission",1
+8464961000006110,"Recurrent reactive depressive episodes, severe, with psychosis",1
+3878611000006110,"Schizophreniform psychosis, depressive type",1
+369982012,Seasonal affective disorder,1
+294646011,Senile dementia with depression,1
+6000721000006110,Severe depression,1
+882831000006113,Severe depression,1
+7965131000006110,"Severe major depression, single episode",1
+2957311000006110,Severe recurrent major depression with psychotic features,1
+3087971000006110,Severe recurrent major depression without psychotic features,1
+2809811000006110,Single episode of major depression in full remission,1
+401766011,Single major depressive episode,1
+294832014,Single major depressive episode NOS,1
+294831019,"Single major depressive episode, in full remission",1
+12451451000006100,"Single major depressive episode, in full remission",1
+294825017,"Single major depressive episode, mild",1
+12451461000006100,"Single major depressive episode, moderate",1
+294826016,"Single major depressive episode, moderate",1
+142521000006110,"Single major depressive episode, partial or unspec remission",1
+294828015,"Single major depressive episode, severe, with psychosis",1
+8232571000006110,"Single major depressive episode, severe, with psychosis, psychosis in remission",1
+1755901000006110,"Single major depressive episode, severe, with psychosis, psychosis in remission",1
+142541000006115,"Single major depressive episode, severe, without psychosis",1
+294824018,"Single major depressive episode, unspecified",1
+359121000006116,[X] Reactive depression NOS,1
+366561000006119,[X]Atypical depression,1
+367061000006114,[X]Bipolar affect dis cur epi severe depres with psyc symp,1
+967791000006111,[X]Cotard syndrome,1
+376691000006116,[X]Depression NOS,1
+376711000006118,[X]Depressive disorder NOS,1
+376721000006114,[X]Depressive episode,1
+401872015,"[X]Depressive episode, unspecified",1
+376741000006119,[X]Depressive neurosis,1
+11914901000006100,[X]Depressive personality disorder,1
+379431000006113,[X]Dysthymia,1
+379771000006116,[X]Endogenous depression with psychotic symptoms,1
+379781000006118,[X]Endogenous depression without psychotic symptoms,1
+1715771000006110,"[X]Major depression, mild",1
+1715181000006110,"[X]Major depression, moderately severe",1
+396081000006116,"[X]Major depression, recurrent without psychotic symptoms",1
+1715191000006110,"[X]Major depression, severe with psychotic symptoms",1
+1715781000006110,"[X]Major depression, severe without psychotic symptoms",1
+396771000006117,"[X]Manic-depress psychosis,depressd,no psychotic symptoms",1
+396781000006119,"[X]Manic-depress psychosis,depressed type+psychotic symptoms",1
+398351000006110,[X]Mild anxiety depression,1
+213641000000111,[X]Mild depression,1
+11918531000006100,[X]Mild depressive episode,1
+296137015,[X]Mild depressive episode,1
+398561000006117,[X]Mixed anxiety and depressive disorder,1
+296138013,[X]Moderate depressive episode,1
+11918561000006100,[X]Moderate depressive episode,1
+398841000006119,[X]Monopolar depression NOS,1
+399841000006110,[X]Neurasthenia,1
+399961000006118,[X]Neurotic depression,1
+401871010,[X]Other depressive episodes,1
+296245018,[X]Other mixed anxiety disorders,1
+296199015,[X]Other recurrent depressive disorders,1
+419841000006116,[X]Persistant anxiety depression,1
+423041000006119,[X]Post-schizophrenic depression,1
+423611000006111,[X]Prolonged single episode of reactive depression,1
+424531000006118,[X]Recurr depress disorder cur epi severe without psyc sympt,1
+424541000006111,[X]Recurr severe episodes/major depression+psychotic symptom,1
+424551000006113,[X]Recurr severe episodes/psychogenic depressive psychosis,1
+424561000006110,[X]Recurrent brief depressive episodes,1
+424571000006115,[X]Recurrent depress disorder cur epi severe with psyc symp,1
+401873013,[X]Recurrent depressive disorder,1
+296180012,"[X]Recurrent depressive disorder, current episode mild",1
+296181011,"[X]Recurrent depressive disorder, current episode moderate",1
+296198011,"[X]Recurrent depressive disorder, currently in remission",1
+401876017,"[X]Recurrent depressive disorder, unspecified",1
+424631000006119,[X]Recurrent episodes of depressive reaction,1
+424641000006112,[X]Recurrent episodes of psychogenic depression,1
+424651000006114,[X]Recurrent episodes of reactive depression,1
+424671000006116,[X]Recurrent severe episodes of psychotic depression,1
+424681000006118,[X]Recurrent severe episodes/reactive depressive psychosis,1
+11921141000006100,[X]Recurrent severe episodes/reactive depressive psychosis,1
+425411000006110,[X]SAD - Seasonal affective disorder,1
+425501000006113,"[X]Schizoaffective disorder, depressive type",1
+425561000006114,"[X]Schizoaffective psychosis, depressive type",1
+425691000006119,"[X]Schizophreniform psychosis, depressive type",1
+425751000006115,[X]Seasonal depressive disorder,1
+401869010,[X]Severe depressive episode with psychotic symptoms,1
+11921301000006100,[X]Severe depressive episode without psychotic symptoms,1
+401866015,[X]Severe depressive episode without psychotic symptoms,1
+426891000006114,[X]Single episode agitated depressn w'out psychotic symptoms,1
+223741000000112,[X]Single episode major depression w'out psychotic symptoms,1
+426911000006111,[X]Single episode of depressive reaction,1
+426921000006115,[X]Single episode of major depression and psychotic symptoms,1
+426931000006117,[X]Single episode of masked depression NOS,1
+426941000006110,[X]Single episode of psychogenic depression,1
+426951000006112,[X]Single episode of psychogenic depressive psychosis,1
+426961000006114,[X]Single episode of psychotic depression,1
+426971000006119,[X]Single episode of reactive depression,1
+426981000006116,[X]Single episode of reactive depressive psychosis,1
+426991000006118,[X]Single episode vital depression w'out psychotic symptoms,1
+432511000006119,"[X]Vital depression, recurrent without psychotic symptoms",1

@@ -1,0 +1,97 @@
+medcodeid,readterm,pvd
+2537052019,DNA - Did not attend peripheral vascular disease clinic,1
+970921000006119,DNA - Did not attend peripheral vascular disease clinic,1
+616561000006113,"Diabetes mellitus, adult with gangrene",1
+4392221000006118,Diabetic peripheral angiopathy,1
+302011,Diabetic peripheral angiopathy,1
+913621000006112,Gangrene associated with diabetes mellitus (disorder),1
+771351000006111,Gangrene associated with diabetes mellitus (disorder),1
+616351000006115,Gangrene associated with diabetes mellitus (disorder),1
+881511000006113,Gangrene associated with diabetes mellitus (disorder),1
+616831000006118,Gangrene associated with diabetes mellitus (disorder),1
+451376017,H/O: Peripheral vascular disease procedure,1
+105536013,Intermittent claudication,1
+1715241000006112,Intermittent claudication,1
+3532661000006118,Intermittent claudication,1
+411512011,Intermittent claudication,1
+1699111000006110,Ischaemic foot,1
+2377871000000112,Ischaemic foot pain at rest,1
+2377911000000114,Ischaemic foot pain when walking,1
+357895013,Ischaemic leg ulcer,1
+8278561000006114,Ischaemic lower limb pain at rest (finding),1
+450665015,Ischaemic toe,1
+14071551000006111,Ischaemic ulcer diabetic foot,1
+309177010,Ischaemic ulcer diabetic foot,1
+443199013,Ischemic foot,1
+5898341000006114,Ischemic foot,1
+5058081000006113,Lower limb ischemia,1
+742481000006118,Lower limb ischemia,1
+5058071000006110,Lower limb ischemia,1
+5058091000006111,Lower limb ischemia,1
+281211000006117,Non-insulin dependent diabetes mellitus with gangrene,1
+313562014,Other congenital anomaly of peripheral vascular system NOS,1
+400813013,Other peripheral vascular system anomalies,1
+1823971000006118,Peripheral arterial disease confirmed,1
+2465211000000113,Peripheral arterial disease screening,1
+884661000006110,Peripheral arterial embolism,1
+300550015,Peripheral arterial embolism and thrombosis NOS,1
+6632271000006113,Peripheral arterial occlusive disease (disorder),1
+6632221000006112,Peripheral arterial occlusive disease (disorder),1
+1847121000006114,Peripheral arterial occlusive disease (disorder),1
+6632251000006115,Peripheral arterial occlusive disease (disorder),1
+787101000006114,Peripheral circulatory disorder associated with diabetes mellitus (disorder),1
+13791000006111,Peripheral circulatory disorder associated with diabetes mellitus (disorder),1
+292523015,Peripheral circulatory disorder associated with diabetes mellitus (disorder),1
+616441000006113,Peripheral circulatory disorder associated with diabetes mellitus (disorder),1
+12704411000006113,Peripheral circulatory disorder associated with diabetes mellitus (disorder),1
+772141000006118,Peripheral circulatory disorder associated with diabetes mellitus (disorder),1
+913921000006119,Peripheral circulatory disorder associated with diabetes mellitus (disorder),1
+616591000006117,Peripheral circulatory disorder associated with type I diabetes mellitus (disorder),1
+674961000006118,Peripheral circulatory disorder associated with type II diabetes mellitus (disorder),1
+616581000006115,Peripheral circulatory disorder associated with type II diabetes mellitus (disorder),1
+350533013,Peripheral ischaemia,1
+350535018,Peripheral ischaemia,1
+5057981000006111,Peripheral ischaemia,1
+325063014,Peripheral vascular complications of care,1
+325067010,Peripheral vascular complications of care NOS,1
+300970017,Peripheral vascular disease (disorder),1
+395791015,Peripheral vascular disease (disorder),1
+6633851000006110,Peripheral vascular disease (disorder),1
+300963017,Peripheral vascular disease (disorder),1
+300511019,Peripheral vascular disease (disorder),1
+300514010,Peripheral vascular disease (disorder),1
+235911000006116,Peripheral vascular disease (disorder),1
+300515011,Peripheral vascular disease (disorder),1
+300510018,Peripheral vascular disease (disorder),1
+1696201000006114,Peripheral vascular disease annual review,1
+913941000006114,Peripheral vascular disease due to type I diabetes,1
+84781000006112,Peripheral vascular disease due to type I diabetes,1
+913931000006116,Peripheral vascular disease due to type I diabetes,1
+216185010,Peripheral vascular disease monitoring,1
+1696211000006112,Peripheral vascular disease monitoring administration,1
+741131000000114,Peripheral vascular disease monitoring first letter,1
+1696221000006116,Peripheral vascular disease monitoring first letter,1
+741071000000112,Peripheral vascular disease monitoring invitation,1
+1696231000006118,Peripheral vascular disease monitoring second letter,1
+2231891000000112,Peripheral vascular disease monitoring second letter,1
+1696241000006111,Peripheral vascular disease monitoring third letter,1
+2231911000000110,Peripheral vascular disease monitoring third letter,1
+313563016,Peripheral vascular system anomaly NOS,1
+84331000006112,Type 1 diabetes mellitus with gangrene,1
+292541011,Type 1 diabetes mellitus with gangrene,1
+84411000006111,Type 1 diabetes mellitus with peripheral angiopathy,1
+84511000006112,Type 2 diabetes mellitus with gangrene,1
+292583018,Type 2 diabetes mellitus with gangrene,1
+292543014,Type I diabetes mellitus with gangrene,1
+84701000006115,Type I diabetes mellitus with gangrene,1
+292582011,Type II diabetes mellitus with gangrene,1
+84881000006119,Type II diabetes mellitus with gangrene,1
+459308015,Type II diabetes mellitus with peripheral angiopathy,1
+459306016,Type II diabetes mellitus with peripheral angiopathy,1
+84591000006119,Type II diabetes mellitus with peripheral angiopathy,1
+280561000006111,Type II diabetes mellitus with peripheral angiopathy,1
+84961000006116,Type II diabetes mellitus with peripheral angiopathy,1
+317347010,[D]Gangrene of toe in diabetic,1
+1222508013,[D]Peripheral circulatory failure,1
+906771000006113,[RFC] Peripheral vascular disease,1
+405431000006111,[X]Oth specified cong malform of peripheral vascular system,1

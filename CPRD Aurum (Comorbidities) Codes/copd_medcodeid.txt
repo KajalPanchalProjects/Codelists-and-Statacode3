@@ -1,0 +1,101 @@
+medcodeid,readterm,copd
+9317340000000000,ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome,1
+457581000000000,Acute interstitial emphysema,1
+301470017,Acute vesicular emphysema,1
+2578910000000000,Alveolar emphysema of lung,1
+9317330000000000,Asthma-COPD overlap syndrome (ACOS),1
+1948050000000000,Asthma-chronic obstructive pulmonary disease overlap syndrom,1
+396109014,Atrophic (senile) emphysema,1
+11828600000000000,Bronchiolitis fibrosa obliterans,1
+492443010,Bronchiolitis obliterans,1
+4733000000000000,Bronchitis with airway obstruction,1
+4781470000000000,Bullous emphysema,1
+396108018,Bullous emphysema with collapse,1
+2716270000000000,CAFL - Chronic airflow limitation,1
+2716310000000000,CAL - Chronic airflow limitation,1
+2716290000000000,CAO - Chronic airflow obstruction,1
+4733010000000000,COB - Chronic obstructive bronchitis,1
+2716350000000000,COLD - Chronic obstructive lung disease,1
+2716320000000000,COPD - Chronic obstructive pulmonary disease,1
+3955620000000000,Catarrhal bronchitis,1
+3611790000000000,Centriacinar emphysema,1
+113497011,Centrilobular emphysema,1
+4781840000000000,Chemical bronchiolitis obliterans,1
+990651000000000,Chr. airway obstruction NOS,1
+2716300000000000,Chronic airflow limitation,1
+2716260000000000,Chronic airflow obstruction,1
+2716340000000000,Chronic airway disease,1
+2716240000000000,Chronic airway obstruction,1
+301450011,Chronic asthmatic bronchitis,1
+105519017,Chronic bronchitis,1
+301459012,Chronic bronchitis NOS,1
+4732990000000000,Chronic bronchitis with emphysema,1
+301460019,Chronic bullous emphysema,1
+301468014,Chronic bullous emphysema NOS,1
+508562012,Chronic catarrhal bronchitis,1
+4781820000000000,Chronic emphysema caused by chemical fumes,1
+301572010,Chronic emphysema due to chemical fumes,1
+2716250000000000,Chronic irreversible airway obstruction,1
+990641000000000,Chronic obst. pulm. dis. NOS,1
+555471000000000,Chronic obstructive airways disease,1
+301545019,Chronic obstructive airways disease NOS,1
+4733030000000000,Chronic obstructive bronchitis,1
+2716230000000000,Chronic obstructive lung disease,1
+475431013,Chronic obstructive pulmonary disease,1
+1222335015,Chronic obstructive pulmonary disease NOS,1
+87480013,Chronic tracheobronchitis,1
+301451010,Chronic wheezy bronchitis,1
+640491000000000,Emphysema,1
+301477019,Emphysema NOS,1
+3921360000000000,Emphysema of lung,1
+285100019,Emphysematous bronchitis,1
+4781460000000000,Emphysematous bulla,1
+216596014,End stage chronic obstructive airways disease,1
+4510800000000000,End stage chronic obstructive pulmonary disease,1
+2240630000000000,Eosinophilic bronchitis,1
+3873190000000000,Fetid chronic bronchitis,1
+139979010,Fetid chronic bronchitis,1
+27096010,Giant bullous emphysema,1
+19421011,Interstitial emphysema,1
+12704700000000000,Interstitial emphysema,1
+3764020000000000,Interstitial emphysema of lung,1
+3764030000000000,Interstitial pulmonary emphysema,1
+3228310000000000,MacLeod's syndrome,1
+1230190015,MacLeod's unilateral emphysema,1
+457168017,Mild chronic obstructive pulmonary disease,1
+301456017,Mixed simple and mucopurulent chronic bronchitis,1
+457169013,Moderate chronic obstructive pulmonary disease,1
+885281000000000,Mucopurulent chr. bronchitis,1
+123588010,Mucopurulent chronic bronchitis,1
+301448015,Mucopurulent chronic bronchitis NOS,1
+3145230000000000,OB - Obliterative bronchiolitis,1
+301127010,Obliterating fibrous bronchiolitis,1
+3145220000000000,Obliterative bronchiolitis,1
+269761000000000,Obliterative bronchiolitis due to chemical fumes,1
+4733020000000000,Obstructive chronic bronchitis,1
+285104011,Obstructive chronic bronchitis,1
+301455018,Obstructive chronic bronchitis NOS,1
+301457014,Other chronic bronchitis,1
+301458016,Other chronic bronchitis NOS,1
+301469018,Other emphysema,1
+396110016,Other emphysema NOS,1
+301539010,Other specified chronic obstructive airways disease,1
+1222334016,Other specified chronic obstructive pulmonary disease,1
+2578880000000000,Panacinar emphysema,1
+9337016,Panlobular emphysema,1
+506053014,Purulent chronic bronchitis,1
+183191000000000,Recurrent wheezy bronchitis,1
+161781000000000,Sawyer - Jones syndrome,1
+301463017,Segmental bullous emphysema,1
+457171013,Severe chronic obstructive pulmonary disease,1
+508561017,Simple chronic bronchitis,1
+301444018,Simple chronic bronchitis NOS,1
+3228330000000000,Swyer-James syndrome,1
+4781830000000000,Toxic bronchiolitis obliterans,1
+3228300000000000,Unilateral emphysema,1
+3228320000000000,Unilateral hyperlucent lung,1
+516801000000000,Very severe chronic obstructive pulmonary disease,1
+2578900000000000,Vesicular emphysema,1
+301464011,Zonal bullous emphysema,1
+301835010,[X]Other emphysema,1
+301836011,[X]Other specified chronic obstructive pulmonary disease,1

@@ -1,0 +1,267 @@
+medcodeid,readterm,ihdb
+6546111000006110,ACS - Acute coronary syndrome,1
+3427201000006110,AMI - Acute myocardial infarction,1
+4776011000006110,AP - Angina pectoris,1
+4775931000006110,Aborted myocardial infarction,1
+5935321000006110,Acute Q wave myocardial infarction,1
+3343471000006110,Acute anteroapical myocardial infarction,1
+299745015,Acute coronary insufficiency,1
+931961000006117,Acute coronary syndrome,1
+1488382011,Acute coronary syndrome,1
+2663441000006110,Acute infarction of papillary muscle,1
+3381601000006110,Acute myocardial infarction of anterior wall,1
+3641641000006110,Acute myocardial infarction of anterolateral wall,1
+4775891000006110,Acute myocardial infarction of atrium,1
+3699911000006110,Acute myocardial infarction of diaphragmatic wall,1
+3565871000006110,Acute myocardial infarction of inferolateral wall,1
+3745741000006110,Acute myocardial infarction of inferoposterior wall,1
+3452181000006110,Acute myocardial infarction of lateral wall,1
+3784911000006110,Acute myocardial infarction of septum,1
+3784921000006110,Acute myocardial infarction of septum alone,1
+3645351000006110,Acute nontransmural infarction,1
+4775971000006110,Angina,1
+7966931000006110,Angina associated with type 2 diabetes mellitus,1
+7966941000006110,Angina associated with type II diabetes mellitus,1
+482811000006113,Angina at rest,1
+498328016,Angina at rest,1
+98087016,Angina decubitus,1
+299763015,Angina decubitus NOS,1
+5887641000006110,Angina of effort,1
+442204010,Angina on effort,1
+299757012,Angina pectoris,1
+482941000006119,Angina pectoris NOS,1
+299765010,Angina pectoris NOS,1
+3458791000006110,Anginal chest pain at rest,1
+4776001000006110,Anginal syndrome,1
+3371371000006110,Arteriosclerotic heart disease,1
+2536393012,Arteriosclerotic heart disease,1
+459859010,Asymptomatic coronary heart disease,1
+5056261000006110,Asymptomatic ischaemia,1
+5056251000006110,Asymptomatic ischemia,1
+7278491000006110,Atherosclerosis of coronary artery,1
+89332015,Atherosclerotic heart disease,1
+12220771000006100,Atrial septal defect due to and following acute myocardial infarction,1
+498031000006112,Atrial septal defect/curr comp folow acut myocardal infarct,1
+7508001000006110,CABG (Coronary artery bypass grafting) planned,1
+7508021000006110,CABG (coronary artery bypass graft) operation planned,1
+3371381000006110,CAD - Coronary artery disease,1
+3371411000006110,CHD - Coronary heart disease,1
+6601131000006110,CT - Coronary thrombosis,1
+4775981000006110,Cardiac angina,1
+2855321000006110,Cardiac infarction,1
+12221301000006100,Cardiac rupture due to and following acute myocardial infarction,1
+537751000006115,Cardiac rupture following myocardial infarction (MI),1
+543291000006110,Certain current complication follow acute myocardial infarct,1
+2537483013,Chronic coronary insufficiency,1
+6847761000006110,Chronic ischemic heart disease,1
+2534674015,Chronic myocardial ischaemia,1
+6847871000006110,Chronic myocardial ischemia,1
+1654891000000110,Coronary angioplasty planned,1
+3371361000006110,Coronary arteriosclerosis,1
+2160096015,Coronary artery bypass graft occlusion,1
+1550991000000116,Coronary artery bypass graft operation planned,1
+1550991000000110,Coronary artery bypass graft operation planned,1
+348644016,Coronary artery bypass graft operations,1
+7508011000006110,Coronary artery bypass grafting planned,1
+2536395017,Coronary artery disease,1
+6601121000006110,Coronary artery thrombosis,1
+595731000006114,Coronary atherosclerosis,1
+3371421000006110,Coronary heart disease,1
+2115181000000110,Coronary microvascular disease,1
+3371401000006110,Coronary sclerosis,1
+299742017,Coronary thrombosis not resulting in myocardial infarction,1
+7847015,Crescendo angina,1
+6056601000006110,DIGAMI - diabetes mellitus insulin-glucose infusion in acute myocardial infarction,1
+5056521000006110,Defect of ventricular septum following myocardial infarction,1
+616081000006113,Diab mellit insulin-glucose infus acute myocardial infarct,1
+7966951000006110,Diabetic angina pectoris associated with type 2 diabetes mellitus,1
+7966951000006119,Diabetic angina pectoris associated with type 2 diabetes mellitus,1
+299783019,Double coronary vessel disease,1
+4776081000006110,Double vessel coronary artery disease,1
+109916013,Dressler's syndrome,1
+5887611000006110,Exercise-induced angina,1
+5887631000006110,Exertional angina,1
+1752201000000116,Frequency of angina,1
+4776121000006110,Generalised ischaemic myocardial dysfunction,1
+4776131000006110,Generalized ischemic myocardial dysfunction,1
+451369010,H/O: Myocardial infarction in last year,1
+251679016,H/O: angina pectoris,1
+810811000006116,H/O: myocardial infarct <60,1
+810821000006112,H/O: myocardial infarct >60,1
+12220761000006100,Haemopericardium due to and following acute myocardial infarction,1
+813961000006116,Haemopericardium/current comp folow acut myocard infarct,1
+2526351000006110,Healed coronary,1
+4032016,Healed myocardial infarction,1
+4776221000006110,Hemopericardium as current complication following acute myocardial infarction,1
+12220751000006100,Hemopericardium due to and following acute myocardial infarction,1
+12680701000006100,History of CABG (coronary artery bypass grafting),1
+6619881000006110,History of coronary artery bypass grafting,1
+4540481000006110,History of myocardial infarct at age greater than sixty,1
+4540461000006110,History of myocardial infarct at age less than sixty,1
+1738171000006110,History of myocardial infarction,1
+5974481000006110,History of myocardial infarction in last year,1
+2537480011,IHD - Ischaemic heart disease,1
+6860261000006110,IHD - Ischemic heart disease,1
+494260016,Impending infarction,1
+2571531000006110,Intermediate coronary syndrome,1
+299796018,Ischaemic cardiomyopathy,1
+338974012,Ischaemic chest pain,1
+2534664018,Ischaemic heart disease,1
+4776031000006110,Ischaemic heart disease - angina,1
+299835014,Ischaemic heart disease NOS,1
+4776141000006110,Ischemic cardiomyopathy,1
+4943331000006110,Ischemic chest pain,1
+6860251000006110,Ischemic heart disease,1
+4776021000006110,Ischemic heart disease - angina,1
+2855341000006110,MI - Myocardial infarction,1
+2619484018,MI - Myocardial infarction aborted,1
+5056461000006110,MI - Silent myocardial infarction,1
+3185771000006110,Microinfarct of heart,1
+1229885017,Microinfarction of heart,1
+2855351000006110,Myocardial infarct,1
+2855301000006110,Myocardial infarction,1
+682481000006118,Myocardial infarction aborted,1
+6348651000006110,Myocardial infarction with complication,1
+6651391000006110,NSTEMI - Non-ST segment elevation MI,1
+350350014,New onset angina,1
+59952018,Nocturnal angina,1
+7789771000006110,Non-obstructive atherosclerosis of coronary artery,1
+2609111000000110,Non-obstructive coronary atherosclerosis,1
+4031011,Old myocardial infarction,1
+39111000006114,Other acute and subacute ischaemic heart disease,1
+299723016,Other acute and subacute ischaemic heart disease,1
+299750014,Other acute and subacute ischaemic heart disease NOS,1
+299776014,Other chronic ischaemic heart disease,1
+299805019,Other chronic ischaemic heart disease NOS,1
+299800012,Other specified chronic ischaemic heart disease,1
+299804015,Other specified chronic ischaemic heart disease NOS,1
+299834013,Other specified ischaemic heart disease,1
+6619891000006110,Past history of coronary artery bypass grafting,1
+6619191000006110,Past history of myocardial infarction,1
+238561000006119,Percut translum balloon angioplasty bypass graft coronary a,1
+230021000006115,Personal history of myocardial infarction,1
+458410010,Post infarct angina,1
+5056501000006110,Post-infarction ventricular septal defect,1
+3576391000006110,Postmyocardial infarction pericarditis,1
+109915012,Postmyocardial infarction syndrome,1
+3576371000006110,Postmyocardial infarction syndrome,1
+208365015,Postoperative myocardial infarction,1
+455423016,"Postoperative myocardial infarction, unspecified",1
+455422014,Postoperative subendocardial myocardial infarction,1
+212061000006119,Postoperative transmural myocardial infarction anterior wall,1
+212071000006114,Postoperative transmural myocardial infarction inferior wall,1
+212081000006112,Postoperative transmural myocardial infarction other sites,1
+212091000006110,Postoperative transmural myocardial infarction unspec site,1
+2571561000006110,Pre-infarction syndrome,1
+2571571000006110,Preinfarction angina,1
+7844010,Preinfarction syndrome,1
+299741012,Preinfarction syndrome NOS,1
+6619201000006110,Previous myocardial infarction,1
+1235225010,Prinzmetal's angina,1
+459487012,Refractory angina,1
+4776171000006110,Reinfarction of myocardium,1
+158601000006116,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,1
+158611000006118,Ruptur chordae tendinae/curr comp fol acute myocard infarct,1
+4776251000006110,Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction,1
+12220781000006100,Rupture of chordae tendinae due to and following acute myocardial infarction,1
+159001000006119,Rupture papillary muscle/curr comp fol acute myocard infarct,1
+6651221000006110,STEMI - ST elevation myocardial infarction,1
+350376014,Silent myocardial infarction,1
+350354017,Silent myocardial ischaemia,1
+5056241000006110,Silent myocardial ischemia,1
+299782012,Single coronary vessel disease,1
+4776051000006110,Single vessel coronary artery disease,1
+350348018,Stable angina,1
+32122016,Status anginosus,1
+299758019,Stenocardia,1
+494438016,Subendocardial ischaemia,1
+3244701000006110,Subendocardial ischemia,1
+299808017,Subsequent myocardial infarction,1
+299811016,Subsequent myocardial infarction of anterior wall,1
+299812011,Subsequent myocardial infarction of inferior wall,1
+299813018,Subsequent myocardial infarction of other sites,1
+118831000006118,Subsequent myocardial infarction of unspecified site,1
+36036010,Syncope anginosa,1
+459488019,Transient myocardial ischaemia,1
+6053071000006110,Transient myocardial ischemia,1
+5056201000006110,Triple vessel coronary artery disease,1
+350346019,Triple vessel disease of the heart,1
+4775881000006110,True posterior wall infarction,1
+4776071000006110,Two coronary vessel disease,1
+72571000006115,Unstable angina,1
+7845011,Unstable angina,1
+144819018,Variant angina pectoris,1
+67081000006119,Ventric septal defect/curr comp fol acut myocardal infarctn,1
+494261017,Worsening angina,1
+460686018,[V]Presence of aortocoronary bypass graft,1
+451132018,[V]Presence of coronary artery bypass graft,1
+1227364015,[V]Presence of coronary artery bypass graft - CABG,1
+394541000006112,[X]Ischaemic heart diseases,1
+300876010,[X]Other forms of acute ischaemic heart disease,1
+300874013,[X]Other forms of angina pectoris,1
+300879015,[X]Other forms of chronic ischaemic heart disease,1
+300881018,[X]Subsequent myocardial infarction of other sites,1
+300882013,[X]Subsequent myocardial infarction of unspecified site,1
+905351000006113,[rfc] myocardial infarction (mi),1
+362461000006119,[x]acute transmural myocardial infarction of unspecif site,1
+299708014,acute anteroapical infarction,1
+3343471000006116,acute anteroapical myocardial infarction,1
+455641000006112,acute anterolateral infarction,1
+455651000006114,acute anteroseptal infarction,1
+299719012,acute atrial infarction,1
+2663441000006117,acute infarction of papillary muscle,1
+3699921000006110,acute inferior myocardial infarction,1
+457531000006110,acute inferolateral infarction,1
+1234005010,acute inferoposterior infarction,1
+94884017,acute myocardial infarction,1
+299721019,acute myocardial infarction nos,1
+3381601000006117,acute myocardial infarction of anterior wall,1
+3641641000006116,acute myocardial infarction of anterolateral wall,1
+4775891000006119,acute myocardial infarction of atrium,1
+3699911000006119,acute myocardial infarction of diaphragmatic wall,1
+3565871000006113,acute myocardial infarction of inferolateral wall,1
+3745741000006117,acute myocardial infarction of inferoposterior wall,1
+3452181000006112,acute myocardial infarction of lateral wall,1
+3784911000006111,acute myocardial infarction of septum,1
+3784921000006115,acute myocardial infarction of septum alone,1
+450322013,acute non-q wave infarction,1
+1780501013,acute non-st segment elevation myocardial infarction,1
+3645351000006114,acute nontransmural infarction,1
+1218860015,acute papillary muscle infarction,1
+967931000006114,acute posterolateral myocardial infarction,1
+5935321000006111,acute q wave myocardial infarction,1
+447324018,acute q-wave infarct,1
+1234306015,acute septal infarction,1
+1780491019,acute st segment elevation myocardial infarction,1
+116992017,acute subendocardial infarction,1
+460681000006116,acute transmural myocardial infarction of unspecif site,1
+3427201000006111,ami - acute myocardial infarction,1
+299709018,anterior myocardial infarction nos,1
+219521000000119,attack - heart,1
+2855321000006119,cardiac infarction,1
+884141000006116,coronary thrombosis,1
+1786197015,coronary thrombosis,1
+6601131000006115,ct - coronary thrombosis,1
+932081000006118,first myocardial infarction,1
+37443015,heart attack,1
+2855311000006110,infarction of heart,1
+299714019,inferior myocardial infarction nos,1
+299711010,lateral myocardial infarction nos,1
+219531000000117,mi - acute myocardial infarction,1
+2855341000006114,mi - myocardial infarction,1
+2855351000006111,myocardial infarct,1
+884151000006119,myocardial infarction,1
+2855301000006112,myocardial infarction,1
+6348651000006112,myocardial infarction with complication,1
+6651391000006114,nstemi - non-st segment elevation mi,1
+299718016,other acute myocardial infarction,1
+299720018,other acute myocardial infarction nos,1
+299707016,other specified anterior myocardial infarction,1
+299710011,posterior myocardial infarction nos,1
+2571561000006118,pre-infarction syndrome,1
+2571571000006113,preinfarction angina,1
+6651221000006117,stemi - st elevation myocardial infarction,1
+1786198013,thrombosis - coronary,1
+299712015,true posterior myocardial infarction,1
+4775881000006117,true posterior wall infarction,1
+854491000006113,unstable angina,1

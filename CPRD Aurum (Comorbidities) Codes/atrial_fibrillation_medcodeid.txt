@@ -1,0 +1,14 @@
+medcodeid,readterm,af
+3299911000006116,AF - Atrial fibrillation,1
+5669591000006113,AF - Paroxysmal atrial fibrillation,1
+82343012,Atrial fibrillation,1
+300130013,Atrial fibrillation and flutter,1
+300132017,Atrial fibrillation and flutter NOS,1
+2675253013,Chronic atrial fibrillation,1
+5669611000006119,Intermittent atrial fibrillation,1
+5057281000006117,NRAF - Non-rheumatic atrial fibrillation,1
+350465014,Non-rheumatic atrial fibrillation,1
+5669601000006117,PAF - Paroxysmal atrial fibrillation,1
+421235014,Paroxysmal atrial fibrillation,1
+636721000000112,Permanent atrial fibrillation,1
+636701000000115,Persistent atrial fibrillation,1

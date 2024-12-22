@@ -1,0 +1,132 @@
+medcodeid,readterm,oa
+866121000033115,*Osteoarthritis Nosode,1
+1032881000006119,Adverse reaction to *Osteoarthritis Nosode,1
+1120511000006115,Adverse reaction to *Osteoarthritis Nosode,1
+359385016,Ankle osteoarthritis NOS,1
+370721000000116,Delivery of rehabilitation for osteoarthritis,1
+221491000000111,Elbow osteoarthritis NOS,1
+932071000006116,Exacerbation of osteoarthritis,1
+1785201000006112,Excepted fr osteoarthritis quality indicators: pt unsuitable,1
+1785211000006110,Excepted osteoarthritis quality indicators: informed dissent,1
+1785191000006114,Exception reporting: osteoarthritis quality indicators,1
+359389010,Finger osteoarthritis NOS,1
+359384017,Foot osteoarthritis NOS,1
+800731000006117,Generalised osteoarthritis - OA,1
+309880013,Generalised osteoarthritis NOS,1
+800751000006112,Generalised osteoarthritis of multiple sites,1
+400175010,Generalised osteoarthritis of the hand,1
+309862016,Generalised osteoarthritis of unspecified site,1
+251795011,H/O: osteoarthritis,1
+221511000000115,Hip osteoarthritis NOS,1
+221521000000114,Knee osteoarthritis NOS,1
+309942011,"Localised osteoarthritis, unspecified",1
+309971012,"Localised osteoarthritis, unspecified, NOS",1
+736701000006117,"Localised osteoarthritis, unspecified, of other spec site",1
+736711000006119,"Localised osteoarthritis, unspecified, of shoulder region",1
+309965018,"Localised osteoarthritis, unspecified, of the ankle and foot",1
+309950019,"Localised osteoarthritis, unspecified, of the forearm",1
+309953017,"Localised osteoarthritis, unspecified, of the hand",1
+400181019,"Localised osteoarthritis, unspecified, of the lower leg",1
+309949019,"Localised osteoarthritis, unspecified, of the upper arm",1
+309945013,"Localised osteoarthritis, unspecified, of unspecified site",1
+736781000006114,"Localised osteoarthritis, unspecified, pelvic region/thigh",1
+309881012,"Localised, primary osteoarthritis",1
+309911018,"Localised, primary osteoarthritis NOS",1
+457122015,"Localised, primary osteoarthritis of elbow",1
+309899016,"Localised, primary osteoarthritis of other specified site",1
+309898012,"Localised, primary osteoarthritis of the ankle and foot",1
+309889014,"Localised, primary osteoarthritis of the forearm",1
+309892013,"Localised, primary osteoarthritis of the hand",1
+309896011,"Localised, primary osteoarthritis of the lower leg",1
+736911000006116,"Localised, primary osteoarthritis of the pelvic region/thigh",1
+309885015,"Localised, primary osteoarthritis of the shoulder region",1
+309888018,"Localised, primary osteoarthritis of the upper arm",1
+457118013,"Localised, primary osteoarthritis of the wrist",1
+457121010,"Localised, primary osteoarthritis of toe",1
+309884016,"Localised, primary osteoarthritis of unspecified site",1
+309914014,"Localised, secondary osteoarthritis",1
+309941016,"Localised, secondary osteoarthritis NOS",1
+309934010,"Localised, secondary osteoarthritis of other specified site",1
+736171000006110,"Localised, secondary osteoarthritis of pelvic region/thigh",1
+309933016,"Localised, secondary osteoarthritis of the ankle and foot",1
+309922019,"Localised, secondary osteoarthritis of the forearm",1
+309923012,"Localised, secondary osteoarthritis of the hand",1
+309930018,"Localised, secondary osteoarthritis of the lower leg",1
+309918012,"Localised, secondary osteoarthritis of the shoulder region",1
+309919016,"Localised, secondary osteoarthritis of the upper arm",1
+309915010,"Localised, secondary osteoarthritis of unspecified site",1
+265841000006115,"Oligoarticular osteoarthritis, unspec, of unspecified sites",1
+309972017,"Oligoarticular osteoarthritis, unspecified",1
+265861000006116,"Oligoarticular osteoarthritis, unspecified, multiple sites",1
+265871000006111,"Oligoarticular osteoarthritis, unspecified, of ankle/foot",1
+309976019,"Oligoarticular osteoarthritis, unspecified, of forearm",1
+309977011,"Oligoarticular osteoarthritis, unspecified, of hand",1
+309979014,"Oligoarticular osteoarthritis, unspecified, of lower leg",1
+264471000006113,"Oligoarticular osteoarthritis, unspecified, of pelvis/thigh",1
+264481000006111,"Oligoarticular osteoarthritis, unspecified, of shoulder",1
+309975015,"Oligoarticular osteoarthritis, unspecified, of upper arm",1
+264501000006118,"Oligoarticular osteoarthritis, unspecified, other spec sites",1
+1776248011,Osteoarthritis,1
+889931000006113,Osteoarthritis - ankle/foot,1
+989341000006110,Osteoarthritis - elbow joint,1
+889881000006119,Osteoarthritis - elbow joint,1
+889901000006117,Osteoarthritis - hand joint,1
+889911000006119,Osteoarthritis - hip joint,1
+989361000006114,Osteoarthritis - hip joint,1
+889921000006110,Osteoarthritis - knee joint,1
+989371000006119,Osteoarthritis - knee joint,1
+889941000006115,Osteoarthritis - other joint,1
+889891000006116,Osteoarthritis - wrist joint,1
+989351000006112,Osteoarthritis - wrist joint,1
+889861000006112,Osteoarthritis -multiple joint,1
+889871000006117,Osteoarthritis -shoulder joint,1
+400182014,Osteoarthritis NOS,1
+41281000006113,Osteoarthritis NOS,1
+41301000006112,"Osteoarthritis NOS, of 1st MTP joint",1
+31031000006115,"Osteoarthritis NOS, of DIP joint of finger",1
+31071000006117,"Osteoarthritis NOS, of IP joint of toe",1
+31101000006110,"Osteoarthritis NOS, of MCP joint",1
+18051000006110,"Osteoarthritis NOS, of PIP joint of finger",1
+310013018,"Osteoarthritis NOS, of acromioclavicular joint",1
+310026019,"Osteoarthritis NOS, of ankle",1
+400188013,"Osteoarthritis NOS, of ankle and foot",1
+31041000006113,"Osteoarthritis NOS, of distal radio-ulnar joint",1
+310014012,"Osteoarthritis NOS, of elbow",1
+310020013,"Osteoarthritis NOS, of hip",1
+310024016,"Osteoarthritis NOS, of knee",1
+31091000006116,"Osteoarthritis NOS, of lesser MTP joint",1
+310029014,"Osteoarthritis NOS, of other tarsal joint",1
+18061000006112,"Osteoarthritis NOS, of sacro-iliac joint",1
+310011016,"Osteoarthritis NOS, of shoulder",1
+309988017,"Osteoarthritis NOS, of shoulder region",1
+310012011,"Osteoarthritis NOS, of sternoclavicular joint",1
+310027011,"Osteoarthritis NOS, of subtalar joint",1
+310028018,"Osteoarthritis NOS, of talonavicular joint",1
+400184010,"Osteoarthritis NOS, of the forearm",1
+400185011,"Osteoarthritis NOS, of the hand",1
+400187015,"Osteoarthritis NOS, of the lower leg",1
+400183016,"Osteoarthritis NOS, of the upper arm",1
+18121000006117,"Osteoarthritis NOS, of tibio-fibular joint",1
+309987010,"Osteoarthritis NOS, of unspecified site",1
+310016014,"Osteoarthritis NOS, of wrist",1
+310010015,"Osteoarthritis NOS, other specified site",1
+400186012,"Osteoarthritis NOS, pelvic region/thigh",1
+41261000006115,Osteoarthritis and allied disorders,1
+219611000000112,Osteoarthritis cervical spine,1
+1492276018,Osteoarthritis of cervical spine,1
+359420013,Osteoarthritis of knee,1
+359433019,Osteoarthritis of lumbar spine,1
+309983014,"Osteoarthritis of more than one site, unspecified, NOS",1
+1839121000006117,Osteoarthritis of spinal facet joint,1
+359402016,Osteoarthritis of spinal facet joint,1
+18181000006118,Osteoarthritis of spine,1
+508047017,Osteoarthritis of spine,1
+2476044012,Osteoarthritis of spine NOS,1
+1492281010,Osteoarthritis of thoracic spine,1
+18191000006115,Osteoarthritis spine,1
+240071000006115,Patellofemoral osteoarthritis,1
+359388019,Thumb osteoarthritis NOS,1
+359383011,Toe osteoarthritis NOS,1
+54641000006115,Wrist osteoarthritis NOS,1
+909181000006117,[RFC] Osteoarthritis,1
+905311000006112,[RFC] Osteoarthritis,1
