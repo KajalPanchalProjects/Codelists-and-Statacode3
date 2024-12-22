@@ -1,0 +1,11 @@
+icd,term,asthma_hes
+J45,Asthma,1
+J45.0,Predominantly allergic asthma,1
+J45.1,Nonallergic asthma,1
+J45.2,Mild intermittent asthma,1
+J45.3,Mild persistent asthma,1
+J45.4,Moderate persistent asthma,1
+J45.5,Severe persistent asthma,1
+J45.8,Mixed asthma,1
+J45.9,"""Asthma, unspecified""",1
+J46,Status asthmaticus,1

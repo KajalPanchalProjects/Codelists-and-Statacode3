@@ -1,0 +1,529 @@
+icd,term,cancer_hes
+C81,Hodgkin lymphoma,1
+C81.0,Nodular lymphocyte predominant Hodgkin lymphoma,1
+C81.1,Nodular sclerosis (classical) Hodgkin lymphoma,1
+C81.2,Mixed cellularity (classical) Hodgkin lymphoma,1
+C81.3,Lymphocyte depleted (classical) Hodgkin lymphoma,1
+C81.4,Lymphocyte-rich (classical) Hodgkin lymphoma,1
+C81.7,Other (classical) Hodgkin lymphoma,1
+C81.9,Hodgkin lymphoma unspecified,1
+C82,Follicular lymphoma,1
+C82.0,Follicular lymphoma grade I,1
+C82.1,Follicular lymphoma grade II,1
+C82.2,Follicular lymphoma grade III unspecified,1
+C82.3,Follicular lymphoma grade IIIa,1
+C82.4,Follicular lymphoma grade IIIb,1
+C82.5,Diffuse follicle centre lymphoma,1
+C82.6,Cutaneous follicle centre lymphoma,1
+C82.7,Other types of follicular lymphoma,1
+C82.9,Follicular lymphoma unspecified,1
+C83,Non-follicular lymphoma,1
+C83.0,Small cell B-cell lymphoma,1
+C83.1,Mantle cell lymphoma,1
+C83.3,Diffuse large B-cell lymphoma,1
+C83.5,Lymphoblastic (diffuse) lymphoma,1
+C83.7,Burkitt lymphoma,1
+C83.8,Other non-follicular lymphoma,1
+C83.9,Non-follicular (diffuse) lymphoma unspecified,1
+C84,Mature T/NK-cell lymphomas,1
+C84.0,Mycosis fungoides,1
+C84.1,SÃƒÂ©zary disease,1
+C84.4,Peripheral T-cell lymphoma not elsewhere classified,1
+C84.5,Other mature T/NK-cell lymphomas,1
+C84.6,Anaplastic large cell lymphoma ALK-positive,1
+C84.7,Anaplastic large cell lymphoma ALK-positive,1
+C84.8,Cutaneous T-cell lymphoma unspecified,1
+C84.9,Mature T/NK-cell lymphoma unspecified,1
+C85,Other and unspecified types of non-Hodgkin lymphoma,1
+C85.1,B-cell lymphoma unspecified,1
+C85.2,Mediastinal (thymic) large B-cell lymphoma,1
+C85.7,Other specified types of non-Hodgkin lymphoma,1
+C85.9,Non-Hodgkin lymphoma unspecified,1
+C86,Other specified types of T/NK-cell lymphoma,1
+C86.0,Extranodal NK/T-cell lymphoma nasal type,1
+C86.1,Hepatosplenic T-cell lymphoma,1
+C86.2,Enteropathy-type (intestinal) T-cell lymphoma,1
+C86.3,Subcutaneous panniculitis-like T-cell lymphoma,1
+C86.4,Blastic NK-cell lymphoma,1
+C86.5,Angioimmunoblastic T-cell lymphoma,1
+C86.6,Primary cutaneous CD30-positive T-cell proliferations,1
+C88,Malignant immunoproliferative diseases,1
+C88.0,WaldenstrÃƒÂ¶m macroglobulinaemia,1
+C88.2,Other heavy chain disease,1
+C88.3,Immunoproliferative small intestinal disease,1
+C88.4,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma],1
+C88.7,Other malignant immunoproliferative diseases,1
+C88.9,Malignant immunoproliferative disease unspecified,1
+C90,Multiple myeloma and malignant plasma cell neoplasms,1
+C90.0,Multiple myeloma,1
+C90.1,Plasma cell leukaemia,1
+C90.2,Extramedullary plasmacytoma,1
+C90.3,Solitary plasmacytoma,1
+C91,Lymphoid leukaemia,1
+C91.0,Acute lymphoblastic leukaemia [ALL],1
+C91.1,Chronic lymphocytic leukaemia of B-cell type,1
+C91.3,Prolymphocytic leukaemia of B-cell type,1
+C91.4,Hairy-cell leukaemia,1
+C91.5,Adult T-cell lymphoma/leukaemia [HTLV-1-associated],1
+C91.6,Prolymphocytic leukaemia of T-cell type,1
+C91.7,Other lymphoid leukaemia,1
+C91.8,Mature B-cell leukaemia Burkitt-type,1
+C91.9,Lymphoid leukaemia unspecified,1
+C92,Myeloid leukaemia,1
+C92.0,Acute myeloblastic leukaemia [AML],1
+C92.1,Chronic myeloid leukaemia [CML] BCR/ABL-positive,1
+C92.2,Atypical chronic myeloid leukaemia BCR/ABL-positive,1
+C92.3,Myeloid sarcoma,1
+C92.4,Acute promyelocytic leukaemia [PML],1
+C92.5,Acute myelomonocytic leukaemia,1
+C92.6,Acute myeloid leukaemia with 11q23-abnormality,1
+C92.7,Other myeloid leukaemia,1
+C92.8,Acute myeloid leukaemia with multilineage dysplasia,1
+C92.9,Myeloid leukaemia unspecified,1
+C93,Monocytic leukaemia,1
+C93.0,Acute monoblastic/monocytic leukaemia,1
+C93.1,Chronic myelomonocytic leukaemia,1
+C93.3,Juvenile myelomonocytic leukaemia,1
+C93.7,Other monocytic leukaemia,1
+C93.9,Monocytic leukaemia unspecified,1
+C94,Other leukaemias of specified cell type,1
+C94.0,Acute erythroid leukaemia,1
+C94.2,Acute megakaryoblastic leukaemia,1
+C94.3,Mast cell leukaemia,1
+C94.4,Acute panmyelosis with myelofibrosis,1
+C94.6,Myelodysplastic and myeloproliferative disease not elsewhere classified,1
+C94.7,Other specified leukaemias,1
+C95,Leukaemia of unspecified cell type,1
+C95.0,Acute leukaemia of unspecified cell type,1
+C95.1,Chronic leukaemia of unspecified cell type,1
+C95.7,Other leukaemia of unspecified cell type,1
+C95.9,Leukaemia unspecified,1
+C96,Other and unspecified malignant neoplasms of lymphoid haematopoietic and related tissue,1
+C96.0,Multifocal and multisystemic (disseminated) Langerhans-cell histiocytosis [Letterer-Siwe disease],1
+C96.2,Malignant mast cell tumour,1
+C96.4,Sarcoma of dendritic cells (accessory cells),1
+C96.5,Multifocal and unisystemic Langerhans-cell histiocytosis,1
+C96.6,Unifocal Langerhans-cell histiocytosis,1
+C96.7,Other specified malignant neoplasms of lymphoid haematopoietic and related tissue,1
+C96.8,Histiocytic sarcoma,1
+C96.9,Malignant neoplasm of lymphoid haematopoietic and related tissue,1
+C97,Malignant neoplasms of independent (primary) multiple sites,1
+C00,Malignant neoplasm of lip,1
+C00.0,Malignant neoplasm: External upper lip,1
+C00.1,Malignant neoplasm: External lower lip,1
+C00.2,Malignant neoplasm: External lip unspecified,1
+C00.3,Malignant neoplasm: Upper lip inner aspect,1
+C00.4,Malignant neoplasm: Lower lip inner aspect,1
+C00.5,Malignant neoplasm: Lip unspecified,1
+C00.6,Malignant neoplasm: Commissure of lip,1
+C00.8,Malignant neoplasm: Overlapping lesion of lip,1
+C00.9,Malignant neoplasm: Lip unspecified,1
+C01,Malignant neoplasm of base of tongue,1
+C02,Malignant neoplasm of other and unspecified parts of tongue,1
+C02.0,Malignant neoplasm: Dorsal surface of tongue,1
+C02.1,Malignant neoplasm: Border of tongue,1
+C02.2,Malignant neoplasm: Ventral surface of tongue,1
+C02.3,Malignant neoplasm: Anterior two-thirds of tongue part unspecified,1
+C02.4,Malignant neoplasm: Lingual tonsil,1
+C02.8,Malignant neoplasm: Overlapping lesion of tongue,1
+C02.9,Malignant neoplasm: Tongue unspecified,1
+C03,Malignant neoplasm of gum,1
+C03.0,Malignant neoplasm: Upper gum,1
+C03.1,Malignant neoplasm: Lower gum,1
+C03.9,Malignant neoplasm: Gum unspecified,1
+C04,Malignant neoplasm of floor of mouth,1
+C04.0,Malignant neoplasm: Anterior floor of mouth,1
+C04.1,Malignant neoplasm: Lateral floor of mouth,1
+C04.8,Malignant neoplasm: Overlapping lesion of floor of mouth,1
+C04.9,Malignant neoplasm: Floor of mouth unspecified,1
+C05,Malignant neoplasm of palate,1
+C05.0,Malignant neoplasm: Hard palate,1
+C05.1,Malignant neoplasm: Soft palate,1
+C05.2,Malignant neoplasm: Uvula,1
+C05.8,Malignant neoplasm: Overlapping lesion of palate,1
+C05.9,Malignant neoplasm: Palate unspecified,1
+C06,Malignant neoplasm of other and unspecified parts of mouth,1
+C06.0,Malignant neoplasm: Cheek mucosa,1
+C06.1,Malignant neoplasm: Vestibule of mouth,1
+C06.2,Malignant neoplasm: Retromolar area,1
+C06.8,Malignant neoplasm: Overlapping lesion of other and unspecified parts of mouth,1
+C06.9,Malignant neoplasm: Mouth unspecified,1
+C07,Malignant neoplasm of parotid gland,1
+C08,Malignant neoplasm of other and unspecified major salivary glands,1
+C08.0,Malignant neoplasm: Submandibular gland,1
+C08.1,Malignant neoplasm: Sublingual gland,1
+C08.8,Malignant neoplasm: Overlapping lesion of major salivary glands,1
+C08.9,Malignant neoplasm: Major salivary gland unspecified,1
+C09,Malignant neoplasm of tonsil,1
+C09.0,Malignant neoplasm: Tonsillar fossa,1
+C09.1,Malignant neoplasm: Tonsillar pillar (anterior)(posterior),1
+C09.8,Malignant neoplasm: Overlapping lesion of tonsil,1
+C09.9,Malignant neoplasm: Tonsil unspecified,1
+C10,Malignant neoplasm of oropharynx,1
+C10.0,Malignant neoplasm: Vallecula,1
+C10.1,Malignant neoplasm: Anterior surface of epiglottis,1
+C10.2,Malignant neoplasm: Lateral wall of oropharynx,1
+C10.3,Malignant neoplasm: Posterior wall of oropharynx,1
+C10.4,Malignant neoplasm: Branchial cleft,1
+C10.8,Malignant neoplasm: Overlapping lesion of oropharynx,1
+C10.9,Malignant neoplasm: Oropharynx unspecified,1
+C11,Malignant neoplasm of nasopharynx,1
+C11.0,Malignant neoplasm: Superior wall of nasopharynx,1
+C11.1,Malignant neoplasm: Posterior wall of nasopharynx,1
+C11.2,Malignant neoplasm: Lateral wall of nasopharynx,1
+C11.3,Malignant neoplasm: Anterior wall of nasopharynx,1
+C11.8,Malignant neoplasm: Overlapping lesion of nasopharynx,1
+C11.9,Malignant neoplasm: Nasopharynx unspecified,1
+C12,Malignant neoplasm of piriform sinus,1
+C13,Malignant neoplasm of hypopharynx,1
+C13.0,Malignant neoplasm: Postcricoid region,1
+C13.1,Malignant neoplasm: Aryepiglottic fold hypopharyngeal aspect,1
+C13.2,Malignant neoplasm: Posterior wall of hypopharynx,1
+C13.8,Malignant neoplasm: Overlapping lesion of hypopharynx,1
+C13.9,Malignant neoplasm: Hypopharynx unspecified,1
+C14,Malignant neoplasm of other and ill-defined sites in the lip oral cavity and pharynx,1
+C14.0,Malignant neoplasm: Pharynx unspecified,1
+C14.2,Malignant neoplasm: Waldeyer ring,1
+C14.8,Malignant neoplasm: Overlapping lesion of lip oral cavity and pharynx,1
+C15,Malignant neoplasm of oesophagus,1
+C15.0,Malignant neoplasm: Cervical part of oesophagus,1
+C15.1,Malignant neoplasm: Thoracic part of oesophagus,1
+C15.2,Malignant neoplasm: Abdominal part of oesophagus,1
+C15.3,Malignant neoplasm: Upper third of oesophagus,1
+C15.4,Malignant neoplasm: Middle third of oesophagus,1
+C15.5,Malignant neoplasm: Lower third of oesophagus,1
+C15.8,Malignant neoplasm: Overlapping lesion of oesophagus,1
+C15.9,Malignant neoplasm: Oesophagus unspecified,1
+C16,Malignant neoplasm of stomach,1
+C16.0,Malignant neoplasm: Cardia,1
+C16.1,Malignant neoplasm: Fundus of stomach,1
+C16.2,Malignant neoplasm: Body of stomach,1
+C16.3,Malignant neoplasm: Pyloric antrum,1
+C16.4,Malignant neoplasm: Pylorus,1
+C16.5,Malignant neoplasm: Lesser curvature of stomach unspecified,1
+C16.6,Malignant neoplasm: Greater curvature of stomach unspecified,1
+C16.8,Malignant neoplasm: Overlapping lesion of stomach,1
+C16.9,Malignant neoplasm: Stomach unspecified,1
+C17,Malignant neoplasm of small intestine,1
+C17.0,Malignant neoplasm: Duodenum,1
+C17.1,Malignant neoplasm: Jejunum,1
+C17.2,Malignant neoplasm: Ileum,1
+C17.3,Malignant neoplasm: Meckel diverticulum,1
+C17.8,Malignant neoplasm: Overlapping lesion of small intestine,1
+C17.9,Malignant neoplasm: Small intestine unspecified,1
+C18,Malignant neoplasm of colon,1
+C18.0,Malignant neoplasm: Caecum,1
+C18.1,Malignant neoplasm: Appendix,1
+C18.2,Malignant neoplasm: Ascending colon,1
+C18.3,Malignant neoplasm: Hepatic flexure,1
+C18.4,Malignant neoplasm: Transverse colon,1
+C18.5,Malignant neoplasm: Splenic flexure,1
+C18.6,Malignant neoplasm: Descending colon,1
+C18.7,Malignant neoplasm: Sigmoid colon,1
+C18.8,Malignant neoplasm: Overlapping lesion of colon,1
+C18.9,Malignant neoplasm: Colon unspecified,1
+C19,Malignant neoplasm of rectosigmoid junction,1
+C20,Malignant neoplasm of rectum,1
+C21,Malignant neoplasm of anus and anal canal,1
+C21.0,Malignant neoplasm: Anus unspecified,1
+C21.1,Malignant neoplasm: Anal canal,1
+C21.2,Malignant neoplasm: Cloacogenic zone,1
+C21.8,Malignant neoplasm: Overlapping lesion of rectum anus and anal canal,1
+C22,Malignant neoplasm of liver and intrahepatic bile ducts,1
+C22.0,Malignant neoplasm: Liver cell carcinoma,1
+C22.1,Malignant neoplasm: Intrahepatic bile duct carcinoma,1
+C22.2,Malignant neoplasm: Hepatoblastoma,1
+C22.3,Malignant neoplasm: Angiosarcoma of liver,1
+C22.4,Malignant neoplasm: Other sarcomas of liver,1
+C22.7,Malignant neoplasm: Other specified carcinomas of liver,1
+C22.9,Malignant neoplasm: Liver unspecified,1
+C23,Malignant neoplasm of gallbladder,1
+C24,Malignant neoplasm of other and unspecified parts of biliary tract,1
+C24.0,Malignant neoplasm: Extrahepatic bile duct,1
+C24.1,Malignant neoplasm: Ampulla of Vater,1
+C24.8,Malignant neoplasm: Overlapping lesion of biliary tract,1
+C24.9,Malignant neoplasm: Biliary tract unspecified,1
+C25,Malignant neoplasm of pancreas,1
+C25.0,Malignant neoplasm: Head of pancreas,1
+C25.1,Malignant neoplasm: Body of pancreas,1
+C25.2,Malignant neoplasm: Tail of pancreas,1
+C25.3,Malignant neoplasm: Pancreatic duct,1
+C25.4,Malignant neoplasm: Endocrine pancreas,1
+C25.7,Malignant neoplasm: Other parts of pancreas,1
+C25.8,Malignant neoplasm: Overlapping lesion of pancreas,1
+C25.9,Malignant neoplasm: Pancreas unspecified,1
+C26,Malignant neoplasm of other and ill-defined digestive organs,1
+C26.0,Malignant neoplasm: Intestinal tract part unspecified,1
+C26.1,Malignant neoplasm: Spleen,1
+C26.8,Malignant neoplasm: Overlapping lesion of digestive system,1
+C26.9,Malignant neoplasm: Ill-defined sites within the digestive system,1
+C30,Malignant neoplasm of nasal cavity and middle ear,1
+C30.0,Malignant neoplasm: Nasal cavity,1
+C30.1,Malignant neoplasm: Middle ear,1
+C31,Malignant neoplasm of accessory sinuses,1
+C31.0,Malignant neoplasm: Maxillary sinus,1
+C31.1,Malignant neoplasm: Ethmoidal sinus,1
+C31.2,Malignant neoplasm: Frontal sinus,1
+C31.3,Malignant neoplasm: Sphenoidal sinus,1
+C31.8,Malignant neoplasm: Overlapping lesion of accessory sinuses,1
+C31.9,Malignant neoplasm: Accessory sinus unspecified,1
+C32,Malignant neoplasm of larynx,1
+C32.0,Malignant neoplasm: Glottis,1
+C32.1,Malignant neoplasm: Supraglottis,1
+C32.2,Malignant neoplasm: Subglottis,1
+C32.3,Malignant neoplasm: Laryngeal cartilage,1
+C32.8,Malignant neoplasm: Overlapping lesion of larynx,1
+C32.9,Malignant neoplasm: Larynx unspecified,1
+C33,Malignant neoplasm of trachea,1
+C34,Malignant neoplasm of bronchus and lung,1
+C34.0,Malignant neoplasm: Main bronchus,1
+C34.1,Malignant neoplasm: Upper lobe bronchus or lung,1
+C34.2,Malignant neoplasm: Middle lobe bronchus or lung,1
+C34.3,Malignant neoplasm: Lower lobe bronchus or lung,1
+C34.8,Malignant neoplasm: Overlapping lesion of bronchus and lung,1
+C34.9,Malignant neoplasm: Bronchus or lung unspecified,1
+C37,Malignant neoplasm of thymus,1
+C38,Malignant neoplasm of heart mediastinum and pleura,1
+C38.0,Malignant neoplasm: Heart,1
+C38.1,Malignant neoplasm: Anterior mediastinum,1
+C38.2,Malignant neoplasm: Posterior mediastinum,1
+C38.3,Malignant neoplasm: Mediastinum part unspecified,1
+C38.4,Malignant neoplasm: Pleura,1
+C38.8,Malignant neoplasm: Overlapping lesion of heart mediastinum and pleura,1
+C39,Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs,1
+C39.0,Malignant neoplasm: Upper respiratory tract part unspecified,1
+C39.8,Malignant neoplasm: Overlapping lesion of respiratory and intrathoracic organs,1
+C39.9,Malignant neoplasm: Ill-defined sites within the respiratory system,1
+C40,Malignant neoplasm of bone and articular cartilage of limbs,1
+C40.0,Malignant neoplasm: Scapula and long bones of upper limb,1
+C40.1,Malignant neoplasm: Short bones of upper limb,1
+C40.2,Malignant neoplasm: Long bones of lower limb,1
+C40.3,Malignant neoplasm: Short bones of lower limb,1
+C40.8,Malignant neoplasm: Overlapping lesion of bone and articular cartilage of limbs,1
+C40.9,Malignant neoplasm: Bone and articular cartilage of limb unspecified,1
+C41,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,1
+C41.0,Malignant neoplasm: Bones of skull and face,1
+C41.1,Malignant neoplasm: Mandible,1
+C41.2,Malignant neoplasm: Vertebral column,1
+C41.3,Malignant neoplasm: Ribs sternum and clavicle,1
+C41.4,Malignant neoplasm: Pelvic bones sacrum and coccyx,1
+C41.8,Malignant neoplasm: Overlapping lesion of bone and articular cartilage,1
+C41.9,Malignant neoplasm: Bone and articular cartilage unspecified,1
+C43,Malignant melanoma of skin,1
+C43.0,Malignant neoplasm: Malignant melanoma of lip,1
+C43.1,Malignant neoplasm: Malignant melanoma of eyelid including canthus,1
+C43.2,Malignant neoplasm: Malignant melanoma of ear and external auricular canal,1
+C43.3,Malignant neoplasm: Malignant melanoma of other and unspecified parts of face,1
+C43.4,Malignant neoplasm: Malignant melanoma of scalp and neck,1
+C43.5,Malignant neoplasm: Malignant melanoma of trunk,1
+C43.6,Malignant neoplasm: Malignant melanoma of upper limb including shoulder,1
+C43.7,Malignant neoplasm: Malignant melanoma of lower limb including hip,1
+C43.8,Malignant neoplasm: Overlapping malignant melanoma of skin,1
+C43.9,Malignant neoplasm: Malignant melanoma of skin unspecified,1
+C45,Mesothelioma,1
+C45.0,Mesothelioma of pleura,1
+C45.1,Mesothelioma of peritoneum,1
+C45.2,Mesothelioma of pericardium,1
+C45.7,Mesothelioma of other sites,1
+C45.9,Mesothelioma unspecified,1
+C46,Kaposi sarcoma,1
+C46.0,Kaposi sarcoma of skin,1
+C46.1,Kaposi sarcoma of soft tissue,1
+C46.2,Kaposi sarcoma of palate,1
+C46.3,Kaposi sarcoma of lymph nodes,1
+C46.7,Kaposi sarcoma of other sites,1
+C46.8,Kaposi sarcoma of multiple organs ,1
+C46.9,Kaposi sarcoma unspecified,1
+C47,Malignant neoplasm of peripheral nerves and autonomic nervous system,1
+C47.0,Malignant neoplasm: Peripheral nerves of head face and neck,1
+C47.1,Malignant neoplasm: Peripheral nerves of upper limb including shoulder,1
+C47.2,Malignant neoplasm: Peripheral nerves of lower limb including hip,1
+C47.3,Malignant neoplasm: Peripheral nerves of thorax,1
+C47.4,Malignant neoplasm: Peripheral nerves of abdomen,1
+C47.5,Malignant neoplasm: Peripheral nerves of pelvis,1
+C47.6,Malignant neoplasm: Peripheral nerves of trunk unspecified,1
+C47.8,Malignant neoplasm: Overlapping lesion of peripheral nerves and autonomic nervous system,1
+C47.9,Malignant neoplasm: Peripheral nerves and autonomic nervous system unspecified,1
+C48,Malignant neoplasm of retroperitoneum and peritoneum,1
+C48.0,Malignant neoplasm: Retroperitoneum,1
+C48.1,Malignant neoplasm: Specified parts of peritoneum,1
+C48.2,Malignant neoplasm: Peritoneum unspecified,1
+C48.8,Malignant neoplasm: Overlapping lesion of retroperitoneum and peritoneum,1
+C49,Malignant neoplasm of other connective and soft tissue,1
+C49.0,Malignant neoplasm: Connective and soft tissue of head face and neck,1
+C49.1,Malignant neoplasm: Connective and soft tissue of upper limb including shoulder,1
+C49.2,Malignant neoplasm: Connective and soft tissue of lower limb including hip,1
+C49.3,Malignant neoplasm: Connective and soft tissue of thorax,1
+C49.4,Malignant neoplasm: Connective and soft tissue of abdomen,1
+C49.5,Malignant neoplasm: Connective and soft tissue of pelvis,1
+C49.6,Malignant neoplasm: Connective and soft tissue of trunk unspecified,1
+C49.8,Malignant neoplasm: Overlapping lesion of connective and soft tissue ,1
+C49.9,Malignant neoplasm: Connective and soft tissue unspecified,1
+C50,Malignant neoplasm of breast,1
+C50.0,Malignant neoplasm: Nipple and areola,1
+C50.1,Malignant neoplasm: Central portion of breast,1
+C50.2,Malignant neoplasm: Upper-inner quadrant of breast,1
+C50.3,Malignant neoplasm: Lower-inner quadrant of breast,1
+C50.4,Malignant neoplasm: Upper-outer quadrant of breast,1
+C50.5,Malignant neoplasm: Lower-outer quadrant of breast,1
+C50.6,Malignant neoplasm: Axillary tail of breast,1
+C50.8,Malignant neoplasm: Overlapping lesion of breast,1
+C50.9,Malignant neoplasm: Breast unspecified,1
+C51,Malignant neoplasm of vulva,1
+C51.0,Malignant neoplasm: Labium majus,1
+C51.1,Malignant neoplasm: Labium minus,1
+C51.2,Malignant neoplasm: Clitoris,1
+C51.8,Malignant neoplasm: Overlapping lesion of vulva,1
+C51.9,Malignant neoplasm: Vulva unspecified,1
+C52,Malignant neoplasm of vagina,1
+C53,Malignant neoplasm of cervix uteri,1
+C53.0,Malignant neoplasm: Endocervix,1
+C53.1,Malignant neoplasm: Exocervix,1
+C53.8,Malignant neoplasm: Overlapping lesion of cervix uteri,1
+C53.9,Malignant neoplasm: Cervix uteri unspecified,1
+C54,Malignant neoplasm of corpus uteri,1
+C54.0,Malignant neoplasm: Isthmus uteri,1
+C54.1,Malignant neoplasm: Endometrium,1
+C54.2,Malignant neoplasm: Myometrium,1
+C54.3,Malignant neoplasm: Fundus uteri,1
+C54.8,Malignant neoplasm: Overlapping lesion of corpus uteri,1
+C54.9,Malignant neoplasm: Corpus uteri unspecified,1
+C55,Malignant neoplasm of uterus part unspecified,1
+C56,Malignant neoplasm of ovary,1
+C57,Malignant neoplasm of other and unspecified female genital organs,1
+C57.0,Malignant neoplasm: Fallopian tube,1
+C57.1,Malignant neoplasm: Broad ligament,1
+C57.2,Malignant neoplasm: Round ligament,1
+C57.3,Malignant neoplasm: Parametrium,1
+C57.4,Malignant neoplasm: Uterine adnexa unspecified,1
+C57.7,Malignant neoplasm: Other specified female genital organs,1
+C57.8,Malignant neoplasm: Overlapping lesion of female genital organs,1
+C57.9,Malignant neoplasm: Female genital organ unspecified,1
+C58,Malignant neoplasm of placenta,1
+C60,Malignant neoplasm of penis,1
+C60.0,Malignant neoplasm: Prepuce,1
+C60.1,Malignant neoplasm: Glans penis,1
+C60.2,Malignant neoplasm: Body of penis,1
+C60.8,Malignant neoplasm: Overlapping lesion of penis,1
+C60.9,Malignant neoplasm: Penis unspecified,1
+C61,Malignant neoplasm of prostate,1
+C62,Malignant neoplasm of testis,1
+C62.0,Malignant neoplasm: Undescended testis,1
+C62.1,Malignant neoplasm: Descended testis,1
+C62.9,Malignant neoplasm: Testis unspecified,1
+C63,Malignant neoplasm of other and unspecified male genital organs,1
+C63.0,Malignant neoplasm: Epididymis,1
+C63.1,Malignant neoplasm: Spermatic cord,1
+C63.2,Malignant neoplasm: Scrotum,1
+C63.7,Malignant neoplasm: Other specified male genital organs,1
+C63.8,Malignant neoplasm: Overlapping lesion of male genital organs,1
+C63.9,Malignant neoplasm: Male genital organ unspecified,1
+C64,Malignant neoplasm of kidney except renal pelvis,1
+C65,Malignant neoplasm of renal pelvis,1
+C66,Malignant neoplasm of ureter,1
+C67,Malignant neoplasm of bladder,1
+C67.0,Malignant neoplasm: Trigone of bladder,1
+C67.1,Malignant neoplasm: Dome of bladder,1
+C67.2,Malignant neoplasm: Lateral wall of bladder,1
+C67.3,Malignant neoplasm: Anterior wall of bladder,1
+C67.4,Malignant neoplasm: Posterior wall of bladder,1
+C67.5,Malignant neoplasm: Bladder neck,1
+C67.6,Malignant neoplasm: Ureteric orifice,1
+C67.7,Malignant neoplasm: Urachus,1
+C67.8,Malignant neoplasm: Overlapping lesion of bladder,1
+C67.9,Malignant neoplasm: Bladder unspecified,1
+C68,Malignant neoplasm of other and unspecified urinary organs,1
+C68.0,Malignant neoplasm: Urethra,1
+C68.1,Malignant neoplasm: Paraurethral gland,1
+C68.8,Malignant neoplasm: Overlapping lesion of urinary organs,1
+C68.9,Malignant neoplasm: Urinary organ unspecified,1
+C69,Malignant neoplasm of eye and adnexa,1
+C69.0,Malignant neoplasm: Conjunctiva,1
+C69.1,Malignant neoplasm: Cornea,1
+C69.2,Malignant neoplasm: Retina,1
+C69.3,Malignant neoplasm: Choroid,1
+C69.4,Malignant neoplasm: Ciliary body,1
+C69.5,Malignant neoplasm: Lacrimal gland and duct,1
+C69.6,Malignant neoplasm: Orbit,1
+C69.8,Malignant neoplasm: Overlapping lesion of eye and adnexa,1
+C69.9,Malignant neoplasm: Eye unspecified,1
+C70,Malignant neoplasm of meninges,1
+C70.0,Malignant neoplasm: Cerebral meninges,1
+C70.1,Malignant neoplasm: Spinal meninges,1
+C70.9,Malignant neoplasm: Meninges unspecified,1
+C71,Malignant neoplasm of brain,1
+C71.0,Malignant neoplasm: Cerebrum except lobes and ventricles,1
+C71.1,Malignant neoplasm: Frontal lobe,1
+C71.2,Malignant neoplasm: Temporal lobe,1
+C71.3,Malignant neoplasm: Parietal lobe,1
+C71.4,Malignant neoplasm: Occipital lobe,1
+C71.5,Malignant neoplasm: Cerebral ventricle,1
+C71.6,Malignant neoplasm: Cerebellum,1
+C71.7,Malignant neoplasm: Brain stem,1
+C71.8,Malignant neoplasm: Overlapping lesion of brain,1
+C71.9,Malignant neoplasm: Brain unspecified,1
+C72,Malignant neoplasm of spinal cord cranial nerves and other parts of central nervous system,1
+C72.0,Malignant neoplasm: Spinal cord,1
+C72.1,Malignant neoplasm: Cauda equina,1
+C72.2,Malignant neoplasm: Olfactory nerve,1
+C72.3,Malignant neoplasm: Optic nerve,1
+C72.4,Malignant neoplasm: Acoustic nerve,1
+C72.5,Malignant neoplasm: Other and unspecified cranial nerves,1
+C72.8,Malignant neoplasm: Overlapping lesion of brain and other parts of central nervous system,1
+C72.9,Malignant neoplasm: Central nervous system unspecified,1
+C73,Malignant neoplasm of thyroid gland,1
+C74,Malignant neoplasm of adrenal gland,1
+C74.0,Malignant neoplasm: Cortex of adrenal gland,1
+C74.1,Malignant neoplasm: Medulla of adrenal gland,1
+C74.9,Malignant neoplasm: Adrenal gland unspecified,1
+C75,Malignant neoplasm of other endocrine glands and related structures,1
+C75.0,Malignant neoplasm: Parathyroid gland,1
+C75.1,Malignant neoplasm: Pituitary gland,1
+C75.2,Malignant neoplasm: Craniopharyngeal duct,1
+C75.3,Malignant neoplasm: Pineal gland,1
+C75.4,Malignant neoplasm: Carotid body,1
+C75.5,Malignant neoplasm: Aortic body and other paraganglia,1
+C75.8,Malignant neoplasm: Pluriglandular involvement unspecified,1
+C75.9,Malignant neoplasm: Endocrine gland unspecified,1
+C76,Malignant neoplasm of other and ill-defined sites,1
+C76.0,Malignant neoplasm of other and ill-defined sites: Head",1
+C76.1,Malignant neoplasm of other and ill-defined sites: Thorax,1
+C76.2,Malignant neoplasm of other and ill-defined sites: Abdomen,1
+C76.3,Malignant neoplasm of other and ill-defined sites: Pelvis,1
+C76.4,Malignant neoplasm of other and ill-defined sites: Upper limb,1
+C76.5,Malignant neoplasm of other and ill-defined sites: Lower limb,1
+C76.7,Malignant neoplasm of other and ill-defined sites: Other ill-defined sites,1
+C76.8,Malignant neoplasm of other and ill-defined sites: Overlapping lesion of other and ill-defined sites,1
+C77,Secondary and unspecified malignant neoplasm of lymph nodes,1
+C77.0,Secondary and unspecified malignant neoplasm: Lymph nodes of head face and neck,1
+C77.1,Secondary and unspecified malignant neoplasm: Intrathoracic lymph nodes,1
+C77.2,Secondary and unspecified malignant neoplasm: Intra-abdominal lymph nodes,1
+C77.3,Secondary and unspecified malignant neoplasm: Axillary and upper limb lymph nodes,1
+C77.4,Secondary and unspecified malignant neoplasm: Inguinal and lower limb lymph nodes,1
+C77.5,Secondary and unspecified malignant neoplasm: Intrapelvic lymph nodes,1
+C77.8,Secondary and unspecified malignant neoplasm: Lymph nodes of multiple regions,1
+C77.9,Secondary and unspecified malignant neoplasm: Lymph node unspecified,1
+C78,Secondary malignant neoplasm of respiratory and digestive organs,1
+C78.0,Secondary malignant neoplasm of lung,1
+C78.1,Secondary malignant neoplasm of mediastinum,1
+C78.2,Secondary malignant neoplasm of pleura,1
+C78.3,Secondary malignant neoplasm of other and unspecified respiratory organs,1
+C78.4,Secondary malignant neoplasm of small intestine,1
+C78.5,Secondary malignant neoplasm of large intestine and rectum,1
+C78.6,Secondary malignant neoplasm of retroperitoneum and peritoneum,1
+C78.7,Secondary malignant neoplasm of liver and intrahepatic bile duct,1
+C78.8,Secondary malignant neoplasm of other and unspecified digestive organs,1
+C79,Secondary malignant neoplasm of other and unspecified sites,1
+C79.0,Secondary malignant neoplasm of kidney and renal pelvis,1
+C79.1,Secondary malignant neoplasm of bladder and other and unspecified urinary organs,1
+C79.2,Secondary malignant neoplasm of skin,1
+C79.3,Secondary malignant neoplasm of brain and cerebral meninges,1
+C79.4,Secondary malignant neoplasm of other and unspecified parts of nervous system,1
+C79.5,Secondary malignant neoplasm of bone and bone marrow,1
+C79.6,Secondary malignant neoplasm of ovary,1
+C79.7,Secondary malignant neoplasm of adrenal gland,1
+C79.8,Secondary malignant neoplasm of other specified sites,1
+C79.9,Secondary malignant neoplasm unspecified,1
+C80,Malignant neoplasm without specification of site,1
+C80.0,Malignant neoplasm primary site unknown",1
+C80.9,Malignant neoplasm primary site unspecified,1

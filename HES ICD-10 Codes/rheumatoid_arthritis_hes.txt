@@ -1,0 +1,15 @@
+icd,term,ra_hes
+M05,Seropositive rheumatoid arthritis,1
+M05.0,Felty syndrome,1
+M05.1,Rheumatoid lung disease,1
+M05.2,Rheumatoid vasculitis,1
+M05.3,Rheumatoid arthritis with involvement of other organs and systems,1
+M05.8,Other seropositive rheumatoid arthritis,1
+M05.9,Seropositive rheumatoid arthritis,1
+M06.0,Seronegative rheumatoid arthritis,1
+M06.1,Adult-onset Still disease,1
+M06.2,Rheumatoid bursitis,1
+M06.3,Rheumatoid nodule,1
+M06.4,Inflammatory polyarthropathy,1
+M06.8,Other specified rheumatoid arthritis,1
+M06.9,Rheumatoid arthritis,1

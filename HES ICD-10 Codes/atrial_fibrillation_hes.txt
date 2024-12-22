@@ -1,0 +1,6 @@
+icd,af_hes,term
+I48,1,Paroxysmal atrial fibrillation
+I48.0,1,Paroxysmal atrial fibrillation
+I48.1,1,Persistent atrial fibrillation
+I48.2,1,Chronic atrial fibrillation
+I48.9,1,Unspecified atrial fibrillation and atrial flutter

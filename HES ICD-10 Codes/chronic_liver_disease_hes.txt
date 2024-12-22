@@ -1,0 +1,61 @@
+icd,term,cld_hes
+B18,chronic viral hepatitis,1
+B18.0,chronic viral hepatitis b with delta-agent,1
+B18.1,chronic viral hepatitis b without delta-agent,1
+B18.2,chronic viral hepatitis c,1
+B18.8,other chronic viral hepatitis,1
+B18.9,"""chronic viral hepatitis unspecified""",1
+K70,alcoholic liver disease,1
+K70.0,alcoholic fatty liver,1
+K70.1,alcoholic hepatitis,1
+K70.2,alcoholic fibrosis and sclerosis of liver,1
+K70.3,alcoholic cirrhosis of liver,1
+K70.4,alcoholic hepatic failure,1
+K70.9,"""alcoholic liver disease unspecified""",1
+K71,toxic liver disease,1
+K71.0,toxic liver disease with cholestasis,1
+K71.1,toxic liver disease with hepatic necrosis,1
+K71.2,toxic liver disease with acute hepatitis,1
+K71.3,toxic liver disease with chronic persistent hepatitis,1
+K71.4,toxic liver disease with chronic lobular hepatitis,1
+K71.5,toxic liver disease with chronic active hepatitis,1
+K71.6,"""toxic liver disease with hepatitis not elsewhere classified""",1
+K71.7,toxic liver disease with fibrosis and cirrhosis of liver,1
+K71.8,toxic liver disease with other disorders of liver,1
+K71.9,"""toxic liver disease unspecified""",1
+K72,"""hepatic failure not elsewhere classified""",1
+K72.1,chronic hepatic failure,1
+K72.9,"""hepatic failure unspecified""",1
+K73,"""chronic hepatitis not elsewhere classified""",1
+K73.0,"""chronic persistent hepatitis not elsewhere classified""",1
+K73.1,"""chronic lobular hepatitis not elsewhere classified""",1
+K73.2,"""chronic active hepatitis not elsewhere classified""",1
+K73.8,"""other chronic hepatitis not elsewhere classified""",1
+K73.9,"""chronic hepatitis unspecified""",1
+K74,fibrosis and cirrhosis of liver,1
+K74.0,hepatic fibrosis,1
+K74.1,hepatic sclerosis,1
+K74.2,hepatic fibrosis with hepatic sclerosis,1
+K74.3,primary biliary cirrhosis,1
+K74.4,secondary biliary cirrhosis,1
+K74.5,"""biliary cirrhosis unspecified""",1
+K74.6,other and unspecified cirrhosis of liver,1
+K75,other inflammatory liver diseases,1
+K75.0,abscess of liver,1
+K75.1,phlebitis of portal vein,1
+K75.2,nonspecific reactive hepatitis,1
+K75.3,"""granulomatous hepatitis not elsewhere classified""",1
+K75.4,autoimmune hepatitis,1
+K75.8,other specified inflammatory liver diseases,1
+K75.9,"""inflammatory liver disease unspecified""",1
+K76,other diseases of liver,1
+K76.0,"""fatty (change of) liver not elsewhere classified""",1
+K76.1,chronic passive congestion of liver,1
+K76.2,central haemorrhagic necrosis of liver,1
+K76.3,infarction of liver,1
+K76.4,peliosis hepatis,1
+K76.5,hepatic veno-occlusive disease,1
+K76.6,portal hypertension,1
+K76.7,hepatorenal syndrome,1
+K76.8,other specified diseases of liver,1
+K76.9,"""liver disease unspecified""",1

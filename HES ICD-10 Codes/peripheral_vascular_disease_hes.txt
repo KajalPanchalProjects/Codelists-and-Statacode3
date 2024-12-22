@@ -1,0 +1,7 @@
+icd,term,pvd_hes
+I70.2,Atherosclerosis of arteries of extremities,1
+I73,Other peripheral vascular diseases,1
+I73.8,Other specified peripheral vascular diseases,1
+I73.9,Peripheral vascular disease",1
+I79.2,Peripheral angiopathy in diseases classified elsewhere,1
+170.20,atherosclerosis of arteries of extremities,1

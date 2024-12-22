@@ -1,0 +1,31 @@
+icd,term,dementia_hes
+F00,Dementia in Alzheimer disease,1
+F00.0,Dementia in Alzheimer disease with early onset,1
+F00.1,Dementia in Alzheimer disease with late onset,1
+F00.2,Dementia in Alzheimer disease atypical or mixed type,1
+F00.9,Dementia in Alzheimer disease unspecified,1
+F01,Vascular dementia,1
+F01.1,Multi-infarct dementia,1
+F01.2,Subcortical vascular dementia,1
+F01.3,Mixed cortical and subcortical vascular dementia,1
+F01.8,Other vascular dementia,1
+F01.9,Vascular dementia unspecified,1
+F02,Dementia in other diseases classified elsewhere,1
+F02.0,Dementia in Pick disease,1
+F02.1,Dementia in Creutzfeldt-Jakob disease,1
+F02.2,Dementia in Huntington disease,1
+F02.3,Dementia in Parkinson disease,1
+F02.4,Dementia in human immunodeficiency virus [HIV] disease,1
+F02.8,Dementia in other specified diseases classified elsewhere,1
+F03,Unspecified dementia,1
+F05.1,Delirium superimposed on dementia,1
+F10.7,Mental and behavioural disorders due to use of alcohol,1
+G30,Alzheimer disease,1
+G30.0,Alzheimer disease with early onset,1
+G30.1,Alzheimer disease with late onset,1
+G30.8,Other Alzheimer disease,1
+G30.9,Alzheimer disease unspecified,1
+G31.0,Circumscribed brain atrophy,1
+G31.1,Senile degeneration of brain not elsewhere classified,1
+G31.8,Other specified degenerative diseases of nervous system,1
+F01.0,Vascular dementia of acute onset,1

@@ -1,0 +1,40 @@
+icd,term,oa_hes
+M15,Polyosteoarthritis,1
+M15.0,Primary generalized (osteo)arthritis,1
+M15.1, Heberden's nodes (with arthropathy),1
+M15.2,Bouchard's nodes (with arthropathy),1
+M15.3,Secondary multiple arthritis,1
+M15.4, Erosive (osteo)arthritis,1
+M15.8,Other polyosteoarthritis,1
+M15.9,Polyosteoarthritis, unspecified,1
+M16,Polyosteoarthritis, unspecified,1
+M16.0,Bilateral primary osteoarthritis of hip,1
+M16.1, Unilateral primary osteoarthritis of hip,1
+M16.2,Bilateral osteoarthritis resulting from hip dysplasia,1
+M16.3,Unilateral osteoarthritis resulting from hip dysplasia,1
+M16.4,Bilateral post-traumatic osteoarthritis of hip,1
+M16.5,Unilateral post-traumatic osteoarthritis of hip,1
+M16.6,Other bilateral secondary osteoarthritis of hip,1
+M16.7,Other unilateral secondary osteoarthritis of hip,1
+M16.9,Osteoarthritis of hip, unspecified,1
+M17,Osteoarthritis of knee,1
+M17.0, Bilateral primary osteoarthritis of knee,1
+M17.1,Unilateral primary osteoarthritis of knee,1
+M17.2,Bilateral post-traumatic osteoarthritis of knee,1
+M17.3,Unilateral post-traumatic osteoarthritis of knee,1
+M17.4,Other bilateral secondary osteoarthritis of knee,1
+M17.5,Other unilateral secondary osteoarthritis of knee,1
+M17.9,Osteoarthritis of knee, unspecified,1
+M18,Osteoarthritis of first carpometacarpal joint,1
+M18.0,Bilateral primary osteoarthritis of first carpometacarpal joints,1
+M18.1,Unilateral primary osteoarthritis of first carpometacarpal joint,1
+M18.2, Bilateral post-traumatic osteoarthritis of first carpometacarpal joints,1
+M18.3,Unilateral post-traumatic osteoarthritis of first carpometacarpal joint,1
+M18.4,Other bilateral secondary osteoarthritis of first carpometacarpal joints,1
+M18.5, Other unilateral secondary osteoarthritis of first carpometacarpal joint,1
+M18.9,Osteoarthritis of first carpometacarpal joint, unspecified,1
+M19,Other and unspecified osteoarthritis,1
+M19.0,Primary osteoarthritis of other joints,1
+M19.1,Post-traumatic osteoarthritis of other joints,1
+M19.2,Secondary osteoarthritis of other joints,1
+M19.9,Osteoarthritis, unspecified site,1

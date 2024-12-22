@@ -1,0 +1,19 @@
+icd,term,copd_hes
+J40,bronchitis not specified as acute or chronic,1
+J41,simple and mucopurulent chronic bronchitis,1
+J41.0,simple chronic bronchitis,1
+J41.1,mucopurulent chronic bronchitis,1
+J41.8,mixed simple and mucopurulent chronic bronchitis,1
+J42,unspecified chronic bronchitis,1
+J43,emphysema,1
+J43.0,macleod's syndrome,1
+J43.1,panlobular emphysema,1
+J43.2,centrilobular emphysema,1
+J43.8,other emphysema,1
+J43.9,emphysema unspecified,1
+J44.0,chronic obstructive pulmonary disease with acute lower respiratory infection,1
+J44.1,chronic obstructive pulmonary disease with acute exacerbation unspecified,1
+J44.8,other specified chronic obstructive pulmonary disease,1
+J44.9,chronic obstructive pulmonary disease unspecified,1
+J98.2,interstitial emphysema,1
+J98.3,compensatory emphysema,1

@@ -1,0 +1,55 @@
+icd,term,stroke_hes
+I60,Subarachnoid haemorrhage,1
+I60.0,Subarachnoid haemorrhage from carotid siphon and bifurcation,1
+I60.1,Subarachnoid haemorrhage from middle cerebral artery,1
+I60.2,Subarachnoid haemorrhage from anterior communicating artery,1
+I60.3,Subarachnoid haemorrhage from posterior communicating artery,1
+I60.4,Subarachnoid haemorrhage from basilar artery,1
+I60.5,Subarachnoid haemorrhage from vertebral artery,1
+I60.6,Subarachnoid haemorrhage from other intracranial arteries,1
+I60.7,Subarachnoid haemorrhage from intracranial artery,1
+I60.8,Other subarachnoid haemorrhage,1
+I60.9,Subarachnoid haemorrhage,1
+I61,Intracerebral haemorrhage,1
+I61.0,Intracerebral haemorrhage in hemisphere,1
+I61.1,Intracerebral haemorrhage in hemisphere,1
+I61.2,Intracerebral haemorrhage in hemisphere,1
+I61.3,Intracerebral haemorrhage in brain stem,1
+I61.4,Intracerebral haemorrhage in cerebellum,1
+I61.5,Intracerebral haemorrhage,1
+I61.6,Intracerebral haemorrhage,1
+I61.8,Other intracerebral haemorrhage,1
+I61.9,Intracerebral haemorrhage,1
+I62,Other nontraumatic intracranial haemorrhage,1
+I62.0,Subdural haemorrhage (acute)(nontraumatic),1
+I62.1,Nontraumatic extradural haemorrhage,1
+I62.9,Intracranial haemorrhage (nontraumatic),1
+I63,Cerebral infarction,1
+I63.0,Cerebral infarction due to thrombosis of precerebral arteries,1
+I63.1,Cerebral infarction due to embolism of precerebral arteries,1
+I63.2,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,1
+I63.3,Cerebral infarction due to thrombosis of cerebral arteries,1
+I63.4,Cerebral infarction due to embolism of cerebral arteries,1
+I63.5,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,1
+I63.6,Cerebral infarction due to cerebral venous thrombosis,1
+I63.8,Other cerebral infarction,1
+I63.9,Cerebral infarction,1
+I64,Stroke,1
+G46,Vascular syndromes of brain in cerebrovascular diseases,1
+G46.0,Middle cerebral artery syndrome,1
+G46.1,Anterior cerebral artery syndrome,1
+G46.2,Posterior cerebral artery syndrome,1
+G46.3,Brain stem stroke syndrome,1
+G46.4,Cerebellar stroke syndrome,1
+G46.5,Pure motor lacunar syndrome,1
+G46.6,Pure sensory lacunar syndrome,1
+G46.7,Other lacunar syndromes,1
+G46.8,Other vascular syndromes of brain in cerebrovascular diseases,1
+G45,Transient cerebral ischemic attacks and related syndromes,1
+G45.0,Vertebro-basilar artery syndrome,1
+G45.1,Carotid artery syndrome (hemispheric),1
+G45.2,Multiple and bilateral precerebral artery syndromes,1
+G45.3,Amaurosis fugax,1
+G45.4,Transient global amnesia,1
+G45.8,Other transient cerebral ischemic attacks and related syndromes,1
+G45.9,Transient cerebral ischemic attack, unspecified,1

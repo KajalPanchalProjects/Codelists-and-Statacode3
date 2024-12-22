@@ -1,0 +1,78 @@
+icd,term,anaemia_hes
+D50, Iron deficiency anemia,1
+D50.0,Iron deficiency anemia secondary to blood loss (chronic),1
+D50.1,Sideropenic dysphagia,1
+D50.8,Other iron deficiency anemias,1
+D50.9,"Iron deficiency anemia, unspecified",1
+D51.0,Vitamin B12 deficiency anemia due to intrinsic factor deficiency,1
+D51.1,Vitamin B12 deficiency anemia due to selective vitamin B12 malabsorption with proteinuria,1
+D51.2,Transcobalamin II deficiency,1
+D51.3,Other dietary vitamin B12 deficiency anemia,1
+D51.8,Other vitamin B12 deficiency anemias,1
+D51.9,"Vitamin B12 deficiency anemia, unspecified",1
+D52.0,Dietary folate deficiency anemia,1
+D52.1,Drug-induced folate deficiency anemia,1
+D52.8,Other folate deficiency anemias,1
+D52.9,"Folate deficiency anemia, unspecified",1
+D53.0,Protein-deficiency anemia,1
+D53.1,"Other megaloblastic anemias, not elsewhere classified",1
+D53.2,Scorbutic anemia,1
+D53.8,Other specified nutritional anemias,1
+D53.9,"Nutritional anemia, unspecified",1
+D55.0,Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency,1
+D55.1,Anemias due to disorders of glutathione metabolism,1
+D55.2,Anemia due to disorders of glycolytic enzymes,1
+D55.3,Anemia due to disorders of nucleotide metabolism,1
+D55.8,Other anemias due to enzyme disorders,1
+D55.9,"Anemia due to enzyme disorder, unspecified",1
+D55,Anemia due to enzyme disorders,1
+D51,Vitamin B12 deficiency anemia,1
+D52,Folate deficiency anemia,1
+D53,Other nutritional anemias,1
+D59,Acquired hemolytic anemia,1
+D59.1,Other autoimmune hemolytic anemias,1
+D59.0,Drug-induced autoimmune hemolytic anemia,1
+D59.4,Other nonautoimmune hemolytic anemias,1
+D59.8,Other acquired hemolytic anemias,1
+D59.9,"Acquired hemolytic anemia, unspecified",1
+D59.2,Drug-induced nonautoimmune hemolytic anemia,1
+D58.8,Other specified hereditary hemolytic anemias,1
+D58.9,"Hereditary hemolytic anemia, unspecified",1
+D58,Other hereditary hemolytic anemias,1
+D58.0,Hereditary spherocytosis,1
+D58.1,Hereditary elliptocytosis,1
+D58.2,Other hemoglobinopathies,1
+D57.0,Hb-SS disease with crisis,1
+D57.1,Sickle-cell disease without crisis,1
+D57.2,Sickle-cell/Hb-C disease,1
+D57.3,Sickle-cell trait,1
+D57.4,Sickle-cell thalassemia,1
+D57.8,Other sickle-cell disorders,1
+D64.9,"Anemia, unspecified",1
+D64.0,Hereditary sideroblastic anemia,1
+D64.1,Secondary sideroblastic anemia due to disease,1
+D64.2,Secondary sideroblastic anemia due to drugs and toxins,1
+D64.3,Other sideroblastic anemias,1
+D64.4,Congenital dyserythropoietic anemia,1
+D64.8,Other specified anemias,1
+ D60.0,Chronic acquired pure red cell aplasia,1
+ D60.1,Transient acquired pure red cell aplasia,1
+ D60.8,Other acquired pure red cell aplasias,1
+ D60.9,"Acquired pure red cell aplasia, unspecified",1
+D61,Other aplastic anemias and other bone marrow failure syndromes,1
+D61.0,Constitutional aplastic anemia,1
+D61.1,Drug-induced aplastic anemia,1
+D61.2,Aplastic anemia due to other external agents,1
+D61.3,Idiopathic aplastic anemia,1
+D61.8,Other specified aplastic anemias and other bone marrow failure syndromes,1
+D61.9,"Aplastic anemia, unspecified",1
+D62,Acute posthemorrhagic anemia,1
+D63,Anemia in chronic diseases classified elsewhere,1
+D63.0,Anemia in neoplastic disease,1
+D63.1,Anemia in chronic kidney disease,1
+D63.8,Anemia in other chronic diseases classified elsewhere,1
+D64,Other anemias,1
+D46.0,"Refractory anemia without ring sideroblasts, so stated",1
+D46.1,Refractory anemia with ring sideroblasts,1
+D46.2,Refractory anemia with excess of blasts [RAEB],1
+D46.4,"Refractory anemia, unspecified",1

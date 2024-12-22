@@ -1,0 +1,13 @@
+icd,term,hf_hes
+I50,Heart failure,1
+I50.0,Heart failure,1
+I50.1,Left ventricular failure, unspecified,1
+I50.2,Systolic (congestive) heart failure,1
+I50.3,Diastolic (congestive) heart failure,1
+I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure,1
+I50.8,Other heart failure ,1
+I50.9,Heart failure, unspecified,1
+I11.0,Hypertensive heart disease with (congestive) heart failure,1
+I13.0,Hypertensive heart and renal disease with (congestive) heart failure,1
+I13.2,Hypertensive heart and renal disease with both (congestive) heart failure and renal disease,1
+I26.0,Pulmonary embolism with mention of acute cor pulmonale,1

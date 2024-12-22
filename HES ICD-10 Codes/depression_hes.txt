@@ -1,0 +1,17 @@
+icd,term,depression_hes
+F32,depressive episode,1
+F32.0,mild depressive episode,1
+F32.1,moderate depressive episode,1
+F32.2,severe depressive episode without psychotic symptoms,1
+F32.3,severe depressive episode with psychotic symptoms,1
+F32.8,other depressive episodes,1
+F32.9,depressive episode",1
+F33,recurrent depressive disorder,1
+F33.0,recurrent depressive disorder,1
+F33.1,recurrent depressive disorder,1
+F33.2,recurrent depressive disorder,1
+F33.3,recurrent depressive disorder,1
+F33.8,other recurrent depressive disorders,1
+F33.9,recurrent depressive disorder,1
+F34.1,dysthymia,1
+F33.4,Recurrent depressive disorder,1
