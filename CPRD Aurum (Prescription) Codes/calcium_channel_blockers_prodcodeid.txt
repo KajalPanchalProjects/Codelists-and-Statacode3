@@ -1,0 +1,309 @@
+prodcodeid,productname,cc
+14041000033115,Adalat 10mg capsules (Bayer Plc),1
+14141000033116,Adalat 5mg capsules (Bayer Plc),1
+14241000033111,Adalat I C Coronary injection 100 mcg/ml,1
+1766341000033113,Adalat LA 20mg tablets (Bayer Plc),1
+17141000033112,Adalat LA 30mg tablets (Bayer Plc),1
+17241000033117,Adalat LA 60mg tablets (Bayer Plc),1
+19441000033113,Adalat retard 10mg tablets (Bayer Plc),1
+19341000033119,Adalat retard 20mg tablets (Bayer Plc),1
+5891941000033115,Adanif XL 30mg tablets (Advanz Pharma),1
+5892041000033114,Adanif XL 60mg tablets (Advanz Pharma),1
+1820541000033114,Adipine LA 30 M/R tablets 30 mg,1
+1820441000033113,Adipine LA 60 M/R tablets 60 mg,1
+18341000033114,Adipine MR 10 tablets (Chiesi Ltd),1
+18241000033116,Adipine MR 20 tablets (Chiesi Ltd),1
+3225441000033117,Adipine XL 30mg tablets (Chiesi Ltd),1
+3225541000033116,Adipine XL 60mg tablets (Chiesi Ltd),1
+13841000033113,Adizem Capsules 60 mg,1
+19741000033118,Adizem Continus Tablets 120 mg,1
+18141000033111,Adizem-60 M/R tablets 60 mg,1
+17341000033110,Adizem-SR 120mg capsules (Napp Pharmaceuticals Ltd),1
+19641000033110,Adizem-SR 120mg tablets (Napp Pharmaceuticals Ltd),1
+17441000033116,Adizem-SR 180mg capsules (Napp Pharmaceuticals Ltd),1
+17641000033119,Adizem-SR 90mg capsules (Napp Pharmaceuticals Ltd),1
+17541000033115,Adizem-Sr M/R capsules 300 mg,1
+19541000033114,Adizem-Sr Tablets 60 mg,1
+17741000033111,Adizem-XL 120mg capsules (Napp Pharmaceuticals Ltd),1
+17841000033118,Adizem-XL 180mg capsules (Napp Pharmaceuticals Ltd),1
+2653341000033118,Adizem-XL 200mg capsules (Napp Pharmaceuticals Ltd),1
+17941000033114,Adizem-XL 240mg capsules (Napp Pharmaceuticals Ltd),1
+18041000033112,Adizem-XL 300mg capsules (Napp Pharmaceuticals Ltd),1
+4897741000033118,Amlodipine 1.5mg/5ml oral suspension,1
+3038141000033110,Amlodipine 10mg tablets,1
+7740641000033112,Amlodipine 10mg/5ml oral solution,1
+10387441000033111,Amlodipine 10mg/5ml oral solution sugar free,1
+3963741000033115,Amlodipine 10mg/5ml oral suspension,1
+3038041000033111,Amlodipine 5mg tablets,1
+5490241000033113,Amlodipine 5mg/5ml oral solution,1
+4508041000033119,Amlodipine 5mg/5ml oral solution sugar free,1
+5888741000033110,Amlodipine 5mg/5ml oral suspension,1
+12682241000033110,Amlodipine 5mg/5ml oral suspension sugar free,1
+60741000033111,Amlodipine Besilate Tablets 10 mg,1
+57241000033113,Amlodipine Besilate Tablets 5 mg,1
+3890141000033118,Amlodipine Powder For Oral Suspension With Diluent (Kit) 10 mg/5 ml,1
+3188841000033118,Amlostin 10mg tablets (Discovery Pharmaceuticals),1
+3188741000033111,Amlostin 5mg tablets (Discovery Pharmaceuticals),1
+61841000033111,Angiopine 10 capsules (Ashbourne Pharmaceuticals Ltd),1
+65841000033113,Angiopine 40 La M/R tablets 40 mg,1
+61741000033118,Angiopine Capsules 5 mg,1
+66141000033114,Angiopine MR 10mg tablets (Ashbourne Pharmaceuticals Ltd),1
+65241000033114,Angiopine MR 20mg tablets (Ashbourne Pharmaceuticals Ltd),1
+71141000033114,Angiozem 60mg modified-release tablets (Ashbourne Pharmaceuticals Ltd),1
+66041000033110,Angiozem CR 120mg tablets (Ashbourne Pharmaceuticals Ltd),1
+65941000033117,Angiozem CR 90mg tablets (Ashbourne Pharmaceuticals Ltd),1
+65441000033110,Angitil SR 120 capsules (Ethypharm UK Ltd),1
+65541000033111,Angitil SR 180 capsules (Ethypharm UK Ltd),1
+65341000033116,Angitil SR 90 capsules (Ethypharm UK Ltd),1
+1570441000033110,Angitil XL 240 capsules (Ethypharm UK Ltd),1
+1570541000033111,Angitil XL 300 capsules (Ethypharm UK Ltd),1
+2779341000033110,Bi-Carzem SR 120mg capsules (Tillomed Laboratories Ltd),1
+2779141000033112,Bi-Carzem SR 60mg capsules (Tillomed Laboratories Ltd),1
+2779241000033117,Bi-Carzem SR 90mg capsules (Tillomed Laboratories Ltd),1
+5816841000033119,Bi-Carzem XL 240mg capsules (Tillomed Laboratories Ltd),1
+5816941000033110,Bi-Carzem XL 300mg capsules (Tillomed Laboratories Ltd),1
+163541000033117,Britiazim Tablets 60 mg,1
+2929041000033116,Cabren 10mg modified-release tablets (Teva UK Ltd),1
+2928841000033117,Cabren 2.5mg modified-release tablets (Teva UK Ltd),1
+2928941000033113,Cabren 5mg modified-release tablets (Teva UK Ltd),1
+210241000033111,Calanif Capsules 10 mg,1
+210341000033118,Calanif Capsules 5 mg,1
+1580941000033112,Calazem M/R tablets 60 mg,1
+2295641000033116,Calchan MR 10 tablets (Ranbaxy (UK) Ltd),1
+2295741000033113,Calchan MR 20 tablets (Ranbaxy (UK) Ltd),1
+199241000033119,Calcicard CR 120mg tablets (Teva UK Ltd),1
+199341000033112,Calcicard CR 90mg tablets (Teva UK Ltd),1
+216641000033112,Calcicard Tablets 60 mg,1
+176741000033114,Cardene 20mg capsules (Astellas Pharma Ltd),1
+176841000033116,Cardene 30mg capsules (Astellas Pharma Ltd),1
+177241000033117,Cardene Capsules,1
+198941000033118,Cardene SR 30mg capsules (Astellas Pharma Ltd),1
+199041000033110,Cardene SR 45mg capsules (Astellas Pharma Ltd),1
+1580841000033116,Cardilate MR 10mg tablets (Teva UK Ltd),1
+199141000033114,Cardilate MR 20mg tablets (IVAX Pharmaceuticals UK Ltd),1
+3154941000033110,Cardioplen XL 10mg tablets (Chiesi Ltd),1
+4152841000033112,Cardioplen XL 2.5mg tablets (Chiesi Ltd),1
+3154841000033119,Cardioplen XL 5mg tablets (Chiesi Ltd),1
+11072441000033111,Clevidipine 25mg/50ml emulsion for infusion vials,1
+11072541000033112,Cleviprex 25mg/50ml emulsion for infusion vials (Chiesi Ltd),1
+286241000033112,Clinium Tablets 120 mg,1
+336641000033114,Coracten SR 10mg capsules (UCB Pharma Ltd),1
+364241000033112,Coracten SR 20mg capsules (UCB Pharma Ltd),1
+1724941000033113,Coracten XL 30mg capsules (UCB Pharma Ltd),1
+1725041000033113,Coracten XL 60mg capsules (UCB Pharma Ltd),1
+374841000033119,Cordilox 120mg tablets (IVAX Pharmaceuticals UK Ltd),1
+374941000033110,Cordilox 160mg tablets (IVAX Pharmaceuticals UK Ltd),1
+375041000033110,Cordilox 40mg tablets (IVAX Pharmaceuticals UK Ltd),1
+375141000033114,Cordilox 80mg tablets (IVAX Pharmaceuticals UK Ltd),1
+333841000033118,"Cordilox Injection 2.5 mg/ml, 2 ml ampoule",1
+2129041000033118,Cordilox MR 240mg tablets (Teva UK Ltd),1
+2051241000033116,Coroday MR 20mg tablets (Mylan),1
+1602341000033116,Dilcardia SR 120mg capsules (Mylan),1
+1602441000033110,Dilcardia SR 60mg capsules (Mylan),1
+1602541000033111,Dilcardia SR 90mg capsules (Mylan),1
+1727641000033113,Dilcardia Xl M/R capsules 120 mg,1
+1727741000033116,Dilcardia Xl M/R capsules 180 mg,1
+1727841000033114,Dilcardia Xl M/R capsules 240 mg,1
+451841000033110,Diltiazem 120mg modified-release capsules,1
+459641000033113,Diltiazem 120mg modified-release tablets,1
+451941000033119,Diltiazem 180mg modified-release capsules,1
+453941000033115,Diltiazem 200mg modified-release capsules,1
+453741000033118,Diltiazem 240mg modified-release capsules,1
+452041000033113,Diltiazem 300mg modified-release capsules,1
+1800341000033113,Diltiazem 360mg modified-release capsules,1
+452941000033114,Diltiazem 60mg modified-release capsules,1
+454041000033118,Diltiazem 60mg modified-release tablets,1
+5991941000033112,Diltiazem 60mg/5ml oral solution,1
+4953741000033114,Diltiazem 60mg/5ml oral suspension,1
+452141000033112,Diltiazem 90mg modified-release capsules,1
+458841000033115,Diltiazem 90mg modified-release tablets,1
+451741000033117,Diltiazem Hydrochloride M/R capsules 300 mg,1
+468841000033112,Diltiazem Hydrochloride Tablets 60 mg,1
+452841000033118,Dilzem SR 120 capsules (Teva UK Ltd),1
+452641000033119,Dilzem SR 60 capsules (Teva UK Ltd),1
+452741000033111,Dilzem SR 90 capsules (Teva UK Ltd),1
+453041000033116,Dilzem XL 120 capsules (Teva UK Ltd),1
+453141000033117,Dilzem XL 180 capsules (Teva UK Ltd),1
+453241000033112,Dilzem XL 240 capsules (Teva UK Ltd),1
+2675041000033119,Disogram SR 120mg capsules (Ranbaxy (UK) Ltd),1
+2675341000033117,Disogram SR 180mg capsules (Ranbaxy (UK) Ltd),1
+2675641000033113,Disogram SR 240mg capsules (Ranbaxy (UK) Ltd),1
+2676041000033111,Disogram SR 300mg capsules (Ranbaxy (UK) Ltd),1
+2674841000033110,Disogram SR 60mg capsules (Ranbaxy (UK) Ltd),1
+2674941000033119,Disogram SR 90mg capsules (Ranbaxy (UK) Ltd),1
+2104741000033113,Ethimil MR 240mg tablets (Genus Pharmaceuticals Ltd),1
+4504141000033110,Felendil Xl M/R tablets 10 mg,1
+4503941000033114,Felendil Xl M/R tablets 2.5 mg,1
+4504041000033111,Felendil Xl M/R tablets 5 mg,1
+569041000033115,Felodipine 10mg modified-release tablets,1
+568041000033111,Felodipine 2.5mg modified-release tablets,1
+569141000033116,Felodipine 5mg modified-release tablets,1
+3177541000033111,Felogen XL 10mg tablets (Mylan),1
+3177441000033110,Felogen XL 5mg tablets (Mylan),1
+2980041000033115,Felotens XL 10mg tablets (Thornton & Ross Ltd),1
+4429241000033115,Felotens XL 2.5mg tablets (Thornton & Ross Ltd),1
+2979941000033119,Felotens XL 5mg tablets (Thornton & Ross Ltd),1
+5576341000033118,Folpik XL 10mg tablets (Teva UK Ltd),1
+5576441000033112,Folpik XL 2.5mg tablets (Teva UK Ltd),1
+5576541000033113,Folpik XL 5mg tablets (Teva UK Ltd),1
+605941000033110,Fortipine LA 40 tablets (Advanz Pharma),1
+660641000033112,Half Securon SR 120mg tablets (Mylan),1
+2739041000033110,Horizem SR 120mg capsules (Horizon lifecare),1
+2739141000033114,Horizem SR 90mg capsules (Horizon lifecare),1
+738141000033119,Hypolar Retard 20 tablets (Sandoz Ltd),1
+2776541000033111,Hypolar XL 30 tablets (Sandoz Ltd),1
+784641000033112,Isradipine 2.5mg tablets,1
+788041000033110,Istin 10mg tablets (Pfizer Ltd),1
+787941000033112,Istin 5mg tablets (Pfizer Ltd),1
+9118441000033116,Kenzem SR 120mg capsules (Kent Pharmaceuticals Ltd),1
+9118241000033117,Kenzem SR 60mg capsules (Kent Pharmaceuticals Ltd),1
+9118341000033110,Kenzem SR 90mg capsules (Kent Pharmaceuticals Ltd),1
+817541000033119,Lacidipine 2mg tablets,1
+817641000033118,Lacidipine 4mg tablets,1
+825941000033112,Lercanidipine 10mg tablets,1
+3908741000033114,Lercanidipine 20mg tablets,1
+835341000033111,Lidoflazine Tablets 120 mg,1
+919741000033112,Mibefradil Dihydrochloride Tablets 100 mg,1
+919841000033119,Mibefradil Dihydrochloride Tablets 50 mg,1
+10217641000033116,Molap 4mg tablets (Rivopharm (UK) Ltd),1
+937041000033114,Motens 2mg tablets (GlaxoSmithKline UK Ltd),1
+937141000033113,Motens 4mg tablets (GlaxoSmithKline UK Ltd),1
+4521741000033117,Neofel XL 10mg tablets (Kent Pharmaceuticals Ltd),1
+4521541000033113,Neofel XL 2.5mg tablets (Actavis UK Ltd),1
+4521641000033114,Neofel XL 5mg tablets (Kent Pharmaceuticals Ltd),1
+5817441000033119,Neozipine XL 30mg tablets (Kent Pharmaceuticals Ltd),1
+5817541000033118,Neozipine XL 60mg tablets (Kent Pharmaceuticals Ltd),1
+9697741000033114,Nicardipine 10mg/10ml solution for infusion ampoules,1
+967741000033115,Nicardipine 20mg capsules,1
+967141000033119,Nicardipine 30mg capsules,1
+971441000033112,Nicardipine 30mg modified-release capsules,1
+971541000033113,Nicardipine 45mg modified-release capsules,1
+12372341000033117,Nidef 30mg modified-release tablets (Morningside Healthcare Ltd),1
+12372441000033111,Nidef 60mg modified-release tablets (Morningside Healthcare Ltd),1
+967241000033114,Nifedipine 10mg capsules,1
+971141000033116,Nifedipine 10mg modified-release capsules,1
+971841000033110,Nifedipine 10mg modified-release tablets,1
+5973741000033117,Nifedipine 10mg/5ml oral suspension,1
+5402541000033112,Nifedipine 2.5mg/5ml oral suspension,1
+974141000033119,Nifedipine 20mg modified-release capsules,1
+970941000033113,Nifedipine 20mg modified-release tablets,1
+2639341000033117,Nifedipine 20mg/ml oral drops,1
+1778741000033118,Nifedipine 30mg modified-release capsules,1
+971241000033111,Nifedipine 30mg modified-release tablets,1
+972441000033116,Nifedipine 40mg modified-release tablets,1
+967341000033116,Nifedipine 5mg capsules,1
+5056241000033112,Nifedipine 5mg/5ml oral suspension,1
+1778841000033111,Nifedipine 60mg modified-release capsules,1
+971341000033118,Nifedipine 60mg modified-release tablets,1
+977341000033113,Nifedipine Tablets 10 mg,1
+977641000033117,Nifedipine Tablets 10 mg,1
+974941000033117,Nifedipine Tablets 20 mg,1
+1745041000033110,Nifedipress MR 10 tablets (Dexcel-Pharma Ltd),1
+1745141000033114,Nifedipress MR 20 tablets (Dexcel-Pharma Ltd),1
+2068941000033111,Nifedotard 20 MR M/R tablets 20 mg,1
+971741000033117,Nifelease M/R tablets 20 mg,1
+971041000033115,Nifensar Xl M/R tablets 20 mg,1
+2189541000033117,Nifopress Retard 20mg tablets (Advanz Pharma),1
+970741000033110,Nimodipine 10mg/50ml solution for infusion vials,1
+977441000033119,Nimodipine 30mg tablets,1
+971941000033119,Nimodrel Mr M/R tablets 10 mg,1
+972041000033113,Nimodrel Mr M/R tablets 20 mg,1
+3952641000033110,Nimodrel XL 30mg tablets (Zurich Pharmaceuticals),1
+3952741000033118,Nimodrel XL 60mg tablets (Zurich Pharmaceuticals),1
+970841000033117,Nimotop 0.02% solution for infusion 50ml vials (Bayer Plc),1
+977741000033114,Nimotop 30mg tablets (Bayer Plc),1
+972141000033112,Nisoldipine 10mg modified-release tablets,1
+972241000033117,Nisoldipine 20mg modified-release tablets,1
+972341000033110,Nisoldipine 30mg modified-release tablets,1
+1659641000033111,Nivaten Retard M/R tablets 10 mg,1
+1776541000033110,Nivaten Retard M/R tablets 20 mg,1
+1661641000033116,Optil 60mg modified-release tablets (Opus Pharmaceuticals Ltd),1
+1747141000033117,Optil Sr 120 M/R capsules 120 mg,1
+1747241000033112,Optil Sr 180 M/R capsules 180 mg,1
+1747041000033116,Optil Sr 90 M/R capsules 90 mg,1
+1747341000033119,Optil Xl 240 M/R capsules 240 mg,1
+1747441000033113,Optil Xl 300 M/R capsules 300 mg,1
+1035141000033112,Parmid (Metoclopramide) Injection 5 mg/ml,1
+1039741000033114,Parmid (Metoclopramide) Syrup 5 mg/ml,1
+1041441000033117,Parmid (Metoclopramide) Tablets 10 mg,1
+9121741000033113,Parmid XL 10mg tablets (Sandoz Ltd),1
+9121541000033117,Parmid XL 2.5mg tablets (Sandoz Ltd),1
+9121641000033116,Parmid XL 5mg tablets (Sandoz Ltd),1
+1094041000033119,Plendil 10mg modified-release tablets (AstraZeneca UK Ltd),1
+1093941000033116,Plendil 2.5mg modified-release tablets (AstraZeneca UK Ltd),1
+1094141000033115,Plendil 5mg modified-release tablets (AstraZeneca UK Ltd),1
+1109841000033118,Posicor Tablets 100 mg,1
+1109941000033114,Posicor Tablets 50 mg,1
+1140241000033117,Prescal 2.5mg tablets (Novartis Pharmaceuticals UK Ltd),1
+2845841000033119,Ranvera MR 240mg tablets (Ranbaxy (UK) Ltd),1
+4590741000033116,Retalzem 60 modified-release tablets (Kent Pharmaceuticals Ltd),1
+1274741000033119,Securon 120mg tablets (Abbott Laboratories Ltd),1
+1271741000033116,Securon IV 5mg/2ml solution for injection ampoules (Mylan),1
+1275141000033117,Securon SR 240mg tablets (Mylan),1
+1274841000033112,Securon Tablets 160 mg,1
+1274941000033116,Securon Tablets 40 mg,1
+1275041000033116,Securon Tablets 80 mg,1
+1697641000033111,Slofedipine 20mg tablets (Sterwin Medicines),1
+1752941000033115,Slofedipine XL 30mg tablets (Zentiva),1
+1753041000033113,Slofedipine XL 60 tablets (Zentiva),1
+1346441000033111,Slozem 120mg capsules (Merck Serono Ltd),1
+1346541000033112,Slozem 180mg capsules (Merck Serono Ltd),1
+1346641000033113,Slozem 240mg capsules (Merck Serono Ltd),1
+2261241000033118,Slozem 300mg capsules (Merck Serono Ltd),1
+1401341000033110,Syscor MR 10 tablets (Forest Laboratories UK Ltd),1
+1401441000033116,Syscor MR 20 tablets (Forest Laboratories UK Ltd),1
+1401541000033115,Syscor MR 30 tablets (Forest Laboratories UK Ltd),1
+1421241000033110,Tensipine MR 10 tablets (Genus Pharmaceuticals Ltd),1
+1421341000033117,Tensipine MR 20 tablets (Genus Pharmaceuticals Ltd),1
+1443841000033113,Tildiem 60mg modified-release tablets (Sanofi),1
+1441841000033112,Tildiem LA 200 capsules (Sanofi),1
+1441741000033119,Tildiem LA 300 capsules (Sanofi),1
+1442741000033113,Tildiem Retard 120mg tablets (Sanofi),1
+1442841000033115,Tildiem Retard 90mg tablets (Sanofi),1
+1442541000033117,Tildiem S/r tablets 120 mg,1
+1442641000033116,Tildiem S/r tablets 90 mg,1
+1487641000033112,Unipine Xl M/R tablets 30 mg,1
+1489541000033117,Univer 120mg modified-release capsules (Teva UK Ltd),1
+1489641000033116,Univer 180mg modified-release capsules (Teva UK Ltd),1
+1489741000033113,Univer 240mg modified-release capsules (Teva UK Ltd),1
+2955041000033115,Valni 20 Retard tablets (Tillomed Laboratories Ltd),1
+4451941000033110,Valni XL 30mg tablets (Zentiva),1
+4452041000033116,Valni XL 60mg tablets (Zentiva),1
+3034441000033111,Vascalpha 10mg modified-release tablets (Actavis UK Ltd),1
+3034341000033117,Vascalpha 5mg modified-release tablets (Actavis UK Ltd),1
+2890641000033116,Vera-Til SR 120mg tablets (Tillomed Laboratories Ltd),1
+2890741000033113,Vera-Til SR 240mg tablets (Tillomed Laboratories Ltd),1
+1511141000033118,Verapamil 120mg modified-release capsules,1
+1509041000033119,Verapamil 120mg modified-release tablets,1
+1512941000033111,Verapamil 120mg tablets,1
+1513141000033119,Verapamil 160mg tablets,1
+1511241000033113,Verapamil 180mg modified-release capsules,1
+1511341000033115,Verapamil 240mg modified-release capsules,1
+1509141000033115,Verapamil 240mg modified-release tablets,1
+1513241000033114,Verapamil 40mg tablets,1
+1509841000033114,Verapamil 40mg/5ml oral solution sugar free,1
+4260341000033110,Verapamil 5mg/2ml solution for injection ampoules,1
+1513341000033116,Verapamil 80mg tablets,1
+1508641000033116,Verapamil Hydrochloride Injection 2.5 mg/ml,1
+1511741000033119,Verapamil Hydrochloride M/R capsules 240 mg,1
+1513041000033118,Verapamil Hydrochloride Tablets 240 mg,1
+1833541000033117,Verapress MR 240mg tablets (Dexcel-Pharma Ltd),1
+1754841000033116,Vertab SR 240 tablets (Chiesi Ltd),1
+1520141000033118,Viazem XL 120mg capsules (Thornton & Ross Ltd),1
+1520241000033113,Viazem XL 180mg capsules (Thornton & Ross Ltd),1
+1520341000033115,Viazem XL 240mg capsules (Thornton & Ross Ltd),1
+1520441000033114,Viazem XL 300mg capsules (Thornton & Ross Ltd),1
+1520541000033110,Viazem XL 360mg capsules (Thornton & Ross Ltd),1
+1550841000033111,Zanidip 10mg tablets (Recordati Pharmaceuticals Ltd),1
+3908841000033116,Zanidip 20mg tablets (Recordati Pharmaceuticals Ltd),1
+2955141000033116,Zemret 180 XL capsules (Tillomed Laboratories Ltd),1
+2955241000033111,Zemret 240 XL capsules (Tillomed Laboratories Ltd),1
+2955341000033118,Zemret 300 XL capsules (Tillomed Laboratories Ltd),1
+1833041000033110,Zemtard 120 XL capsules (Galen Ltd),1
+1833141000033114,Zemtard 180 XL capsules (Galen Ltd),1
+1833241000033119,Zemtard 240 XL capsules (Galen Ltd),1
+1833341000033112,Zemtard 300 XL capsules (Galen Ltd),1
+2952341000033113,Zildil 90mg modified-release capsules (Chanelle Medical UK Ltd),1
+2952441000033119,Zildil SR 120mg capsules (Chanelle Medical UK Ltd),1
+2952241000033115,Zildil SR 60mg capsules (Chanelle Medical UK Ltd),1
+2641041000033116,Zolvera 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),1

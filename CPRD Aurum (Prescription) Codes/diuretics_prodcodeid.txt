@@ -1,0 +1,184 @@
+prodcodeid,productname,diuretics
+40441000033111,Aldactone 100mg tablets (Pfizer Ltd),1
+40541000033112,Aldactone 25mg tablets (Pfizer Ltd),1
+40641000033113,Aldactone 50mg tablets (Pfizer Ltd),1
+12312641000033118,Alkapamid XL 1.5mg tablets (HBS Healthcare Ltd),1
+2101641000033119,Amilamont 5mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd),1
+57141000033118,Amiloride 5mg tablets,1
+53841000033117,Amiloride 5mg/5ml oral solution sugar free,1
+61241000033112,Amilospare-5 Tablets 5 mg,1
+2956041000033112,Amoride 5mg tablets (Dr Reddy's Laboratories (UK) Ltd),1
+74541000033119,Aprinox 2.5mg tablets (Advanz Pharma),1
+74641000033118,Aprinox 5mg tablets (Amdipharm Plc),1
+77541000033112,Arelix Capsules 6 mg,1
+5453941000033119,Bendroflumethiazide 1.25mg/5ml oral suspension,1
+3161041000033115,Bendroflumethiazide 2.5mg / Potassium chloride 573mg (potassium 7.7mmol) modified-release tablets,1
+3162841000033118,Bendroflumethiazide 2.5mg / Potassium chloride 630mg (potassium 8.4mmol) modified-release tablets,1
+3083141000033112,Bendroflumethiazide 2.5mg tablets,1
+3151841000033117,Bendroflumethiazide 2.5mg/5ml oral suspension,1
+3083241000033117,Bendroflumethiazide 5mg tablets,1
+5401741000033110,Bendroflumethiazide 5mg/5ml oral suspension,1
+141341000033119,Berkamil Tablets 5 mg,1
+143741000033119,Berkozide Tablets 2.5 mg,1
+143841000033112,Berkozide Tablets 5 mg,1
+172441000033118,Bumetanide 1mg tablets,1
+169041000033112,Bumetanide 1mg/5ml oral solution sugar free,1
+3858741000033112,Bumetanide 2mg/4ml solution for injection ampoules,1
+1845741000033111,Bumetanide 500microgram / Potassium chloride 573mg (potassium 7.7mmol) modified-release tablets,1
+172541000033117,Bumetanide 5mg tablets,1
+10713941000033113,Bumetanide 5mg/5ml oral suspension,1
+167341000033118,Bumetanide Injection 500 micrograms/ml,1
+171941000033116,Bumetanide K Tablets,1
+172741000033113,Burinex 1mg tablets (LEO Pharma),1
+172841000033115,Burinex 5mg tablets (LEO Pharma),1
+167541000033113,Burinex Injection 500 micrograms/ml,1
+172941000033111,Burinex K modified-release tablets (LEO Pharma),1
+169141000033111,Burinex Liquid 1 mg/5 ml,1
+9121841000033115,Cardide SR 1.5mg tablets (Teva UK Ltd),1
+234841000033110,Centyl K modified-release tablets (LEO Pharma),1
+234641000033114,Centyl Tablets 2.5 mg,1
+234741000033117,Centyl Tablets 5 mg,1
+3086241000033111,Chlortalidone 50mg tablets,1
+395041000033117,Cyclopenthiazide 500microgram tablets,1
+428741000033112,Delvas Tablets,1
+466641000033112,Diatensec Tablets 50 mg,1
+470541000033117,Diumide-K Continus tablets (Teofarma),1
+9808241000033110,Diuresal 500mg tablets (Ennogen Pharma Ltd),1
+450241000033116,Diuresal Injection 10 mg/ml,1
+470641000033116,Diuresal Tablets 40 mg,1
+470741000033113,Diurexan 20mg tablets (Meda Pharmaceuticals Ltd),1
+482941000033115,Dryptal Injection 20 mg/2 ml,1
+483041000033113,Dryptal Injection 50 mg/5 ml,1
+484741000033114,Dryptal Tablets 40 mg,1
+485141000033111,Dryptal Tablets 500 mg,1
+491641000033116,Dytac 50mg capsules (Advanz Pharma),1
+523141000033112,Enduron Tablets 5 mg,1
+3198841000033117,Eplerenone 25mg tablets,1
+3198941000033113,Eplerenone 50mg tablets,1
+546241000033113,Esidrex K Tablets,1
+546041000033117,Esidrex Tablets 25 mg,1
+546141000033118,Esidrex Tablets 50 mg,1
+4571241000033110,Ethibide XL 1.5mg tablets (Genus Pharmaceuticals Ltd),1
+615541000033119,Froop 40mg tablets (Ashbourne Pharmaceuticals Ltd),1
+615141000033111,Frusid 40mg tablets (Dr Reddy's Laboratories (UK) Ltd),1
+1731541000033115,Frusol 20mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),1
+1731641000033119,Frusol 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),1
+1731741000033111,Frusol 50mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),1
+3162441000033116,Furosemide 20mg / Potassium chloride 750mg (potassium 10mmol) modified-release tablets,1
+3092241000033113,Furosemide 20mg tablets,1
+3091841000033115,Furosemide 20mg/2ml solution for injection ampoules,1
+3091941000033111,Furosemide 20mg/5ml oral solution sugar free,1
+3954441000033119,Furosemide 250mg/25ml solution for injection ampoules,1
+3161841000033110,Furosemide 40mg / Potassium chloride 600mg (potassium 8mmol) modified-release tablets,1
+3092341000033115,Furosemide 40mg tablets,1
+3092041000033117,Furosemide 40mg/5ml oral solution sugar free,1
+3092441000033114,Furosemide 500mg tablets,1
+3092141000033118,Furosemide 50mg/5ml oral solution sugar free,1
+3091741000033113,Furosemide 50mg/5ml solution for injection ampoules,1
+3924941000033113,Furosemide 5mg/5ml oral solution,1
+5993341000033112,Furosemide 5mg/5ml oral suspension,1
+3092641000033111,Furosemide 80mg/8ml solution for injection Minijet pre-filled syringes (UCB Pharma Ltd),1
+3092541000033110,Furosemide 80mg/8ml solution for injection pre-filled syringes,1
+742141000033115,Hydrenox Tablets 50 mg,1
+744941000033110,Hydrochlorothiazide 25mg tablets,1
+745441000033118,Hydrochlorothiazide 50mg tablets,1
+2746441000033111,Hydrochlorothiazide 50mg/5ml oral solution,1
+5969841000033119,Hydrochlorothiazide 5mg/5ml oral solution,1
+5969941000033110,Hydrochlorothiazide 5mg/5ml oral suspension,1
+745041000033110,Hydroflumethiazide Tablets 50 mg,1
+742541000033112,Hydrosaluric 25mg tablets (Merck Sharp & Dohme Ltd),1
+742641000033113,Hydrosaluric 50mg tablets (Merck Sharp & Dohme Ltd),1
+742841000033114,Hygroton 50mg tablets (Alliance Pharmaceuticals Ltd),1
+742941000033118,Hygroton K Tablets,1
+742741000033116,Hygroton Tablets 100 mg,1
+743041000033111,Hygroton-K Tablets,1
+746141000033119,Hypertane-50 Tablets,1
+765741000033116,Indapamide 1.5mg modified-release tablets,1
+768641000033118,Indapamide 2.5mg tablets,1
+8197041000033112,Indapamide 2.5mg/5ml oral suspension,1
+5053141000033113,Indipam XL 1.5mg tablets (Actavis UK Ltd),1
+3199041000033116,Inspra 25mg tablets (Pfizer Ltd),1
+3199141000033117,Inspra 50mg tablets (Pfizer Ltd),1
+816141000033114,Lasikal modified-release tablets (Borg Medicare),1
+816641000033116,Lasix + K Tablets,1
+816341000033112,Lasix 20mg tablets (Borg Medicare),1
+811841000033111,Lasix 20mg/2ml solution for injection ampoules (Sanofi),1
+816441000033118,Lasix 40mg tablets (Sanofi),1
+816541000033117,Lasix 500mg tablets (Sanofi),1
+812041000033114,Lasix 5mg/5ml oral solution (Borg Medicare),1
+811941000033115,Lasix Injection 10 mg/ml,1
+811141000033117,Lasix Injection 250 mg/25 ml,1
+811241000033112,Lasix Injection 50 mg/5 ml,1
+5128741000033110,Mapemid XL 1.5mg tablets (Teva UK Ltd),1
+896841000033116,Metenix 5mg tablets (Sanofi),1
+902741000033119,Methyclothiazide Tablets 5 mg,1
+8196441000033118,Metolazone 2.5mg tablets,1
+903541000033116,Metolazone 5mg tablets,1
+898341000033114,Metolazone Tablets 500 micrograms,1
+921541000033114,Midamor Tablets 5 mg,1
+933541000033112,Moduretic Solution,1
+955641000033113,Natramid Tablets 2.5 mg,1
+955341000033117,Natrilix 2.5mg tablets (Servier Laboratories Ltd),1
+953141000033119,Natrilix SR 1.5mg tablets (Servier Laboratories Ltd),1
+955441000033111,Navidrex 500microgram tablets (Advanz Pharma),1
+955541000033112,Navidrex-K Tablets,1
+965841000033117,Neo-Bendromax Tablets 2.5 mg,1
+965941000033113,Neo-Bendromax Tablets 5 mg,1
+6045641000033115,Neo-Naclex 2.5mg tablets (Advanz Pharma),1
+965341000033114,Neo-Naclex 5mg tablets (Mercury Pharma Group Ltd),1
+967041000033118,Neo-Naclex-K modified-release tablets (Mercury Pharma Group Ltd),1
+965441000033115,Nephril 1mg tablets (Pfizer Ltd),1
+769741000033118,Nindaxa 2.5 tablets (Ashbourne Pharmaceuticals Ltd),1
+987441000033112,Normetic Tablets,1
+1009041000033117,Opumide Tablets 2.5 mg,1
+1083941000033117,Piretanide Capsules 6 mg,1
+1110141000033119,Polythiazide 1mg tablets,1
+5566041000033114,Rawel XL 1.5mg tablets (Consilient Health Ltd),1
+1257941000033113,Saluric Tablets 500 mg,1
+1373441000033119,Spiretic Tablets 100 mg,1
+1373541000033118,Spiretic Tablets 25 mg,1
+1367941000033110,Spiroctan Capsules 100 mg,1
+1373641000033117,Spiroctan Tablets 25 mg,1
+1373741000033114,Spiroctan Tablets 50 mg,1
+1370541000033113,Spiroctan-M Injection 20 mg/ml,1
+1373841000033116,Spirolone Tablets 100 mg,1
+1373941000033112,Spirolone Tablets 25 mg,1
+1374041000033114,Spirolone Tablets 50 mg,1
+1374141000033113,Spironolactone 100mg tablets,1
+5999141000033111,Spironolactone 100mg/5ml oral solution,1
+2011541000033114,Spironolactone 100mg/5ml oral suspension,1
+5999241000033116,Spironolactone 10mg/5ml oral solution,1
+1371241000033116,Spironolactone 10mg/5ml oral suspension,1
+5975441000033113,Spironolactone 15mg/5ml oral suspension,1
+5975541000033114,Spironolactone 250mg/5ml oral solution,1
+5975641000033110,Spironolactone 250mg/5ml oral suspension,1
+1374241000033118,Spironolactone 25mg tablets,1
+5890141000033112,Spironolactone 25mg/5ml oral solution,1
+1371041000033112,Spironolactone 25mg/5ml oral suspension,1
+1374341000033111,Spironolactone 50mg tablets,1
+5890441000033116,Spironolactone 50mg/5ml oral solution,1
+1371341000033114,Spironolactone 50mg/5ml oral suspension,1
+5999341000033114,Spironolactone 5mg/5ml oral solution,1
+1371141000033111,Spironolactone 5mg/5ml oral suspension,1
+1368341000033110,Spironolactone Capsules 100 mg,1
+1374541000033116,Spirospare 100 tablets (Ashbourne Pharmaceuticals Ltd),1
+1372841000033114,Spirospare-25 Tablets 25 mg,1
+4656741000033119,Tensaid XL 1.5mg tablets (Mylan),1
+1450141000033111,Torasemide 10mg tablets,1
+1450241000033116,Torasemide 2.5mg tablets,1
+1450341000033114,Torasemide 5mg tablets,1
+1446341000033113,Torasemide Injection 10 mg/2 ml,1
+1446441000033119,Torasemide Injection 20 mg/4 ml,1
+1449841000033111,Torem 10mg tablets (Meda Pharmaceuticals Ltd),1
+1449941000033115,Torem 2.5mg tablets (Meda Pharmaceuticals Ltd),1
+1450041000033112,Torem 5mg tablets (Meda Pharmaceuticals Ltd),1
+1446141000033110,Torem Injection 10 mg/2 ml,1
+1446241000033115,Torem Injection 20 mg/4 ml,1
+1455341000033115,Triamterene 50mg capsules,1
+2955941000033119,Urizide 2.5mg tablets (Dr Reddy's Laboratories (UK) Ltd),1
+1495441000033116,Urizide 5mg tablets (Dr Reddy's Laboratories (UK) Ltd),1
+5816741000033112,Varbim XL 1.5mg tablets (Teva UK Ltd),1
+1543941000033111,Xipamide 20mg tablets,1
+1544141000033112,Xuret Tablets 500 micrograms,1
+8196541000033117,Zaroxolyn 2.5mg tablets (Imported (Canada)),1
+8196641000033116,Zaroxolyn 5mg tablets (Imported (Canada)),1

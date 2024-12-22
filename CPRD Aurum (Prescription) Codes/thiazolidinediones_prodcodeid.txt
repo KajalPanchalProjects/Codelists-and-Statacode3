@@ -1,0 +1,30 @@
+prodcodeid,productname,tzd
+2190941000033117,Actos 15mg tablets (Takeda UK Ltd),1
+2191041000033110,Actos 30mg tablets (Takeda UK Ltd),1
+2996041000033119,Actos 45mg tablets (Takeda UK Ltd),1
+2995141000033110,Avandamet 1mg/500mg tablets (GlaxoSmithKline UK Ltd),1
+3200741000033112,Avandamet 2mg/1000mg tablets (GlaxoSmithKline UK Ltd),1
+2995241000033115,Avandamet 2mg/500mg tablets (GlaxoSmithKline UK Ltd),1
+3200841000033119,Avandamet 4mg/1000mg tablets (GlaxoSmithKline UK Ltd),1
+2147741000033111,Avandia 4mg tablets (GlaxoSmithKline UK Ltd),1
+2147841000033118,Avandia 8mg tablets (GlaxoSmithKline UK Ltd),1
+3984241000033114,Competact 15mg/850mg tablets (Takeda UK Ltd),1
+10336941000033112,Diabiom 15mg tablets (Tillomed Laboratories Ltd),1
+10337041000033113,Diabiom 30mg tablets (Tillomed Laboratories Ltd),1
+10337141000033112,Diabiom 45mg tablets (Tillomed Laboratories Ltd),1
+10251341000033112,Glidipion 15mg tablets (Actavis UK Ltd),1
+8839341000033116,Glidipion 30mg tablets (Actavis UK Ltd),1
+8839441000033110,Glidipion 45mg tablets (Actavis UK Ltd),1
+6525941000033110,Glizofar 15mg tablets (Arrow Generics Ltd),1
+6526041000033117,Glizofar 30mg tablets (Arrow Generics Ltd),1
+6526141000033118,Glizofar 45mg tablets (Arrow Generics Ltd),1
+3983941000033115,Pioglitazone 15mg / Metformin 850mg tablets,1
+2190741000033115,Pioglitazone 15mg tablets,1
+2190841000033113,Pioglitazone 30mg tablets,1
+2995941000033112,Pioglitazone 45mg tablets,1
+3191341000033115,Rosiglitazone 1mg / Metformin 500mg tablets,1
+3200541000033116,Rosiglitazone 2mg / Metformin 1g tablets,1
+3191441000033114,Rosiglitazone 2mg / Metformin 500mg tablets,1
+3200641000033115,Rosiglitazone 4mg / Metformin 1g tablets,1
+2147541000033115,Rosiglitazone 4mg tablets,1
+2147641000033119,Rosiglitazone 8mg tablets,1

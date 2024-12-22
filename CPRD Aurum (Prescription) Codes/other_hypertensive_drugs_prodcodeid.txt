@@ -1,0 +1,286 @@
+prodcodeid,productname,other_hyper
+11241000033113,Accuretic 10mg/12.5mg tablets (Pfizer Ltd),1
+3162941000033114,Acebutolol 200mg / Hydrochlorothiazide 12.5mg tablets,1
+13141000033119,Acezide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+9159341000033112,Actelsar HCT 40mg/12.5mg tablets (Actavis UK Ltd),1
+9159441000033118,Actelsar HCT 80mg/12.5mg tablets (Actavis UK Ltd),1
+9159541000033117,Actelsar HCT 80mg/25mg tablets (Actavis UK Ltd),1
+18441000033115,Adizem-Xl Plus M/R capsules,1
+40241000033110,Aldactide 25 tablets (Pfizer Ltd),1
+40341000033117,Aldactide 50 tablets (Pfizer Ltd),1
+40941000033118,Aldomet 250mg tablets (Aspen Pharma Trading Ltd),1
+41041000033111,Aldomet 500mg tablets (Aspen Pharma Trading Ltd),1
+31341000033114,Aldomet Injection 50 mg/ml,1
+36841000033113,Aldomet Suspension 250 mg/5 ml,1
+40841000033114,Aldomet Tablets 125 mg,1
+60341000033110,Amil-Co 5mg/50mg tablets (IVAX Pharmaceuticals UK Ltd),1
+57341000033115,Amilmaxco 5mg/50mg tablets (Ashbourne Pharmaceuticals Ltd),1
+1903541000033116,Amiloride 2.5mg / Cyclopenthiazide 250microgram tablets,1
+1845641000033119,Amiloride 5mg / Bumetanide 1mg tablets,1
+4021641000033111,Amlodipine 10mg / Valsartan 160mg tablets,1
+4021541000033110,Amlodipine 5mg / Valsartan 160mg tablets,1
+4021441000033114,Amlodipine 5mg / Valsartan 80mg tablets,1
+73441000033117,Apresoline 20mg powder for solution for injection ampoules (Advanz Pharma),1
+74341000033114,Apresoline 25mg tablets (Advanz Pharma),1
+74441000033115,Apresoline Tablets 50 mg,1
+90741000033113,Atenix Co 100 tablets (Ashbourne Pharmaceuticals Ltd),1
+92441000033119,Atenix Co 50 tablets (Ashbourne Pharmaceuticals Ltd),1
+92341000033113,Atenixco 50 Tablets 12.5 mg,1
+3246941000033118,Atenolol 50mg / Nifedipine 20mg modified-release capsules,1
+124341000033119,Beta-Adalat modified-release capsules (Bayer Plc),1
+172341000033112,Burinex A 5mg/1mg tablets (LEO Pharma),1
+216441000033110,Capozide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+209241000033119,Capozide LS 12.5mg/25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+1893341000033116,Capto-Co Tablets 12.5 mg/25 mg,1
+1893441000033110,Capto-Co Tablets 25 mg/50 mg,1
+209841000033115,Carace 10 Plus tablets (Merck Sharp & Dohme Ltd),1
+217041000033116,Carace 20 Plus tablets (Merck Sharp & Dohme Ltd),1
+3136041000033117,Caralpha 10mg/12.5mg tablets (Actavis UK Ltd),1
+3136141000033118,Caralpha 20mg/12.5mg tablets (Actavis UK Ltd),1
+215341000033112,Catapres 100microgram tablets (Boehringer Ingelheim Ltd),1
+196241000033111,Catapres 150micrograms/1ml solution for injection ampoules (Boehringer Ingelheim Ltd),1
+215441000033118,Catapres 300microgram tablets (Boehringer Ingelheim Ltd),1
+177441000033116,Catapres Capsules 0.25 mg,1
+177641000033119,Catapres Perlongets M/R capsules 250 micrograms,1
+12107141000033117,Catapres TTS 1 patches (Imported (Germany)),1
+12117941000033118,Catapres TTS 2 patches (Imported (Germany)),1
+12118541000033113,Catapres TTS 3 patches (Imported (Germany)),1
+5393041000033115,Chlorothiazide And Spironolactone Capsules 250 mg + 25 mg,1
+285841000033118,Clonidine 100microgram tablets,1
+12106941000033117,Clonidine 100micrograms/24hours transdermal patches,1
+12569041000033115,Clonidine 100micrograms/5ml oral suspension,1
+275641000033110,Clonidine 150micrograms/1ml solution for injection ampoules,1
+5289041000033110,Clonidine 200micrograms/24hours transdermal patches,1
+261841000033118,Clonidine 250microgram modified-release capsules,1
+285941000033114,Clonidine 25microgram tablets,1
+287241000033110,Clonidine 300microgram tablets,1
+12107041000033116,Clonidine 300micrograms/24hours transdermal patches,1
+5900141000033118,Clonidine 50micrograms/5ml oral solution,1
+12684041000033114,Clonidine 50micrograms/5ml oral solution sugar free,1
+5900241000033113,Clonidine 50micrograms/5ml oral suspension,1
+2776441000033110,Clonidine Hydrochloride Transdermal patches (7 days) 2.5 mg (0.1mg/24 hours),1
+372841000033114,Co-Betaloc SA tablets (Pfizer Ltd),1
+372741000033116,Co-Betaloc tablets (Pfizer Ltd),1
+3152541000033112,Co-Diovan 160mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd),1
+3152641000033113,Co-Diovan 160mg/25mg tablets (Novartis Pharmaceuticals UK Ltd),1
+3190841000033119,Co-Diovan 80mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd),1
+6028541000033112,Co-Tritace Tablets 10 mg + 12.5 mg,1
+6028641000033113,Co-Tritace Tablets 10 mg + 25 mg,1
+376741000033115,Co-amilofruse 10mg/80mg tablets,1
+376841000033113,Co-amilofruse 2.5mg/20mg tablets,1
+376641000033112,Co-amilofruse 5mg/40mg tablets,1
+5710441000033117,Co-amilofruse 5mg/40mg/5ml oral suspension,1
+376941000033117,Co-amilozide 2.5mg/25mg tablets,1
+369141000033118,Co-amilozide 5mg/50mg tablets,1
+351941000033111,Co-amilozide 5mg/50mg/5ml oral solution,1
+377041000033116,Co-flumactone 25mg/25mg tablets,1
+377141000033117,Co-flumactone 50mg/50mg tablets,1
+377341000033119,Co-prenozide 160mg/0.25mg modified-release tablets,1
+376541000033111,Co-tenidone 100mg/25mg tablets,1
+376441000033110,Co-tenidone 50mg/12.5mg tablets,1
+370241000033111,Co-triamterzide 50mg/25mg tablets,1
+1893141000033119,Co-zidocapt 12.5mg/25mg tablets,1
+1893241000033114,Co-zidocapt 25mg/50mg tablets,1
+2216141000033115,CoAprovel 150mg/12.5mg tablets (Sanofi),1
+2216241000033110,CoAprovel 300mg/12.5mg tablets (Sanofi),1
+3995341000033119,CoAprovel 300mg/25mg tablets (Sanofi),1
+375441000033118,Corgaretic 40mg tablets (Sanofi-Synthelabo Ltd),1
+375541000033117,Corgaretic 80mg tablets (Sanofi-Synthelabo Ltd),1
+4454641000033117,Coversyl Arginine Plus 5mg/1.25mg tablets (Servier Laboratories Ltd),1
+2739541000033117,Coversyl Plus tablets (Servier Laboratories Ltd),1
+4424841000033117,Cozaar-Comp 100mg/12.5mg tablets (Merck Sharp & Dohme Ltd),1
+3346941000033113,Cozaar-Comp 100mg/25mg tablets (Merck Sharp & Dohme Ltd),1
+370841000033110,Cozaar-Comp 50mg/12.5mg tablets (Merck Sharp & Dohme Ltd),1
+431241000033112,Decaserpyl Plus Tablets,1
+430941000033114,Decaserpyl Tablets 10 mg,1
+431041000033116,Decaserpyl Tablets 100 micrograms,1
+431141000033117,Decaserpyl Tablets 5 mg,1
+6468341000033117,Diazoxide 100mg/5ml oral solution,1
+6468441000033111,Diazoxide 100mg/5ml oral suspension,1
+5966941000033118,Diazoxide 10mg/5ml oral solution,1
+5966841000033114,Diazoxide 10mg/5ml oral suspension,1
+8182141000033114,Diazoxide 12.5mg/5ml oral suspension,1
+2623841000033114,Diazoxide 250mg/5ml oral suspension,1
+448841000033117,Diazoxide 300mg/20ml solution for injection ampoules,1
+464441000033117,Diazoxide 50mg tablets,1
+9173841000033115,Diazoxide 50mg/5ml oral suspension,1
+4119841000033113,Diazoxide Oral Suspension (Sugar-Free) 50 mg/5 ml,1
+464341000033111,Dixarit 25microgram tablets (Boehringer Ingelheim Ltd),1
+481341000033111,Dopamet Tablets 125 mg,1
+481441000033117,Dopamet Tablets 250 mg,1
+481541000033116,Dopamet Tablets 500 mg,1
+492341000033115,Dyazide 50mg/25mg tablets (Advanz Pharma),1
+491741000033113,Dytide capsules (Mercury Pharma Group Ltd),1
+3162241000033117,Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets,1
+555141000033110,Eudemine 300mg/20ml solution for injection ampoules (Mercury Pharma Group Ltd),1
+556641000033113,Eudemine 50mg tablets (RPH Pharmaceuticals AB),1
+4021941000033116,Exforge 10mg/160mg tablets (Novartis Pharmaceuticals UK Ltd),1
+4021841000033112,Exforge 5mg/160mg tablets (Novartis Pharmaceuticals UK Ltd),1
+4021741000033119,Exforge 5mg/80mg tablets (Novartis Pharmaceuticals UK Ltd),1
+8029241000033113,Exforge Hct Tablets 5 mg/160 mg/12.5 mg,1
+8029341000033115,Exforge Hct Tablets 5 mg/160 mg/25 mg,1
+8027941000033110,Exforge Tablets 10 mg/320 mg,1
+8027841000033119,Exforge Tablets 5 mg/320 mg,1
+3163341000033119,Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets,1
+3163241000033112,Felodipine 5mg modified-release / Ramipril 5mg tablets,1
+1611441000033117,Froop Co 5mg/40mg tablets (Ashbourne Pharmaceuticals Ltd),1
+615241000033116,Fru-Co 5mg/40mg tablets (Teva UK Ltd),1
+614641000033117,Frumil 40mg/5mg tablets (Sanofi),1
+615641000033118,Frumil Forte 10mg/80mg tablets (Sanofi),1
+614341000033113,Frumil LS 20mg/2.5mg tablets (Sanofi),1
+615041000033112,Frusene 50mg/40mg tablets (Orion Pharma (UK) Ltd),1
+655241000033111,Guanethidine 10mg/1ml solution for injection ampoules,1
+654741000033118,Guanethidine Monosulfate 1+0.2 Eye drops,1
+654841000033111,Guanethidine Monosulfate 3+0.5 Eye drops,1
+654641000033110,Guanethidine Monosulfate Eye drops 5 %,1
+655541000033113,Guanethidine Monosulfate Tablets 10 mg,1
+655641000033114,Guanethidine Monosulfate Tablets 25 mg,1
+10740841000033116,Guanfacine 1mg modified-release tablets,1
+10740941000033112,Guanfacine 2mg modified-release tablets,1
+10741041000033119,Guanfacine 3mg modified-release tablets,1
+10741141000033115,Guanfacine 4mg modified-release tablets,1
+4456241000033111,Hydralazine 10mg/5ml oral suspension,1
+734141000033114,Hydralazine 20mg powder for solution for injection ampoules,1
+741941000033113,Hydralazine 25mg tablets,1
+11072741000033116,Hydralazine 25mg/5ml oral solution,1
+742041000033119,Hydralazine 50mg tablets,1
+3940641000033114,Hydralazine Hydrochloride Dispersible tablets 10 mg,1
+1618441000033111,Hydralazine Hydrochloride Tablets 12.5 mg,1
+742441000033111,Hydromet Tablets,1
+743441000033119,Hypercal Tablets 2 mg,1
+756641000033114,Inderetic 80mg/2.5mg capsules (AstraZeneca UK Ltd),1
+756741000033117,Inderex 160mg/5mg modified-release capsules (AstraZeneca UK Ltd),1
+770141000033115,Innozide 20mg/12.5mg tablets (Merck Sharp & Dohme Ltd),1
+10741241000033110,Intuniv 1mg modified-release tablets (Shire Pharmaceuticals Ltd),1
+10741341000033117,Intuniv 2mg modified-release tablets (Shire Pharmaceuticals Ltd),1
+10741441000033111,Intuniv 3mg modified-release tablets (Shire Pharmaceuticals Ltd),1
+10741541000033112,Intuniv 4mg modified-release tablets (Shire Pharmaceuticals Ltd),1
+3161141000033116,Irbesartan 150mg / Hydrochlorothiazide 12.5mg tablets,1
+3161241000033111,Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets,1
+3995241000033112,Irbesartan 300mg / Hydrochlorothiazide 25mg tablets,1
+780741000033110,Ismelin 10mg/1ml solution for injection ampoules (Amdipharm Plc),1
+796741000033111,Kalspare Ls Tablets,1
+796541000033115,Kalspare tablets (DHP Healthcare Ltd),1
+793741000033117,Kalten capsules (M & A Pharmachem Ltd),1
+808841000033119,Lasilactone 20mg/50mg capsules (Sanofi),1
+816241000033119,Lasipressin Tablets,1
+818941000033112,Lasoride 5mg/40mg tablets (Sanofi),1
+3279541000033115,Lisicostad 10mg/12.5mg tablets (Genus Pharmaceuticals Ltd),1
+3279641000033119,Lisicostad 20mg/12.5mg tablets (Genus Pharmaceuticals Ltd),1
+3160841000033117,Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets,1
+3160941000033113,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets,1
+850441000033112,Loniten 10mg tablets (Pfizer Ltd),1
+850541000033113,Loniten 2.5mg tablets (Pfizer Ltd),1
+850641000033114,Loniten 5mg tablets (Pfizer Ltd),1
+849941000033112,Lopresoretic Tablets,1
+4424741000033110,Losartan 100mg / Hydrochlorothiazide 12.5mg tablets,1
+3346841000033117,Losartan 100mg / Hydrochlorothiazide 25mg tablets,1
+3161741000033117,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets,1
+872541000033114,Medomet Capsules 250 mg,1
+895141000033115,Medomet Tablets 250 mg,1
+895241000033110,Medomet Tablets 500 mg,1
+902441000033114,Methoserpidine Tablets 10 mg,1
+903941000033110,Methoserpidine Tablets 5 mg,1
+897341000033110,Methyldopa 125mg tablets,1
+897441000033116,Methyldopa 250mg tablets,1
+892341000033112,Methyldopa 250mg/5ml oral suspension,1
+897541000033115,Methyldopa 500mg tablets,1
+873941000033114,Methyldopa Capsules 250 mg,1
+878541000033112,Methyldopa Injection 50 mg/ml,1
+3161341000033118,Metoprolol 100mg / Hydrochlorothiazide 12.5mg tablets,1
+2864241000033110,MicardisPlus 40mg/12.5mg tablets (Boehringer Ingelheim Ltd),1
+2864341000033117,MicardisPlus 80mg/12.5mg tablets (Boehringer Ingelheim Ltd),1
+4548841000033118,MicardisPlus 80mg/25mg tablets (Boehringer Ingelheim Ltd),1
+920641000033119,Minoxidil 10mg tablets,1
+920841000033118,Minoxidil 2.5mg tablets,1
+920941000033114,Minoxidil 5mg tablets,1
+935341000033118,Moducren tablets (Merck Sharp & Dohme Ltd),1
+935441000033112,Moduret 25 tablets (Merck Sharp & Dohme Ltd),1
+935541000033113,Moduretic 5mg/50mg tablets (Merck Sharp & Dohme Ltd),1
+937341000033111,Monozide 10 tablets (Wyeth Pharmaceuticals),1
+938541000033115,Moxonidine 200microgram tablets,1
+2635641000033111,Moxonidine 300microgram tablets,1
+938641000033119,Moxonidine 400microgram tablets,1
+956741000033114,Navispare 2.5mg/250microgram tablets (Advanz Pharma),1
+969341000033112,Nipride Infusion 50 mg,1
+5005841000033114,Olmesartan medoxomil 20mg / Amlodipine 5mg tablets,1
+3908941000033112,Olmesartan medoxomil 20mg / Hydrochlorothiazide 12.5mg tablets,1
+3909041000033115,Olmesartan medoxomil 20mg / Hydrochlorothiazide 25mg tablets,1
+5006041000033111,Olmesartan medoxomil 40mg / Amlodipine 10mg tablets,1
+5005941000033118,Olmesartan medoxomil 40mg / Amlodipine 5mg tablets,1
+5566341000033111,Olmesartan medoxomil 40mg / Hydrochlorothiazide 12.5mg tablets,1
+3909141000033116,Olmetec Plus 20mg/12.5mg tablets (Daiichi Sankyo UK Ltd),1
+3909241000033111,Olmetec Plus 20mg/25mg tablets (Daiichi Sankyo UK Ltd),1
+5566441000033117,Olmetec Plus 40mg/12.5mg tablets (Daiichi Sankyo UK Ltd),1
+4454541000033118,Perindopril arginine 5mg / Indapamide 1.25mg tablets,1
+9105341000033116,Perindopril erbumine 4mg / Amlodipine 10mg tablets,1
+9105241000033114,Perindopril erbumine 4mg / Amlodipine 5mg tablets,1
+3161641000033114,Perindopril erbumine 4mg / Indapamide 1.25mg tablets,1
+9105541000033111,Perindopril erbumine 8mg / Amlodipine 10mg tablets,1
+9105441000033110,Perindopril erbumine 8mg / Amlodipine 5mg tablets,1
+8263641000033112,Perindopril tosilate 5mg / Indapamide 1.25mg tablets,1
+1080841000033119,Physiotens 200microgram tablets (Mylan),1
+2635741000033119,Physiotens 300microgram tablets (Mylan),1
+1080941000033110,Physiotens 400microgram tablets (Mylan),1
+1132841000033118,Prestim Forte Tablets,1
+1132741000033111,Prestim tablets (Meda Pharmaceuticals Ltd),1
+7859441000033119,Proglycem 250mg/5ml oral suspension (Imported (United States)),1
+3160641000033118,Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets,1
+1164941000033114,Reserpine Tablets 0.1 mg,1
+1165041000033114,Reserpine Tablets 0.25 mg,1
+1274641000033111,Secadrex 200mg/12.5mg tablets (Sanofi),1
+1276541000033115,Serpasil Esidrex Tablets,1
+1276341000033110,Serpasil Tablets 0.1 mg,1
+1276441000033116,Serpasil Tablets 0.25 mg,1
+5006141000033110,Sevikar 20mg/5mg tablets (Daiichi Sankyo UK Ltd),1
+5006341000033113,Sevikar 40mg/10mg tablets (Daiichi Sankyo UK Ltd),1
+5006241000033115,Sevikar 40mg/5mg tablets (Daiichi Sankyo UK Ltd),1
+6180641000033112,Sevikar HCT 20mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd),1
+6180841000033113,Sevikar HCT 40mg/10mg/12.5mg tablets (Daiichi Sankyo UK Ltd),1
+6181041000033110,Sevikar HCT 40mg/10mg/25mg tablets (Daiichi Sankyo UK Ltd),1
+6180741000033115,Sevikar HCT 40mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd),1
+6180941000033117,Sevikar HCT 40mg/5mg/25mg tablets (Daiichi Sankyo UK Ltd),1
+1357141000033115,Sodium nitroprusside 50mg powder for solution for infusion vials,1
+1366241000033116,Sotazide Tablets,1
+1373041000033111,Spiro-Co 25 Tablets,1
+1372941000033118,Spiro-Co 50 Tablets,1
+9278541000033112,Spironolactone 3mg / Chlorothiazide 30mg capsules,1
+7681541000033117,Spironolactone 4mg / Chlorothiazide 40mg capsules,1
+3162541000033115,Spironolactone 50mg / Furosemide 20mg capsules,1
+1374441000033117,Spiroprop Tablets,1
+2955841000033110,Synuretic 25 tablets (Dr Reddy's Laboratories (UK) Ltd),1
+2955741000033117,Synuretic 50 tablets (Dr Reddy's Laboratories (UK) Ltd),1
+1406341000033117,Tarka modified-release capsules (Abbott Laboratories Ltd),1
+3162641000033119,Telmisartan 40mg / Hydrochlorothiazide 12.5mg tablets,1
+3162741000033111,Telmisartan 80mg / Hydrochlorothiazide 12.5mg tablets,1
+4548741000033111,Telmisartan 80mg / Hydrochlorothiazide 25mg tablets,1
+1414241000033117,Tenben 25mg/1.25mg capsules (Galen Ltd),1
+1425541000033114,Tenchlor 100mg/25mg tablets (Teva UK Ltd),1
+1425441000033113,Tenchlor 50mg/12.5mg tablets (Teva UK Ltd),1
+1414941000033114,Tenif 50mg/20mg modified-release capsules (AstraZeneca UK Ltd),1
+1426241000033117,Tenoret 50mg/12.5mg tablets (AstraZeneca UK Ltd),1
+1426341000033110,Tenoretic 100mg/25mg tablets (AstraZeneca UK Ltd),1
+5376441000033114,Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets (Essential Generics Ltd),1
+3346641000033118,Timolol 10mg / Bendroflumethiazide 2.5mg tablets,1
+1451041000033115,Tolerzide Tablets,1
+9292641000033116,Tolucombi 40mg/12.5mg tablets (Consilient Health Ltd),1
+9292741000033113,Tolucombi 80mg/12.5mg tablets (Consilient Health Ltd),1
+9292841000033115,Tolucombi 80mg/25mg tablets (Consilient Health Ltd),1
+1469941000033114,Trasidrex modified-release tablets (Mercury Pharma Group Ltd),1
+1470341000033112,Triam-Co 50mg/25mg tablets (IVAX Pharmaceuticals UK Ltd),1
+1468141000033118,Triamaxco 50mg/25mg tablets (Ashbourne Pharmaceuticals Ltd),1
+3161941000033119,Triamterene 50mg / Benzthiazide 25mg capsules,1
+3162341000033110,Triamterene 50mg / Chlortalidone 50mg tablets,1
+3092741000033119,Triamterene 50mg / Furosemide 40mg tablets,1
+1846841000033111,Triamterene And Frusemide Tablets 50 mg + 40 mg,1
+8264941000033119,Triapin 2.5mg/2.5mg modified-release tablets (Sanofi),1
+1834341000033110,Triapin 5mg/5mg modified-release tablets (Sanofi),1
+1834241000033117,Triapin Mite Tablets,1
+3161441000033112,Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets,1
+3161541000033113,Valsartan 160mg / Hydrochlorothiazide 25mg tablets,1
+3190741000033112,Valsartan 80mg / Hydrochlorothiazide 12.5mg tablets,1
+1505441000033114,Vasetic 5/50 Tablets,1
+3163041000033116,Verapamil 180mg modified-release / Trandolapril 2mg capsules,1
+1551841000033118,Zestoretic 10 tablets (AstraZeneca UK Ltd),1
+1552341000033118,Zestoretic 20 tablets (AstraZeneca UK Ltd),1
+1557741000033119,Zida-Co 5/50 Tablets,1

@@ -1,0 +1,28 @@
+prodcodeid,productname,glp1ra
+10951041000033114,Albiglutide 30mg powder and solvent for solution for injection pre-filled,1
+10951141000033113,Albiglutide 50mg powder and solvent for solution for injection pre-filled,1
+6388341000033110,Bydureon 2mg powder and solvent for prolonged-release suspension for,1
+10042641000033116,Bydureon Prolonged release suspension for injection 2 mg pen,1
+4149641000033115,Byetta 10micrograms/0.04ml solution for injection 2.4ml pre-filled pens,1
+4149541000033116,Byetta 5micrograms/0.02ml solution for injection 1.2ml pre-filled pens,1
+10207841000033118,Dulaglutide 0.75mg/0.5ml solution for injection pre-filled disposable,1
+10207941000033114,Dulaglutide 1.5mg/0.5ml solution for injection pre-filled disposable,1
+10952341000033119,Eperzan 30mg powder and solvent for solution for injection pre-filled,1
+10953041000033113,Eperzan 50mg powder and solvent for solution for injection pre-filled,1
+4149441000033117,Exenatide 10micrograms/0.04ml solution for injection 2.4ml pre-filled,1
+6388241000033117,Exenatide 2mg powder and solvent for prolonged-release suspension for,1
+4149341000033111,Exenatide 5micrograms/0.02ml solution for injection 1.2ml pre-filled,1
+10042541000033117,Exenatide Prolonged release suspension for injection 2 mg device,1
+10044541000033113,Insulin degludec 100units/ml / Liraglutide 3.6mg/ml solution for injection,1
+5131241000033110,Liraglutide 6mg/ml solution for injection 3ml pre-filled disposable devices,1
+8268441000033115,Lixisenatide 10micrograms/0.2ml solution,1
+8267341000033110,Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled,1
+8267441000033116,Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled,1
+8267541000033115,Lyxumia 10micrograms/0.2ml solution for injection 3ml pre-filled pens,1
+8268641000033118,Lyxumia 10micrograms/20micrograms treatment initiation pack (Sanofi),1
+8267641000033119,Lyxumia 20micrograms/0.2ml solution for injection 3ml pre-filled pens,1
+11919041000033113,Saxenda 6mg/ml solution for injection 3ml pre-filled pens (Novo Nordisk,1
+10208041000033112,Trulicity 0.75mg/0.5ml solution for injection pre-filled pens (Eli Lilly and,1
+10208141000033111,Trulicity 1.5mg/0.5ml solution for injection pre-filled pens (Eli Lilly and,1
+5131341000033117,Victoza 6mg/ml solution for injection 3ml pre-filled pens (Novo Nordisk,1
+10044641000033114,Xultophy 100units/ml / 3.6mg/ml solution for injection 3ml pre-filled,1

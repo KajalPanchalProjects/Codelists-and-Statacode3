@@ -1,0 +1,62 @@
+prodcodeid,productname,sulf
+59541000033116,Amaryl 1mg tablets (Zentiva),1
+58841000033113,Amaryl 2mg tablets (Zentiva),1
+59641000033115,Amaryl 3mg tablets (Zentiva),1
+59741000033112,Amaryl 4mg tablets (Zentiva),1
+5491941000033110,Amaryl M Tablets 1 mg + 250 mg,1
+5492041000033116,Amaryl M Tablets 2 mg + 500 mg,1
+10701641000033116,Bilxona 30mg modified-release tablets (Actavis UK Ltd),1
+10701741000033113,Bilxona 60mg modified-release tablets (Actavis UK Ltd),1
+209341000033112,Calabren Tablets 2.5 mg,1
+218441000033114,Calabren Tablets 5 mg,1
+5378141000033117,Dacadis MR 30mg tablets (Mylan),1
+406841000033114,Daonil 5mg tablets (Sanofi),1
+406741000033116,Daonil Tablets 2.5 mg,1
+462041000033119,Diabetamide 2.5mg tablets (Ashbourne Pharmaceuticals Ltd),1
+462141000033115,Diabetamide 5mg tablets (Ashbourne Pharmaceuticals Ltd),1
+1602941000033117,Diaglyk 80mg tablets (Ashbourne Pharmaceuticals Ltd),1
+2289941000033113,Diamicron 30mg MR tablets (Servier Laboratories Ltd),1
+463541000033118,Diamicron 80mg tablets (Servier Laboratories Ltd),1
+8027541000033116,Diamicron M/R tablets 60 mg,1
+5815341000033115,Edicil MR 30mg tablets (Teva UK Ltd),1
+557241000033113,Euglucon 2.5mg tablets (Aventis Pharma),1
+557341000033115,Euglucon 5mg tablets (Sanofi),1
+644541000033111,Glibenclamide 2.5mg tablets,1
+644641000033112,Glibenclamide 5mg tablets,1
+5968741000033115,Glibenclamide 5mg/5ml oral solution,1
+5968841000033113,Glibenclamide 5mg/5ml oral suspension,1
+644741000033115,Glibenese 5mg tablets (Pfizer Ltd),1
+2289441000033115,Gliclazide 30mg modified-release tablets,1
+5709741000033116,Gliclazide 40mg tablets,1
+5869241000033114,Gliclazide 40mg/5ml oral suspension,1
+8298141000033113,Gliclazide 60mg modified-release tablets,1
+646441000033117,Gliclazide 80mg tablets,1
+3953041000033113,Gliclazide 80mg/5ml oral suspension,1
+645941000033116,Glimepiride 1mg tablets,1
+645841000033112,Glimepiride 2mg tablets,1
+646041000033114,Glimepiride 3mg tablets,1
+646141000033113,Glimepiride 4mg tablets,1
+8125241000033119,Glimepiride 6mg/5ml oral suspension,1
+646541000033116,Glipizide 2.5mg tablets,1
+644841000033113,Glipizide 5mg tablets,1
+646241000033118,Glyconon Tablets 500 mg,1
+8298241000033118,Laaglyda MR 60mg tablets (Consilient Health Ltd),1
+837041000033115,Libanil Tablets 2.5 mg,1
+837141000033116,Libanil Tablets 5 mg,1
+869841000033114,Malix Tablets 2.5 mg,1
+869941000033118,Malix Tablets 5 mg,1
+920141000033112,Minodiab 2.5mg tablets (Pfizer Ltd),1
+920241000033117,Minodiab 5mg tablets (Pfizer Ltd),1
+4941241000033119,Nazdol MR 30mg tablets (Consilient Health Ltd),1
+4522041000033113,Niddaryl 1mg tablets (Dee Pharmaceuticals Ltd),1
+4522141000033112,Niddaryl 2mg tablets (Dee Pharmaceuticals Ltd),1
+4522241000033117,Niddaryl 3mg tablets (Dee Pharmaceuticals Ltd),1
+4522341000033110,Niddaryl 4mg tablets (Dee Pharmaceuticals Ltd),1
+1153441000033112,Rastinon Tablets 500 mg,1
+1278041000033114,Semi-Daonil 2.5mg tablets (Sanofi),1
+1450941000033113,Tolbutamide 500mg tablets,1
+10043341000033116,Vamju 30mg modified-release tablets (Advanz Pharma),1
+10043441000033110,Vamju 60mg modified-release tablets (Advanz Pharma),1
+6135341000033117,Vitile XL 30mg tablets (Actavis UK Ltd),1
+5709841000033114,Zicron 40mg tablets (Bristol Laboratories Ltd),1
+11918941000033116,Zicron PR 30mg tablets (Bristol Laboratories Ltd),1

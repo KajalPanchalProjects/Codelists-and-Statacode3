@@ -1,0 +1,239 @@
+prodcodeid,productname,bb
+3041000033115,Acebutolol 100mg capsules,1
+3141000033116,Acebutolol 200mg capsules,1
+10741000033112,Acebutolol 400mg tablets,1
+6041000033113,Acebutolol Injection 5 mg/1 ml,1
+70941000033117,Antipressan 100mg tablets (Teva UK Ltd),1
+69441000033112,Antipressan 25mg tablets (Teva UK Ltd),1
+71041000033110,Antipressan 50mg tablets (Teva UK Ltd),1
+75341000033110,Apsolox Tablets 160 mg,1
+75441000033116,Apsolox Tablets 20 mg,1
+75541000033115,Apsolox Tablets 40 mg,1
+75641000033119,Apsolox Tablets 80 mg,1
+1572241000033113,Atenamin Tablets 100 mg,1
+1572341000033115,Atenamin Tablets 25 mg,1
+1572441000033114,Atenamin Tablets 50 mg,1
+90541000033117,Atenix 100 tablets (Ashbourne Pharmaceuticals Ltd),1
+91841000033113,Atenix 25 tablets (Ashbourne Pharmaceuticals Ltd),1
+92541000033118,Atenix 50 tablets (Ashbourne Pharmaceuticals Ltd),1
+91041000033118,Atenolol 100mg tablets,1
+90641000033116,Atenolol 25mg tablets,1
+90441000033118,Atenolol 25mg/5ml oral solution sugar free,1
+91141000033119,Atenolol 50mg tablets,1
+89541000033111,Atenolol 5mg/10ml solution for injection ampoules,1
+12682341000033117,Bedranol 10mg tablets (Ennogen Pharma Ltd),1
+12682741000033116,Bedranol 160mg tablets (Ennogen Pharma Ltd),1
+12682441000033111,Bedranol 40mg tablets (Ennogen Pharma Ltd),1
+12682641000033113,Bedranol 80mg tablets (Ennogen Pharma Ltd),1
+124241000033112,Bedranol SR 160mg capsules (Sandoz Ltd),1
+2711841000033114,Bedranol SR 80mg capsules (Sandoz Ltd),1
+143941000033116,Beta-Cardone 200mg tablets (Advanz Pharma),1
+144041000033119,Beta-Cardone 40mg tablets (Focus Pharmaceuticals Ltd),1
+144141000033115,Beta-Cardone 80mg tablets (Focus Pharmaceuticals Ltd),1
+133141000033117,Beta-Prograne 160mg modified-release capsules (Tillomed Laboratories Ltd),1
+144341000033117,Betaloc 100mg tablets (AstraZeneca UK Ltd),1
+144441000033111,Betaloc 50mg tablets (AstraZeneca UK Ltd),1
+131141000033116,Betaloc I.V. 5mg/5ml solution for injection ampoules (AstraZeneca UK Ltd),1
+144541000033112,Betaloc-SA 200mg tablets (AstraZeneca UK Ltd),1
+145541000033111,Betaxolol 20mg tablets,1
+144741000033116,Betim 10mg tablets (Meda Pharmaceuticals Ltd),1
+2638141000033114,Bipranix 10mg tablets (Ashbourne Pharmaceuticals Ltd),1
+2638041000033110,Bipranix 5mg tablets (Ashbourne Pharmaceuticals Ltd),1
+1951641000033111,Bisoprolol 1.25mg tablets,1
+5898041000033111,Bisoprolol 1.25mg/5ml oral solution,1
+5898141000033110,Bisoprolol 1.25mg/5ml oral suspension,1
+10025241000033112,Bisoprolol 10mg / Aspirin 100mg capsules,1
+10025141000033117,Bisoprolol 10mg / Aspirin 75mg capsules,1
+514741000033117,Bisoprolol 10mg tablets,1
+8536441000033115,Bisoprolol 10mg/5ml oral suspension,1
+1951741000033119,Bisoprolol 2.5mg tablets,1
+5991041000033111,Bisoprolol 2.5mg/5ml oral solution,1
+4507941000033117,Bisoprolol 2.5mg/5ml oral suspension,1
+1951841000033112,Bisoprolol 3.75mg tablets,1
+10025041000033116,Bisoprolol 5mg / Aspirin 100mg capsules,1
+10024941000033116,Bisoprolol 5mg / Aspirin 75mg capsules,1
+151341000033117,Bisoprolol 5mg tablets,1
+5898241000033115,Bisoprolol 5mg/5ml oral solution,1
+5898341000033113,Bisoprolol 5mg/5ml oral suspension,1
+5898441000033119,Bisoprolol 625micrograms/5ml oral solution,1
+5898541000033118,Bisoprolol 625micrograms/5ml oral suspension,1
+1951941000033116,Bisoprolol 7.5mg tablets,1
+4267141000033111,Bisoprolol 7.5mg/5ml oral suspension,1
+151441000033111,Bisoprolol Fumarate Tablets 10 mg,1
+153441000033112,Blocadren Tablets 10 mg,1
+158041000033114,Brevibloc Concentrate 2.5g/10ml solution for infusion ampoules (Baxter Healthcare Ltd),1
+157941000033111,Brevibloc Injection 10 mg/ml,1
+4202341000033110,"Brevibloc Injection 10 mg/ml, 10 ml vial",1
+5655241000033110,Brevibloc Premixed 100mg/10ml solution for injection vials (Baxter Healthcare Ltd),1
+5656241000033115,Brevibloc Premixed 2.5g/250ml infusion bags (Baxter Healthcare Ltd),1
+1952241000033119,Cardicor 1.25mg tablets (Merck Serono Ltd),1
+1952741000033113,Cardicor 10mg tablets (Merck Serono Ltd),1
+1952341000033112,Cardicor 2.5mg tablets (Merck Serono Ltd),1
+1952441000033118,Cardicor 3.75mg tablets (Merck Serono Ltd),1
+1952541000033117,Cardicor 5mg tablets (Merck Serono Ltd),1
+1952641000033116,Cardicor 7.5mg tablets (Merck Serono Ltd),1
+208841000033114,Carteolol Hydrochloride Tablets 10 mg,1
+218141000033118,Cartrol Tablets 10 mg,1
+209941000033111,Carvedilol 12.5mg tablets,1
+210041000033115,Carvedilol 25mg tablets,1
+1581241000033110,Carvedilol 3.125mg tablets,1
+5288741000033116,Carvedilol 5mg/5ml oral suspension,1
+1581341000033117,Carvedilol 6.25mg tablets,1
+210141000033116,Carvedilol Tablets 50 mg,1
+236141000033110,Celectol 200mg tablets (Sanofi),1
+233241000033114,Celectol 400mg tablets (Sanofi),1
+236041000033111,Celiprolol 200mg tablets,1
+233341000033116,Celiprolol 400mg tablets,1
+3984541000033111,Congescor 1.25mg tablets (Tillomed Laboratories Ltd),1
+3984641000033112,Congescor 2.5mg tablets (Tillomed Laboratories Ltd),1
+375241000033119,Corgard 40mg tablets (Sanofi-Synthelabo Ltd),1
+375341000033112,Corgard 80mg tablets (Sanofi),1
+514141000033116,Emcor 10mg tablets (Merck Serono Ltd),1
+513941000033117,Emcor LS 5mg tablets (Merck Serono Ltd),1
+4202241000033117,Esmolol 100mg/10ml solution for injection vials,1
+12206941000033119,Esmolol 2.5g powder for solution for infusion vials,1
+544641000033119,Esmolol 2.5g/10ml solution for infusion ampoules,1
+5655541000033112,Esmolol 2.5g/250ml infusion bags,1
+544541000033115,Esmolol Hydrochloride Injection 10 mg/ml,1
+556941000033118,Eucardic 12.5mg tablets (Roche Products Ltd),1
+557041000033117,Eucardic 25mg tablets (Roche Products Ltd),1
+1608941000033115,Eucardic 3.125mg tablets (Roche Products Ltd),1
+1609041000033112,Eucardic 6.25mg tablets (Roche Products Ltd),1
+557141000033118,Eucardic Tablets 50 mg,1
+660741000033115,Half Beta-Prograne 80mg modified-release capsules (Tillomed Laboratories Ltd),1
+658241000033117,Half Inderal LA 80mg capsules (AstraZeneca UK Ltd),1
+660941000033117,Half Propanix La M/R capsules 80 mg,1
+660541000033111,Half-Betadur Cr M/R capsules 80 mg,1
+5052641000033111,Hypoloc 5mg tablets (A. Menarini Farmaceutica Internazionale SRL),1
+768741000033110,Inderal 10mg tablets (AstraZeneca UK Ltd),1
+759641000033116,Inderal 1mg/1ml solution for injection ampoules (AstraZeneca UK Ltd),1
+768841000033117,Inderal 40mg tablets (AstraZeneca UK Ltd),1
+768941000033113,Inderal 80mg tablets (AstraZeneca UK Ltd),1
+756541000033113,Inderal LA 160mg capsules (AstraZeneca UK Ltd),1
+803641000033114,Kerlone 20mg tablets (Sanofi-Synthelabo Ltd),1
+814041000033119,Labetalol 100mg tablets,1
+811341000033119,Labetalol 100mg/20ml solution for injection ampoules,1
+818641000033117,Labetalol 200mg tablets,1
+818741000033114,Labetalol 400mg tablets,1
+818841000033116,Labetalol 50mg tablets,1
+6487941000033119,Labetalol 50mg/5ml oral solution,1
+814141000033115,Labrocol Tablets 100 mg,1
+814241000033110,Labrocol Tablets 200 mg,1
+814341000033117,Labrocol Tablets 400 mg,1
+850841000033110,Lopresor 100mg tablets (Recordati Pharmaceuticals Ltd),1
+850941000033119,Lopresor 50mg tablets (Recordati Pharmaceuticals Ltd),1
+844241000033116,Lopresor Injection 1 mg/ml,1
+5333041000033112,Lopresor Retard M/R tablets 200 mg,1
+851041000033112,Lopresor SR 200mg tablets (Recordati Pharmaceuticals Ltd),1
+894741000033117,Mepranix 100 Tablets 100 mg,1
+894641000033114,Mepranix 50 Tablets 50 mg,1
+897741000033111,Metoprolol 100mg tablets,1
+2616041000033116,Metoprolol 12.5mg/5ml oral solution,1
+4815641000033117,Metoprolol 12.5mg/5ml oral suspension,1
+891641000033111,Metoprolol 200mg modified-release tablets,1
+5575541000033119,Metoprolol 25mg/5ml oral solution,1
+897841000033118,Metoprolol 50mg tablets,1
+5972841000033117,Metoprolol 50mg/5ml oral solution,1
+5972941000033113,Metoprolol 50mg/5ml oral suspension,1
+887141000033113,Metoprolol 5mg/5ml solution for injection ampoules,1
+890741000033112,Metoprolol Fumarate S/r tablets 95 mg,1
+903641000033115,Metoprolol Tartrate Tablets 200 mg,1
+891841000033112,Metoros Ls Sr tablets 95 mg,1
+891741000033119,Metoros Sr tablets 190 mg,1
+939241000033113,Monocor 10mg tablets (Wyeth Pharmaceuticals),1
+939141000033118,Monocor 5mg tablets (Wyeth Pharmaceuticals),1
+5814141000033119,Nadolol 20mg/5ml oral solution,1
+10650041000033116,Nadolol 20mg/5ml oral suspension,1
+7871341000033114,Nadolol 30mg/5ml oral solution,1
+10650141000033117,Nadolol 30mg/5ml oral suspension,1
+956341000033113,Nadolol 40mg tablets,1
+5378241000033112,Nadolol 40mg/5ml oral suspension,1
+956541000033118,Nadolol 80mg tablets,1
+1796141000033112,Nebilet 5mg tablets (A. Menarini Farmaceutica Internazionale SRL),1
+8961141000033117,Nebivolol 10mg tablets,1
+5565341000033115,Nebivolol 2.5mg tablets,1
+1796041000033113,Nebivolol 5mg tablets,1
+1026041000033118,Oxprenolol 160mg modified-release tablets,1
+1026141000033119,Oxprenolol 20mg tablets,1
+1026241000033114,Oxprenolol 40mg tablets,1
+1026341000033116,Oxprenolol 80mg tablets,1
+1023841000033116,Oxprenolol Hydrochloride Injection 2 mg/amp,1
+1027241000033112,Oxprenolol Hydrochloride Tablets 160 mg,1
+1025141000033114,Oxyprenix-160-Sr Sr tablets 160 mg,1
+3163141000033117,Pindolol 10mg / Clopamide 5mg tablets,1
+1091141000033117,Pindolol 15mg tablets,1
+1091241000033112,Pindolol 5mg tablets,1
+1124341000033119,Probeta La M/R capsules 160 mg,1
+1130341000033114,Propanix 10 Tablets 10 mg,1
+1127941000033110,Propanix 160 Sr capsules 160 mg,1
+1130641000033118,Propanix 160 Tablets 160 mg,1
+1130441000033115,Propanix 40 Tablets 40 mg,1
+1130541000033119,Propanix 80 Tablets 80 mg,1
+1124441000033113,Propanix La M/R capsules 160 mg,1
+1135041000033117,Propranolol 10mg tablets,1
+1125341000033118,Propranolol 10mg/5ml oral solution sugar free,1
+1124041000033116,Propranolol 160mg modified-release capsules,1
+1135141000033118,Propranolol 160mg tablets,1
+1119641000033117,Propranolol 1mg/1ml solution for injection ampoules,1
+1135241000033113,Propranolol 40mg tablets,1
+1750241000033113,Propranolol 40mg/5ml oral solution,1
+4955841000033115,Propranolol 40mg/5ml oral solution sugar free,1
+5998141000033117,Propranolol 40mg/5ml oral suspension,1
+1125541000033113,Propranolol 50mg/5ml oral solution sugar free,1
+1125441000033112,Propranolol 5mg/5ml oral solution sugar free,1
+1130041000033112,Propranolol 80mg modified-release capsules,1
+1135341000033115,Propranolol 80mg tablets,1
+4957141000033117,Propranolol 80mg/5ml oral solution,1
+1111441000033118,Propranolol Hydrochloride Capsules 160 mg,1
+1112341000033115,Propranolol Hydrochloride Capsules 80 mg,1
+1128041000033113,Propranolol Hydrochloride M/R tablets 160 mg,1
+2839841000033118,Rapranol SR 160mg capsules (Ranbaxy (UK) Ltd),1
+2839941000033114,Rapranol SR 80mg capsules (Ranbaxy (UK) Ltd),1
+1268141000033119,Sectral 100mg capsules (Sanofi),1
+1268241000033114,Sectral 200mg capsules (Sanofi),1
+1278241000033118,Sectral 400mg tablets (Sanofi),1
+2929141000033117,Slo-Pro 160mg capsules (Mylan),1
+1347641000033111,Slow-Pren Tablets 160 mg,1
+1347441000033114,Slow-Trasicor 160mg tablets (Advanz Pharma),1
+2802041000033113,Soloc 10mg tablets (Mercury Pharma Group Ltd),1
+2801941000033119,Soloc 5mg tablets (Mercury Pharma Group Ltd),1
+1366041000033112,Sotacor 160mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+1358541000033113,Sotacor 40mg/4ml solution for injection ampoules (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+1366141000033111,Sotacor 80mg tablets (Cheplapharm Arzneimittel GmbH),1
+1367141000033113,Sotalol 160mg tablets,1
+1367241000033118,Sotalol 200mg tablets,1
+3953441000033116,Sotalol 25mg/5ml oral solution,1
+9776441000033119,Sotalol 25mg/5ml oral suspension,1
+1367441000033117,Sotalol 40mg tablets,1
+2908541000033114,Sotalol 40mg/4ml solution for injection ampoules,1
+1367541000033116,Sotalol 80mg tablets,1
+1358641000033114,Sotalol Hydrochloride Injection 10 mg/ml,1
+2267541000033111,Syprol 10mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),1
+4955941000033111,Syprol 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),1
+2267641000033112,Syprol 50mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),1
+2267441000033110,Syprol 5mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),1
+1426441000033116,Tenormin 100mg tablets (AstraZeneca UK Ltd),1
+1428741000033112,Tenormin 25mg tablets (AstraZeneca UK Ltd),1
+1424541000033110,Tenormin 25mg/5ml syrup (AstraZeneca UK Ltd),1
+1420741000033114,Tenormin 5mg/10ml solution for injection ampoules (AstraZeneca UK Ltd),1
+1426541000033115,Tenormin LS 50mg tablets (AstraZeneca UK Ltd),1
+1444541000033113,Timolol 10mg tablets,1
+1453041000033116,Totamol Tablets 100 mg,1
+1449641000033110,Totamol Tablets 25 mg,1
+1453141000033117,Totamol Tablets 50 mg,1
+1469041000033113,Trandate 100mg tablets (RPH Pharmaceuticals AB),1
+1461441000033115,Trandate 100mg/20ml solution for injection ampoules (Focus Pharmaceuticals Ltd),1
+1469141000033112,Trandate 200mg tablets (RPH Pharmaceuticals AB),1
+1469241000033117,Trandate 400mg tablets (RPH Pharmaceuticals AB),1
+1469341000033110,Trandate 50mg tablets (RPH Pharmaceuticals AB),1
+1469641000033119,Trasicor 20mg tablets (Amdipharm Plc),1
+1469741000033111,Trasicor 40mg tablets (Amdipharm Plc),1
+1469841000033118,Trasicor 80mg tablets (Amdipharm Plc),1
+1469541000033115,Trasicor Tablets 160 mg,1
+1505241000033113,Vasaten Tablets 100 mg,1
+1505341000033115,Vasaten Tablets 50 mg,1
+1523941000033114,Viskaldix tablets (Advanz Pharma),1
+1525141000033111,Visken 15mg tablets (Advanz Pharma),1
+1524041000033111,Visken 5mg tablets (Advanz Pharma),1
+2866141000033114,Vivacor 10mg tablets (Lexon (UK) Ltd),1
+2866041000033110,Vivacor 5mg tablets (Lexon (UK) Ltd),1

@@ -1,0 +1,44 @@
+prodcodeid,productname,met
+8348941000033113,Bolamyn SR 1000mg tablets (Teva UK Ltd),1
+4957741000033118,Bolamyn SR 500mg tablets (Teva UK Ltd),1
+7874941000033110,Diagemet XL 500mg tablets (Thornton & Ross Ltd),1
+645541000033110,Glucamet Tablets 500 mg,1
+645641000033111,Glucamet Tablets 850 mg,1
+10598941000033117,Glucient SR 1000mg tablets (Consilient Health Ltd),1
+6391041000033117,Glucient SR 500mg tablets (Consilient Health Ltd),1
+10598841000033113,Glucient SR 750mg tablets (Consilient Health Ltd),1
+5007941000033114,Glucophage 1000mg oral powder sachets (Merck Serono Ltd),1
+5007841000033118,Glucophage 500mg oral powder sachets (Merck Serono Ltd),1
+644941000033117,Glucophage 500mg tablets (Merck Serono Ltd),1
+645041000033117,Glucophage 850mg tablets (Merck Serono Ltd),1
+4945341000033110,Glucophage SR 1000mg tablets (Merck Serono Ltd),1
+3228241000033112,Glucophage SR 500mg tablets (Merck Serono Ltd),1
+4549241000033113,Glucophage SR 750mg tablets (Merck Serono Ltd),1
+5128241000033116,Glucophage Tablets 1000 mg,1
+12326741000033119,Meijumet 1000mg modified-release tablets (Medreich Plc),1
+12326541000033110,Meijumet 500mg modified-release tablets (Medreich Plc),1
+12326641000033111,Meijumet 750mg modified-release tablets (Medreich Plc),1
+6279741000033117,Metabet SR 1000mg tablets (Morningside Healthcare Ltd),1
+6029841000033115,Metabet SR 500mg tablets (Morningside Healthcare Ltd),1
+4945241000033117,Metformin 1g modified-release tablets,1
+5007741000033111,Metformin 1g oral powder sachets sugar free,1
+11781341000033117,Metformin 1g/5ml oral solution sugar free,1
+3228141000033117,Metformin 500mg modified-release tablets,1
+5007641000033119,Metformin 500mg oral powder sachets sugar free,1
+896941000033112,Metformin 500mg tablets,1
+5997041000033115,Metformin 500mg/5ml oral solution,1
+3982341000033110,Metformin 500mg/5ml oral solution sugar free,1
+2620241000033119,Metformin 500mg/5ml oral suspension,1
+4549141000033118,Metformin 750mg modified-release tablets,1
+897041000033113,Metformin 850mg tablets,1
+11781441000033111,Metformin 850mg/5ml oral solution sugar free,1
+3890941000033116,Metformin Hydrochloride Sugar free suspension 500 mg/5 ml,1
+3982441000033116,Metsol 500mg/5ml oral solution (Kappin Ltd),1
+12664441000033115,Metuxtan SR 500mg tablets (Accord Healthcare Ltd),1
+1017141000033110,Orabet Tablets 500 mg,1
+1017241000033115,Orabet Tablets 850 mg,1
+9230841000033114,Sukkarto SR 1000mg tablets (Morningside Healthcare Ltd),1
+9230641000033113,Sukkarto SR 500mg tablets (Morningside Healthcare Ltd),1
+12593341000033117,Yaltormin SR 1000mg tablets (Wockhardt UK Ltd),1
+12593141000033115,Yaltormin SR 500mg tablets (Wockhardt UK Ltd),1
+12593241000033110,Yaltormin SR 750mg tablets (Wockhardt UK Ltd),1

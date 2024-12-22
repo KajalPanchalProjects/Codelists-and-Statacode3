@@ -1,0 +1,188 @@
+prodcodeid,productname,ace
+13241000033114,Accupro 10mg tablets (Pfizer Ltd),1
+13341000033116,Accupro 20mg tablets (Pfizer Ltd),1
+11641000033111,Accupro 40mg tablets (Pfizer Ltd),1
+13441000033110,Accupro 5mg tablets (Pfizer Ltd),1
+10841000033119,Acepril 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+10941000033110,Acepril 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+11041000033117,Acepril 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+214141000033113,Capoten 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+214241000033118,Capoten 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+214341000033111,Capoten 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+5008141000033111,Captopril 10mg/5ml oral suspension,1
+213441000033119,Captopril 12.5mg tablets,1
+5898741000033114,Captopril 12.5mg/5ml oral solution,1
+5898841000033116,Captopril 12.5mg/5ml oral suspension,1
+5401641000033118,Captopril 15mg/5ml oral suspension,1
+2719841000033113,Captopril 20mg/5ml oral suspension,1
+214441000033117,Captopril 25mg tablets,1
+3012741000033115,Captopril 25mg/5ml oral solution,1
+9108041000033111,Captopril 25mg/5ml oral solution sugar free,1
+5132041000033112,Captopril 25mg/5ml oral suspension,1
+3940841000033110,Captopril 2mg capsules,1
+3851341000033117,Captopril 3mg/5ml oral solution,1
+5454041000033117,Captopril 4mg capsules,1
+214541000033116,Captopril 50mg tablets,1
+6001041000033115,Captopril 5mg/5ml oral solution,1
+9108141000033110,Captopril 5mg/5ml oral solution sugar free,1
+2656341000033110,Captopril 5mg/5ml oral suspension,1
+5898941000033112,Captopril 6.25mg/5ml oral solution,1
+5899041000033115,Captopril 6.25mg/5ml oral suspension,1
+3333941000033117,Captopril 8mg/5ml oral suspension,1
+5595341000033117,Captopril Oral Suspension Sugar Free 2 mg/ml,1
+210541000033113,Captopril Tablets 1 mg,1
+210741000033117,Captopril Tablets 2 mg,1
+215941000033111,Carace 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+216041000033118,Carace 2.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+216141000033119,Carace 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+216241000033114,Carace 5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+258141000033110,Cilazapril 1mg tablets,1
+258241000033115,Cilazapril 2.5mg tablets,1
+258441000033119,Cilazapril 500microgram tablets,1
+258641000033117,Cilazapril 5mg tablets,1
+258341000033113,Cilazapril Tablets 250 micrograms,1
+377541000033114,Coversyl 2mg tablets (Servier Laboratories Ltd),1
+377641000033110,Coversyl 4mg tablets (Servier Laboratories Ltd),1
+2846641000033111,Coversyl 8mg tablets (Servier Laboratories Ltd),1
+4454441000033119,Coversyl Arginine 10mg tablets (Servier Laboratories Ltd),1
+4454241000033115,Coversyl Arginine 2.5mg tablets (Servier Laboratories Ltd),1
+4454341000033113,Coversyl Arginine 5mg tablets (Servier Laboratories Ltd),1
+2945841000033112,Ecopace 12.5mg tablets (Advanz Pharma),1
+2945941000033116,Ecopace 25mg tablets (Advanz Pharma),1
+2946041000033114,Ecopace 50mg tablets (Advanz Pharma),1
+1918441000033110,Ednyt Tablets 10 mg,1
+1918241000033114,Ednyt Tablets 2.5 mg,1
+1918541000033111,Ednyt Tablets 20 mg,1
+1918341000033116,Ednyt Tablets 5 mg,1
+6012441000033118,Enalapril 1.25mg/5ml oral solution,1
+6012541000033117,Enalapril 1.25mg/5ml oral suspension,1
+522641000033110,Enalapril 10mg tablets,1
+5967041000033117,Enalapril 10mg/5ml oral solution,1
+5967141000033118,Enalapril 10mg/5ml oral suspension,1
+523541000033115,Enalapril 2.5mg tablets,1
+522741000033118,Enalapril 20mg tablets,1
+522841000033111,Enalapril 5mg tablets,1
+5992541000033111,Enalapril 5mg/5ml oral solution,1
+5992641000033112,Enalapril 5mg/5ml oral suspension,1
+3279241000033117,Enalapril 5mg/5ml oral suspension sugar free,1
+609141000033111,Fosinopril 10mg tablets,1
+609241000033116,Fosinopril 20mg tablets,1
+648341000033112,Gopten 1mg capsules (Abbott Laboratories Ltd),1
+648441000033118,Gopten 2mg capsules (Abbott Laboratories Ltd),1
+3014841000033118,Gopten 4mg capsules (Abbott Laboratories Ltd),1
+648541000033117,Gopten 500microgram capsules (Abbott Laboratories Ltd),1
+1739741000033112,Imidapril 10mg tablets,1
+2145841000033114,Imidapril 20mg tablets,1
+1739841000033119,Imidapril 5mg tablets,1
+769041000033116,Innovace 10mg tablets (Merck Sharp & Dohme Ltd),1
+769141000033117,Innovace 2.5mg tablets (Merck Sharp & Dohme Ltd),1
+769241000033112,Innovace 20mg tablets (Merck Sharp & Dohme Ltd),1
+769341000033119,Innovace 5mg tablets (Merck Sharp & Dohme Ltd),1
+1622041000033110,Kaplon 12.5mg tablets (Teva UK Ltd),1
+1622141000033114,Kaplon 25mg tablets (Teva UK Ltd),1
+1622241000033119,Kaplon 50mg tablets (Teva UK Ltd),1
+837841000033110,Lisinopril 10mg tablets,1
+837941000033119,Lisinopril 2.5mg tablets,1
+5971341000033117,Lisinopril 2.5mg/5ml oral solution,1
+5971441000033111,Lisinopril 2.5mg/5ml oral suspension,1
+838041000033116,Lisinopril 20mg tablets,1
+6044641000033119,Lisinopril 20mg/5ml oral solution,1
+6044541000033115,Lisinopril 20mg/5ml oral suspension,1
+5568741000033113,Lisinopril 40mg/5ml oral suspension,1
+838141000033117,Lisinopril 5mg tablets,1
+5890241000033117,Lisinopril 5mg/5ml oral solution,1
+10645041000033114,Lisinopril 5mg/5ml oral solution sugar free,1
+3152141000033115,Lisinopril 5mg/5ml oral suspension,1
+5971541000033112,Lisinopril 7.5mg/5ml oral solution,1
+5971641000033113,Lisinopril 7.5mg/5ml oral suspension,1
+3159941000033114,Lopace 10mg capsules (Discovery Pharmaceuticals),1
+3159741000033111,Lopace 2.5mg capsules (Discovery Pharmaceuticals),1
+3159841000033118,Lopace 5mg capsules (Discovery Pharmaceuticals),1
+938041000033113,Moexipril 15mg tablets,1
+938141000033112,Moexipril 7.5mg tablets,1
+8961341000033119,Noyada 25mg/5ml oral solution (Martindale Pharmaceuticals Ltd),1
+8961241000033112,Noyada 5mg/5ml oral solution (Martindale Pharmaceuticals Ltd),1
+998541000033110,Odrik 1mg capsules (Aventis Pharma),1
+998641000033111,Odrik 2mg capsules (Aventis Pharma),1
+998741000033119,Odrik 500microgram capsules (Aventis Pharma),1
+1065941000033115,Perdix 15mg tablets (UCB Pharma Ltd),1
+1066041000033113,Perdix 7.5mg tablets (UCB Pharma Ltd),1
+5997541000033113,Perindopril Oral solution 8 mg/5 ml,1
+5888241000033116,Perindopril Oral suspension 4 mg/5 ml,1
+4153041000033114,Perindopril Oral suspension 8 mg/5 ml,1
+4454141000033110,Perindopril arginine 10mg tablets,1
+4453941000033114,Perindopril arginine 2.5mg tablets,1
+4454041000033111,Perindopril arginine 5mg tablets,1
+1067841000033115,Perindopril erbumine 2mg tablets,1
+1067941000033111,Perindopril erbumine 4mg tablets,1
+8869441000033119,Perindopril erbumine 4mg/5ml oral solution,1
+8276041000033117,Perindopril erbumine 4mg/5ml oral suspension,1
+2846741000033119,Perindopril erbumine 8mg tablets,1
+8275941000033110,Perindopril erbumine 8mg/5ml oral solution,1
+8276141000033118,Perindopril erbumine 8mg/5ml oral suspension,1
+8263541000033111,Perindopril tosilate 10mg tablets,1
+8263341000033116,Perindopril tosilate 2.5mg tablets,1
+8263441000033110,Perindopril tosilate 5mg tablets,1
+1918841000033113,Pralenal 10 tablets (Opus Pharmaceuticals Ltd),1
+1918641000033112,Pralenal 2.5 tablets (Opus Pharmaceuticals Ltd),1
+1918941000033117,Pralenal 20 tablets (Opus Pharmaceuticals Ltd),1
+1918741000033115,Pralenal 5 tablets (Opus Pharmaceuticals Ltd),1
+1149341000033118,Quinapril 10mg tablets,1
+1149441000033112,Quinapril 20mg tablets,1
+1149541000033113,Quinapril 40mg tablets,1
+1149241000033111,Quinapril 5mg tablets,1
+3283241000033113,Quinil 10mg tablets (Tillomed Laboratories Ltd),1
+3283341000033115,Quinil 20mg tablets (Tillomed Laboratories Ltd),1
+3283441000033114,Quinil 40mg tablets (Tillomed Laboratories Ltd),1
+3283141000033118,Quinil 5mg tablets (Tillomed Laboratories Ltd),1
+1151341000033117,Ramipril 1.25mg capsules,1
+2989541000033115,Ramipril 1.25mg tablets,1
+5998241000033112,Ramipril 1.25mg/5ml oral solution,1
+4152241000033113,Ramipril 1.25mg/5ml oral suspension,1
+1769841000033111,Ramipril 10mg capsules,1
+2989841000033118,Ramipril 10mg tablets,1
+5887841000033118,Ramipril 10mg/5ml oral solution,1
+5887941000033114,Ramipril 10mg/5ml oral suspension,1
+1151441000033111,Ramipril 2.5mg capsules,1
+2989641000033119,Ramipril 2.5mg tablets,1
+5890541000033115,Ramipril 2.5mg/5ml oral solution,1
+6517041000033110,Ramipril 2.5mg/5ml oral solution sugar free,1
+4805941000033114,Ramipril 2.5mg/5ml oral suspension,1
+1151541000033112,Ramipril 5mg capsules,1
+2989741000033111,Ramipril 5mg tablets,1
+5890341000033110,Ramipril 5mg/5ml oral solution,1
+2883341000033118,Ramipril 5mg/5ml oral suspension,1
+3890041000033117,Ramipril Powder For Oral Suspension With Diluent (Kit) 10 mg/5 ml,1
+2724541000033115,"Ramipril Titration pack 7 x 2.5 mg, 21 x 5 mg, 7 x 10 mg",1
+1387341000033114,Staril 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+1387441000033115,Staril 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+1753841000033118,Tanatril 10mg tablets (Mitsubishi Tanabe Pharma Europe Ltd),1
+2145741000033116,Tanatril 20mg tablets (Mitsubishi Tanabe Pharma Europe Ltd),1
+1753941000033114,Tanatril 5mg tablets (Mitsubishi Tanabe Pharma Europe Ltd),1
+2928341000033114,Tensopril 12.5mg tablets (Teva UK Ltd),1
+2928441000033115,Tensopril 25mg tablets (Teva UK Ltd),1
+2928541000033119,Tensopril 50mg tablets (Teva UK Ltd),1
+1453941000033115,Trandolapril 1mg capsules,1
+1454041000033118,Trandolapril 2mg capsules,1
+3014741000033111,Trandolapril 4mg capsules,1
+1454141000033119,Trandolapril 500microgram capsules,1
+1455541000033110,Tritace 1.25mg capsules (Aventis Pharma),1
+2989941000033114,Tritace 1.25mg tablets (Sanofi),1
+1769941000033115,Tritace 10mg capsules (Sanofi),1
+2990241000033112,Tritace 10mg tablets (Sanofi),1
+1455641000033111,Tritace 2.5mg capsules (Sanofi),1
+2990041000033116,Tritace 2.5mg tablets (Sanofi),1
+1455741000033119,Tritace 5mg capsules (Sanofi),1
+2990141000033117,Tritace 5mg tablets (Sanofi),1
+4521441000033112,"Tritace Tablet Titration Pack 7 x 2.5 mg, 21 x 5 mg, 7 x 10 mg",1
+2724641000033119,Tritace titration pack capsules (Sanofi),1
+12090641000033119,Tritace titration pack tablets (Sanofi),1
+1504641000033112,Vascace 1mg tablets (Roche Products Ltd),1
+1504741000033115,Vascace 2.5mg tablets (Roche Products Ltd),1
+1504941000033117,Vascace 500microgram tablets (Roche Products Ltd),1
+1503441000033113,Vascace 5mg tablets (Roche Products Ltd),1
+1504841000033113,Vascace Tablets 250 micrograms,1
+1551941000033114,Zestril 10mg tablets (AstraZeneca UK Ltd),1
+1552041000033115,Zestril 2.5mg tablets (AstraZeneca UK Ltd),1
+1552141000033116,Zestril 20mg tablets (AstraZeneca UK Ltd),1
+1552241000033111,Zestril 5mg tablets (AstraZeneca UK Ltd),1

@@ -1,0 +1,20 @@
+prodcodeid,productname,digoxin
+2660341000033117,Digamex 125microgram tablets (Actavis UK Ltd),1
+2660441000033111,Digamex 250microgram tablets (Actavis UK Ltd),1
+2660241000033110,Digamex 62.5microgram tablets (Actavis UK Ltd),1
+4387541000033110,Digoxin 100micrograms/1ml solution for injection ampoules,1
+468241000033113,Digoxin 125microgram tablets,1
+468341000033115,Digoxin 250microgram tablets,1
+448241000033116,Digoxin 500micrograms/2ml solution for infusion ampoules,1
+442641000033116,Digoxin 50micrograms/ml oral solution,1
+468441000033114,Digoxin 62.5microgram tablets,1
+447441000033116,Digoxin Injection 100 micrograms/ml,1
+448141000033111,Digoxin Injection 250 micrograms/1 ml,1
+446841000033116,Digoxin Injection 250 micrograms/ml,1
+448041000033112,Digoxin Injection 500 micrograms/1 ml,1
+814541000033112,Lanoxin 125 tablets (Aspen Pharma Trading Ltd),1
+814641000033113,Lanoxin 250microgram tablets (Aspen Pharma Trading Ltd),1
+810941000033114,Lanoxin 500micrograms/2ml solution for infusion ampoules (Aspen Pharma Trading Ltd),1
+810041000033113,Lanoxin PG 50micrograms/ml elixir (Aspen Pharma Trading Ltd),1
+814741000033116,Lanoxin PG 62.5microgram tablets (Aspen Pharma Trading Ltd),1
+901141000033114,Medigoxin Tablets 100 micrograms,1

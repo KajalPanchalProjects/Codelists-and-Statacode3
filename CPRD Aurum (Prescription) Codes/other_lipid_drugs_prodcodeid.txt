@@ -1,0 +1,88 @@
+prodcodeid,productname,other_lipid
+2667641000033114,*Nicotinic Acid Granules,1
+2667541000033113,*Nicotinic Acid Liquid,1
+2667841000033110,*Nicotinic Acid Pills (Sucrose),1
+2667741000033117,*Nicotinic Acid Powder,1
+2667441000033112,*Nicotinic Acid Tablets,1
+2841000033117,Acipimox 250mg capsules,1
+10647141000033116,Alirocumab 150mg/1ml solution for injection pre-filled disposable devices,1
+10647041000033115,Alirocumab 75mg/1ml solution for injection pre-filled disposable devices,1
+145841000033113,Bezafibrate 200mg tablets,1
+145941000033117,Bezafibrate 400mg modified-release tablets,1
+1578041000033115,Bezagen XL 400mg tablets (Mylan),1
+144941000033118,Bezalip 200mg tablets (Teva UK Ltd),1
+145041000033118,Bezalip Mono 400mg modified-release tablets (Teva UK Ltd),1
+4310941000033117,Cholestagel 625mg tablets (Sanofi),1
+244041000033116,Cholestyramine Powder 4g,1
+2908141000033117,Cholestyramine Sugar Free Powder 4 grams/sachet,1
+258541000033118,Ciprofibrate 100mg tablets,1
+4310841000033113,Colesevelam 625mg tablets,1
+328341000033119,Colestid 5g granules sachets plain (Pfizer Ltd),1
+359441000033119,Colestid Orange 5g granules sachets (Pfizer Ltd),1
+12688241000033113,Colestipol 1g tablets,1
+328141000033117,Colestipol 5g granules sachets sugar free,1
+359541000033118,Colestipol Hydrochloride Sachets (orange) 5 grams/sachet,1
+3086341000033118,Colestyramine 4g oral powder sachets,1
+3086441000033112,Colestyramine 4g oral powder sachets sugar free,1
+10213541000033113,Dualtis 1000mg capsules (Mylan),1
+3281941000033115,Eicosapentaenoic acid 170mg / Docosahexaenoic acid 115mg capsules,1
+3282041000033114,Eicosapentaenoic acid 170mg/g / Docosahexaenoic acid 115mg/g oral liquid,1
+3282141000033113,Eicosapentaenoic acid 460mg / Docosahexaenoic acid 380mg capsules,1
+10618041000033112,Evolocumab 140mg/1ml solution for injection pre-filled disposable devices,1
+10617841000033118,Evolocumab 140mg/1ml solution for injection pre-filled syringes,1
+2906741000033119,Ezetimibe 10mg tablets,1
+2906841000033112,Ezetrol 10mg tablets (Merck Sharp & Dohme Ltd),1
+564541000033112,Fenofibrate 200mg capsules,1
+565741000033115,Fenofibrate Capsules 100 mg,1
+2214741000033113,Fenofibrate micronised 160mg tablets,1
+3188941000033114,Fenofibrate micronised 200mg capsules,1
+1862541000033115,Fenofibrate micronised 267mg capsules,1
+564641000033113,Fenofibrate micronised 67mg capsules,1
+2801141000033116,Fenogal 200mg capsules (Genus Pharmaceuticals Ltd),1
+6453641000033112,Fibrazate XL 400mg tablets (Sandoz Ltd),1
+627841000033118,Gemfibrozil 300mg capsules,1
+634541000033110,Gemfibrozil 600mg tablets,1
+828041000033118,Lipantil Capsules 100 mg,1
+1862741000033111,Lipantil Micro 200 capsules (Mylan),1
+1862641000033119,Lipantil Micro 267 capsules (Mylan),1
+836941000033116,Lipantil Micro 67 capsules (Mylan),1
+827441000033114,Lipantil Micro Capsules 200 mg,1
+2055241000033119,Liparol 400 XL tablets (Ashbourne Pharmaceuticals Ltd),1
+8886541000033111,Lojuxta 10mg capsules (Amryt Pharma),1
+8886641000033112,Lojuxta 20mg capsules (Amryt Pharma),1
+8886441000033110,Lojuxta 5mg capsules (Amryt Pharma),1
+8886241000033114,Lomitapide 10mg capsules,1
+8886341000033116,Lomitapide 20mg capsules,1
+8886141000033119,Lomitapide 5mg capsules,1
+838941000033115,Lopid 300mg capsules (Pfizer Ltd),1
+851541000033119,Lopid 600mg tablets (Pfizer Ltd),1
+858241000033113,MaxEPA 1g capsules (Seven Seas Ltd),1
+863241000033112,MaxEPA liquid (Seven Seas Ltd),1
+859141000033112,Maxepa Emulsion,1
+936941000033113,Modalim 100mg tablets (Lexon (UK) Ltd),1
+9118541000033115,Nebbaro 1000mg capsules (Zentiva),1
+2994441000033118,Niaspan 1g modified-release tablets (Abbott Laboratories Ltd),1
+2994241000033119,Niaspan 500mg modified-release tablets (Abbott Laboratories Ltd),1
+2994341000033112,Niaspan 750mg modified-release tablets (Abbott Laboratories Ltd),1
+2994641000033116,Niaspan titration pack (Abbott Laboratories Ltd),1
+974641000033112,Nicotinic Acid Tablets 100 mg,1
+974741000033115,Nicotinic Acid Tablets 25 mg,1
+2994541000033117,"Nicotinic Acid Titration Starter Pack M/R tablets 7 x 375 mg, 7 x 500 mg, 7 x 750 mg",1
+4805841000033118,Nicotinic acid 1g / Laropiprant 20mg modified-release tablets,1
+2994141000033114,Nicotinic acid 1g modified-release tablets,1
+2849841000033117,Nicotinic acid 500mg modified-release tablets,1
+974841000033113,Nicotinic acid 50mg tablets,1
+2994041000033110,Nicotinic acid 750mg modified-release tablets,1
+1003341000033117,Olbetam 250mg capsules (Pfizer Ltd),1
+2762241000033115,Omacor capsules (Mylan),1
+10647341000033118,Praluent 150mg/1ml solution for injection pre-filled pen (Sanofi),1
+10647241000033111,Praluent 75mg/1ml solution for injection pre-filled pen (Sanofi),1
+8275241000033118,Prestylon 1g capsules (Teva UK Ltd),1
+1148741000033114,Questran 4g oral powder sachets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+1148841000033116,Questran Light 4g oral powder sachets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+10617941000033114,Repatha 140mg/1ml solution for injection pre-filled syringes (Amgen Ltd),1
+10618141000033111,Repatha SureClick 140mg/1ml solution for injection pre-filled pens (Amgen Ltd),1
+2214841000033115,Supralip 160mg tablets (Mylan),1
+8127541000033114,Teromeg 1000mg capsules (Advanz Pharma),1
+5244841000033110,Tredaptive 1000mg/20mg modified-release tablets (Merck Sharp & Dohme Ltd),1
+2192041000033117,Zimbacol XL 400mg tablets (Archimedes Pharma UK Ltd),1

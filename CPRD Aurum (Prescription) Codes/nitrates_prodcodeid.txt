@@ -1,0 +1,78 @@
+prodcodeid,productname,nitrates
+3162141000033112,Aspirin 150mg / Isosorbide mononitrate 60mg modified-release tablets,1
+3162041000033113,Aspirin 75mg / Isosorbide mononitrate 60mg modified-release tablets,1
+636441000033116,Glyceryl Trinitrate Cfc-free pump spray 400 micrograms/dose,1
+2207041000033119,Glyceryl Trinitrate Cfc-free pump spray 400 micrograms/dose (180 dose),1
+2711741000033116,Glyceryl Trinitrate Cfc-free pump spray 400 micrograms/dose (200 dose),1
+2104541000033117,Glyceryl Trinitrate Cfc-free pump spray 400 micrograms/dose 250+75 dose unit,1
+640241000033116,Glyceryl Trinitrate Injection 25 mg/5 ml,1
+639941000033117,Glyceryl Trinitrate Injection 25ml amps,1
+638941000033110,Glyceryl Trinitrate Injection 50 mg/10 ml,1
+639041000033118,Glyceryl Trinitrate Injection 500 micrograms/ml,1
+641641000033114,Glyceryl Trinitrate Patches 2.5 mg,1
+641441000033112,Glyceryl Trinitrate Patches 25 mg,1
+642841000033118,Glyceryl Trinitrate S/r buccal tablets 1 mg,1
+643541000033114,Glyceryl Trinitrate Spray 400 micrograms/dose,1
+2603341000033113,Glyceryl trinitrate 0.2% ointment,1
+3291541000033113,Glyceryl trinitrate 0.4% rectal ointment,1
+642741000033111,Glyceryl trinitrate 10mg modified-release tablets,1
+638841000033119,Glyceryl trinitrate 10mg/10ml solution for infusion ampoules,1
+641941000033119,Glyceryl trinitrate 10mg/24hours transdermal patches,1
+641541000033113,Glyceryl trinitrate 15mg/24hours transdermal patches,1
+641141000033116,Glyceryl trinitrate 2% ointment,1
+643841000033111,Glyceryl trinitrate 2.6mg modified-release tablets,1
+642441000033116,Glyceryl trinitrate 2mg modified-release buccal tablets sugar free,1
+647041000033111,Glyceryl trinitrate 300microgram sublingual tablets,1
+642541000033115,Glyceryl trinitrate 3mg modified-release buccal tablets sugar free,1
+6066741000033113,Glyceryl trinitrate 400micrograms/dose aerosol sublingual spray,1
+642241000033117,Glyceryl trinitrate 400micrograms/dose pump sublingual spray,1
+645141000033118,Glyceryl trinitrate 500microgram sublingual tablets,1
+640041000033112,Glyceryl trinitrate 50mg/50ml solution for infusion vials,1
+642641000033119,Glyceryl trinitrate 5mg modified-release buccal tablets sugar free,1
+642041000033113,Glyceryl trinitrate 5mg/24hours transdermal patches,1
+639741000033115,Glyceryl trinitrate 5mg/5ml solution for infusion ampoules,1
+643941000033115,Glyceryl trinitrate 6.4mg modified-release tablets,1
+647141000033110,Glyceryl trinitrate 600microgram sublingual tablets,1
+776141000033118,Isosorbide Dinitrate Capsules 20 mg,1
+775841000033119,Isosorbide Dinitrate Capsules 40 mg,1
+779441000033115,Isosorbide Dinitrate Injection 100 mg/100 ml,1
+788141000033114,Isosorbide Dinitrate Sublingual tablets 5 mg,1
+786141000033113,Isosorbide Dinitrate Tablets 40 mg,1
+776641000033111,Isosorbide Mononitrate Durules 60 mg,1
+2129141000033119,Isosorbide Mononitrate Sr capsules 25 mg,1
+784141000033119,Isosorbide Mononitrate Sr capsules 50 mg,1
+2129241000033114,Isosorbide Mononitrate Sr capsules 50 mg,1
+784041000033118,Isosorbide dinitrate 1.25mg/dose sublingual spray sugar free,1
+785941000033116,Isosorbide dinitrate 10mg tablets,1
+780341000033114,Isosorbide dinitrate 10mg/10ml solution for injection ampoules,1
+781641000033114,Isosorbide dinitrate 20mg modified-release capsules,1
+787541000033118,Isosorbide dinitrate 20mg modified-release tablets,1
+786041000033114,Isosorbide dinitrate 20mg tablets,1
+5970741000033114,Isosorbide dinitrate 20mg/5ml oral solution,1
+5970841000033116,Isosorbide dinitrate 20mg/5ml oral suspension,1
+780941000033113,Isosorbide dinitrate 25mg/50ml infusion bottles,1
+11666741000033117,Isosorbide dinitrate 25mg/50ml solution for infusion vials,1
+787741000033114,Isosorbide dinitrate 30mg tablets,1
+782441000033116,Isosorbide dinitrate 30mg/dose transdermal spray,1
+781741000033117,Isosorbide dinitrate 40mg modified-release capsules,1
+787641000033117,Isosorbide dinitrate 40mg modified-release tablets,1
+780641000033118,Isosorbide dinitrate 50mg/50ml infusion bottles,1
+11666841000033110,Isosorbide dinitrate 50mg/50ml solution for infusion vials,1
+786241000033118,Isosorbide dinitrate 5mg tablets,1
+787341000033113,Isosorbide mononitrate 10mg tablets,1
+786341000033111,Isosorbide mononitrate 20mg tablets,1
+5996441000033114,Isosorbide mononitrate 20mg/5ml oral solution,1
+4453841000033118,Isosorbide mononitrate 20mg/5ml oral suspension,1
+781941000033119,Isosorbide mononitrate 25mg modified-release capsules,1
+1620941000033110,Isosorbide mononitrate 25mg modified-release tablets,1
+782141000033112,Isosorbide mononitrate 40mg modified-release capsules,1
+784241000033114,Isosorbide mononitrate 40mg modified-release tablets,1
+786441000033117,Isosorbide mononitrate 40mg tablets,1
+776441000033114,Isosorbide mononitrate 50mg modified-release capsules,1
+1621041000033117,Isosorbide mononitrate 50mg modified-release tablets,1
+782241000033117,Isosorbide mononitrate 60mg modified-release capsules,1
+783041000033116,Isosorbide mononitrate 60mg modified-release tablets,1
+1044441000033119,Pentaerythritol Tetranitrate Capsules 30 mg,1
+1064741000033119,Pentaerythritol Tetranitrate Tablets 10 mg,1
+1066641000033119,Pentaerythritol Tetranitrate Tablets 30 mg,1
+1064841000033112,Pentaerythritol Tetranitrate Tablets 80 mg,1
