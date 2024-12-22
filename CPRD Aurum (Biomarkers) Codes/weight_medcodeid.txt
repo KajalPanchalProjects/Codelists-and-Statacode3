@@ -1,0 +1,25 @@
+medcodeid,readterm,weight
+1780175010,Baseline weight,1
+253677014,Body weight,1
+6251151000006116,Body weight measure,1
+3514400010,Current body weight,1
+7309791000006112,Dry body weight,1
+7309801000006113,Dry weight,1
+1910901000006116,Estimated weight,1
+6702411000006117,General appraisal of patient weight,1
+11905011000006114,O/E - weight,1
+923851000006110,O/E - weight,1
+253688015,O/E - weight NOS,1
+4551811000006113,On examination - weight,1
+1910911000006118,Reported weight,1
+2934311000006118,Weight,1
+7879461000006116,Weight,1
+982581000006118,Weight (Over),1
+982591000006115,Weight (Under),1
+7879471000006111,Weight (property),1
+457849017,Weight of calculus,1
+59281000006111,Weight screening,1
+2536041016,Weight static,1
+406169014,Weight steady,1
+3484791000006113,Weight: body mass,1
+5533851000006117,Weights,1

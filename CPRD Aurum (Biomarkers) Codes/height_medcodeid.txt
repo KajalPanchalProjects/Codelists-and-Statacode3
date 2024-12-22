@@ -1,0 +1,15 @@
+medcodeid,readterm,height
+3315721000006119,Body height,1
+3315711000006110,Body height measure,1
+1910921000006114,Estimated height,1
+5256071000006119,General finding of height,1
+982601000006111,Height (Over),1
+982611000006114,Height (Under),1
+957731000006119,Height weight & BP,1
+2729021000006118,Measuring height of patient,1
+923831000006115,O/E - height,1
+11905141000006112,O/E - height,1
+253676017,O/E - height NOS,1
+4551671000006115,On examination - height,1
+1910931000006112,Reported height,1
+253669010,Standing height,1

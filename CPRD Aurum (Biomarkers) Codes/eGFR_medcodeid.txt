@@ -1,0 +1,22 @@
+medcodeid,readterm,eGFR
+259691011,Creatinine clearance-glomerular filtration abnormal,1
+259690012,Creatinine clearance-glomerular filtration normal,1
+1855001000006114,EGFR 3 month repeat test for CKD not diagnostic,1
+1744631000006112,Estimated glomerular filtration rate (eGFR) monitoring,1
+12621921000006110,Estimated glomerular filtration rate by laboratory calculation,1
+1866321000006117,Estimated glomerular filtration rate using Chronic Kidney Disease Epidemiology Collaboration formula,1
+8250311000006118,Estimation of glomerular filtration rate,1
+976481000006110,GFR (glomerular filtration rate) calculated by abbreviated Modification of Diet in Renal Disease Study Group calculation,1
+1540241000006111,GFR (glomerular filtration rate) calculated by abbreviated Modification of Diet in Renal Disease Study Group calculation adjusted for African American origin,1
+12370051000006117,GFR (glomerular filtration rate) calculation technique,1
+12680441000006113,GFR - glomerular filtration rate,1
+133205018,Glomerular filtration rate,1
+8069731000006118,Glomerular filtration rate calculated by abbreviated Modification of Diet in Renal Disease Study Group calculation adjusted for African American origin,1
+371441000000114,Glomerular filtration rate testing,1
+5451521000006118,With GFR,1
+5451531000006115,With glomerular filtration rate,1
+12621931000006113,eGFR (estimated glomerular filtration rate) by laboratory calculation,1
+8294821000006118,eGFR (estimated glomerular filtration rate) using CKD-Epi (Chronic Kidney Disease Epidemiology Collaboration) formula,1
+8352981000006116,eGFR (estimated glomerular filtration rate) using creatinine CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration) equation,1
+1942831000006114,eGFR (estimated glomerular filtration rate) using creatinine Chronic Kidney Disease Epidemiology Collaboration equation per 1.73 square metres,1
+1942821000006111,eGFR (estimated glomerular filtration rate) using cystatin C Chronic Kidney Disease Epidemiology Collaboration equation per 1.73 square metres,1

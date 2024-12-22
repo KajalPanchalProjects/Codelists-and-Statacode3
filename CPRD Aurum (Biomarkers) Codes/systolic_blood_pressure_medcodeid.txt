@@ -1,0 +1,21 @@
+medcodeid,readterm,systolic
+298281000000114,Ambulatory systolic blood pressure,1
+458812014,Average 24 hour systolic blood pressure,1
+458809011,Average day interval systolic blood pressure,1
+2533615017,Average home systolic blood pressure,1
+458808015,Average night interval systolic blood pressure,1
+458803012,Average systolic blood pressure,1
+2418961000000111,Baseline systolic blood pressure,1
+1928511000006116,Baseline systolic blood pressure,1
+1780381000006116,Child systolic blood pressure centiles,1
+1994021000006115,Home systolic blood pressure,1
+2159157015,Lying systolic blood pressure,1
+2616361000000114,Non-invasive central systolic blood pressure,1
+2159155011,Sitting systolic blood pressure,1
+1780182014,Standing systolic blood pressure,1
+114311000006111,Systolic blood pressure,1
+1808011000006111,Systolic blood pressure - left arm,1
+1808041000006110,Systolic blood pressure - right arm,1
+2122411000000113,Systolic blood pressure centile,1
+856881000006115,Target systolic BP,1
+460131015,Target systolic blood pressure,1

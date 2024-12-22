@@ -1,0 +1,97 @@
+medcodeid,readterm,lipids
+6550661000006112,Calculated LDL cholesterol level,1
+3877651000006116,Cholesterol,1
+34521000033114,Cholesterol,1
+8290381000006115,Cholesterol level,1
+457911015,Cholesterol/HDL ratio,1
+6036221000006115,Cholesterol/HDL ratio measurement,1
+6052931000006111,Fasting cholesterol level,1
+667191000006111,Fasting serum cholesterol,1
+854481000006110,Fasting triglycerides,1
+2650141000006111,HDL,1
+12622321000006118,HDL (high density lipoprotein) cholesterol substance concentration in serum,1
+12622411000006116,HDL (high density lipoprotein) cholesterol/total cholesterol ratio in plasma,1
+12622421000006112,HDL (high density lipoprotein) cholesterol/total cholesterol ratio in serum,1
+2950001000006114,HDL - High density lipoprotein cholesterol level,1
+4108451000006117,HDL : total cholesterol ratio,1
+4079571000006118,HDL cholesterol,1
+855771000006118,HDL cholesterol level,1
+2783851000006110,HDL measurement,1
+5289571000006112,HDL/LDL ratio,1
+4108441000006119,HDL/total cholesterol ratio measurement,1
+2650121000006116,High density lipoprotein,1
+2949971000006113,High density lipoprotein cholesterol measurement,1
+5415671000006114,High density lipoprotein triglyceride,1
+279462018,High density lipoprotein/total cholesterol ratio,1
+817601000006119,High density/low density lipoprotein ratio,1
+5289551000006119,High density/low density lipoprotein ratio measurement,1
+2854351000006110,LDL,1
+4217681000006112,LDL - Low density lipoprotein cholesterol level,1
+4079621000006115,LDL cholesterol,1
+857141000006116,LDL cholesterol level,1
+12623411000006112,LDL-C (low density lipoprotein cholesterol) substance concentration in serum,1
+5415651000006116,Lipid or lipoprotein,1
+5899681000006116,"Lipid, lipoprotein, or related analyte",1
+2854331000006115,Low density lipoprotein,1
+4217651000006116,Low density lipoprotein cholesterol measurement,1
+458313013,Plasma HDL (high density lipoprotein) cholesterol level,1
+458314019,Plasma LDL (low density lipoprotein) cholesterol level,1
+458284010,Plasma LDL/HDL (low density lipoprotein/high density lipoprotein) ratio,1
+458252015,Plasma cholesterol/HDL (high density lipoprotein) ratio,1
+458256017,Plasma cholesterol/LDL (low density lipoprotein) ratio,1
+259567011,Plasma fasting HDL (high density lipoprotein) cholesterol level,1
+259570010,Plasma fasting LDL (low density lipoprotein) cholesterol level,1
+259583011,Plasma fasting triglyceride level,1
+259564016,Plasma random HDL (high density lipoprotein) cholesterol level,1
+259569014,Plasma random LDL (low density lipoprotein) cholesterol level,1
+259580014,Plasma random triglyceride level,1
+1484985012,Plasma total cholesterol level,1
+259579011,Plasma triglyceride level,1
+987321000006112,Pre-treatment fasting HDL cholesterol,1
+1488851015,Pre-treatment serum cholesterol level,1
+8385731000006118,Serum HDL (high density lipoprotein) cholesterol level,1
+4600211000006117,Serum HDL cholesterol level,1
+4600201000006115,Serum HDL cholesterol measurement,1
+4600241000006118,Serum LDL cholesterol level,1
+4600231000006111,Serum LDL cholesterol measurement,1
+259252011,Serum cholesterol NOS,1
+150921000006118,Serum cholesterol level,1
+6279041000006119,Serum cholesterol level,1
+8396611000006112,Serum cholesterol/HDL (high density lipoprotein) ratio,1
+6040951000006115,Serum cholesterol/HDL ratio,1
+6041011000006113,Serum cholesterol/LDL ratio,1
+458249011,Serum cholesterol/high density lipoprotein ratio,1
+458253013,Serum cholesterol/low density lipoprotein ratio,1
+259242012,Serum fasting HDL (high density lipoprotein) cholesterol level,1
+259246010,Serum fasting LDL (low density lipoprotein) cholesterol level,1
+405621000000116,Serum fasting total cholesterol level,1
+259260012,Serum fasting triglyceride level,1
+4600481000006111,Serum fasting triglyceride level,1
+259232010,Serum high density lipoprotein cholesterol level,1
+1942631000006110,Serum high density lipoprotein cholesterol/triglyceride ratio,1
+8341141000006117,Serum high density lipoprotein cholesterol:triglyceride ratio measurement,1
+259233017,Serum low density lipoprotein cholesterol level,1
+458283016,Serum low density lipoprotein/high density lipoprotein ratio,1
+259243019,Serum random HDL (high density lipoprotein) cholesterol level,1
+259247018,Serum random LDL (low density lipoprotein) cholesterol level,1
+259261011,Serum random triglyceride level,1
+2478443019,Serum total cholesterol level,1
+6831601000006115,Serum total cholesterol level,1
+6831591000006111,Serum total cholesterol measurement,1
+5522421000006118,Serum triglyceride levels,1
+259263014,Serum triglyceride levels - finding,1
+1916571000006117,Serum triglyceride/HDL cholesterol ratio,1
+145471000006115,Serum triglycerides level,1
+856761000006115,TC/HDL ratio,1
+3891541000006115,TG - Triglyceride,1
+8241111000006113,Target serum total cholesterol level,1
+8292941000006114,Total cholesterol level,1
+186091018,Total cholesterol measurement,1
+259250015,Total cholesterol:HDL (high density lipoprotein) ratio,1
+4600431000006110,Total cholesterol:HDL ratio,1
+4600421000006112,Total cholesterol:HDL ratio measurement,1
+3891531000006113,Triglyceride,1
+977481000006112,Triglyceride level,1
+6279071000006110,Triglyceride level,1
+3891501000006117,Triglycerides,1
+2733541000006119,Triglycerides measurement,1

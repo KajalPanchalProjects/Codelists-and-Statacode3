@@ -1,0 +1,41 @@
+medcodeid,readterm,BMI
+6763401000006111,BMI (body mass index) 40+ - severely obese,1
+7332961000006118,BMI (body mass index) centile,1
+3484801000006114,BMI - Body mass index,1
+4553721000006113,BMI 25-29 - overweight,1
+4553741000006118,BMI 30+ - obesity,1
+1728141000006115,BMI centile,1
+5998281000006119,BMI less than 20,1
+8286991000006119,Baseline BMI (body mass index),1
+8286961000006110,Baseline BMI (body mass index) centile,1
+2196071000000116,Baseline body mass index,1
+2196031000000118,Baseline body mass index centile,1
+100716012,Body mass index,1
+923861000006112,Body mass index,1
+1808071000006119,Body mass index 18.5-24.9,1
+2474325012,Body mass index 20-24 - normal,1
+4553701000006115,Body mass index 25-29 - overweight,1
+253848011,Body mass index 30+ - obesity,1
+6763391000006114,Body mass index 40+ - morbidly obese,1
+2160062010,Body mass index 40+ - severely obese,1
+1551651000000111,Body mass index centile,1
+253847018,Body mass index index 25-29 - overweight,1
+7068841000006116,Body mass index less than 16.5,1
+1808061000006114,Body mass index less than 18.5,1
+453856012,Body mass index less than 20,1
+11923361000006119,Finding of body mass index,1
+1995621000006110,Malnutrition universal screening tool - BMI score,1
+8291811000006111,Maximum BMI (body mass index),1
+3070611000006119,Normal BMI (body mass index),1
+253844013,Normal body mass index,1
+2350241000000116,Obese class I (body mass index 30.0 - 34.9),1
+2350261000000115,Obese class II (body mass index 35.0 - 39.9),1
+1900331000006113,Obese class III (body mass index equal to or greater than 40.0),1
+5892201000006119,Observation of body mass index,1
+7833991000006118,Overweight in adulthood with body mass index of 25 or more but less than 30,1
+981731000006117,Overweight: adult BMI 25.0; child BMI 95th percentile; or more,1
+7732441000006111,Percentage median body mass index for age and sex,1
+1991711000006112,Reason for influenza vaccine - BMI 40+,1
+1865591000006119,Ten year hip fracture probability score using FRAX (Fracture Risk Assessment Tool) with body mass index,1
+1865611000006113,Ten year osteoporotic fracture probability score using FRAX (Fracture Risk Assessment Tool) with body mass index,1
+981741000006110,Underweight: adult BMI 18.5; child BMI 5th percentile; or less,1
