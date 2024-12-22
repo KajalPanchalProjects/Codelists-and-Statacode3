@@ -1,0 +1,120 @@
+prodcode,prodname,sulfonylurea
+34676,Glibenclamide 2.5mg tablets (A A H Pharmaceuticals Ltd),1
+63131,Ziclaseg 30mg modified-release tablets (Lupin (Europe) Ltd),1
+5316,Glimepiride 4mg tablets,1
+8168,Diabinese 250mg Tablet (Pfizer Ltd),1
+13331,Euglucon 5mg tablets (Sanofi),1
+44304,Glyconon 500mg Tablet (DDSA Pharmaceuticals Ltd),1
+7284,Amaryl 2mg tablets (Zentiva),1
+7409,Amaryl 3mg tablets (Zentiva),1
+47074,Gliclazide 80mg/5ml oral suspension,1
+36856,Gliclazide 80mg tablets (Sandoz Ltd),1
+34932,Gliclazide 80mg tablets (Genus Pharmaceuticals Ltd),1
+62014,Glimepiride 2mg tablets (Accord Healthcare Ltd),1
+27969,Glymese 250mg Tablet (DDSA Pharmaceuticals Ltd),1
+44738,Niddaryl 1mg tablets (Dee Pharmaceuticals Ltd),1
+56376,Rosiglitazone 4mg with glimepiride 4mg tablet,1
+19658,Glurenorm 30mg tablets (Sanofi),1
+8390,Gliquidone 30mg tablets,1
+51955,Gliclazide 80mg tablets (Accord Healthcare Ltd),1
+71667,Glimepiride 1mg tablets (Teva UK Ltd),1
+4862,Diabetamide 2.5mg tablets (Ashbourne Pharmaceuticals Ltd),1
+1965,Tolbutamide 500mg tablets,1
+11695,Diamicron 30mg MR tablets (Servier Laboratories Ltd),1
+12513,Glibenese 5mg tablets (Pfizer Ltd),1
+61311,Glimepiride 4mg tablets (Sigma Pharmaceuticals Plc),1
+69669,Gliclazide 160mg/5ml oral suspension,1
+17698,Minodiab 5mg tablets (Pfizer Ltd),1
+7332,Amaryl 1mg tablets (Zentiva),1
+1847,Chlorpropamide 250mg tablets,1
+42790,Gliclazide 80mg Tablet (Merck Generics (UK) Ltd),1
+46927,Tolbutamide 500mg tablets (Teva UK Ltd),1
+5636,Glipizide 5mg tablets,1
+43465,Zicron 40mg tablets (Bristol Laboratories Ltd),1
+34706,Glibenclamide 2.5mg tablets (IVAX Pharmaceuticals UK Ltd),1
+34802,Glipizide 5mg tablets (IVAX Pharmaceuticals UK Ltd),1
+70432,Bilxona 30mg modified-release tablets (Actavis UK Ltd),1
+7912,Semi-Daonil 2.5mg tablets (Sanofi),1
+6337,Glimepiride 3mg tablets,1
+26218,Calabren 5mg Tablet (Berk Pharmaceuticals Ltd),1
+67781,Gliclazide 80mg tablets (Milpharm Ltd),1
+71477,Glimepiride 1mg tablets (Alliance Healthcare (Distribution) Ltd),1
+41558,Glibenclamide 5mg tablets (Teva UK Ltd),1
+29939,Gliclazide 80mg tablets (Mylan),1
+11946,Tolbutamide 50mg/ml Injection,1
+31212,Gliclazide 80mg tablets (Actavis UK Ltd),1
+45215,Gliclazide 80mg Tablet (Neo Laboratories Ltd),1
+33562,Duclazide 80mg Tablet (Dumex Ltd),1
+29326,Glipizide 5mg tablets (Mylan),1
+68675,Glimepiride 4mg tablets (Somex Pharma),1
+21892,Diaglyk 80mg tablets (Ashbourne Pharmaceuticals Ltd),1
+5353,Glimepiride 2mg tablets,1
+34563,Glibenclamide 5mg tablets (Wockhardt UK Ltd),1
+58882,Gliclazide 120mg/5ml oral suspension,1
+34507,Glibenclamide 2.5mg tablets (Wockhardt UK Ltd),1
+34957,Tolbutamide 500mg tablets (A A H Pharmaceuticals Ltd),1
+28708,Malix 2.5mg Tablet (Lagap),1
+67056,Amaryl 1mg tablets (Lexon (UK) Ltd),1
+68819,Gliclazide 80mg tablets (Bristol Laboratories Ltd),1
+34399,Gliclazide 80mg tablets (IVAX Pharmaceuticals UK Ltd),1
+41559,Glibenclamide 5mg tablets (A A H Pharmaceuticals Ltd),1
+41593,Glibenclamide 2.5mg tablets (Teva UK Ltd),1
+71781,Gliclazide 40mg tablets (Teva UK Ltd),1
+56437,Gliclazide 60mg modified-release tablets,1
+32,Gliclazide 80mg tablets,1
+63048,Gliclazide 80mg tablets (Alliance Healthcare (Distribution) Ltd),1
+43065,Gliclazide 40mg tablets,1
+57601,Daonil 5mg tablets (Dowelhurst Ltd),1
+44473,Edicil MR 30mg tablets (Teva UK Ltd),1
+1964,Diamicron 80mg tablets (Servier Laboratories Ltd),1
+21832,Diabetamide 5mg tablets (Ashbourne Pharmaceuticals Ltd),1
+70490,Bilxona 60mg modified-release tablets (Actavis UK Ltd),1
+60495,Gliclazide 80mg tablets (Teva UK Ltd),1
+40425,Nazdol MR 30mg tablets (Teva UK Ltd),1
+2219,Glibenclamide 2.5mg tablets,1
+12455,Rastinon 500mg Tablet (Hoechst Marion Roussel),1
+7744,Daonil 5mg tablets (Sanofi),1
+40365,Glimepiride 1mg tablets (Actavis UK Ltd),1
+71665,Glimepiride 3mg tablets (Alliance Healthcare (Distribution) Ltd),1
+11284,Amaryl 4mg tablets (Zentiva),1
+547,Glipizide 2.5mg tablets,1
+5276,Glimepiride 1mg tablets,1
+55862,Gliclazide Oral solution,1
+56008,Gliclazide 80mg tablets (Almus Pharmaceuticals Ltd),1
+21489,Tolanase 250mg Tablet (Pharmacia Ltd),1
+15374,Gliclazide 40mg/5ml oral suspension,1
+45831,Dacadis MR 30mg tablets (Mylan),1
+66399,Glimepiride 2mg tablets (A A H Pharmaceuticals Ltd),1
+30460,Malix 5mg Tablet (Lagap),1
+68415,Gliclazide 30mg modified-release tablets (Phoenix Healthcare Distribution Ltd),1
+47894,Nazdol MR 30mg tablets (Consilient Health Ltd),1
+61957,Gliclazide 40mg tablets (A A H Pharmaceuticals Ltd),1
+62034,Laaglyda MR 60mg tablets (Consilient Health Ltd),1
+54764,Gliclazide 80mg tablets (Arrow Generics Ltd),1
+16602,Calabren 2.5mg Tablet (Berk Pharmaceuticals Ltd),1
+1254,Glibenclamide 5mg tablets,1
+5627,Gliclazide 30mg modified-release tablets,1
+1253,Chlorpropamide 100mg tablets,1
+21424,Glibenclamide 5mg/5ml oral suspension,1
+22145,Tolanase 100mg Tablet (Pharmacia Ltd),1
+68289,Glimepiride 4mg tablets (Waymade Healthcare Plc),1
+33673,Tolbutamide 500mg tablets (Actavis UK Ltd),1
+8034,Diabinese 100mg Tablet (Pfizer Ltd),1
+21564,Gliclazide 80mg tablets (Wockhardt UK Ltd),1
+8976,Euglucon 2.5mg tablets (Aventis Pharma),1
+57830,Gliclazide 30mg modified-release tablets (Alliance Healthcare (Distribution) Ltd),1
+25636,Libanil 2.5mg Tablet (Approved Prescription Services Ltd),1
+71476,Glimepiride 2mg tablets (Alliance Healthcare (Distribution) Ltd),1
+53288,Gliclazide 30mg modified-release tablets (A A H Pharmaceuticals Ltd),1
+48056,Gliclazide 80mg tablets (Sovereign Medical Ltd),1
+17706,Minodiab 2.5mg tablets (Pfizer Ltd),1
+31474,Libanil 5mg Tablet (Approved Prescription Services Ltd),1
+17343,Gliclazide 80mg tablets (A A H Pharmaceuticals Ltd),1
+10427,Tolazamide 250mg Tablet,1
+41898,GLIBENCLAMIDE,1
+22636,TOLBUTAMIDE 1 GM TAB,1
+9108,TOLBUTAMIDE 250 MG TAB,1
+19336,Tolazamide 100mg Tablet,1
+22614,DAONIL 10 MG TAB,1
+21870,RASTINON,1
+16211,TOLBUTAMIDE 100 MG TAB,1

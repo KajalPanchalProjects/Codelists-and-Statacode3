@@ -1,0 +1,50 @@
+prodcode,prodname,digoxin
+33274,Digoxin 100micrograms/1ml solution for injection ampoules,1
+62678,Digoxin 125microgram tablets (Almus Pharmaceuticals Ltd),1
+47813,Digoxin 62.5microgram Tablet (Celltech Pharma Europe Ltd),1
+54117,Digoxin 125micrograms/5ml oral solution,1
+42989,Lanoxin PG 62.5microgram tablets (Aspen Pharma Trading Ltd),1
+792,Digoxin 62.5microgram tablets,1
+16366,Digamex 125microgram tablets (Actavis UK Ltd),1
+34519,Digoxin 125microgram tablets (A A H Pharmaceuticals Ltd),1
+34023,Digoxin 62.5microgram tablets (IVAX Pharmaceuticals UK Ltd),1
+2302,Lanoxin -pg 62.5microgram Tablet (Wellcome Medical Division),1
+3181,Lanoxin 250microgram Tablet (Wellcome Medical Division),1
+40245,Digoxin 250microgram tablets (Teva UK Ltd),1
+33612,Digoxin 250microgram tablets (A A H Pharmaceuticals Ltd),1
+34024,Digoxin 250microgram tablets (IVAX Pharmaceuticals UK Ltd),1
+62680,Digoxin 62.5microgram tablets (Almus Pharmaceuticals Ltd),1
+36,Digoxin 125microgram tablets,1
+48587,Digoxin 50micrograms/ml oral solution,1
+63286,Digoxin 125micrograms/5ml oral suspension,1
+34017,Digoxin 125microgram Tablet (IVAX Pharmaceuticals UK Ltd),1
+34948,Digoxin 62.5microgram tablets (A A H Pharmaceuticals Ltd),1
+2511,Lanoxin 125 tablets (Aspen Pharma Trading Ltd),1
+64045,Digoxin 250micrograms/5ml oral suspension,1
+94,Digoxin 250microgram tablets,1
+3705,Lanoxin -pg 50microgram/ml Oral solution (Wellcome Medical Division),1
+69470,Digoxin 62.5microgram tablets (Bristol Laboratories Ltd),1
+20944,Digoxin 62.5microgram tablets (Actavis UK Ltd),1
+42990,Lanoxin 250microgram tablets (Aspen Pharma Trading Ltd),1
+27523,Lanoxin 500micrograms/2ml solution for infusion ampoules (Aspen Pharma Trading Ltd),1
+33675,Digoxin 125microgram tablets (Approved Prescription Services Ltd),1
+71439,Lanoxin PG 50micrograms/ml elixir (Waymade Healthcare Plc),1
+3286,Digoxin 50micrograms/ml oral solution,1
+29282,Digamex 62.5microgram tablets (Actavis UK Ltd),1
+34327,Digoxin 62.5microgram tablets (Teva UK Ltd),1
+25238,Digamex 250microgram tablets (Actavis UK Ltd),1
+68261,Digoxin 62.5microgram tablets (Alliance Healthcare (Distribution) Ltd),1
+9522,Digoxin 500micrograms/2ml solution for infusion ampoules,1
+61258,Digoxin 250micrograms/5ml oral solution,1
+67227,Digoxin 125microgram tablets (Alliance Healthcare (Distribution) Ltd),1
+43577,Lanoxin PG 50micrograms/ml elixir (Aspen Pharma Trading Ltd),1
+20844,Digoxin 250microgram tablets (Actavis UK Ltd),1
+70125,Digoxin 75micrograms/5ml oral solution,1
+33080,Digoxin 125microgram tablets (Actavis UK Ltd),1
+62679,Digoxin 250microgram tablets (Almus Pharmaceuticals Ltd),1
+34328,Digoxin 250micrograms tablets,1
+3308,DIGOXIN .25 MG TAB,1
+27547,DIGOXIN,1
+24719,DIGOXIN,1
+15411,DIGOXIN .05 MG TAB,1
+25043,DIGOXIN,1

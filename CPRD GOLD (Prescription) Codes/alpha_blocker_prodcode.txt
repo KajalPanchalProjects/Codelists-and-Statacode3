@@ -1,0 +1,202 @@
+prodcode,prodname,alphab
+2345,Hytrin BPH tablets starter pack (AMCo),1
+59462,Vesomni 6mg/0.4mg modified-release tablets (Astellas Pharma Ltd),1
+59676,Solifenacin 6mg / Tamsulosin 400microgram modified-release tablets,1
+43567,Combodart 0.5mg/0.4mg capsules (GlaxoSmithKline UK Ltd),1
+3923,Terazosin BPH starter pack 7x1mg with 14x2mg with 7x5mg,1
+8076,Hytrin tablets starter pack (AMCo),1
+43458,Tamsulosin 400microgram / Dutasteride 500microgram capsules,1
+25487,Cascor 2mg tablets (Ranbaxy (UK) Ltd),1
+40256,Baratol 25mg tablets (Amdipharm Plc),1
+55906,Doxazosin 1mg tablets (Dexcel-Pharma Ltd),1
+26237,Alphavase 500microgram Tablet (Ashbourne Pharmaceuticals Ltd),1
+45342,Doxazosin 4mg tablets (Sandoz Ltd),1
+62539,Alfuzosin 10mg modified-release tablets (Phoenix Healthcare Distribution Ltd),1
+6008,Omnic 400microgram Modified-release capsule (Paines & Byrne Ltd),1
+39373,Fuzatal XL 10mg tablets (Teva UK Ltd),1
+9019,Indoramin 50mg Tablet,1
+54785,Doxazosin 4mg tablets (Medreich Plc),1
+25047,Hypovase benign prostatic hyperplasia 500microgram Tablet (Pfizer Ltd),1
+34080,Stronazon 400microgram MR capsules (Actavis UK Ltd),1
+35925,Contiflo XL 400microgram capsules (Ranbaxy (UK) Ltd),1
+445,Prazosin 1mg tablets and Prazosin 500microgram tablets,1
+53322,Doxazosin 4mg tablets (Bristol Laboratories Ltd),1
+40810,Phenoxybenzamine 10mg/5ml oral suspension,1
+3470,Terazosin 1mg tablets,1
+20369,Doxazosin 1mg/5ml oral suspension,1
+53964,Tamsulosin 400microgram modified-release capsules (A A H Pharmaceuticals Ltd),1
+5183,Hypovase 2mg tablets (Pfizer Ltd),1
+4875,Terazosin 10mg tablets,1
+41651,Prazosin 500microgram Tablet (Approved Prescription Services Ltd),1
+35603,Doxazosin 4mg/5ml oral suspension,1
+27403,Omnic MR 400microgram capsules (Astellas Pharma Ltd),1
+71955,Tamsulosin 400microgram modified-release tablets (A A H Pharmaceuticals Ltd),1
+70733,Flectone XL 400microgram tablets (Teva UK Ltd),1
+65442,Terazosin 5mg tablets (Mylan),1
+50467,Doxazosin 2mg tablets (Alliance Healthcare (Distribution) Ltd),1
+56145,Doxazosin 2mg tablets (Actavis UK Ltd),1
+2816,Indoramin 20mg tablets,1
+36023,Cardozin xl 4mg Tablet (Hillcross Pharmaceuticals Ltd),1
+10088,Doxadura 4mg tablets (Discovery Pharmaceuticals),1
+44553,Pinexel PR 400microgram capsules (Wockhardt UK Ltd),1
+8198,Hypovase 5mg Tablet (Pfizer Ltd),1
+5485,Alfuzosin 10mg modified-release tablets,1
+48150,Doxazosin 1mg tablets (Actavis UK Ltd),1
+726,Prazosin 2mg tablets,1
+34553,Doxazosin 4mg tablets (Mylan),1
+61066,Doxazosin 2mg tablets (Bristol Laboratories Ltd),1
+57074,Doxazosin 2mg tablets (Sigma Pharmaceuticals Plc),1
+34625,Doxazosin 2mg tablets (A A H Pharmaceuticals Ltd),1
+40891,Doxazosin 2mg tablets (IVAX Pharmaceuticals UK Ltd),1
+8086,Cardura 4mg Tablet (Pfizer Ltd),1
+64233,Doxazosin 1mg tablets (Waymade Healthcare Plc),1
+62553,Tamsulosin 400microgram modified-release capsules (Alliance Healthcare (Distribution) Ltd),1
+26693,Hypovase benign prostatic hyperplasia bd BD Starter pack (Pfizer Ltd),1
+41721,Prazosin 1mg tablets (A A H Pharmaceuticals Ltd),1
+42462,Kirtacap mr 400microgram Capsule (Consilient Health Ltd),1
+4802,Cardura 2mg tablets (Pfizer Ltd),1
+2347,Hytrin 10mg Tablet (Abbott Laboratories Ltd),1
+61283,Doxazosin 4mg tablets (Alliance Healthcare (Distribution) Ltd),1
+31109,Prosurin XL 400microgram capsules (Mylan),1
+44268,Vasran XL 10mg tablets (Ranbaxy (UK) Ltd),1
+16198,Baratol 50mg Tablet (Shire Pharmaceuticals Ltd),1
+43695,Colixil XL 4mg tablets (Sandoz Ltd),1
+62019,Doxazosin 1mg tablets (Almus Pharmaceuticals Ltd),1
+19566,HYPOVASE,1
+28441,Pamsvax XL 400microgram capsules (Actavis UK Ltd),1
+7759,Phenoxybenzamine 10mg capsules,1
+634,Tamsulosin 400microgram modified-release capsules,1
+55005,Kelanu XL 10mg tablets (Pfizer Ltd),1
+45584,Phenoxybenzamine 100mg/2ml solution for infusion ampoules,1
+34715,Doxazosin 1mg tablets (A A H Pharmaceuticals Ltd),1
+52055,Tamsulosin 400microgram oral powder sachets,1
+66065,Doxazosin 2mg tablets (Kent Pharmaceuticals Ltd),1
+38461,Cardozin XL 4mg tablets (Arrow Generics Ltd),1
+65853,Doxazosin 1mg tablets (Mawdsley-Brooks & Company Ltd),1
+45328,Doxazosin 1mg tablets (Sandoz Ltd),1
+60316,Prazosin 1mg Tablet (Approved Prescription Services Ltd),1
+53084,Cositam XL 400microgram tablets (Consilient Health Ltd),1
+71036,Alfuzosin 2.5mg tablets (Sandoz Ltd),1
+3715,Prazosin 5mg tablets,1
+13610,Alphavase 2 tablets (Ashbourne Pharmaceuticals Ltd),1
+57145,Terazosin 2mg tablets (A A H Pharmaceuticals Ltd),1
+34342,Doxazosin 1mg tablets (Teva UK Ltd),1
+26238,Alphavase 1 tablets (Ashbourne Pharmaceuticals Ltd),1
+62351,Doxazosin 2mg tablets (Phoenix Healthcare Distribution Ltd),1
+64443,Alfuzosin 2.5mg tablets (Sigma Pharmaceuticals Plc),1
+2088,Alfuzosin 2.5mg tablets,1
+59862,Doxazosin 4mg tablets (Dexcel-Pharma Ltd),1
+7056,Tamsulosin 400microgram modified-release tablets,1
+12545,Phentolamine 10mg/1ml solution for injection ampoules,1
+43547,Prazosin 500microgram tablets (IVAX Pharmaceuticals UK Ltd),1
+58985,Xatral SR 5mg tablets (Sanofi-Synthelabo Ltd),1
+60319,Doxazosin 1mg tablets (Bristol Laboratories Ltd),1
+58517,Faramsil 400microgram modified-release tablets (Sandoz Ltd),1
+42820,Alfuzosin xl 10mg Tablet (Hillcross Pharmaceuticals Ltd),1
+55826,Prazosin 5mg tablets (A A H Pharmaceuticals Ltd),1
+58276,Doxazosin 2mg tablets (Medreich Plc),1
+119,Doxazosin 1mg tablets,1
+36282,Morvesin XL 400microgram capsules (Sandoz Ltd),1
+8863,Hypovase benign prostatic hyperplasia 1mg Tablet (Pfizer Ltd),1
+55916,Doxazosin 1mg tablets (Alliance Healthcare (Distribution) Ltd),1
+57448,Doxazosin 4mg tablets (A A H Pharmaceuticals Ltd),1
+5618,Cardura XL 8mg tablets (Pfizer Ltd),1
+5624,Xatral 2.5mg tablets (Sanofi),1
+68161,Doxazosin 4mg tablets (Mawdsley-Brooks & Company Ltd),1
+35639,Besavar XL 10mg tablets (Zentiva),1
+68584,Tabphyn MR 400microgram capsules (Thornton & Ross Ltd),1
+59209,Doxazosin 1mg tablets (Kent Pharmaceuticals Ltd),1
+1292,Hypovase 1mg tablets (Pfizer Ltd),1
+10134,Flomaxtra XL 400microgram tablets (Astellas Pharma Ltd),1
+582,Doxazosin 4mg modified-release tablets,1
+54918,Phenoxybenzamine oral liquid,1
+60200,Doxazosin 4mg tablets (DE Pharmaceuticals),1
+47807,Doxazosin xl 4mg Tablet (Hillcross Pharmaceuticals Ltd),1
+591,Prazosin 1mg tablets,1
+7547,Doxadura 2mg tablets (Discovery Pharmaceuticals),1
+58325,Doxazosin 4mg tablets (Phoenix Healthcare Distribution Ltd),1
+4637,Terazosin 2mg tablets,1
+5496,Doxazosin 8mg modified-release tablets,1
+69622,Tamsulosin 400micrograms/5ml oral suspension,1
+4694,Terazosin 2mg tablets and Terazosin 1mg tablets,1
+45583,Doxazosin 2mg tablets (Dexcel-Pharma Ltd),1
+21466,PHENOXYBENZAMINE HCl 5 MG CAP,1
+61123,Doxazosin 4mg/5ml oral solution,1
+45040,Larbex XL 4mg tablets (Teva UK Ltd),1
+53033,Doxzogen XL 4mg tablets (Mylan),1
+62158,Doxazosin 4mg tablets (Almus Pharmaceuticals Ltd),1
+71405,Cardura XL 4mg tablets (DE Pharmaceuticals),1
+11394,Baratol 25mg Tablet (Shire Pharmaceuticals Ltd),1
+26783,PHENOXYBENZAMINE HCl 5 MG TAB,1
+37243,Cardozin xl 4mg Tablet (Teva UK Ltd),1
+9422,Xatral sr 5mg Tablet (Sanofi-Synthelabo Ltd),1
+56793,Alfuzosin 2.5mg tablets (Teva UK Ltd),1
+62300,Phenoxybenzamine 10mg capsules (AMCo),1
+33094,Doxazosin 2mg tablets (Mylan),1
+35312,Bazetham MR 400microgram capsules (Teva UK Ltd),1
+5337,Hytrin bph 5mg Tablet (Amdipharm Plc),1
+65159,Doxazosin 4mg tablets (Waymade Healthcare Plc),1
+68022,Doxazosin 4mg tablets (Sovereign Medical Ltd),1
+69082,Alfuzosin 10mg modified-release tablets (Sigma Pharmaceuticals Plc),1
+460,Flomax MR 400microgram capsules (Astellas Pharma Ltd),1
+24211,HYPOVASE B.D. STARTER PACK,1
+65124,Tamsulosin 400micrograms/5ml oral solution,1
+51665,Tamurex 400microgram modified-release capsules (Somex Pharma),1
+23459,Hypovase benign prostatic hyperplasia 2mg Tablet (Pfizer Ltd),1
+51685,Doxazosin 4mg tablets (Actavis UK Ltd),1
+5815,Indoramin 25mg tablets,1
+493,Doxazosin 2mg tablets,1
+46922,Prazosin 1mg tablets (IVAX Pharmaceuticals UK Ltd),1
+35058,Diffundox XL 400microgram capsules (Zentiva),1
+36439,Zufal XL 10mg tablets (Teva UK Ltd),1
+71090,Alfuzosin 10mg modified-release tablets (Mawdsley-Brooks & Company Ltd),1
+36780,Hytrin 5mg tablets (AMCo),1
+71419,Hytrin 2mg tablets (Waymade Healthcare Plc),1
+35466,Alphacard MR 400microgram capsules (Ratiopharm UK Ltd),1
+54497,Galebon 400microgram modified-release capsules (Consilient Health Ltd),1
+8942,Dibenyline 10mg capsules (Mercury Pharma Group Ltd),1
+7549,Doxadura 1mg tablets (Discovery Pharmaceuticals),1
+40678,Doxazosin 4mg tablets (Teva UK Ltd),1
+8077,Hytrin 2mg Tablet (Abbott Laboratories Ltd),1
+37428,Hytrin 10mg tablets (AMCo),1
+4111,Hypovase 500microgram tablets (Pfizer Ltd),1
+63158,Doxazosin 2mg tablets (Almus Pharmaceuticals Ltd),1
+29765,DIBENYLINE 5 MG TAB,1
+47563,Besavar XL 10mg tablets (Actavis UK Ltd),1
+23010,Rogitine 10mg/1ml solution for injection ampoules (Alliance Pharmaceuticals Ltd),1
+19193,Doxazosin 2mg tablets (Teva UK Ltd),1
+52159,Tamsulosin 400microgram modified-release capsules (Focus Pharmaceuticals Ltd),1
+69319,Doxazosin 2mg tablets (DE Pharmaceuticals),1
+63314,Doxazosin 1mg tablets (Sovereign Medical Ltd),1
+1455,Prazosin 500microgram tablets,1
+46066,Cardozin XL 4mg tablets (Almus Pharmaceuticals Ltd),1
+24369,Petyme 400microgram MR capsules (Teva UK Ltd),1
+46526,Raporsin XL 4mg tablets (Actavis UK Ltd),1
+14932,Tabphyn MR 400microgram capsules (Kyowa Kirin Ltd),1
+25004,PHENOXYBENZAMINE HCl 2.5 MG CAP,1
+45265,Doxazosin sr 4mg Tablet (Generics (UK) Ltd),1
+2348,Hytrin bph 10mg Tablet (Amdipharm Plc),1
+2117,Doralese Tiltab 20mg tablets (Chemidex Pharma Ltd),1
+2346,Hytrin 5mg Tablet (Abbott Laboratories Ltd),1
+57784,Doxazosin 2mg/5ml oral suspension,1
+34601,Doxazosin 1mg tablets (Mylan),1
+4449,Cardura 1mg tablets (Pfizer Ltd),1
+46206,Pamsvax XL 400microgram capsules (Almus Pharmaceuticals Ltd),1
+36649,Hytrin 2mg tablets (AMCo),1
+41543,Doxazosin 1mg tablets (IVAX Pharmaceuticals UK Ltd),1
+21049,DIBENYLINE 2.5 MG CAP,1
+2120,Alfuzosin 5mg modified-release tablets,1
+25551,Cascor 4mg tablets (Ranbaxy (UK) Ltd),1
+36740,Slocinx XL 4mg tablets (Zentiva),1
+19216,Doxazosin 4mg tablets (IVAX Pharmaceuticals UK Ltd),1
+755,Cardura XL 4mg tablets (Pfizer Ltd),1
+16201,Hytrin bph 2mg Tablet (Amdipharm Plc),1
+57549,Xatral 2.5mg tablets (Necessity Supplies Ltd),1
+5179,Xatral XL 10mg tablets (Sanofi),1
+35272,Doxadura XL 4mg tablets (Discovery Pharmaceuticals),1
+3924,Terazosin 5mg tablets,1
+1294,Doxazosin 4mg tablets,1
+19823,Alphavase 5 tablets (Ashbourne Pharmaceuticals Ltd),1
+41652,Prazosin 500microgram tablets (A A H Pharmaceuticals Ltd),1
+69757,Doxazosin 8mg/5ml oral suspension,1
+42936,Flomax Relief MR 400microgram capsules (Sanofi),1

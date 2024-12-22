@@ -1,0 +1,121 @@
+prodcode,prodname,other_lipid
+10094,Niaspan titration pack (Abbott Laboratories Ltd),1
+11976,Niaspan 500mg modified-release tablets (Abbott Laboratories Ltd),1
+1212,Colestipol 5g granules sachets sugar free,1
+1214,Bezalip 400mg Tablet (Roche Products Ltd),1
+1215,Fenofibrate 100mg Capsule,1
+1217,Lipantil micro 200 200mg Capsule (Fournier Pharmaceuticals Ltd),1
+12211,Nicotinic acid 50mg tablets,1
+12231,CHOLESTYRAMINE POW,1
+1322,Clofibrate 500mg capsules,1
+1324,Bezalip 200mg Tablet (Roche Products Ltd),1
+14037,Eicosapentaenoic acid 170mg / Docosahexaenoic acid 115mg capsules,1
+14209,Eicosapentaenoic acid 170mg/g / Docosahexaenoic acid 115mg/g oral liquid,1
+14379,Lipantil Micro 67 capsules (Mylan),1
+14963,Nicotinic acid 500mg modified-release tablets,1
+15594,COLESTIPOL HCl GRA,1
+1716,Questran 4g oral powder sachets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+17614,Zimbacol XL 400mg tablets (Archimedes Pharma UK Ltd),1
+1764,Questran Light 4g oral powder sachets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+17813,Nicotinic acid 100mg Tablet,1
+17824,Nicotinic acid 25mg Tablet,1
+18081,Colestid Orange 5g granules sachets (Pfizer Ltd),1
+18098,Nicotinic acid 375mg + 500mg + 750mg Modified-release tablet,1
+18126,Nicotinic acid 1g modified-release tablets,1
+184,Bezafibrate 200mg tablets,1
+19792,QUESTRAN SACHET,1
+19938,Colestipol with aspartame granules,1
+20736,CHOLESTYRAMINE SACHETS,1
+2215,Lopid 300mg capsules (Pfizer Ltd),1
+23153,Liparol 400 XL tablets (Ashbourne Pharmaceuticals Ltd),1
+23634,GEMFIBROZIL,1
+23956,Maxepa Liquid (Seven Seas Ltd),1
+24009,NICOTINIC ACID 500 MG TAB,1
+2435,Lipantil 100mg Capsule (Fournier Pharmaceuticals Ltd),1
+24583,Nicotinic acid 750mg modified-release tablets,1
+25018,BEZAFIBRATE,1
+26566,COLESTID SACHETS,1
+2662,MaxEPA 1g capsules (Seven Seas Ltd),1
+29213,Bezagen XL 400mg tablets (Mylan),1
+29328,Bezafibrate 200mg tablets (A A H Pharmaceuticals Ltd),1
+3089,Ciprofibrate 100mg tablets,1
+31221,Bezafibrate 200mg tablets (Mylan),1
+3159,Fenofibrate 200mg capsules,1
+31783,Fenogal 200mg capsules (Genus Pharmaceuticals Ltd),1
+3204,MaxEPA liquid (Seven Seas Ltd),1
+3318,Gemfibrozil 300mg capsules,1
+33603,Fibrazate XL 400mg tablets (Sandoz Ltd),1
+33944,Bezafibrate 200mg tablets (Teva UK Ltd),1
+34181,Bezafibrate 400mg Modified-release tablet (Hillcross Pharmaceuticals Ltd),1
+34277,Gemfibrozil 600mg tablets (Teva UK Ltd),1
+37266,Colesevelam 625mg tablets,1
+37953,Cholestagel 625mg tablets (Sanofi),1
+39420,Bezalip Mono 400mg modified-release tablets (Teva UK Ltd),1
+39576,Bezalip 200mg tablets (Teva UK Ltd),1
+4062,Lopid 600mg tablets (Pfizer Ltd),1
+4067,Olbetam 250mg capsules (Pfizer Ltd),1
+40729,Tredaptive 1000mg/20mg modified-release tablets (Merck Sharp & Dohme Ltd),1
+40885,Nicotinic acid 1g / Laropiprant 20mg modified-release tablets,1
+41396,Fenofibrate micronised 200mg capsules (A A H Pharmaceuticals Ltd),1
+42801,Bezafibrate xl 400mg Modified-release tablet (Generics (UK) Ltd),1
+47935,Fenofibrate 200mg Capsule (Teva UK Ltd),1
+48585,Nicotinic acid 500mg capsules,1
+4920,Fenofibrate micronised 200mg capsules,1
+4928,Lipantil Micro 200 capsules (Mylan),1
+49609,Bezafibrate 400mg Modified-release tablet (Sandoz Ltd),1
+50071,Fenofibrate 160mg Tablet (Teva UK Ltd),1
+5216,Bezalip mono 400mg Modified-release tablet (Roche Products Ltd),1
+52814,Bezafibrate 400mg modified-release tablets (Alliance Healthcare (Distribution) Ltd),1
+53250,Modalim 100mg tablets (Lexon (UK) Ltd),1
+53823,Solgar Niacin 500mg capsules (Solgar Vitamin and Herb),1
+5390,Fenofibrate micronised 267mg capsules,1
+5564,Colestid Orange sachets (Pharmacia Ltd),1
+55971,Prestylon 1g capsules (Teva UK Ltd),1
+56426,Teromeg 1000mg capsules (AMCo),1
+57219,Fenofibrate micronised 200mg capsules (Sandoz Ltd),1
+57234,Omacor capsules (DE Pharmaceuticals),1
+57489,Ciprofibrate 100mg tablets (Zentiva),1
+57583,Eicosapentaenoic acid 460mg / Docosahexaenoic acid 380mg capsules (Huxley Europe Ltd),1
+58635,Bezalip Mono 400mg modified-release tablets (DE Pharmaceuticals),1
+58655,Omega 3-acid-ethyl esters 1000mg capsules (Glenmark Pharmaceuticals Europe Ltd),1
+59002,Bezafibrate 400mg modified-release tablets (DE Pharmaceuticals),1
+602,Bezafibrate 400mg modified-release tablets,1
+6024,Eicosapentaenoic acid 460mg / Docosahexaenoic acid 380mg capsules,1
+60385,Bezalip Mono 400mg modified-release tablets (Lexon (UK) Ltd),1
+60788,Fenofibrate micronised 267mg capsules (Zentiva),1
+61087,Questran Light 4g oral powder sachets (Mawdsley-Brooks & Company Ltd),1
+6120,Ezetrol 10mg tablets (Merck Sharp & Dohme Ltd),1
+61269,Nebbaro 1000mg capsules (Zentiva),1
+61523,Omega 3 1000mg capsules (Alissa Healthcare Research Ltd),1
+6365,Colestid 5g granules sachets plain (Pfizer Ltd),1
+63737,Fenofibrate micronised 267mg capsules (Sigma Pharmaceuticals Plc),1
+64503,Bezalip Mono 400mg modified-release tablets (Waymade Healthcare Plc),1
+64933,Fenofibrate micronised 267mg capsules (Ranbaxy (UK) Ltd),1
+64984,Fenofibrate micronised 160mg tablets (Phoenix Healthcare Distribution Ltd),1
+653,Ezetimibe 10mg tablets,1
+65572,Fenofibrate micronised 160mg tablets (Thornton & Ross Ltd),1
+6572,Omacor capsules (Mylan),1
+66087,Modalim 100mg tablets (Mawdsley-Brooks & Company Ltd),1
+66425,Bezafibrate 400mg modified-release tablets (A A H Pharmaceuticals Ltd),1
+66564,Bezafibrate 400mg modified-release tablets (Phoenix Healthcare Distribution Ltd),1
+67157,Fenofibrate micronised 200mg capsules (Phoenix Healthcare Distribution Ltd),1
+67329,Lipantil Micro 267 capsules (DE Pharmaceuticals),1
+67883,Lomitapide 5mg capsules,1
+70397,Repatha 140mg/1ml solution for injection pre-filled syringes (Amgen Ltd),1
+70580,Evolocumab 140mg/1ml solution for injection pre-filled disposable devices,1
+70673,Alirocumab 75mg/1ml solution for injection pre-filled disposable devices,1
+70751,Bezalip Mono 400mg modified-release tablets (Sigma Pharmaceuticals Plc),1
+70950,Fenofibrate micronised 200mg capsules (Waymade Healthcare Plc),1
+71016,Ciprofibrate 100mg tablets (DE Pharmaceuticals),1
+71793,Alirocumab 150mg/1ml solution for injection pre-filled disposable devices,1
+72032,G & G Omega 3 1000mg softgels capsules (G & G Food Supplies Ltd),1
+7540,Lipantil Micro 267 capsules (Mylan),1
+7544,Niaspan 750mg modified-release tablets (Abbott Laboratories Ltd),1
+7551,Niaspan 1g modified-release tablets (Abbott Laboratories Ltd),1
+8082,Gemfibrozil 600mg tablets,1
+8104,Acipimox 250mg capsules,1
+8706,Modalim 100mg tablets (Sanofi),1
+8907,CHOLESTYRAMINE 325 MG CAP,1
+9491,Fenofibrate micronised 67mg capsules,1
+9639,Fenofibrate micronised 160mg tablets,1
+9716,Supralip 160mg tablets (Mylan),1

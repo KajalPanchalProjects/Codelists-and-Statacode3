@@ -1,0 +1,328 @@
+prodcode,prodname,statins
+25,simvastatin 20mg tablets,1
+28,atorvastatin 10mg tablets,1
+42,simvastatin 10mg tablets,1
+51,simvastatin 40mg tablets,1
+75,atorvastatin 20mg tablets,1
+379,fluvastatin 20mg capsules,1
+420,cerivastatin 100microgram tablets,1
+490,pravastatin 10mg tablets,1
+713,rosuvastatin 10mg tablets,1
+730,pravastatin 20mg tablets,1
+745,atorvastatin 40mg tablets,1
+802,simvador 40mg tablets (discovery pharmaceuticals),1
+818,simvastatin 20mg/5ml oral solution sugar free,1
+1219,pravastatin 40mg tablets,1
+1221,lipostat 10mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+1223,lipostat 40mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+2137,fluvastatin 40mg capsules,1
+2718,zocor 10mg tablets (merck sharp & dohme ltd),1
+2955,lipitor 40mg tablets (pfizer ltd),1
+3411,lipitor 10mg tablets (pfizer ltd),1
+3690,lipostat 20mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+4302,sandostatin multidose 1 mg/5ml inj,1
+4961,lipobay 300microgram tablet (bayer plc),1
+5009,cerivastatin 200microgram tablets,1
+5148,simvastatin 80mg tablets,1
+5199,sandostatin lar 10mg powder and solvent for suspension for injection vials (novartis pharmaceuticals uk ltd),1
+5251,cerivastatin 300microgram tablets,1
+5278,cerivastatin 400microgram tablets,1
+5775,atorvastatin 80mg tablets,1
+5985,lescol xl 80mg tablets (novartis pharmaceuticals uk ltd),1
+6168,zocor 40mg tablets (merck sharp & dohme ltd),1
+6213,rosuvastatin 20mg tablets,1
+7196,zocor 20mg tablets (merck sharp & dohme ltd),1
+7347,crestor 10mg tablets (astrazeneca uk ltd),1
+7374,lipitor 20mg tablets (pfizer ltd),1
+7552,simvastatin 20mg / ezetimibe 10mg tablets,1
+7554,rosuvastatin 5mg tablets,1
+8133,sandostatin 100micrograms/1ml solution for injection ampoules (novartis pharmaceuticals uk ltd),1
+8380,lescol 20mg capsules (novartis pharmaceuticals uk ltd),1
+9153,lescol 40mg capsules (novartis pharmaceuticals uk ltd),1
+9315,lipobay 100microgram tablet (bayer plc),1
+9316,lipobay 200microgram tablet (bayer plc),1
+9897,rosuvastatin 40mg tablets,1
+9920,simvador 20mg tablets (discovery pharmaceuticals),1
+9930,crestor 40mg tablets (astrazeneca uk ltd),1
+10172,simvastatin 40mg / ezetimibe 10mg tablets,1
+10183,simvastatin 40mg with ezetimibe 10mg tablet,1
+10206,simvastatin 80mg with ezetimibe 10mg tablet,1
+11032,sandostatin 50mcg/1ml inj,1
+11627,fluvastatin 80mg modified-release tablets,1
+11815,simvastatin 20mg with ezetimibe 10mg tablet,1
+13041,simvador 10mg tablets (discovery pharmaceuticals),1
+14219,simvastatin 80mg / ezetimibe 10mg tablets,1
+14277,sandostatin lar 30mg powder and solvent for suspension for injection vials (novartis pharmaceuticals uk ltd),1
+15252,crestor 20mg tablets (astrazeneca uk ltd),1
+16186,inegy 10mg/80mg tablets (merck sharp & dohme ltd),1
+17059,inegy 10mg/40mg tablets (merck sharp & dohme ltd),1
+17364,sandostatin 1mg/5ml solution for injection vials (novartis pharmaceuticals uk ltd),1
+17683,lipitor 80mg tablets (pfizer ltd),1
+17688,crestor 5mg tablets (astrazeneca uk ltd),1
+18442,lipobay 400microgram tablet (bayer plc),1
+18463,sandostatin lar 20mg powder and solvent for suspension for injection vials (novartis pharmaceuticals uk ltd),1
+19452,sandostatin 500micrograms/1ml solution for injection ampoules (novartis pharmaceuticals uk ltd),1
+21020,inegy 10mg/20mg tablets (merck sharp & dohme ltd),1
+21091,mycostatin pow,1
+22579,zocor 80mg tablets (merck sharp & dohme ltd),1
+23290,sandostatin 50micrograms/1ml solution for injection ampoules (novartis pharmaceuticals uk ltd),1
+24509,simvastatin,1
+28304,sandostatin 50mcg/1ml,1
+28391,mycostatin cre,1
+29438,simvastatin,1
+31658,cerivastatin 800microgram tablets,1
+31930,zocor heart-pro 10mg tablet (mcneil products ltd),1
+32768,biocare candistatin cap,1
+32909,simvastatin 80mg tablets (a a h pharmaceuticals ltd),1
+32921,pravastatin 10mg tablet (dr reddy's laboratories (uk) ltd),1
+33082,simvastatin 20mg tablets (a a h pharmaceuticals ltd),1
+34312,simvastatin 20mg tablets (mylan ltd),1
+34316,simvastatin 20mg tablets (teva uk ltd),1
+34353,simvastatin 40mg tablets (mylan ltd),1
+34366,simvastatin 20mg tablets (ivax pharmaceuticals uk ltd),1
+34376,simvastatin 40mg tablets (teva uk ltd),1
+34381,simvastatin 40mg tablets (ivax pharmaceuticals uk ltd),1
+34476,simvastatin 20mg tablet (ratiopharm uk ltd),1
+34481,simvastatin 10mg tablets (ivax pharmaceuticals uk ltd),1
+34502,simvastatin 40mg tablets (a a h pharmaceuticals ltd),1
+34535,simvastatin 10mg tablets (mylan ltd),1
+34545,simvastatin 40mg tablet (ratiopharm uk ltd),1
+34560,simvastatin 10mg tablet (ratiopharm uk ltd),1
+34746,simvastatin 20mg tablet (niche generics ltd),1
+34814,simvastatin 20mg tablets (wockhardt uk ltd),1
+34820,pravastatin 40mg tablets (a a h pharmaceuticals ltd),1
+34879,simvastatin 40mg tablet (niche generics ltd),1
+34891,simvastatin 20mg tablets (kent pharmaceuticals ltd),1
+34907,simvastatin 40mg tablets (wockhardt uk ltd),1
+34955,simvastatin 10mg tablets (a a h pharmaceuticals ltd),1
+34969,simvastatin 40mg tablets (actavis uk ltd),1
+36377,pravastatin 20mg tablets (teva uk ltd),1
+36675,sandostatin lar powder for inj sus,1
+37434,simvastatin 40mg tablets (sandoz ltd),1
+39060,simvastatin 20mg tablets (dexcel-pharma ltd),1
+39652,simvastatin 40mg/5ml oral solution sugar free,1
+39675,simvastatin 20mg/5ml oral suspension (martindale pharmaceuticals ltd),1
+39870,simvador 80mg tablets (discovery pharmaceuticals),1
+40340,simvastatin 10mg tablets (teva uk ltd),1
+40382,pravastatin 20mg tablets (a a h pharmaceuticals ltd),1
+40601,simvastatin 20mg tablets (ranbaxy (uk) ltd),1
+41657,simvastatin 80mg tablets (teva uk ltd),1
+43218,pravastatin 10mg tablets (teva uk ltd),1
+44528,simvastatin 20mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd),1
+44650,simvastatin 40mg tablets (dexcel-pharma ltd),1
+44878,ranzolont 10mg tablets (ranbaxy (uk) ltd),1
+45219,simvastatin 40mg tablets (kent pharmaceuticals ltd),1
+45235,simvastatin 20mg tablets (sandoz ltd),1
+45245,simvastatin 20mg tablets (actavis uk ltd),1
+45346,simvastatin 40mg tablets (arrow generics ltd),1
+46878,simvastatin 40mg tablets (almus pharmaceuticals ltd),1
+46956,simvastatin 80mg tablets (arrow generics ltd),1
+47065,atorvastatin 20mg chewable tablets sugar free,1
+47090,atorvastatin 10mg chewable tablets sugar free,1
+47630,lipitor 20mg chewable tablets (pfizer ltd),1
+47721,lipitor 10mg chewable tablets (pfizer ltd),1
+47774,simvastatin 10mg tablets (arrow generics ltd),1
+47948,simvastatin 10mg tablets (tillomed laboratories ltd),1
+47988,pravastatin 40mg tablets (mylan ltd),1
+48018,simvastatin 20mg tablets (arrow generics ltd),1
+48051,simvastatin 10mg tablets (kent pharmaceuticals ltd),1
+48058,simvastatin 10mg tablets (ranbaxy (uk) ltd),1
+48078,simvastatin 10mg tablets (actavis uk ltd),1
+48097,pravastatin 40mg tablets (teva uk ltd),1
+48221,simvastatin 20mg/5ml oral suspension sugar free,1
+48346,atorvastatin 60mg tablets,1
+48431,simvastatin 40mg/5ml oral suspension sugar free,1
+48518,atorvastatin 10mg/5ml oral solution,1
+48867,simvastatin 40mg tablets (alliance healthcare (distribution) ltd),1
+48973,atorvastatin 30mg tablets,1
+49061,simvastatin 40mg tablets (bristol laboratories ltd),1
+49062,simvastatin 20mg tablets (alliance healthcare (distribution) ltd),1
+49558,atorvastatin 20mg tablets (a a h pharmaceuticals ltd),1
+49587,simvastatin 80mg tablets (almus pharmaceuticals ltd),1
+49751,atorvastatin 40mg tablets (alliance healthcare (distribution) ltd),1
+50236,atorvastatin 10mg tablets (zentiva),1
+50272,atorvastatin 40mg tablets (pfizer ltd),1
+50483,simvastatin 40mg tablets (relonchem ltd),1
+50564,simvastatin 20mg tablets (relonchem ltd),1
+50670,simvastatin 40mg tablets (aurobindo pharma ltd),1
+50703,simvastatin 40mg tablets (accord healthcare ltd),1
+50754,simvastatin 20mg tablets (medreich plc),1
+50788,atorvastatin 20mg tablets (pfizer ltd),1
+50790,atorvastatin 20mg tablets (dexcel-pharma ltd),1
+50882,simvastatin 40mg tablets (somex pharma),1
+50925,pravastatin 10mg tablets (sigma pharmaceuticals plc),1
+50963,atorvastatin 40mg tablets (teva uk ltd),1
+51085,simvastatin 10mg tablets (medreich plc),1
+51134,atorvastatin 10mg tablets (a a h pharmaceuticals ltd),1
+51166,simvastatin 40mg tablets (medreich plc),1
+51200,atorvastatin 40mg tablets (arrow generics ltd),1
+51233,simvastatin 10mg tablets (alliance healthcare (distribution) ltd),1
+51359,atorvastatin 20mg tablets (arrow generics ltd),1
+51483,simvastatin 20mg tablets (aurobindo pharma ltd),1
+51622,atorvastatin 20mg tablets (consilient health ltd),1
+51676,pravastatin 40mg tablets (medreich plc),1
+51715,simvastatin 10mg tablets (sigma pharmaceuticals plc),1
+51876,atorvastatin 40mg tablets (consilient health ltd),1
+51890,pravastatin 20mg tablets (medreich plc),1
+52097,atorvastatin 40mg tablets (wockhardt uk ltd),1
+52098,simvastatin 40mg tablets (ranbaxy (uk) ltd),1
+52168,atorvastatin 20mg tablets (aspire pharma ltd),1
+52211,atorvastatin 20mg tablets (actavis uk ltd),1
+52257,simvastatin 20mg tablets (accord healthcare ltd),1
+52397,atorvastatin 40mg tablets (dr reddy's laboratories (uk) ltd),1
+52398,atorvastatin 40mg tablets (a a h pharmaceuticals ltd),1
+52459,atorvastatin 80mg tablets (actavis uk ltd),1
+52460,atorvastatin 40mg tablets (aspire pharma ltd),1
+52625,simvastatin 10mg tablets (wockhardt uk ltd),1
+52676,simvastatin 10mg/5ml oral suspension,1
+52755,pravastatin 20mg tablets (alliance healthcare (distribution) ltd),1
+52812,simvastatin 20mg tablets (sigma pharmaceuticals plc),1
+52821,atorvastatin 80mg tablets (dr reddy's laboratories (uk) ltd),1
+52953,simvastatin 20mg tablets (bristol laboratories ltd),1
+52962,simvastatin 80mg tablets (medreich plc),1
+53087,simvastatin 20mg tablets (somex pharma),1
+53340,zocor 40mg tablets (lexon (uk) ltd),1
+53415,simvastatin 10mg tablets (aurobindo pharma ltd),1
+53460,crestor 10mg tablets (de pharmaceuticals),1
+53594,lipitor 80mg tablets (mawdsley-brooks & company ltd),1
+53676,simvastatin 20mg tablets (tillomed laboratories ltd),1
+53770,fluvastatin 40mg capsules (a a h pharmaceuticals ltd),1
+53772,atorvastatin 80mg tablets (alliance healthcare (distribution) ltd),1
+53813,lipobay 100microgram tablets (bayer plc),1
+53822,simvastatin 10mg tablets (bristol laboratories ltd),1
+53887,atorvastatin 40mg tablets (actavis uk ltd),1
+53890,atorvastatin 80mg tablets (pfizer ltd),1
+53908,simvastatin 10mg tablets (dexcel-pharma ltd),1
+53966,simvastatin 40mg tablets (phoenix healthcare distribution ltd),1
+54240,simvastatin 40mg tablets (sigma pharmaceuticals plc),1
+54266,simvastatin 20mg/5ml oral suspension,1
+54435,pravastatin 40mg tablets (almus pharmaceuticals ltd),1
+54493,simvastatin 10mg tablets (relonchem ltd),1
+54535,atorvastatin 10mg tablets (pfizer ltd),1
+54606,simvastatin 20mg/5ml oral suspension sugar free (a a h pharmaceuticals ltd),1
+54607,pravastatin 20mg tablets (almus pharmaceuticals ltd),1
+54655,simvastatin 10mg tablets (accord healthcare ltd),1
+54819,simvastatin 40mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd),1
+54947,simvastatin 20mg tablets (almus pharmaceuticals ltd),1
+54976,simvastatin 10mg tablets (somex pharma),1
+54985,simvastatin 40mg/5ml oral suspension,1
+54992,atorvastatin 10mg/5ml oral suspension,1
+55032,atorvastatin 10mg tablets (dexcel-pharma ltd),1
+55034,atorvastatin 40mg/5ml oral suspension,1
+55207,lipobay 200microgram tablets (bayer plc),1
+55444,atorvastatin 40mg tablets (zentiva),1
+55452,simvastatin 20mg tablets (phoenix healthcare distribution ltd),1
+55727,atorvastatin 10mg tablets (actavis uk ltd),1
+55912,pravastatin 40mg tablets (alliance healthcare (distribution) ltd),1
+56016,lipitor 20mg chewable tablets (pfizer ltd),1
+56065,simvastatin 20mg/5ml oral suspension sugar free (waymade healthcare plc),1
+56097,atorvastatin 10mg chewable tablets sugar free,1
+56146,pravastatin 10mg tablets (waymade healthcare plc),1
+56165,atorvastatin 20mg chewable tablets sugar free,1
+56182,atorvastatin 80mg tablets (zentiva),1
+56248,atorvastatin 20mg tablets (sigma pharmaceuticals plc),1
+56481,zocor 10mg tablets (sigma pharmaceuticals plc),1
+56494,zocor 20mg tablets (sigma pharmaceuticals plc),1
+56564,atorvastatin 20mg tablets (almus pharmaceuticals ltd),1
+56607,pravastatin 20mg tablets (waymade healthcare plc),1
+56735,pravastatin 20mg tablets (mylan ltd),1
+56841,atorvastatin 40mg tablets (dexcel-pharma ltd),1
+56893,pravastatin 40mg tablets (accord healthcare ltd),1
+56916,pravastatin 40mg tablets (pliva pharma ltd),1
+57108,pravastatin 40mg tablets (waymade healthcare plc),1
+57117,atorvastatin 80mg tablets (waymade healthcare plc),1
+57137,pravastatin 10mg tablets (almus pharmaceuticals ltd),1
+57296,pravastatin 20mg tablets (phoenix healthcare distribution ltd),1
+57329,simvastatin 25mg/5ml oral suspension,1
+57348,atorvastatin 10mg tablets (consilient health ltd),1
+57397,pravastatin 10mg tablets (accord healthcare ltd),1
+57568,zocor 10mg tablets (lexon (uk) ltd),1
+57763,rosuvastatin 10mg tablets (waymade healthcare plc),1
+57834,atorvastatin 40mg tablets (de pharmaceuticals),1
+57836,atorvastatin 80mg tablets (teva uk ltd),1
+57999,crestor 40mg tablets (lexon (uk) ltd),1
+58041,atorvastatin 20mg tablets (teva uk ltd),1
+58110,atorvastatin 20mg tablets (zentiva),1
+58315,simvastatin 20mg tablets (waymade healthcare plc),1
+58394,atorvastatin 20mg tablets (alliance healthcare (distribution) ltd),1
+58418,atorvastatin 80mg tablets (a a h pharmaceuticals ltd),1
+58480,lipobay 300microgram tablets (bayer plc),1
+58617,rosuvastatin 20mg/5ml oral suspension,1
+58742,atorvastatin 80mg tablets (arrow generics ltd),1
+58755,simvastatin 10mg tablets (phoenix healthcare distribution ltd),1
+58834,atorvastatin 10mg tablets (de pharmaceuticals),1
+58868,atorvastatin 10mg tablets (sigma pharmaceuticals plc),1
+59272,atorvastatin 20mg tablets (waymade healthcare plc),1
+59278,fluvastatin 20mg capsules (zentiva),1
+59331,lipitor 10mg tablets (de pharmaceuticals),1
+59357,atorvastatin 10mg tablets (ranbaxy (uk) ltd),1
+59446,atorvastatin 40mg tablets (almus pharmaceuticals ltd),1
+59447,crestor 20mg tablets (waymade healthcare plc),1
+59452,rosuvastatin 5mg tablets (waymade healthcare plc),1
+59508,pravastatin 20mg tablets (accord healthcare ltd),1
+59776,atorvastatin 80mg tablets (aspire pharma ltd),1
+59859,atorvastatin 10mg tablets (teva uk ltd),1
+60160,rosuvastatin 5mg tablets (mawdsley-brooks & company ltd),1
+60251,pravastatin 10mg tablets (sandoz ltd),1
+60464,atorvastatin 20mg/5ml oral suspension,1
+60511,atorvastatin 40mg tablets (ranbaxy (uk) ltd),1
+60607,atorvastatin 80mg tablets (de pharmaceuticals),1
+60989,atorvastatin 80mg tablets (phoenix healthcare distribution ltd),1
+61134,pravastatin 20mg tablets (sigma pharmaceuticals plc),1
+61149,atorvastatin 10mg tablets (waymade healthcare plc),1
+61155,simvastatin 40mg/5ml oral suspension sugar free (a a h pharmaceuticals ltd),1
+61321,simvastatin 10mg tablets (sandoz ltd),1
+61360,simvastatin 10mg tablets (almus pharmaceuticals ltd),1
+61665,simvastatin 10mg tablets (waymade healthcare plc),1
+62132,lipobay 400microgram tablets (bayer plc),1
+62137,simvastatin 40mg tablets (waymade healthcare plc),1
+62148,fluvastatin 20mg capsules (actavis uk ltd),1
+62219,atorvastatin 20mg tablets (de pharmaceuticals),1
+62429,atorvastatin 20mg tablets (de pharmaceuticals),1
+62476,atorvastatin 80mg tablets (almus pharmaceuticals ltd),1
+62979,pravastatin 40mg tablets (kent pharmaceuticals ltd),1
+63074,pravastatin 20mg tablets (pliva pharma ltd),1
+63140,atorvastatin 10mg tablets (alliance healthcare (distribution) ltd),1
+63249,atorvastatin 80mg tablets (consilient health ltd),1
+63469,atorvastatin 30mg tablets (consilient health ltd),1
+63787,pravastatin 10mg tablets (tillomed laboratories ltd),1
+64067,atorvastatin 20mg/5ml oral solution,1
+64104,simvastatin 20mg tablets (crescent pharma ltd),1
+64180,simvastatin 10mg tablets (crescent pharma ltd),1
+64307,simvastatin 40mg tablets (crescent pharma ltd),1
+64702,atorvastatin 30mg tablets (a a h pharmaceuticals ltd),1
+64810,atorvastatin 40mg tablets (phoenix healthcare distribution ltd),1
+64825,atorvastatin 10mg tablets (phoenix healthcare distribution ltd),1
+64868,atorvastatin 40mg tablets (sigma pharmaceuticals plc),1
+64968,simvastatin 10mg tablets (de pharmaceuticals),1
+65181,simvastatin 40mg tablets (de pharmaceuticals),1
+65193,atorvastatin 20mg tablets (ranbaxy (uk) ltd),1
+65679,simvastatin 20mg tablets (de pharmaceuticals),1
+65901,simvastatin 40mg tablets (zentiva),1
+65925,simvastatin 20mg/5ml oral suspension sugar free (alliance healthcare (distribution) ltd),1
+66505,fenofibrate 145mg / simvastatin 40mg tablets,1
+66780,fenofibrate 145mg / simvastatin 20mg tablets,1
+66963,atorvastatin 80mg tablets (sigma pharmaceuticals plc),1
+67098,simvastatin 10mg tablets (brown & burk uk ltd),1
+67328,lescol xl 80mg tablets (mawdsley-brooks & company ltd),1
+67402,atorvastatin 40mg tablets (kent pharmaceuticals ltd),1
+67573,atorvastatin 10mg tablets (de pharmaceuticals),1
+67660,atorvastatin 80mg tablets (ranbaxy (uk) ltd),1
+67745,simvastatin 10mg tablets (zentiva),1
+67773,simvastatin 20mg tablets (zentiva),1
+67829,pravastatin 20mg tablets (sandoz ltd),1
+67846,atorvastatin 10mg tablets (almus pharmaceuticals ltd),1
+68023,atorvastatin 10mg tablets (aspire pharma ltd),1
+68048,atorvastatin 20mg tablets (phoenix healthcare distribution ltd),1
+68156,pravastatin 10mg tablets (a a h pharmaceuticals ltd),1
+68467,atorvastatin 20mg tablets (kent pharmaceuticals ltd),1
+68563,simvastatin 40mg tablets (brown & burk uk ltd),1
+68686,simvastatin 20mg tablets (genesis pharmaceuticals ltd),1
+68785,atorvastatin 10mg tablets (mylan ltd),1
+68827,atorvastatin 20mg tablets (mylan ltd),1
+69093,atorvastatin 80mg tablets (wockhardt uk ltd),1
+69413,simvastatin 20mg tablets (brown & burk uk ltd),1
+69427,atorvastatin 40mg tablets (mylan ltd),1
+69528,cholib 145mg/20mg tablets (mylan ltd),1
+70308,crestor 20mg tablets (sigma pharmaceuticals plc),1
+70486,cholib 145mg/40mg tablets (mylan ltd),1

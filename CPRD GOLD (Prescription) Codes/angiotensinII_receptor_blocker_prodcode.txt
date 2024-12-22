@@ -1,0 +1,258 @@
+prodcode,prodname,angioIIrb
+520,losartan 25mg tablets,1
+529,candesartan 2mg tablets,1
+531,candesartan 4mg tablets,1
+575,valsartan 40mg capsules,1
+624,losartan 100mg tablets,1
+764,co-diovan 80mg/12.5mg tablets (novartis pharmaceuticals uk ltd),1
+828,irbesartan 75mg tablets,1
+1293,irbesartan 150mg tablets,1
+1780,losartan 50mg tablets,1
+2971,irbesartan 300mg tablets,1
+3222,valsartan 80mg capsules,1
+4155,amias 2mg tablets (takeda uk ltd),1
+4226,cozaar 25mg tablets (merck sharp & dohme ltd),1
+4540,cozaar-comp 50mg/12.5mg tablets (merck sharp & dohme ltd),1
+4645,valsartan 160mg capsules,1
+4685,amias 4mg tablets (takeda uk ltd),1
+4741,candesartan 16mg tablets,1
+4818,candesartan 8mg tablets,1
+5013,amias 8mg tablets (takeda uk ltd),1
+5117,amias 16mg tablets (takeda uk ltd),1
+5723,cozaar 50mg tablets (merck sharp & dohme ltd),1
+5988,telmisartan 40mg tablets,1
+6217,olmesartan medoxomil 10mg tablets,1
+6243,telmisartan 20mg tablets,1
+6285,olmesartan medoxomil 20mg tablets,1
+6351,olmesartan medoxomil 40mg tablets,1
+6437,losartan 50mg / hydrochlorothiazide 12.5mg tablets,1
+6518,diovan 160mg capsules (novartis pharmaceuticals uk ltd),1
+6877,co-diovan 160mg/12.5mg tablets (novartis pharmaceuticals uk ltd),1
+6939,eprosartan 300mg tablets,1
+7043,candesartan 32mg tablets,1
+7338,aprovel 75mg tablets (sanofi),1
+9196,aprovel 150mg tablets (sanofi),1
+9745,teveten 300mg tablets (mylan ltd),1
+10316,coaprovel 150mg/12.5mg tablets (sanofi),1
+10323,losartan 100mg / hydrochlorothiazide 25mg tablets,1
+11251,diovan 40mg capsules (novartis pharmaceuticals uk ltd),1
+11252,diovan 80mg capsules (novartis pharmaceuticals uk ltd),1
+11348,aprovel 300mg tablets (sanofi),1
+11448,irbesartan 150mg / hydrochlorothiazide 12.5mg tablets,1
+11469,irbesartan 300mg / hydrochlorothiazide 12.5mg tablets,1
+11526,coaprovel 300mg/12.5mg tablets (sanofi),1
+11864,valsartan 160mg / hydrochlorothiazide 12.5mg tablets,1
+12836,eprosartan 600mg tablets,1
+12874,telmisartan 80mg tablets,1
+13123,eprosartan 400mg tablets,1
+13821,micardis 40mg tablets (boehringer ingelheim ltd),1
+14283,valsartan 160mg / hydrochlorothiazide 25mg tablets,1
+14738,hydrochlorothiazide with losartan 12.5mg with 50mg tablet,1
+14870,telmisartan 40mg / hydrochlorothiazide 12.5mg tablets,1
+14943,valsartan 40mg tablets,1
+14965,cozaar 100mg tablets (merck sharp & dohme ltd),1
+14983,olmetec 10mg tablets (daiichi sankyo uk ltd),1
+16060,valsartan 80mg / hydrochlorothiazide 12.5mg tablets,1
+16161,telmisartan 80mg / hydrochlorothiazide 12.5mg tablets,1
+16285,teveten 400mg tablets (abbott healthcare products ltd),1
+16371,teveten 600mg tablets (mylan ltd),1
+17545,micardis 80mg tablets (boehringer ingelheim ltd),1
+17686,micardis 20mg tablets (boehringer ingelheim ltd),1
+17689,micardisplus 80mg/12.5mg tablets (boehringer ingelheim ltd),1
+18200,olmesartan medoxomil 20mg / hydrochlorothiazide 12.5mg tablets,1
+18202,micardisplus 40mg/12.5mg tablets (boehringer ingelheim ltd),1
+18903,olmesartan medoxomil 20mg / hydrochlorothiazide 25mg tablets,1
+18910,olmetec 20mg tablets (daiichi sankyo uk ltd),1
+20117,olmetec 40mg tablets (daiichi sankyo uk ltd),1
+21423,cozaar-comp 100mg/25mg tablets (merck sharp & dohme ltd),1
+23456,hydrochlorothiazide with valsartan 25mg with 160mg tablet,1
+24268,hydrochlorothiazide with valsartan 12.5mg with 80mg tablet,1
+24359,diovan 40mg tablets (novartis pharmaceuticals uk ltd),1
+24484,hydrochlorothiazide with valsartan 12.5mg with 160mg tablet,1
+24632,hydrochlorothiazide with losartan 25mg with 100mg tablet,1
+25382,co-diovan 160mg/25mg tablets (novartis pharmaceuticals uk ltd),1
+27520,olmetec plus 20mg/25mg tablets (daiichi sankyo uk ltd),1
+29634,olmetec plus 20mg/12.5mg tablets (daiichi sankyo uk ltd),1
+31072,amias 32mg tablets (takeda uk ltd),1
+31160,irbesartan,1
+35096,exforge 10mg/160mg tablets (novartis pharmaceuticals uk ltd),1
+35173,valsartan 160mg with amlodipine 5mg tablets,1
+35174,valsartan 80mg with amlodipine 5mg tablets,1
+35189,amlodipine 10mg / valsartan 160mg tablets,1
+35196,coaprovel 300mg/25mg tablets (sanofi),1
+35304,valsartan 160mg with amlodipine 10mg tablets,1
+35317,exforge 5mg/80mg tablets (novartis pharmaceuticals uk ltd),1
+35329,amlodipine 5mg / valsartan 80mg tablets,1
+35343,amlodipine 5mg / valsartan 160mg tablets,1
+35380,hydrochlorothiazide with olmesartan medoxomil 12.5mg with 20mg tablet,1
+35481,irbesartan 300mg / hydrochlorothiazide 25mg tablets,1
+35697,exforge 5mg/160mg tablets (novartis pharmaceuticals uk ltd),1
+36939,irbesartan 300mg/5ml oral suspension,1
+37573,valsartan 320mg tablets,1
+37650,losartan 100mg / hydrochlorothiazide 12.5mg tablets,1
+37747,cozaar-comp 100mg/12.5mg tablets (merck sharp & dohme ltd),1
+38367,hydrochlorothiazide with losartan 12.5mg with 100mg tablet,1
+38395,valsartan 80mg tablets,1
+38459,telmisartan 80mg / hydrochlorothiazide 25mg tablets,1
+38889,micardisplus 80mg/25mg tablets (boehringer ingelheim ltd),1
+39021,hydrochlorothiazide with olmesartan medoxomil 25mg with 20mg tablet,1
+39199,diovan 320mg tablets (novartis pharmaceuticals uk ltd),1
+39786,olmesartan medoxomil 10mg/5ml oral suspension,1
+39944,losartan 12.5mg tablets,1
+39984,sevikar 20mg/5mg tablets (daiichi sankyo uk ltd),1
+40316,olmesartan medoxomil 20mg / amlodipine 5mg tablets,1
+40571,cozaar 12.5mg tablets (merck sharp & dohme ltd),1
+40639,olmesartan medoxomil 40mg / amlodipine 5mg tablets,1
+40668,olmesartan medoxomil 40mg / amlodipine 10mg tablets,1
+40711,losartan 2.5mg/ml oral suspension sugar free,1
+41203,sevikar 40mg/10mg tablets (daiichi sankyo uk ltd),1
+41205,sevikar 40mg/5mg tablets (daiichi sankyo uk ltd),1
+41232,cozaar 2.5mg/ml oral suspension (merck sharp & dohme ltd),1
+43322,olmesartan medoxomil 40mg / hydrochlorothiazide 12.5mg tablets,1
+43915,olmetec plus 40mg/12.5mg tablets (daiichi sankyo uk ltd),1
+44778,valsartan 160mg tablets,1
+45600,diovan 160mg tablet (novartis pharmaceuticals uk ltd),1
+46355,sevikar hct 20mg/5mg/12.5mg tablets (daiichi sankyo uk ltd),1
+46687,olmesartan medoxomil with amlodipine and hydrochlorothiazide 20mg + 5mg + 12.5mg tablet,1
+46715,olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 12.5mg tablet,1
+46792,olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 12.5mg tablet,1
+47006,losartan 100mg tablets (teva uk ltd),1
+47467,olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 25mg tablet,1
+47573,sevikar hct 40mg/5mg/12.5mg tablets (daiichi sankyo uk ltd),1
+47616,sevikar hct 40mg/10mg/12.5mg tablets (daiichi sankyo uk ltd),1
+47727,sevikar hct 40mg/5mg/25mg tablets (daiichi sankyo uk ltd),1
+48039,losartan 100mg / hydrochlorothiazide 12.5mg tablets (teva uk ltd),1
+48398,losartan 25mg tablets (dexcel-pharma ltd),1
+49492,losartan 25mg tablets (mylan ltd),1
+49588,losartan 100mg tablets (a a h pharmaceuticals ltd),1
+50185,candesartan 8mg tablets (teva uk ltd),1
+50971,losartan 25mg tablets (a a h pharmaceuticals ltd),1
+51117,candesartan 8mg tablets (de pharmaceuticals),1
+51186,losartan 25mg tablets (arrow generics ltd),1
+51368,azilsartan medoxomil 80mg tablets,1
+51519,candesartan 8mg tablets (a a h pharmaceuticals ltd),1
+51601,losartan 50mg tablets (actavis uk ltd),1
+51647,candesartan 4mg tablets (mawdsley-brooks & company ltd),1
+51897,edarbi 20mg tablets (takeda uk ltd),1
+52189,losartan 100mg / hydrochlorothiazide 25mg tablets (a a h pharmaceuticals ltd),1
+52208,candesartan 16mg tablets (a a h pharmaceuticals ltd),1
+52427,cozaar 100mg tablets (necessity supplies ltd),1
+52559,candesartan 8mg tablets (zentiva),1
+52658,losartan 100mg/5ml oral suspension,1
+52659,losartan 50mg/5ml oral solution,1
+52858,co-diovan 80mg/12.5mg tablets (sigma pharmaceuticals plc),1
+52886,losartan 12.5mg tablets (a a h pharmaceuticals ltd),1
+52972,irbesartan 300mg tablets (sigma pharmaceuticals plc),1
+53220,sevikar hct 40mg/10mg/25mg tablets (daiichi sankyo uk ltd),1
+53680,candesartan 16mg tablets (teva uk ltd),1
+53755,candesartan 4mg tablets (teva uk ltd),1
+53833,valsartan 160mg capsules (mylan ltd),1
+54049,losartan 50mg tablets (accord healthcare ltd),1
+54057,losartan 50mg tablets (teva uk ltd),1
+54326,candesartan 32mg tablets (teva uk ltd),1
+54404,losartan 100mg tablets (actavis uk ltd),1
+54414,candesartan 16mg tablets (consilient health ltd),1
+54726,valsartan 40mg capsules (teva uk ltd),1
+54735,losartan 50mg tablets (alliance healthcare (distribution) ltd),1
+54740,losartan 25mg tablets (actavis uk ltd),1
+54843,losartan 50mg tablets (dexcel-pharma ltd),1
+55017,irbesartan 300mg tablets (accord healthcare ltd),1
+55160,cozaar-comp 50mg/12.5mg tablets (sigma pharmaceuticals plc),1
+55187,valsartan 160mg capsules (arrow generics ltd),1
+55296,losartan 50mg tablets (mylan ltd),1
+55358,olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 25mg tablet,1
+55446,losartan 100mg tablets (bristol laboratories ltd),1
+55718,losartan 25mg tablets (phoenix healthcare distribution ltd),1
+55821,valsartan 160mg capsules (teva uk ltd),1
+56104,losartan 50mg tablets (a a h pharmaceuticals ltd),1
+56204,losartan 50mg / hydrochlorothiazide 12.5mg tablets (actavis uk ltd),1
+56606,azilsartan medoxomil 40mg tablets,1
+56970,losartan 100mg tablets (pfizer ltd),1
+56975,losartan 50mg / hydrochlorothiazide 12.5mg tablets (a a h pharmaceuticals ltd),1
+57026,candesartan 8mg tablets (waymade healthcare plc),1
+57028,losartan 100mg tablets (mylan ltd),1
+57266,candesartan 2mg tablets (actavis uk ltd),1
+57273,candesartan 8mg tablets (actavis uk ltd),1
+57796,cozaar-comp 50mg/12.5mg tablets (de pharmaceuticals),1
+57977,candesartan 16mg tablets (alliance healthcare (distribution) ltd),1
+58108,irbesartan 150mg tablets (a a h pharmaceuticals ltd),1
+58201,irbesartan 150mg tablets (actavis uk ltd),1
+58274,losartan 25mg tablets (accord healthcare ltd),1
+58646,candesartan 4mg tablets (actavis uk ltd),1
+58649,losartan 25mg tablets (bristol laboratories ltd),1
+58669,valsartan 40mg capsules (teva uk ltd),1
+58910,valsartan 80mg capsules (sigma pharmaceuticals plc),1
+58967,losartan 12.5mg tablets (alliance healthcare (distribution) ltd),1
+59029,valsartan 3mg/1ml oral solution,1
+59086,losartan 25mg tablets (wockhardt uk ltd),1
+59271,losartan 25mg tablets (sandoz ltd),1
+59340,losartan 12.5mg tablets (dexcel-pharma ltd),1
+59351,losartan 50mg tablets (pfizer ltd),1
+59393,irbesartan 300mg tablets (sandoz ltd),1
+59448,valsartan 80mg capsules (a a h pharmaceuticals ltd),1
+59690,candesartan 8mg tablets (consilient health ltd),1
+59750,losartan 50mg tablets (aptil pharma ltd),1
+59802,candesartan 2mg tablets (teva uk ltd),1
+59903,losartan 50mg/5ml oral suspension,1
+60007,generic sevikar hct 40mg/10mg/12.5mg tablets,1
+60076,valsartan 160mg capsules (waymade healthcare plc),1
+60506,losartan 100mg tablets (dexcel-pharma ltd),1
+60597,irbesartan 150mg tablets (teva uk ltd),1
+60780,generic sevikar hct 20mg/5mg/12.5mg tablets,1
+61053,losartan 100mg tablets (alliance healthcare (distribution) ltd),1
+61177,telmisartan 20mg tablets (sigma pharmaceuticals plc),1
+61288,losartan 100mg tablets (accord healthcare ltd),1
+61442,valsartan 160mg capsules (teva uk ltd),1
+61495,losartan 25mg tablets (aptil pharma ltd),1
+61754,losartan 25mg/5ml oral suspension,1
+61781,irbesartan 300mg tablets (teva uk ltd),1
+62035,candesartan 16mg tablets (waymade healthcare plc),1
+62140,candesartan 4mg tablets (sandoz ltd),1
+62337,irbesartan 300mg / hydrochlorothiazide 12.5mg tablets (actavis uk ltd),1
+62376,actelsar hct 80mg/12.5mg tablets (actavis uk ltd),1
+62388,losartan 12.5mg tablets (de pharmaceuticals),1
+62415,irbesartan 300mg tablets (a a h pharmaceuticals ltd),1
+62911,losartan 50mg / hydrochlorothiazide 12.5mg tablets (teva uk ltd),1
+63222,losartan 25mg tablets (pfizer ltd),1
+63337,eprosartan 600mg tablets (a a h pharmaceuticals ltd),1
+63385,sabervel 75mg tablets (aspire pharma ltd),1
+63411,irbesartan 300mg tablets (alliance healthcare (distribution) ltd),1
+63717,irbesartan 300mg tablets (de pharmaceuticals),1
+63890,micardisplus 80mg/12.5mg tablets (waymade healthcare plc),1
+63918,losartan 25mg tablets (teva uk ltd),1
+64359,candesartan 4mg tablets (de pharmaceuticals),1
+64888,losartan 12.5mg tablets (sigma pharmaceuticals plc),1
+65065,irbesartan 75mg tablets (a a h pharmaceuticals ltd),1
+65094,losartan 50mg tablets (sandoz ltd),1
+65228,candesartan 16mg tablets (mawdsley-brooks & company ltd),1
+65274,telmisartan 40mg tablets (actavis uk ltd),1
+65479,candesartan 2mg tablets (a a h pharmaceuticals ltd),1
+66114,losartan 12.5mg tablets (mawdsley-brooks & company ltd),1
+66197,sacubitril 49mg / valsartan 51mg tablets,1
+66205,entresto 49mg/51mg tablets (novartis pharmaceuticals uk ltd),1
+66261,entresto 24mg/26mg tablets (novartis pharmaceuticals uk ltd),1
+66551,losartan 50mg tablets (bristol laboratories ltd),1
+66598,losartan 50mg / hydrochlorothiazide 12.5mg tablets (lupin (europe) ltd),1
+66624,candesartan 16mg tablets (sandoz ltd),1
+66702,sacubitril 24mg / valsartan 26mg tablets,1
+66829,entresto 97mg/103mg tablets (novartis pharmaceuticals uk ltd),1
+66931,sacubitril 97mg / valsartan 103mg tablets,1
+66958,candesartan 8mg tablets (sandoz ltd),1
+66997,micardisplus 40mg/12.5mg tablets (waymade healthcare plc),1
+67663,valsartan 160mg capsules (dexcel-pharma ltd),1
+67664,valsartan 160mg / hydrochlorothiazide 12.5mg tablets (teva uk ltd),1
+67902,losartan 100mg tablets (sandoz ltd),1
+67929,candesartan 16mg tablets (tillomed laboratories ltd),1
+68340,losartan 12.5mg tablets (consilient health ltd),1
+68603,losartan 50mg tablets (wockhardt uk ltd),1
+68647,candesartan 8mg tablets (genesis pharmaceuticals ltd),1
+68718,candesartan 4mg tablets (a a h pharmaceuticals ltd),1
+68751,candesartan 16mg tablets (genesis pharmaceuticals ltd),1
+68948,valsartan 160mg capsules (actavis uk ltd),1
+69667,losartan 100mg/5ml oral solution,1
+69802,candesartan 4mg tablets (mylan ltd),1
+69858,losartan 25mg tablets (alliance healthcare (distribution) ltd),1
+70251,telmisartan 20mg tablets (teva uk ltd),1
+70325,losartan 50mg tablets (almus pharmaceuticals ltd),1
+70431,irbesartan 150mg tablets (lupin (europe) ltd),1
+70455,candesartan 4mg/5ml oral suspension,1

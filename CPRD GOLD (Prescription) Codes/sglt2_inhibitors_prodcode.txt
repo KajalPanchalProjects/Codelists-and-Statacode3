@@ -1,0 +1,33 @@
+prodcode,prodname,sglt2
+60211,Canagliflozin 100mg tablets,1
+60073,Canagliflozin 100mg tablets,1
+60386,Canagliflozin 300mg tablets,1
+54182,Dapagliflozin 10mg tablets,1
+54265,Dapagliflozin 5mg tablets,1
+61756,Empagliflozin 10mg tablets,1
+62172,Empagliflozin 25mg tablets,1
+54203,Forxiga 10mg tablets (AstraZeneca UK Ltd),1
+63516,Forxiga 10mg tablets (Waymade Healthcare Plc),1
+54480,Forxiga 5mg tablets (AstraZeneca UK Ltd),1
+60066,Invokana 100mg tablets (Janssen-Cilag Ltd),1
+60430,Invokana 100mg tablets (Napp Pharmaceuticals Ltd),1
+60379,Invokana 300mg tablets (Napp Pharmaceuticals Ltd),1
+62760,Jardiance 10mg tablets (Boehringer Ingelheim Ltd),1
+64217,Jardiance 25mg tablets (Boehringer Ingelheim Ltd),1
+69654,Qtern 5mg/10mg tablets (AstraZeneca UK Ltd),1
+69540,Saxagliptin 5mg / Dapagliflozin 10mg tablets,1
+63929,Canagliflozin 50mg / Metformin 1g tablets,1
+64743,Canagliflozin 50mg / Metformin 850mg tablets,1
+60012,Dapagliflozin 5mg / Metformin 1g tablets,1
+63031,Dapagliflozin 5mg / Metformin 850mg tablets,1
+65066,Empagliflozin 12.5mg / Metformin 1g tablets,1
+66855,Empagliflozin 12.5mg / Metformin 850mg tablets,1
+65057,Empagliflozin 5mg / Metformin 1g tablets,1
+65344,Empagliflozin 5mg / Metformin 850mg tablets,1
+66008,Synjardy 12.5mg/1000mg tablets (Boehringer Ingelheim Ltd),1
+70463,Synjardy 12.5mg/850mg tablets (Boehringer Ingelheim Ltd),1
+65083,Synjardy 5mg/1000mg tablets (Boehringer Ingelheim Ltd),1
+69370,Synjardy 5mg/850mg tablets (Boehringer Ingelheim Ltd),1
+66854,Vokanamet 50mg/1000mg tablets (Napp Pharmaceuticals Ltd),1
+60643,Xigduo 5mg/1000mg tablets (AstraZeneca UK Ltd),1
+65059,Xigduo 5mg/850mg tablets (AstraZeneca UK Ltd),1

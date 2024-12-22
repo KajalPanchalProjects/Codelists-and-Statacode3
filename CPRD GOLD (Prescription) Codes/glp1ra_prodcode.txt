@@ -1,0 +1,26 @@
+prodcode,prodname,glp1ra
+35144,Byetta 5micrograms/0.02ml solution for injection 1.2ml pre-filled disposable devices (AstraZeneca UK Ltd),1
+35149,Exenatide 10micrograms/0.04ml solution for injection 2.4ml pre-filled disposable devices,1
+35150,Byetta 10micrograms/0.04ml solution for injection 2.4ml pre-filled disposable devices (AstraZeneca UK Ltd),1
+35251,Exenatide 5micrograms/0.02ml solution for injection 1.2ml pre-filled disposable devices,1
+40642,Victoza 6mg/ml solution for injection 3ml pre-filled pen (Novo Nordisk Ltd),1
+40693,Liraglutide 6mg/ml solution for injection 3ml pre-filled disposable devices,1
+46458,Exenatide 2mg powder and solvent for prolonged-release suspension for injection vials,1
+46469,Bydureon 2mg powder and solvent for prolonged-release suspension for injection vials (AstraZeneca UK Ltd),1
+55413,Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices,1
+55459,Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices,1
+55723,Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices and Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices,1
+55728,Lyxumia 10micrograms/0.2ml solution for injection 3ml pre-filled pen (Sanofi),1
+55729,Lyxumia 20micrograms/0.2ml solution for injection 3ml pre-filled pen (Sanofi),1
+55767,Lyxumia 10micrograms/20micrograms treatment initiation pack (Sanofi),1
+62661,Bydureon 2mg powder and solvent for prolonged-release suspension for injection pre-filled pen (AstraZeneca UK Ltd),1
+62899,Xultophy 100units/ml / 3.6mg/ml solution for injection 3ml pre-filled pen (Novo Nordisk Ltd),1
+62904,Exenatide 2mg powder and solvent for prolonged-release suspension for injection pre-filled disposable devices,1
+63336,Trulicity 1.5mg/0.5ml solution for injection pre-filled pen (Eli Lilly and Company Ltd),1
+63401,Trulicity 0.75mg/0.5ml solution for injection pre-filled pen (Eli Lilly and Company Ltd),1
+63562,Insulin degludec 100units/ml / Liraglutide 3.6mg/ml solution for injection 3ml pre-filled disposable devices,1
+63785,Dulaglutide 0.75mg/0.5ml solution for injection pre-filled disposable devices,1
+63823,Dulaglutide 1.5mg/0.5ml solution for injection pre-filled disposable devices,1
+64622,Bydureon 2mg powder and solvent for prolonged-release suspension for injection vials (Lexon (UK) Ltd),1
+69548,Saxenda 6mg/ml solution for injection 3ml pre-filled pen (Novo Nordisk Ltd),1
+69947,Albiglutide 30mg powder and solvent for solution for injection pre-filled disposable devices,1

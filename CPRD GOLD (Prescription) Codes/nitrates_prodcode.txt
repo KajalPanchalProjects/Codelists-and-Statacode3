@@ -1,0 +1,313 @@
+prodcode,prodname,nitrates
+20915,Glyceryl trinitrate 400microgram/dose Pump spray cfc free (PLIVA Pharma Ltd),1
+11189,Glyceryl trinitrate 2.5mg/24hr transdermal patch,1
+6159,Nyzamac SR 60mg capsules (Ethypharm UK Ltd),1
+5894,Percutol 2% ointment (Aspire Pharma Ltd),1
+45845,Glyceryl trinitrate Ointment,1
+4508,Isosorbide dinitrate 30mg tablets,1
+25795,Isocard 30mg/dose transdermal spray (LPC Medical (UK) Ltd),1
+8428,Sorbid-40 SA capsules (AstraZeneca UK Ltd),1
+11969,Suscard Buccal 2mg tablets (Forest Laboratories UK Ltd),1
+27485,Soni-Slo SR 40mg capsules (Lipha Pharmaceuticals Ltd),1
+58079,Isosorbide mononitrate 20mg/5ml oral solution,1
+68163,Glyceryl trinitrate 0.2% ointment (Drug Tariff Special Order),1
+29072,Cedocard iv 1mg/ml Injection (Pharmacia Ltd),1
+58386,Isosorbide mononitrate 20mg tablets (Kent Pharmaceuticals Ltd),1
+6110,Glyceryl trinitrate 2mg modified-release buccal tablets sugar free,1
+65741,Imdur 60mg modified-release tablets (Lexon (UK) Ltd),1
+8651,Suscard buccal 3mg Tablet (Pharmax Ltd),1
+13090,Isosorbide dinitrate 1.25mg/dose sublingual spray sugar free,1
+5638,Percutol 2% w/v Ointment (Dominion Pharma),1
+13553,Sustac 10mg modified-release tablets (Forest Laboratories UK Ltd),1
+17883,Nitrocontin continus 6.4mg Tablet (Viatris Pharmaceuticals Ltd),1
+20879,Isotard 50XL tablets (Kyowa Kirin Ltd),1
+50809,Nitrolingual 400micrograms/dose pump sublingual spray (DE Pharmaceuticals),1
+14731,Isodur 25XL capsules (Galen Ltd),1
+18655,Nitrocontin continus 2.6mg Tablet (Viatris Pharmaceuticals Ltd),1
+55520,Glyceryl trinitrate 500microgram sublingual tablets (Phoenix Healthcare Distribution Ltd),1
+68029,Glyceryl trinitrate 600microgram sublingual tablets (A A H Pharmaceuticals Ltd),1
+15069,Elantan 40mg Tablet (UCB Pharma Ltd),1
+776,Isosorbide mononitrate 60mg modified-release capsules,1
+2991,Glytrin 400microgram/dose Spray (Sanofi),1
+4772,Glyceryl trinitrate 10mg/24hours transdermal patches,1
+70008,Nitronal 50mg/50ml solution for infusion vials (Merck Serono Ltd),1
+15746,Glyceryl trinitrate 500microgram sublingual tablets (A A H Pharmaceuticals Ltd),1
+7317,Coro-Nitro 400micrograms/dose pump sublingual spray (J M Loveridge Ltd),1
+9323,Nitro-dur 2.5mg/24 hr Transdermal patch (Merck Sharp & Dohme Ltd),1
+621,Isosorbide mononitrate 60mg modified-release tablets,1
+60336,Isosorbide mononitrate 10mg tablets (Waymade Healthcare Plc),1
+16940,Zemon 60 XL tablets (Fannin UK Ltd),1
+3909,Coro-nitro 400microgram/dose Pump spray cfc free (Roche Products Ltd),1
+57688,Glyceryl trinitrate 400micrograms/dose aerosol sublingual spray (Sigma Pharmaceuticals Plc),1
+10587,Cedocard Retard 20 tablets (Pfizer Ltd),1
+17571,Trintek 5 transdermal patches (Mercury Pharma Group Ltd),1
+8095,Glyceryl trinitrate 10mg modified-release tablets,1
+18030,Imazin XL forte tablets (Napp Pharmaceuticals Ltd),1
+67486,Isosorbide mononitrate 10mg/5ml oral suspension,1
+53134,Glyceryl trinitrate 400micrograms/dose aerosol sublingual spray (Alliance Healthcare (Distribution) Ltd),1
+15582,Minitran 15 transdermal patches (Meda Pharmaceuticals Ltd),1
+15998,Eumon xl 40mg Tablet (Neo Laboratories Ltd),1
+7760,Glyceryl trinitrate 2.6mg modified-release tablets,1
+4787,Glyceryl trinitrate 2% ointment,1
+19839,Eumon xl 60mg Tablet (Neo Laboratories Ltd),1
+19856,Glyceryl trinitrate 1mg/ml Solution for infusion,1
+26253,Angeze 10 tablets (Opus Pharmaceuticals Ltd),1
+31247,Glyceryl trinitrate 400microgram/dose Spray (Sterwin Medicines),1
+46911,Isosorbide mononitrate 10mg tablets (Kent Pharmaceuticals Ltd),1
+20500,Soni-Slo SR 20mg capsules (Lipha Pharmaceuticals Ltd),1
+8793,Monit SR 40mg tablets (Sanofi-Synthelabo Ltd),1
+9497,Isosorbide dinitrate 40mg modified-release capsules,1
+70995,Isosorbide mononitrate 10mg tablets (Almus Pharmaceuticals Ltd),1
+66733,Glyceryl trinitrate 400micrograms/dose aerosol sublingual spray (Colorama Pharmaceuticals Ltd),1
+8324,Isosorbide mononitrate 50mg modified-release capsules,1
+21382,Aspirin 150mg / Isosorbide mononitrate 60mg modified-release tablets,1
+44179,Imo LA 50mg capsules (Kent Pharmaceuticals Ltd),1
+26246,Angeze 40mg Tablet (Opus Pharmaceuticals Ltd),1
+10459,Cedocard 5 tablets (Pfizer Ltd),1
+7433,Monit LS 10mg tablets (Sanofi-Synthelabo Ltd),1
+71121,Coro-Nitro 400micrograms/dose pump sublingual spray (DE Pharmaceuticals),1
+21380,Aspirin 75mg / Isosorbide mononitrate 60mg modified-release tablets,1
+34951,Isosorbide mononitrate 20mg Tablet (Berk Pharmaceuticals Ltd),1
+56933,Modisal XL 40mg tablets (Ennogen Pharma Ltd),1
+69127,Isosorbide mononitrate 30mg/5ml oral suspension,1
+9335,Isosorbide dinitrate 5mg tablets,1
+2632,Transiderm-Nitro 10 transdermal patches (Novartis Pharmaceuticals UK Ltd),1
+6343,Monomax XL 60mg tablets (Chiesi Ltd),1
+2633,Ismo 10- Tablet (Roche Products Ltd),1
+25100,Modisal LA50 capsules (Sandoz Ltd),1
+28803,Glyceryl trinitrate 5mg/5ml solution for infusion ampoules,1
+6336,Nitro-Dur 0.4mg/hour transdermal patches (Merck Sharp & Dohme Ltd),1
+47814,Isosorbide mononitrate Oral solution,1
+26279,Dynamin 10mg tablets (Teva UK Ltd),1
+57921,Glyceryl trinitrate 0.3% ointment,1
+43421,Isosorbide mononitrate 40mg tablets (IVAX Pharmaceuticals UK Ltd),1
+26221,Angitate 20mg Tablet (Berk Pharmaceuticals Ltd),1
+12284,Mono-cedocard -40 Tablet (Pharmacia Ltd),1
+7702,Sorbitrate 10mg Tablet (AstraZeneca UK Ltd),1
+42472,Glyceryl trinitrate 5mg/ml Concentrate for solution for infusion,1
+22876,Cedocard -40 Tablet (Pharmacia Ltd),1
+2144,Glyceryl trinitrate 500microgram Injection,1
+8539,Sorbichew 5mg Tablet (AstraZeneca UK Ltd),1
+36724,Glyceryl trinitrate 10mg/10ml solution for infusion ampoules,1
+60055,Isosorbide mononitrate 25mg modified-release capsules (Waymade Healthcare Plc),1
+39035,Elantan 20 tablets (UCB Pharma Ltd),1
+58148,Glyceryl trinitrate 400micrograms/dose pump sublingual spray (A A H Pharmaceuticals Ltd),1
+12968,Suscard Buccal 5mg tablets (Forest Laboratories UK Ltd),1
+70396,Glyceryl trinitrate 0.02% ointment,1
+16630,Mono-cedocard -10 Tablet (Pharmacia Ltd),1
+2695,Glyceryl trinitrate 5mg/24hours transdermal patches,1
+33660,Isosorbide mononitrate 60mg Modified-release tablet (Actavis UK Ltd),1
+36181,Dynamin XL50 capsules (Teva UK Ltd),1
+13446,Elantan 20mg Tablet (UCB Pharma Ltd),1
+46910,Isosorbide mononitrate 10mg Tablet (Berk Pharmaceuticals Ltd),1
+56011,Glyceryl trinitrate 400micrograms/dose sublingual spray,1
+779,Isosorbide mononitrate 10mg tablets,1
+57935,Glyceryl trinitrate 400micrograms/dose aerosol sublingual spray (A A H Pharmaceuticals Ltd),1
+41421,Isosorbide mononitrate xl 40mg Tablet (Hillcross Pharmaceuticals Ltd),1
+7746,Ismo 20- Tablet (Roche Products Ltd),1
+4785,Glyceryl trinitrate 400micrograms/dose aerosol sublingual spray,1
+18889,Isoket Retard 20 tablets (Aspire Pharma Ltd),1
+3091,Deponit 5 transdermal patches (Aspire Pharma Ltd),1
+55640,Glyceryl trinitrate 0.4% in White soft paraffin,1
+69343,Glyceryl trinitrate 0.2% in White soft paraffin,1
+47805,Glyceryl trinitrate 500microgram Tablet (Celltech Pharma Europe Ltd),1
+1754,Isosorbide dinitrate 10mg tablets,1
+69391,Glyceryl trinitrate 400micrograms/dose aerosol sublingual spray (Pharma-z Ltd),1
+12063,Isordil Tembids 40mg modified-release capsules (Shire Pharmaceuticals Ltd),1
+33148,Isoket 0.1% solution for infusion 100ml bottles (Schwarz Pharma Ltd),1
+24557,Dynamin XL25 capsules (Teva UK Ltd),1
+20530,Cedocard -20 Tablet (Pharmacia Ltd),1
+46949,Isosorbide mononitrate 60mg Modified-release tablet (Kent Pharmaceuticals Ltd),1
+33991,Glyceryl trinitrate 500microgram sublingual tablets (Actavis UK Ltd),1
+33992,Isosorbide mononitrate 10mg tablets (Teva UK Ltd),1
+38883,Elantan LA25 capsules (Aspire Pharma Ltd),1
+34318,Isosorbide mononitrate 60mg Modified-release tablet (Lagap),1
+15083,Ismo Starter pack (Roche Products Ltd),1
+69521,Isosorbide dinitrate 20mg tablets (Actavis UK Ltd),1
+69126,Isosorbide mononitrate 20mg/5ml oral suspension,1
+1793,Nitrolingual 400microgram/dose Spray (Lipha Pharmaceuticals Ltd),1
+34835,Isosorbide dinitrate 10mg/10ml solution for injection ampoules,1
+7070,Rectogesic 0.4% rectal ointment (Kyowa Kirin Ltd),1
+16256,Modisal LA25 capsules (Sandoz Ltd),1
+41688,Isosorbide mononitrate 20mg tablets (A A H Pharmaceuticals Ltd),1
+38946,Elantan LA50 capsules (Aspire Pharma Ltd),1
+56840,Isoket 0.1% solution for injection 10ml ampoules (Aspire Pharma Ltd),1
+7767,Suscard buccal 5mg Tablet (Pharmax Ltd),1
+53416,Glyceryl trinitrate 400micrograms/dose pump sublingual spray (Actavis UK Ltd),1
+34582,Isosorbide mononitrate 20mg tablets (Mylan),1
+10607,Isordil 5mg tablets (Shire Pharmaceuticals Ltd),1
+28030,Glyceryl trinitrate 400microgram/dose Pump spray (Hillcross Pharmaceuticals Ltd),1
+3645,Glyceryl trinitrate 5mg modified-release buccal tablets sugar free,1
+1184,Glyceryl trinitrate 400microgram/dose Spray,1
+39265,Glyceryl trinitrate 300microgram Tablet (Martindale Pharmaceuticals Ltd),1
+4626,GTN 300microgram sublingual tablets (Martindale Pharmaceuticals Ltd),1
+22726,Monosorb xl 60mg Modified-release tablet (Generics (UK) Ltd),1
+24683,Isib 40mg Tablet (Ashbourne Pharmaceuticals Ltd),1
+22752,Isodur 50XL capsules (Galen Ltd),1
+60826,Isosorbide mononitrate 10mg/5ml oral solution,1
+41060,Ismo Retard 40mg tablets (Intrapharm Laboratories Ltd),1
+18787,Angeze sr 40mg Modified-release capsule (Opus Pharmaceuticals Ltd),1
+41676,Isosorbide mononitrate 20mg tablets (Actavis UK Ltd),1
+41687,Isosorbide mononitrate 20mg tablets (Teva UK Ltd),1
+4887,Nitromin 400micrograms/dose pump sublingual spray (Teva UK Ltd),1
+8804,Sustac 6.4mg modified-release tablets (Forest Laboratories UK Ltd),1
+41887,Nitrocine 50mg/50ml solution for infusion vials (UCB Pharma Ltd),1
+67934,Isosorbide mononitrate 20mg tablets (Waymade Healthcare Plc),1
+11616,Isosorbide mononitrate 50mg modified-release tablets,1
+58133,Isosorbide mononitrate 10mg tablets (Sigma Pharmaceuticals Plc),1
+24671,Isib 50 xl 50mg Modified-release capsule (Ashbourne Pharmaceuticals Ltd),1
+48232,Nitrolingual 400micrograms/dose pump sublingual spray (Merck Serono Ltd),1
+32059,Slomon XL 60 tablets (Zurich Pharmaceuticals),1
+18964,Sorbid-20 SA capsules (AstraZeneca UK Ltd),1
+1994,Isosorbide mononitrate 40mg tablets,1
+28719,Zemon 40 XL tablets (Kent Pharmaceuticals Ltd),1
+20322,Monomil XL 60mg tablets (Teva UK Ltd),1
+1753,Isordil 10mg tablets (Shire Pharmaceuticals Ltd),1
+37028,Isosorbide mononitrate starter pack Tablet,1
+30409,Cibral 20 tablets (Ranbaxy (UK) Ltd),1
+6239,Nitrolingual 400microgram/dose Pump spray cfc free (Merck Serono Ltd),1
+56446,Nitrolingual 400micrograms/dose pump sublingual spray (Waymade Healthcare Plc),1
+42214,Glyceryl trinitrate 600microgram sublingual tablets (Actavis UK Ltd),1
+8367,Suscard buccal 1mg Tablet (Pharmax Ltd),1
+7761,Sustac 2.6mg modified-release tablets (Forest Laboratories UK Ltd),1
+4609,Isosorbide mononitrate 40mg modified-release capsules,1
+47722,Isosorbide dinitrate 10mg/10ml concentrate for solution for injection ampoules (Mercury Pharma Group Ltd),1
+9308,Glyceryl trinitrate 1mg modified-release buccal tablets sugar free,1
+13882,Imazin XL tablets (Napp Pharmaceuticals Ltd),1
+25878,Isosorbide mononitrate 60mg Modified-release tablet (IVAX Pharmaceuticals UK Ltd),1
+72075,Isosorbide dinitrate 20mg Tablet (Forest Laboratories UK Ltd),1
+15581,Minitran 10 transdermal patches (Meda Pharmaceuticals Ltd),1
+5951,Glyceryl trinitrate 0.2% ointment,1
+67335,Elantan 20 tablets (Waymade Healthcare Plc),1
+8601,Nitro-Dur 0.6mg/hour transdermal patches (Merck Sharp & Dohme Ltd),1
+1145,Glyceryl trinitrate 500microgram sublingual tablets,1
+32253,Carmil XL 60mg tablets (Mylan),1
+12017,Sorbitrate 20mg Tablet (AstraZeneca UK Ltd),1
+41014,Glyceryl trinitrate 25mg/5ml solution for infusion ampoules,1
+521,Isosorbide mononitrate 25mg modified-release capsules,1
+26583,Vascardin 30mg Tablet (Nicholas Laboratories Ltd),1
+91,Isosorbide mononitrate 20mg tablets,1
+67321,Elantan 10 tablets (Waymade Healthcare Plc),1
+53170,Glyceryl trinitrate 50mg/50ml solution for infusion vials,1
+32841,Isosorbide mononitrate 10mg tablets (Dexcel-Pharma Ltd),1
+57963,Glyceryl trinitrate 400micrograms/dose pump sublingual spray (Alliance Healthcare (Distribution) Ltd),1
+26043,Monosorb XL 60 tablets (Almus Pharmaceuticals Ltd),1
+15034,Cedocard -10 Tablet (Pharmacia Ltd),1
+34547,Isosorbide dinitrate 10mg tablets (Actavis UK Ltd),1
+54824,Isosorbide mononitrate 10mg tablets (Alliance Healthcare (Distribution) Ltd),1
+53687,Isosorbide mononitrate 25mg modified-release capsules (Alliance Healthcare (Distribution) Ltd),1
+39552,Elantan 40 tablets (UCB Pharma Ltd),1
+56416,Imdur 60mg modified-release tablets (DE Pharmaceuticals),1
+40388,Glyceryl trinitrate 500microgram sublingual tablets (Teva UK Ltd),1
+43615,Tardisc XL 60 tablets (Discovery Pharmaceuticals),1
+9492,Modisal 60 XL tablets (Sandoz Ltd),1
+26271,Angeze sr 60mg Modified-release capsule (Opus Pharmaceuticals Ltd),1
+39135,Ismo 10 tablets (Intrapharm Laboratories Ltd),1
+55089,Nitrolingual 400micrograms/dose pumpspray (Merck Serono Ltd),1
+11596,Xismox XL 60 tablets (Thornton & Ross Ltd),1
+12151,Vascardin 10mg Tablet (Nicholas Laboratories Ltd),1
+4529,Glyceryl trinitrate 400micrograms/dose aerosol sublingual spray (Actavis UK Ltd),1
+43524,Isosorbide dinitrate 10mg tablets (A A H Pharmaceuticals Ltd),1
+47810,Isosorbide mononitrate 40mg Tablet (Lagap),1
+1539,Nitrolingual 400microgram/dose Pump spray cfc free (Lipha Pharmaceuticals Ltd),1
+8902,Elantan la 25mg Capsule (UCB Pharma Ltd),1
+33661,Isosorbide mononitrate 60mg modified-release tablets (A A H Pharmaceuticals Ltd),1
+37242,Glyceryl trinitrate 400micrograms/dose aerosol sublingual spray (Zentiva),1
+26222,Angeze 20 tablets (Opus Pharmaceuticals Ltd),1
+9744,Isoket Retard 40 tablets (Aspire Pharma Ltd),1
+1685,Glyceryl trinitrate 400micrograms/dose pump sublingual spray,1
+41993,Isosorbide dinitrate 40mg Tablet,1
+60935,Coro-Nitro 400micrograms/dose pump sublingual spray (Mawdsley-Brooks & Company Ltd),1
+11978,Isosorbide dinitrate 25mg/50ml infusion bottles,1
+24651,Angitak 1.25mg/dose spray (LPC Medical (UK) Ltd),1
+47950,Isosorbide mononitrate 50mg modified-release capsules (A A H Pharmaceuticals Ltd),1
+6111,Isosorbide dinitrate 40mg modified-release tablets,1
+25175,Monosorb xl 60mg Modified-release tablet (IVAX Pharmaceuticals UK Ltd),1
+8289,Deponit 10 transdermal patches (Aspire Pharma Ltd),1
+61998,Isosorbide dinitrate 20mg tablets (Waymade Healthcare Plc),1
+31475,Jeridin 10mg Tablet (Berk Pharmaceuticals Ltd),1
+14734,Suscard Buccal 3mg tablets (Forest Laboratories UK Ltd),1
+66790,Isosorbide mononitrate 40mg modified-release capsules (CST Pharma Ltd),1
+3646,Minitran 5 transdermal patches (Meda Pharmaceuticals Ltd),1
+8940,Ismo 40 tablets (Roche Products Ltd),1
+33354,Cibral 40 tablets (Ranbaxy (UK) Ltd),1
+63676,Glyceryl trinitrate 0.2% with yellow soft paraffin 50% with 50% ointment,1
+61191,Eumon 60 XL tablets (Tillomed Laboratories Ltd),1
+67810,Imdur 60mg modified-release tablets (Waymade Healthcare Plc),1
+21764,Monodur 60mg Modified-release tablet (Waymade Healthcare Plc),1
+67284,Ismo Retard 40mg tablets (Dowelhurst Ltd),1
+9523,Nitro-Dur 0.2mg/hour transdermal patches (Merck Sharp & Dohme Ltd),1
+7762,Elantan 10 tablets (UCB Pharma Ltd),1
+6821,Isotard 60XL tablets (Kyowa Kirin Ltd),1
+9908,Chemydur 60XL tablets (AMCo),1
+8330,Glyceryl trinitrate 3mg modified-release buccal tablets sugar free,1
+32442,Isosorbide mononitrate 25mg modified-release capsules (A A H Pharmaceuticals Ltd),1
+10700,Isordil 30mg tablets (Shire Pharmaceuticals Ltd),1
+21066,Mono-cedocard -20 Tablet (Pharmacia Ltd),1
+12804,MCR-50 modified-release capsules (Pfizer Ltd),1
+62071,Glyceryl trinitrate 0.05% ointment,1
+60941,Ismo 20 tablets (Waymade Healthcare Plc),1
+65695,Isosorbide mononitrate 25mg modified-release capsules (DE Pharmaceuticals),1
+46798,Isosorbide mononitrate 60mg Modified-release tablet (Sovereign Medical Ltd),1
+2145,Glyceryl trinitrate 300microgram sublingual tablets,1
+57143,Nitrolingual 400micrograms/dose pump sublingual spray (Mawdsley-Brooks & Company Ltd),1
+68384,Elantan LA50 capsules (Mawdsley-Brooks & Company Ltd),1
+25276,Isib 20mg Tablet (Ashbourne Pharmaceuticals Ltd),1
+11585,Glyceryl trinitrate 15mg/24hours transdermal patches,1
+34558,Isosorbide mononitrate 10mg tablets (A A H Pharmaceuticals Ltd),1
+34426,Isosorbide mononitrate 20mg tablets (IVAX Pharmaceuticals UK Ltd),1
+17867,Imtack 1.25mg/actuation Spray (AstraZeneca UK Ltd),1
+26266,Monosorb XL 60 tablets (Dexcel-Pharma Ltd),1
+63621,Glyceryl trinitrate 400micrograms/dose aerosol sublingual spray (Kent Pharmaceuticals Ltd),1
+17256,Isoket -20 Tablet (Schwarz Pharma Ltd),1
+69763,Isosorbide dinitrate 50mg/50ml concentrate for solution for infusion vials (Torbay Pharmaceuticals),1
+52245,Monosorb XL 60 tablets (Kent Pharmaceuticals Ltd),1
+7079,Glyceryl trinitrate 0.4% rectal ointment,1
+2933,Isosorbide dinitrate 20mg tablets,1
+22427,Isosorbide dinitrate 30mg/dose transdermal spray,1
+55984,Nitrocine 10mg/10ml solution for infusion ampoules (Aspire Pharma Ltd),1
+14679,Cibral xl 60mg Tablet (Ranbaxy (UK) Ltd),1
+6099,Monosorb XL 60 tablets (Teva UK Ltd),1
+9622,Cedocard Retard 40 tablets (Pfizer Ltd),1
+9703,Isotard 25XL tablets (Kyowa Kirin Ltd),1
+14685,Monit xl 60 60mg Modified-release tablet (Sterwin Medicines),1
+41737,Isosorbide mononitrate 10mg tablets (IVAX Pharmaceuticals UK Ltd),1
+2631,Transiderm-Nitro 5 transdermal patches (Novartis Pharmaceuticals UK Ltd),1
+14896,Cibral 10 tablets (Ranbaxy (UK) Ltd),1
+4843,Isosorbide dinitrate 20mg modified-release capsules,1
+26260,Angitate 10mg Tablet (Berk Pharmaceuticals Ltd),1
+11957,Isosorbide dinitrate 100mg/100ml solution for infusion bottles,1
+29000,Trintek 15 transdermal patches (Mercury Pharma Group Ltd),1
+7795,Glyceryl trinitrate 600microgram sublingual tablets,1
+8037,Monit 20mg tablets (Sanofi-Synthelabo Ltd),1
+9719,Isib 60XL tablets (Alliance Pharmaceuticals Ltd),1
+34196,Isosorbide mononitrate 10mg tablets (Actavis UK Ltd),1
+26853,Monosorb xl 60mg Modified-release tablet (Ratiopharm UK Ltd),1
+632,Imdur 60mg modified-release tablets (AstraZeneca UK Ltd),1
+1260,Coro-nitro 400microgram/dose Spray (Roche Products Ltd),1
+39052,Cibral XL 60 tablets (Ranbaxy (UK) Ltd),1
+22358,Monigen XL 60 tablets (Mylan),1
+8573,Glyceryl trinitrate 6.4mg modified-release tablets,1
+44712,Relosorb XL 60mg tablets (Relonchem Ltd),1
+7559,Suscard buccal 2mg Tablet (Pharmax Ltd),1
+8790,Isosorbide dinitrate 5mg Sublingual tablet,1
+47803,Isosorbide mononitrate 20mg tablets (Sandoz Ltd),1
+9295,Elantan la 50mg Capsule (UCB Pharma Ltd),1
+52489,Glyceryl trinitrate 0.1% ointment,1
+62154,Glyceryl trinitrate 400micrograms/dose pump sublingual spray (Aspire Pharma Ltd),1
+9088,Ismo retard 40mg Tablet (Roche Products Ltd),1
+54757,Eumon 40 XL tablets (Tillomed Laboratories Ltd),1
+9282,Nyzamac SR 40mg capsules (Ethypharm UK Ltd),1
+70781,Glyceryl trinitrate 400micrograms/dose aerosol sublingual spray (Aspire Pharma Ltd),1
+2619,Isosorbide mononitrate 40mg modified-release tablets,1
+7327,Isosorbide mononitrate 25mg modified-release tablets,1
+67257,Elantan LA50 capsules (Dowelhurst Ltd),1
+4677,Glytrin 400micrograms/dose aerosol sublingual spray (Aspire Pharma Ltd),1
+23011,Isotrate 20mg Tablet (Bioglan Laboratories Ltd),1
+5004,Isosorbide dinitrate 20mg modified-release tablets,1
+26251,Dynamin 20mg tablets (Teva UK Ltd),1
+9660,Isotard 40XL tablets (Kyowa Kirin Ltd),1
+29777,Isotard 25 xl 25mg Modified-release capsule (ProStrakan Ltd),1
+62404,Isosorbide mononitrate 10mg tablets (DE Pharmaceuticals),1
+39130,Ismo 20 tablets (Intrapharm Laboratories Ltd),1
+10147,Trangina XL 60mg tablets (Actavis UK Ltd),1

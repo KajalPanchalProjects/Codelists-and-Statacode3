@@ -1,0 +1,159 @@
+prodcode,prodname,met
+11601,Rosiglitazone 2mg / Metformin 500mg tablets,1
+11604,Rosiglitazone 1mg / Metformin 500mg tablets,1
+11609,Metformin with rosiglitazone 500mg + 1mg Tablet,1
+11610,Metformin with rosiglitazone 500mg + 2mg Tablet,1
+11717,Rosiglitazone 2mg / Metformin 1g tablets,1
+11737,Metformin with rosiglitazone 1000mg + 4mg Tablet,1
+11760,Metformin with rosiglitazone 1000mg + 2mg Tablet,1
+11990,Metformin 500mg/5ml oral solution sugar free,1
+14164,Avandamet 2mg/1000mg tablets (GlaxoSmithKline UK Ltd),1
+16044,Glucophage SR 500mg tablets (Merck Serono Ltd),1
+16213,METFORMIN 250 MG TAB,1
+17580,Avandamet 1mg/500mg tablets (GlaxoSmithKline UK Ltd),1
+18220,Pioglitazone 15mg / Metformin 850mg tablets,1
+20810,METFORMIN,1
+23,Metformin 500mg tablets,1
+25678,Glucamet 500mg Tablet (Opus Pharmaceuticals Ltd),1
+26258,Glucamet 850mg Tablet (Opus Pharmaceuticals Ltd),1
+27501,Orabet 500mg Tablet (Lagap),1
+2928,METFORMIN HCl 850 MG TAB,1
+30316,Metformin with pioglitazone 850mg + 15mg Tablet,1
+31077,Competact 15mg/850mg tablets (Takeda UK Ltd),1
+31146,Metsol 500mg/5ml oral solution (Kappin Ltd),1
+3252,METFORMIN HCl 500 MG TAB,1
+33087,Metformin 500mg tablets (Actavis UK Ltd),1
+33674,Metformin 850mg tablets (A A H Pharmaceuticals Ltd),1
+34004,Metformin 500mg tablets (IVAX Pharmaceuticals UK Ltd),1
+34020,Metformin 850mg tablets (IVAX Pharmaceuticals UK Ltd),1
+34135,Metformin 500mg Tablet (M & A Pharmachem Ltd),1
+34323,Metformin 500mg tablets (A A H Pharmaceuticals Ltd),1
+34504,Metformin 500mg tablets (Wockhardt UK Ltd),1
+34598,Metformin 500mg tablets (Mylan),1
+34697,Metformin 850mg tablets (Wockhardt UK Ltd),1
+34742,Metformin 850mg tablets (Teva UK Ltd),1
+34836,Metformin 850mg tablets (Actavis UK Ltd),1
+34917,Metformin 500mg tablets (Teva UK Ltd),1
+37874,Vildagliptin 50mg / Metformin 850mg tablets,1
+37902,Vildagliptin 50mg / Metformin 1g tablets,1
+38355,Metformin 750mg modified-release tablets,1
+38400,Glucophage SR 750mg tablets (Merck Serono Ltd),1
+38551,Eucreas 50mg/1000mg tablets (Novartis Pharmaceuticals UK Ltd),1
+39203,Eucreas 50mg/850mg tablets (Novartis Pharmaceuticals UK Ltd),1
+39560,Bolamyn SR 500mg tablets (Teva UK Ltd),1
+39598,Metformin 1g modified-release tablets,1
+39729,Glucophage SR 1000mg tablets (Merck Serono Ltd),1
+39988,Metformin 500mg oral powder sachets sugar free,1
+40007,Glucophage 1000mg oral powder sachets (Merck Serono Ltd),1
+40110,Glucophage 500mg oral powder sachets (Merck Serono Ltd),1
+40233,Metformin 1g oral powder sachets sugar free,1
+42161,Orabet 500mg Tablet (Sandoz Ltd),1
+43270,Metformin 500mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd),1
+43619,Metformin 1g / Sitagliptin 50mg tablets,1
+43684,Janumet 50mg/1000mg tablets (Merck Sharp & Dohme Ltd),1
+44250,Metformin 500mg/5ml Oral solution (Hillcross Pharmaceuticals Ltd),1
+45581,Metabet SR 500mg tablets (Morningside Healthcare Ltd),1
+46989,Metabet SR 1000mg tablets (Morningside Healthcare Ltd),1
+47939,Glucient SR 500mg tablets (Consilient Health Ltd),1
+48149,Metformin 500mg tablets (Almus Pharmaceuticals Ltd),1
+49502,Glucophage SR 500mg tablets (Mawdsley-Brooks & Company Ltd),1
+49738,Metformin 1g modified-release tablets (A A H Pharmaceuticals Ltd),1
+50570,Glucophage SR 500mg tablets (Lexon (UK) Ltd),1
+50682,Jentadueto 2.5mg/1000mg tablets (Boehringer Ingelheim Ltd),1
+50821,Metformin 850mg tablets (Pfizer Ltd),1
+50970,Metformin 500mg tablets (Bristol Laboratories Ltd),1
+51080,Metabet SR 1000mg tablets (Actavis UK Ltd),1
+51135,Metformin 500mg modified-release tablets (A A H Pharmaceuticals Ltd),1
+51527,Metformin 500mg tablets (Boston Healthcare Ltd),1
+52221,Diagemet XL 500mg tablets (Thornton & Ross Ltd),1
+52442,Metformin 500mg tablets (Pfizer Ltd),1
+52445,Linagliptin 2.5mg / Metformin 1g tablets,1
+52449,Linagliptin 2.5mg / Metformin 850mg tablets,1
+52634,Glucophage SR 500mg tablets (DE Pharmaceuticals),1
+53478,Metformin 500mg modified-release tablets (Kent Pharmaceuticals Ltd),1
+53774,Metabet SR 500mg tablets (Actavis UK Ltd),1
+53867,Metformin 500mg tablets (Zentiva),1
+54150,Jentadueto 2.5mg/850mg tablets (Boehringer Ingelheim Ltd),1
+54442,Metformin (roi) 1000mg Tablet,1
+54891,Saxagliptin 2.5mg / Metformin 1g tablets,1
+54898,Metformin 850mg tablets (Almus Pharmaceuticals Ltd),1
+54973,Saxagliptin 2.5mg / Metformin 850mg tablets,1
+55270,Duformin 500mg Tablet (Dumex Ltd),1
+55711,Metformin 500mg tablets (Alliance Healthcare (Distribution) Ltd),1
+55739,Metformin 500mg tablets (Tillomed Laboratories Ltd),1
+56965,Komboglyze 2.5mg/1000mg tablets (AstraZeneca UK Ltd),1
+57147,Bolamyn SR 1000mg tablets (Teva UK Ltd),1
+57457,Metformin 500mg tablets (Milpharm Ltd),1
+58051,Metformin 500mg/5ml oral solution,1
+58607,Metformin 500mg/5ml oral solution sugar free (Zentiva),1
+58865,Komboglyze 2.5mg/850mg tablets (AstraZeneca UK Ltd),1
+59385,Vipdomet 12.5mg/1000mg tablets (Takeda UK Ltd),1
+59620,Glucophage SR 500mg tablets (Waymade Healthcare Plc),1
+60012,Dapagliflozin 5mg / Metformin 1g tablets,1
+60074,Metformin 1g modified-release tablets (Waymade Healthcare Plc),1
+60286,Metformin 500mg/5ml oral suspension,1
+60497,Alogliptin 12.5mg / Metformin 1g tablets,1
+60643,Xigduo 5mg/1000mg tablets (AstraZeneca UK Ltd),1
+60968,Metformin 500mg modified-release tablets (Actavis UK Ltd),1
+61043,Sukkarto SR 1000mg tablets (Morningside Healthcare Ltd),1
+61559,Sukkarto SR 500mg tablets (Morningside Healthcare Ltd),1
+62144,Metformin 500mg modified-release tablets (DE Pharmaceuticals),1
+62265,Metformin 500mg modified-release tablets (Mawdsley-Brooks & Company Ltd),1
+62605,Metformin 850mg tablets (Kent Pharmaceuticals Ltd),1
+62824,Metformin 1g modified-release tablets (Actavis UK Ltd),1
+63031,Dapagliflozin 5mg / Metformin 850mg tablets,1
+63045,Metformin 850mg tablets (Relonchem Ltd),1
+63307,Metformin 1g/5ml oral solution,1
+63929,Canagliflozin 50mg / Metformin 1g tablets,1
+64743,Canagliflozin 50mg / Metformin 850mg tablets,1
+64939,Glucient SR 1000mg tablets (Consilient Health Ltd),1
+65057,Empagliflozin 5mg / Metformin 1g tablets,1
+65059,Xigduo 5mg/850mg tablets (AstraZeneca UK Ltd),1
+65066,Empagliflozin 12.5mg / Metformin 1g tablets,1
+65083,Synjardy 5mg/1000mg tablets (Boehringer Ingelheim Ltd),1
+65344,Empagliflozin 5mg / Metformin 850mg tablets,1
+65694,Metformin 500mg modified-release tablets (Waymade Healthcare Plc),1
+65923,Metformin 1g modified-release tablets (Mawdsley-Brooks & Company Ltd),1
+66008,Synjardy 12.5mg/1000mg tablets (Boehringer Ingelheim Ltd),1
+66136,Glucophage SR 1000mg tablets (Waymade Healthcare Plc),1
+66854,Vokanamet 50mg/1000mg tablets (Napp Pharmaceuticals Ltd),1
+66855,Empagliflozin 12.5mg / Metformin 850mg tablets,1
+68203,Metformin 500mg modified-release tablets (Almus Pharmaceuticals Ltd),1
+68214,Metformin 500mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd),1
+68389,Metformin 500mg/5ml oral solution sugar free (Pinewood Healthcare),1
+6855,Avandamet 2mg/500mg tablets (GlaxoSmithKline UK Ltd),1
+68589,Metformin 1g/5ml oral solution sugar free,1
+68636,Metformin 850mg/5ml oral solution sugar free,1
+69221,Metformin 1g oral powder sachets sugar free (J M McGill Ltd),1
+69370,Synjardy 5mg/850mg tablets (Boehringer Ingelheim Ltd),1
+70463,Synjardy 12.5mg/850mg tablets (Boehringer Ingelheim Ltd),1
+70477,Glucient SR 750mg tablets (Consilient Health Ltd),1
+7048,Metformin 500mg modified-release tablets,1
+70744,Metformin 500mg/5ml oral solution sugar free (Focus Pharmaceuticals Ltd),1
+71012,Metformin 500mg tablets (Phoenix Healthcare Distribution Ltd),1
+71198,Metformin 500mg tablets (Zanza Laboratories Ltd),1
+7166,Glucophage 500mg tablets (Merck Serono Ltd),1
+71890,Metformin 500mg/5ml oral solution sugar free (Almus Pharmaceuticals Ltd),1
+72001,Metformin 1g modified-release tablets (DE Pharmaceuticals),1
+72046,Metformin 500mg tablets (DE Pharmaceuticals),1
+72052,Metformin 500mg Tablet (Lagap),1
+72107,Meijumet 500mg modified-release tablets (Medreich Plc),1
+72695,Metformin 500mg Tablet (Celltech Pharma Europe Ltd),1
+7325,Avandamet 4mg/1000mg tablets (GlaxoSmithKline UK Ltd),1
+73252,Yaltormin SR 500mg tablets (Wockhardt UK Ltd),1
+73254,Yaltormin SR 1000mg tablets (Wockhardt UK Ltd),1
+73285,Metformin 500mg tablets (Waymade Healthcare Plc),1
+73303,Metformin 500mg/5ml oral solution sugar free (Colonis Pharma Ltd),1
+73460,Metformin 500mg/5ml oral solution sugar free (Actavis UK Ltd),1
+735,Metformin 100mg/ml Oral solution,1
+73511,Yaltormin SR 750mg tablets (Wockhardt UK Ltd),1
+73525,Metformin 500mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),1
+73673,Metformin 500mg/5ml oral solution sugar free (Sigma Pharmaceuticals Plc),1
+7375,Rosiglitazone 4mg / Metformin 1g tablets,1
+73808,Metformin 500mg/5ml oral solution sugar free (Actavis UK Ltd),1
+73892,Metformin 500mg tablets (Relonchem Ltd),1
+74021,Metformin 250mg/5ml oral solution,1
+74734,Metformin 850mg capsules,1
+7610,Glucophage 850mg tablets (Merck Serono Ltd),1
+7815,METFORMIN 800 MG TAB,1
+93,Metformin 850mg tablets,1

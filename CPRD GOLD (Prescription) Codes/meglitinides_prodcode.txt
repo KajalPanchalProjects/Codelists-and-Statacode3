@@ -1,0 +1,18 @@
+prodcode,prodname,meg
+11316,NovoNorm 500microgram tablets (Novo Nordisk Ltd),1
+11321,NovoNorm 1mg tablets (Novo Nordisk Ltd),1
+11366,NovoNorm 2mg tablets (Novo Nordisk Ltd),1
+11483,Nateglinide 60mg tablets,1
+15955,Starlix 120mg tablets (Novartis Pharmaceuticals UK Ltd),1
+23945,Starlix 60mg tablets (Novartis Pharmaceuticals UK Ltd),1
+27125,Starlix 180mg tablets (Novartis Pharmaceuticals UK Ltd),1
+35561,Prandin 2mg tablets (Novo Nordisk Ltd),1
+36774,Prandin 1mg tablets (Novo Nordisk Ltd),1
+36948,Prandin 0.5mg tablets (Novo Nordisk Ltd),1
+52203,Enyglid 0.5mg tablets (Consilient Health Ltd),1
+5678,Nateglinide 120mg tablets,1
+5989,Nateglinide 180mg tablets,1
+61925,NovoNorm 500microgram tablets (Waymade Healthcare Plc),1
+9707,Repaglinide 1mg tablets,1
+9748,Repaglinide 2mg tablets,1
+9865,Repaglinide 500microgram tablets,1

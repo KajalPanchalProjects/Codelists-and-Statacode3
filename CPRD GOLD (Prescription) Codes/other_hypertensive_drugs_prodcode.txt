@@ -1,0 +1,497 @@
+prodcode,prodname,other_hyper
+1021,Innozide 20mg/12.5mg tablets (Merck Sharp & Dohme Ltd),1
+10253,Moxonidine 300microgram tablets,1
+10316,CoAprovel 150mg/12.5mg tablets (Sanofi),1
+10323,Losartan 100mg / Hydrochlorothiazide 25mg tablets,1
+10627,Co-Betaloc tablets (Pfizer Ltd),1
+10713,Decaserpyl 5mg Tablet (Roussel Laboratories Ltd),1
+10714,Methoserpidine 5mg Tablet,1
+10902,Captopril 50mg with Hydrochlorothiazide 25mg tablets,1
+11133,Hydrochlorothiazide with captopril 25mg with 50mg Tablet,1
+11177,Physiotens 200microgram tablets (Mylan),1
+1124,Tenoretic 100mg/25mg tablets (AstraZeneca UK Ltd),1
+11265,Triamterene 50mg / Furosemide 40mg tablets,1
+11338,Bendroflumethiazide 5mg with Nadolol 40mg tablets,1
+11351,Co-zidocapt 25mg/50mg tablets,1
+11384,Co-flumactone 50mg/50mg tablets,1
+11448,Irbesartan 150mg / Hydrochlorothiazide 12.5mg tablets,1
+11469,Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets,1
+11526,CoAprovel 300mg/12.5mg tablets (Sanofi),1
+11561,Co-zidocapt 12.5mg/25mg tablets,1
+11567,Ramipril 5mg with felodipine 5mg modified-release tablet,1
+11641,Captopril 25mg with Hydrochlorothiazide 12.5mg tablets,1
+11864,Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets,1
+11965,Ramipril 2.5mg with felodipine 2.5mg modified-release tablet,1
+12054,Propranolol 80mg / Bendroflumethiazide 2.5mg capsules,1
+12456,Sotazide Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+1251,Moduret 25 tablets (Merck Sharp & Dohme Ltd),1
+12517,Timolol maleate with bendroflumethiazide 20mg + 5mg Tablet,1
+12546,Kalspare Tablet (Dominion Pharma),1
+12547,Triamterene 50mg / Chlortalidone 50mg tablets,1
+12651,Timolol 10mg / Bendroflumethiazide 2.5mg tablets,1
+1288,Tenoret 50mg/12.5mg tablets (AstraZeneca UK Ltd),1
+1296,Hydralazine 50mg tablets,1
+1297,Aldactide 50 tablets (Pfizer Ltd),1
+1301,Frumil ls 20mg+2.5mg Tablet (Helios Healthcare Ltd),1
+13317,Apresoline 20mg powder for solution for injection ampoules (AMCo),1
+13379,Ismelin 25mg Tablet (Sovereign Medical Ltd),1
+13435,Frumil Forte 10mg/80mg tablets (Sanofi),1
+13526,Atenix Co 100 tablets (Ashbourne Pharmaceuticals Ltd),1
+1369,Furosemide with amiloride 40mg+5mg Tablet,1
+13871,Co-prenozide 160mg/0.25mg modified-release tablets,1
+14126,Acebutolol 200mg / Hydrochlorothiazide 12.5mg tablets,1
+14228,Coversyl Plus tablets (Servier Laboratories Ltd),1
+14283,Valsartan 160mg / Hydrochlorothiazide 25mg tablets,1
+14390,Aldomet 250mg/5ml Liquid (Merck Sharp & Dohme Ltd),1
+14438,Corgaretic 80mg tablets (Sanofi-Synthelabo Ltd),1
+14495,Loniten 10mg tablets (Pfizer Ltd),1
+14587,Amiloride 5mg / Bumetanide 1mg tablets,1
+14738,Hydrochlorothiazide with losartan 12.5mg with 50mg Tablet,1
+14870,Telmisartan 40mg / Hydrochlorothiazide 12.5mg tablets,1
+15031,Accuretic 12.5mg/10mg tablets (Pfizer Ltd),1
+15042,Tolerzide Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+15108,Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets,1
+15117,Nifedipine with atenolol 20mg + 50mg Capsule,1
+15127,Hydrochlorothiazide with triamterene 25mgwith50mg Tablet,1
+15135,Hydrochlorothiazide with captopril 12.5mg with 25mg Tablet,1
+1520,Capozide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+15488,Metoprolol tartrate with chlortalidone Tablet,1
+15493,Reserpine with hydrochlorothiazide tablet,1
+15811,Co-flumactone 25mg/25mg tablets,1
+15874,Amiloride 2.5mg / furosemide 20mg tablets,1
+16060,Valsartan 80mg / Hydrochlorothiazide 12.5mg tablets,1
+16161,Telmisartan 80mg / Hydrochlorothiazide 12.5mg tablets,1
+16248,Clonidine 150micrograms/1ml solution for injection ampoules,1
+16498,Kalspare tablets (DHP Healthcare Ltd),1
+16786,Chlortalidone 25mg with Atenolol 100mg tablets,1
+1684,Beta-Adalat modified-release capsules (Bayer Plc),1
+17006,Triapin 5mg/5mg modified-release tablets (Sanofi),1
+1707,Methyldopa 250mg tablets,1
+17149,Monozide 10 tablets (Wyeth Pharmaceuticals),1
+1721,Dyazide 50mg/25mg tablets (AMCo),1
+17291,Guanethidine 25mg Tablet,1
+17462,Bisoprolol 10mg / Hydrochlorothiazide 6.25mg tablets,1
+17474,Felodipine 5mg modified-release / Ramipril 5mg tablets,1
+17655,Carace 10 Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+17689,MicardisPlus 80mg/12.5mg tablets (Boehringer Ingelheim Ltd),1
+17721,ALDACTIDE 100 MG TAB,1
+17783,Spiroprop Tablet (Pharmacia Ltd),1
+1788,Atenolol 100mg with Chlortalidone 25mg tablets,1
+18200,Olmesartan medoxomil 20mg / Hydrochlorothiazide 12.5mg tablets,1
+18202,MicardisPlus 40mg/12.5mg tablets (Boehringer Ingelheim Ltd),1
+18223,Trandolapril with verapamil 2mg + 180mg Modified-release capsule,1
+18263,Acezide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+18287,Co-Betaloc SA tablets (Pfizer Ltd),1
+18332,Aridil 20mg+2.5mg Tablet (C P Pharmaceuticals Ltd),1
+18361,Amilmaxco 5mg/50mg tablets (Ashbourne Pharmaceuticals Ltd),1
+18497,Amiloride 10mg / furosemide 80mg tablets,1
+18606,Diltiazem and hydrochlorothiazide 150mg+12.5mg modified-release capsules,1
+18726,Triamaxco 50mg/25mg tablets (Ashbourne Pharmaceuticals Ltd),1
+18733,Co-amilozide 5mg with 50mg/ml oral solution,1
+18743,Tenben 25mg/1.25mg capsules (Galen Ltd),1
+18861,Hydralazine 10mg/5ml oral suspension,1
+18903,Olmesartan medoxomil 20mg / Hydrochlorothiazide 25mg tablets,1
+18938,MINOXIDIL 1 % TAB,1
+19003,SPIRONOLACTONE/PROPRANOLOL 50 MG TAB,1
+19055,Chlortalidone 12.5mg with Atenolol 50mg tablets,1
+19142,Bendroflumethiazide 2.5mg with Timolol maleate 10mg tablets,1
+193,Co-amilofruse 2.5mg/20mg tablets,1
+19611,AMILORIDE 5MG/HYDROCHLORTHIAZIDE 50MG,1
+19635,DIXARIT,1
+19687,MODUCREN,1
+19690,Verapamil 180mg modified-release / Trandolapril 2mg capsules,1
+19721,AMILORIDE 5MG/HYDROCHLORTHIAZIDE 50MG,1
+19890,Hydrochlorothiazide with amiloride 25mgwith2.5mg Tablet,1
+19892,Serpasil -esidrex Tablet (Novartis Pharmaceuticals UK Ltd),1
+2001,Aldactide 25 tablets (Pfizer Ltd),1
+2002,Amiloride 5mg / hydrochlorothiazide 50mg tablets,1
+20066,Amil-Co 5mg/50mg tablets (IVAX Pharmaceuticals UK Ltd),1
+20093,Metoprolol 200mg modified-release / Hydrochlorothiazide 25mg tablets,1
+20579,Tarka modified-release capsules (Abbott Laboratories Ltd),1
+20656,Serpasil 250microgram Tablet (Novartis Pharmaceuticals UK Ltd),1
+20690,Reserpine 250micrograms tablet,1
+20808,CATAPRES PERLONGETS,1
+21025,Prestim forte Tablet (LEO Pharma),1
+2104,Rauwiloid 2mg Tablet (3M Health Care Ltd),1
+211,Frumil 40mg+5mg Tablet (Helios Healthcare Ltd),1
+21162,Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets,1
+21182,Hydrochlorothiazide with timolol and amiloride 25mg with 10mg with 2.5mg Tablet,1
+21231,Caralpha 20mg/12.5mg tablets (Actavis UK Ltd),1
+21346,Hydromet Tablet (MSD Thomas Morson Pharmaceuticals),1
+214,HYDRALAZINE 1 MG SYR,1
+21423,Cozaar-Comp 100mg/25mg tablets (Merck Sharp & Dohme Ltd),1
+21502,Serpasil 100microgram Tablet (Novartis Pharmaceuticals UK Ltd),1
+21749,HYDRALAZINE HCl 100 MG TAB,1
+21873,Atenix Co 50 tablets (Ashbourne Pharmaceuticals Ltd),1
+21938,Froop Co 5mg/40mg tablets (Ashbourne Pharmaceuticals Ltd),1
+22466,SERPASIL,1
+2255,Navispare 2.5mg/250microgram tablets (AMCo),1
+22853,Reserpine 100micrograms tablet,1
+22912,Bendroflumethiazide 2.5mg with Propanolol 80mg capsules,1
+22923,Hydrochlorothiazide with amiloride 50mg with 5mg Tablet,1
+23131,Bendroflumethiazide 5mg with Propanolol 160mg modified-release capsules,1
+23134,Nadolol 40mg / Bendroflumethiazide 5mg tablets,1
+23345,Hypercal 2mg Tablet (Carlton Laboratories),1
+23380,Catapres 300microgram tablets (Boehringer Ingelheim Ltd),1
+23456,Hydrochlorothiazide with valsartan 25mg with 160mg Tablet,1
+23505,Adizem xl plus 150mg+12.5mg Modified-release capsule (Napp Pharmaceuticals Ltd),1
+2362,Apresoline 25mg tablets (AMCo),1
+23746,HYDRALAZINE HCl 10 MG TAB,1
+23761,Methyldopa 250mg/5ml oral suspension,1
+24008,Vasetic Tablet (Shire Pharmaceuticals Ltd),1
+24196,Dopamet 250mg Tablet (Berk Pharmaceuticals Ltd),1
+24268,Hydrochlorothiazide with valsartan 12.5mg with 80mg Tablet,1
+24280,Totaretic 100mg+25mg Tablet (C P Pharmaceuticals Ltd),1
+24484,Hydrochlorothiazide with valsartan 12.5mg with 160mg Tablet,1
+24520,HYDROCHLOROTHIAZIDE /METOPROLOL TARTRATE 25 MG TAB,1
+24632,Hydrochlorothiazide with losartan 25mg with 100mg Tablet,1
+24832,Lasipressin Tablet (Hoechst UK Ltd),1
+2493,Burinex A 5mg/1mg tablets (LEO Pharma),1
+2495,Bumetanide with Amiloride tablets,1
+25075,FRUSEMIDE 40MG/AMILORIDE HYD 5MG,1
+25088,CATAPRES,1
+25275,Metalpha 500mg Tablet (Ashbourne Pharmaceuticals Ltd),1
+25289,Dopamet 500mg Tablet (Berk Pharmaceuticals Ltd),1
+25363,Prestim tablets (Meda Pharmaceuticals Ltd),1
+25382,Co-Diovan 160mg/25mg tablets (Novartis Pharmaceuticals UK Ltd),1
+25393,Decaserpyl 10mg Tablet (Roussel Laboratories Ltd),1
+25500,Hypertane 50 Tablet (Schwarz Pharma Ltd),1
+25505,Spiro-co 50mg+50mg Tablet (IVAX Pharmaceuticals UK Ltd),1
+25506,DIAZOXIDE 15 MG INJ,1
+25645,Seominal Tablet (Sterling-Winthrop),1
+25730,Timolol maleate with amiloride and hydrochlorothiazide Tablet,1
+25787,TOTARETIC 100 TAB,1
+25836,METHYLDOPA 200 MG TAB,1
+25887,Eudemine 50mg tablets (Focus Pharmaceuticals Ltd),1
+25965,Co-amilofruse 2.5mg/20mg tablets (Wockhardt UK Ltd),1
+26219,Zida-co 5mg+50mg Tablet (Opus Pharmaceuticals Ltd),1
+26220,Delvas Tablet (Berk Pharmaceuticals Ltd),1
+26248,Tenchlor 100mg/25mg tablets (Teva UK Ltd),1
+2630,Dixarit 25microgram tablets (Boehringer Ingelheim Ltd),1
+2649,METHYLDOPA 250 MG CAP,1
+26529,Furosemide with penbutolol Tablet,1
+26731,TOTARETIC 50 TAB,1
+26741,Totaretic 50mg+12.5mg Tablet (C P Pharmaceuticals Ltd),1
+2680,Apresoline 50mg Tablet (Sovereign Medical Ltd),1
+26919,Methyldopa 50mg/ml Injection,1
+27086,NADOLOL 80MG/BENDROFLUAZIDE 5MG MG TAB,1
+27520,Olmetec Plus 20mg/25mg tablets (Daiichi Sankyo UK Ltd),1
+27602,SERPASIL,1
+2772,Lasoride 5mg/40mg tablets (Sanofi),1
+27883,CATAPRES 15 MCG/ML INJ,1
+27894,CLONIDINE HYDROCHLORIDE,1
+27946,Nadolol 80mg / Bendroflumethiazide 5mg tablets,1
+28129,Co-amilofruse 5mg/40mg tablets (Teva UK Ltd),1
+28157,Kalspare ls Tablet (Dominion Pharma),1
+28177,Hydrochlorothiazide with atenolol and amiloride Capsule,1
+28438,Triapin 2.5mg/2.5mg modified-release tablets (Sanofi),1
+28738,Methyldopa with hydrochlorothiazide Tablet,1
+2878,Clonidine 100microgram tablets,1
+28790,CATAPRES,1
+29187,Methoserpidine 10mg Tablet,1
+29427,Hydrochlorothiazide with metoprolol tartrate 12.5mg with 100mg tablet,1
+29529,Hydroflumethiazide with spironolactone 25mg+25mg Tablet,1
+29570,Dopamet 125mg Tablet (Berk Pharmaceuticals Ltd),1
+2961,Frusene 50mg/40mg tablets (Orion Pharma (UK) Ltd),1
+29634,Olmetec Plus 20mg/12.5mg tablets (Daiichi Sankyo UK Ltd),1
+2967,Minoxidil 5mg tablets,1
+2968,Minoxidil 10mg tablets,1
+29696,Methoserpidine with benzthiazide Tablet,1
+2970,Minoxidil 2.5mg tablets,1
+2982,Zestoretic 20- 20mg+12.5mg Tablet (AstraZeneca UK Ltd),1
+29976,SOTAZIDE,1
+30034,CHLOROTHIAZIDE / SPIRONOLACTONE 100 MG POW,1
+30035,CHLOROTHIAZIDE 40MG /SPIRONOLACTONE 4MG POW,1
+30127,Ismelin 10mg/ml Injection (Sovereign Medical Ltd),1
+30129,Abicol Tablet (Knoll Ltd),1
+30272,Benthiazide with Triamterene capsules,1
+30293,Catapres 150micrograms/1ml solution for injection ampoules (Boehringer Ingelheim Ltd),1
+30365,CHLOROTHIAZIDE/SPIRONOLACTONE/LACTOSE MG POW,1
+30367,CHLOROTHIAZIDE 60MG / SPIRONOLACTONE 6MG POW,1
+30368,CHLOROTHIAZIDE/SPIRONOLACTONE SACHETS 100 MG,1
+3049,Methyldopa 125mg tablets,1
+3050,Furosemide with triamterene 40mgwith50mg Tablet,1
+30519,Amiloride with timolol with hydrochlorothiazide tablets,1
+30592,CHLOROTHIAZIDE / SPIRONOLACTONE / GLUCOS 60 MG POW,1
+3070,Methyldopa 500mg tablets,1
+30773,Co-amilofruse 5mg+40mg Tablet (Berk Pharmaceuticals Ltd),1
+31080,Guanethidine 10mg/1ml solution for injection ampoules,1
+31131,Spiro-co 25mg+25mg Tablet (IVAX Pharmaceuticals UK Ltd),1
+31150,Co-amilozide 5mg/50mg tablets (IVAX Pharmaceuticals UK Ltd),1
+31220,Hydralazine 25mg tablets (A A H Pharmaceuticals Ltd),1
+31417,Diazoxide 50mg/ml oral solution,1
+31470,Tenchlor 50mg/12.5mg tablets (Teva UK Ltd),1
+31708,Co-tenidone 50mg/12.5mg tablets (Actavis UK Ltd),1
+31773,Co-amilofruse 5mg/40mg tablets (Wockhardt UK Ltd),1
+31971,HYDRALAZINE 6.25 MG SYR,1
+3203,Capozide LS Tablet (E R Squibb and Sons Ltd),1
+32094,Co-tenidone 50mg/12.5mg tablets (A A H Pharmaceuticals Ltd),1
+32166,Capto-co 25mg+50mg Tablet (IVAX Pharmaceuticals UK Ltd),1
+32267,Diazoxide 300mg/20ml solution for injection ampoules,1
+32913,Methyldopa 250mg tablets (Actavis UK Ltd),1
+3293,Moduretic Oral solution (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+33093,Clonidine 25microgram tablets (Sandoz Ltd),1
+33322,Moxonidine 200microgram tablets (Sandoz Ltd),1
+33353,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),1
+33527,Co-amilofruse 5mg/40mg tablets (Mylan),1
+33658,Co-amilofruse 5mg/40mg tablets (A A H Pharmaceuticals Ltd),1
+33659,Hydrochlorothiazide with metoprolol tartrate 25mg with 200mg Modified-release tablet,1
+338,Clonidine 25microgram tablets,1
+34012,Co-tenidone 100mg/25mg tablets (IVAX Pharmaceuticals UK Ltd),1
+34034,Co-tenidone 50mg/12.5mg tablets (IVAX Pharmaceuticals UK Ltd),1
+34280,Co-amilofruse 2.5mg/20mg tablets (Sandoz Ltd),1
+34367,Co-amilozide 2.5mg/25mg tablets (Wockhardt UK Ltd),1
+34449,Co-tenidone 50mg/12.5mg tablets (Mylan),1
+34622,Co-amilofruse 10mg/80mg tablets (Wockhardt UK Ltd),1
+348,Moduretic Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+34825,Co-tenidone 50mg/12.5mg tablets (Teva UK Ltd),1
+34899,Co-tenidone 100mg/25mg tablets (A A H Pharmaceuticals Ltd),1
+35096,Exforge 10mg/160mg tablets (Novartis Pharmaceuticals UK Ltd),1
+35173,Valsartan 160mg with amlodipine 5mg tablets,1
+35174,Valsartan 80mg with amlodipine 5mg tablets,1
+35189,Amlodipine 10mg / Valsartan 160mg tablets,1
+35196,CoAprovel 300mg/25mg tablets (Sanofi),1
+3526,Amiloride with atenolol with hydrochlorothiazide capsules,1
+35304,Valsartan 160mg with amlodipine 10mg tablets,1
+35317,Exforge 5mg/80mg tablets (Novartis Pharmaceuticals UK Ltd),1
+35329,Amlodipine 5mg / Valsartan 80mg tablets,1
+35343,Amlodipine 5mg / Valsartan 160mg tablets,1
+35380,Hydrochlorothiazide with olmesartan medoxomil 12.5mg with 20mg tablet,1
+35481,Irbesartan 300mg / Hydrochlorothiazide 25mg tablets,1
+35697,Exforge 5mg/160mg tablets (Novartis Pharmaceuticals UK Ltd),1
+35960,Diazoxide 50mg/5ml oral suspension,1
+36612,Sodium nitroprusside 50mg powder for solution for infusion vials,1
+3691,Sotalol 160mg with hydrochlorothiazide 25mg tablet,1
+3701,Amiloride 2.5mg / hydrochlorothiazide 25mg tablets,1
+37294,Triamterene with chlortalidone 50mg + 25mg Tablet,1
+37650,Losartan 100mg / Hydrochlorothiazide 12.5mg tablets,1
+37710,Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),1
+37725,Co-tenidone 100mg/25mg tablets (Mylan),1
+37747,Cozaar-Comp 100mg/12.5mg tablets (Merck Sharp & Dohme Ltd),1
+37908,Coversyl Arginine Plus 5mg/1.25mg tablets (Servier Laboratories Ltd),1
+3793,Co-amilofruse 10mg/80mg tablets,1
+37978,Perindopril arginine 5mg / Indapamide 1.25mg tablets,1
+38367,Hydrochlorothiazide with losartan 12.5mg with 100mg Tablet,1
+38459,Telmisartan 80mg / Hydrochlorothiazide 25mg tablets,1
+38889,MicardisPlus 80mg/25mg tablets (Boehringer Ingelheim Ltd),1
+38901,Frumil LS 20mg/2.5mg tablets (Sanofi),1
+38995,Zestoretic 20 tablets (AstraZeneca UK Ltd),1
+3902,FRUSEMIDE 20MG/SPIRONOLACTONE 50MG MG CAP,1
+39021,Hydrochlorothiazide with olmesartan medoxomil 25mg with 20mg tablet,1
+39137,Zestoretic 10 tablets (AstraZeneca UK Ltd),1
+39147,Carace 20 Plus tablets (Merck Sharp & Dohme Ltd),1
+39227,Capozide LS 12.5mg/25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+39242,Carace 10 Plus tablets (Merck Sharp & Dohme Ltd),1
+3962,TRIAMTERENE 50MG HYDROCHLOROTHIAZIDE25MG TAB,1
+39807,Frumil 40mg/5mg tablets (Sanofi),1
+39956,Diazoxide 250mg/5ml oral suspension,1
+39984,Sevikar 20mg/5mg tablets (Daiichi Sankyo UK Ltd),1
+40310,Moxonidine 200microgram tablets (Teva UK Ltd),1
+40316,Olmesartan medoxomil 20mg / Amlodipine 5mg tablets,1
+4034,Amiloride 5mg / hydrochlorothiazide 50mg/5ml solution,1
+40639,Olmesartan medoxomil 40mg / Amlodipine 5mg tablets,1
+40668,Olmesartan medoxomil 40mg / Amlodipine 10mg tablets,1
+41203,Sevikar 40mg/10mg tablets (Daiichi Sankyo UK Ltd),1
+41205,Sevikar 40mg/5mg tablets (Daiichi Sankyo UK Ltd),1
+41533,Co-amilofruse 2.5mg/20mg tablets (Teva UK Ltd),1
+41556,Co-amilozide 5mg/50mg tablets (Teva UK Ltd),1
+41572,Co-tenidone 100mg/25mg tablets (Teva UK Ltd),1
+41639,Hydralazine 50mg tablets (Actavis UK Ltd),1
+41661,Methyldopa 250mg Tablet (C P Pharmaceuticals Ltd),1
+41719,Co-amilofruse 5mg/40mg tablets (Actavis UK Ltd),1
+41889,TRIAMTERENE 50MG HYDROCHLOROTHIAZIDE25MG,1
+41892,METOPROLOL 100MG/HYDROCHLOROTHIAZ.12.5MG,1
+41894,RESERPINE/BENDROFLUAZIDE 150 MCG TAB,1
+41897,CO-BETALOC,1
+4211,Furosemide with amiloride 20mg+2.5mg Tablet,1
+42142,Moduretic 5mg/50mg tablets (Merck Sharp & Dohme Ltd),1
+4215,Catapres 100microgram tablets (Boehringer Ingelheim Ltd),1
+42677,Diazoxide 250mg/5ml oral solution,1
+43322,Olmesartan medoxomil 40mg / Hydrochlorothiazide 12.5mg tablets,1
+43500,Hydralazine 25mg tablets (Actavis UK Ltd),1
+43508,Co-amilofruse 5mg/40mg tablets (Sandoz Ltd),1
+43531,Moxonidine 400microgram tablets (Sandoz Ltd),1
+43915,Olmetec Plus 40mg/12.5mg tablets (Daiichi Sankyo UK Ltd),1
+43988,Aldomet 250mg tablets (Aspen Pharma Trading Ltd),1
+43989,Aldomet 500mg tablets (Aspen Pharma Trading Ltd),1
+4406,Decaserpyl plus Tablet (Roussel Laboratories Ltd),1
+4429,Trasidrex modified-release tablets (Mercury Pharma Group Ltd),1
+4507,HYDRALAZINE HCl 12.5 MG TAB,1
+4540,Cozaar-Comp 50mg/12.5mg tablets (Merck Sharp & Dohme Ltd),1
+4542,Atenolol 50mg / Nifedipine 20mg modified-release capsules,1
+45578,Clonidine 25microgram tablets (A A H Pharmaceuticals Ltd),1
+45916,Hydroflumethiazide with spironolactone 50mg+50mg Tablet,1
+4605,Moducren tablets (Merck Sharp & Dohme Ltd),1
+46355,Sevikar HCT 20mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd),1
+4661,Spironolactone 50mg / Furosemide 20mg capsules,1
+46687,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 20mg + 5mg + 12.5mg Tablet,1
+46715,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 12.5mg Tablet,1
+46792,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 12.5mg Tablet,1
+46916,Co-amilozide 5mg/50mg tablets (A A H Pharmaceuticals Ltd),1
+46952,Co-tenidone 100mg/25mg tablets (Actavis UK Ltd),1
+47467,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 25mg Tablet,1
+47573,Sevikar HCT 40mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd),1
+47616,Sevikar HCT 40mg/10mg/12.5mg tablets (Daiichi Sankyo UK Ltd),1
+47647,Co-amilofruse oral liquid,1
+47727,Sevikar HCT 40mg/5mg/25mg tablets (Daiichi Sankyo UK Ltd),1
+47804,Co-triamterzide 50mg/25mg tablets (A A H Pharmaceuticals Ltd),1
+4796,Inderetic 80mg/2.5mg capsules (AstraZeneca UK Ltd),1
+48039,Losartan 100mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),1
+48098,Perindopril arginine 4mg with Indapamide 1.25mg tablet,1
+48189,Ismelin 10mg/1ml solution for injection ampoules (Amdipharm Plc),1
+4873,Fru-Co 5mg/40mg tablets (Teva UK Ltd),1
+48745,Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets,1
+49684,Clonidine 100micrograms/24hours transdermal patches,1
+4983,Atenolol with amiloride and hydrochlorothiazide capsules,1
+4993,Moxonidine 200microgram tablets,1
+504,Hydralazine 20mg powder for solution for injection ampoules,1
+50607,Perindopril arginine 2mg with Indapamide 625 micrograms tablet,1
+51018,Diazoxide 50mg/5ml oral solution,1
+51258,Coversyl Arginine Plus 5mg/1.25mg tablets (DE Pharmaceuticals),1
+5189,Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets,1
+52145,Cyclopenthiazide 0.25mg with oxprenolol 160mg modified-release tablets,1
+52189,Losartan 100mg / Hydrochlorothiazide 25mg tablets (A A H Pharmaceuticals Ltd),1
+5220,Furosemide with amiloride 80mg+10mg Tablet,1
+52555,Clonidine 50micrograms/5ml oral solution,1
+52728,Beta-Adalat modified-release capsules (Lexon (UK) Ltd),1
+52858,Co-Diovan 80mg/12.5mg tablets (Sigma Pharmaceuticals Plc),1
+5289,Clonidine 250microgram modified-release capsules,1
+53142,Clonidine 50micrograms/5ml oral suspension,1
+53220,Sevikar HCT 40mg/10mg/25mg tablets (Daiichi Sankyo UK Ltd),1
+5330,Corgaretic 40mg tablets (Sanofi-Synthelabo Ltd),1
+5416,Co-triamterzide 50mg/25mg tablets,1
+54201,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Almus Pharmaceuticals Ltd),1
+54340,Diazoxide 10mg/5ml oral solution,1
+54467,Clonidine 300micrograms/24hours transdermal patches,1
+55050,CHLOROTHIAZIDE/SPIRONOLACTONE/LACT SACH 50 MG,1
+55160,Cozaar-Comp 50mg/12.5mg tablets (Sigma Pharmaceuticals Plc),1
+55358,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 25mg Tablet,1
+55399,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (A A H Pharmaceuticals Ltd),1
+55797,Clonidine 25micrograms/5ml oral solution,1
+55989,Diazoxide 25mg/5ml oral solution,1
+56,Co-amilofruse 5mg/40mg tablets,1
+56157,Perindopril tosilate 5mg / Indapamide 1.25mg tablets,1
+56204,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (Actavis UK Ltd),1
+56244,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Tillomed Laboratories Ltd),1
+56975,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (A A H Pharmaceuticals Ltd),1
+5721,Co-tenidone 100mg/25mg tablets,1
+5727,Amiloride 2.5mg / Cyclopenthiazide 250microgram tablets,1
+573,Hydralazine 25mg tablets,1
+57539,Zestoretic 10 tablets (Sigma Pharmaceuticals Plc),1
+57796,Cozaar-Comp 50mg/12.5mg tablets (DE Pharmaceuticals),1
+57908,Co-amilofruse 5mg/40mg tablets (Kent Pharmaceuticals Ltd),1
+58090,Clonidine 75micrograms/5ml oral solution,1
+581,Atenolol 50mg with Chlortalidone 12.5mg tablets,1
+58529,Clonidine 200micrograms/24hours transdermal patches,1
+59412,Co-amilofruse 5mg/40mg tablets (Waymade Healthcare Plc),1
+59512,Hydralazine 50mg/5ml oral solution,1
+60007,Generic Sevikar HCT 40mg/10mg/12.5mg tablets,1
+60067,Perindopril erbumine 4mg / Amlodipine 5mg tablets,1
+60089,Clonidine 25microgram tablets (Waymade Healthcare Plc),1
+60136,Clonidine 100micrograms/5ml oral solution,1
+60258,Co-amilofruse 2.5mg/20mg tablets (Aurobindo Pharma Ltd),1
+60354,Co-amilozide 2.5mg/25mg tablets (Kent Pharmaceuticals Ltd),1
+60684,Perindopril erbumine 4mg / Amlodipine 10mg tablets,1
+60744,Perindopril erbumine 8mg / Amlodipine 5mg tablets,1
+60780,Generic Sevikar HCT 20mg/5mg/12.5mg tablets,1
+60898,Moxonidine 200microgram tablets (Mylan),1
+61036,Physiotens 300microgram tablets (Actavis UK Ltd),1
+61116,Hydralazine 50mg/5ml oral suspension,1
+61256,Clonidine 5micrograms/5ml oral suspension,1
+61710,Clonidine 25microgram tablets (Teva UK Ltd),1
+61719,Beta-Adalat modified-release capsules (Waymade Healthcare Plc),1
+62249,Co-amilozide 5mg/50mg tablets (Alliance Healthcare (Distribution) Ltd),1
+62337,Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets (Actavis UK Ltd),1
+62376,Actelsar HCT 80mg/12.5mg tablets (Actavis UK Ltd),1
+62513,Methyldopa 250mg tablets (Sovereign Medical Ltd),1
+62537,Co-tenidone 100mg/25mg tablets (DE Pharmaceuticals),1
+6265,Diazoxide 50mg tablets,1
+62700,Co-amilozide 5mg/50mg tablets (Phoenix Healthcare Distribution Ltd),1
+62853,Moxonidine 200microgram tablets (A A H Pharmaceuticals Ltd),1
+62911,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),1
+63149,Perindopril erbumine 8mg / Amlodipine 10mg tablets,1
+6359,Zestoretic 10- 10mg+12.5mg Tablet (AstraZeneca UK Ltd),1
+63652,Hydralazine Tablet,1
+63890,MicardisPlus 80mg/12.5mg tablets (Waymade Healthcare Plc),1
+63938,Moxonidine 300microgram tablets (Sandoz Ltd),1
+63971,Clonidine 25microgram tablets (Sigma Pharmaceuticals Plc),1
+64253,Hydralazine 5mg/5ml oral suspension,1
+64284,Dixarit 25microgram tablets (Lexon (UK) Ltd),1
+6437,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets,1
+6468,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets,1
+65386,Proglycem 250mg/5ml oral suspension (Imported (United States)),1
+66016,Intuniv 1mg modified-release tablets (Shire Pharmaceuticals Ltd),1
+66388,Intuniv 3mg modified-release tablets (Shire Pharmaceuticals Ltd),1
+66429,Intuniv 4mg modified-release tablets (Shire Pharmaceuticals Ltd),1
+66598,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (Lupin (Europe) Ltd),1
+66936,Intuniv 2mg modified-release tablets (Shire Pharmaceuticals Ltd),1
+6694,Clonidine 300microgram tablets,1
+66997,MicardisPlus 40mg/12.5mg tablets (Waymade Healthcare Plc),1
+67005,Guanfacine 1mg modified-release tablets,1
+67200,Clonidine 10micrograms/5ml oral solution,1
+67516,Guanfacine 2mg modified-release tablets,1
+67664,Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),1
+67665,Moxonidine 400microgram tablets (Actavis UK Ltd),1
+67675,Guanfacine 4mg modified-release tablets,1
+67767,Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets (Almus Pharmaceuticals Ltd),1
+67801,Dyazide 50mg/25mg tablets (Lexon (UK) Ltd),1
+67808,Physiotens 200microgram tablets (Actavis UK Ltd),1
+6786,Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets,1
+6794,Perindopril erbumine 4mg / Indapamide 1.25mg tablets,1
+68020,Beta-Adalat modified-release capsules (Sigma Pharmaceuticals Plc),1
+68529,Guanfacine 3mg modified-release tablets,1
+6877,Co-Diovan 160mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd),1
+69334,Bendroflumethiazide 5mg with Nadolol 80mg tablets,1
+70655,Hydralazine 25mg/5ml oral suspension,1
+7066,Metoprolol 100mg / Hydrochlorothiazide 12.5mg tablets,1
+70754,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (Ranbaxy (UK) Ltd),1
+70922,Losartan 100mg / Hydrochlorothiazide 12.5mg tablets (Phoenix Healthcare Distribution Ltd),1
+71097,Hydralazine 50mg tablets (Almus Pharmaceuticals Ltd),1
+71110,Aldomet 500mg tablets (Sigma Pharmaceuticals Plc),1
+71115,Zestoretic 10 tablets (Waymade Healthcare Plc),1
+71256,Hydralazine 20mg powder for concentrate for solution for injection ampoules (AMCo),1
+71348,Frumil 40mg/5mg tablets (Waymade Healthcare Plc),1
+7136,Dytide capsules (Mercury Pharma Group Ltd),1
+71377,Frumil LS 20mg/2.5mg tablets (Waymade Healthcare Plc),1
+71385,Aldomet 250mg tablets (Sigma Pharmaceuticals Plc),1
+71618,Losartan 100mg / Hydrochlorothiazide 12.5mg tablets (A A H Pharmaceuticals Ltd),1
+71682,Losartan 100mg / Hydrochlorothiazide 25mg tablets (Mawdsley-Brooks & Company Ltd),1
+7174,Moxonidine 400microgram tablets,1
+71748,Actelsar HCT 80mg/25mg tablets (Actavis UK Ltd),1
+7416,Aldomet 50mg/ml Injection (Merck Sharp & Dohme Ltd),1
+7441,Lasilactone 20mg/50mg capsules (Sanofi),1
+7543,Kalten capsules (M & A Pharmachem Ltd),1
+7626,Aldomet 250mg Tablet (Merck Sharp & Dohme Ltd),1
+764,Co-Diovan 80mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd),1
+7642,Aldomet 500mg Tablet (Merck Sharp & Dohme Ltd),1
+7740,Triamterene 50mg / Benzthiazide 25mg capsules,1
+7922,Ismelin 10mg Tablet (Sovereign Medical Ltd),1
+7923,Guanethidine 10mg Tablet,1
+7961,Spironolactone 50mg with hydroflumethiazide 50mg tablet,1
+8033,Aldomet 125mg Tablet (Merck Sharp & Dohme Ltd),1
+8058,Normetic Tablet (Abbott Laboratories Ltd),1
+8061,Sotalol 80mg with hydrochlorothiazide 12.5mg tablet,1
+8147,Lopresoretic Tablet (Novartis Pharmaceuticals UK Ltd),1
+8189,Secadrex 200mg/12.5mg tablets (Sanofi),1
+8296,Catapres PL Perlongets 250microgram capsules (Boehringer Ingelheim Ltd),1
+8369,Inderex 160mg/5mg modified-release capsules (AstraZeneca UK Ltd),1
+8521,Spironolactone 25mg with hydroflumethiazide 25mg tablet,1
+8623,Prestim Tablet (ICN Pharmaceuticals France S.A.),1
+8642,Tenif 50mg/20mg modified-release capsules (AstraZeneca UK Ltd),1
+8673,Oxprenolol with cyclopenthiazide 160mg+0.25mg Modified-release tablet,1
+8788,TIMOLOL 10MG/BENDROFLUAZIDE 2.5MG TAB,1
+8897,Triam-Co 50mg/25mg tablets (IVAX Pharmaceuticals UK Ltd),1
+8987,Propranolol 160mg modified-release / Bendroflumethiazide 5mg capsules,1
+9178,Atenolol 25mg / Bendroflumethiazide 1.25mg capsules,1
+9223,Triamterene with hydrochlorothiazide 50mg + 25mg Tablet,1
+9225,Methyldopa 250mg Capsule,1
+923,Co-amilozide 5mg/50mg tablets,1
+924,Co-amilozide 2.5mg/25mg tablets,1
+9431,Frusemek 40mg+5mg Tablet (Approved Prescription Services Ltd),1
+9456,Amiloride 5mg / furosemide 40mg tablets,1
+9463,Loniten 5mg tablets (Pfizer Ltd),1
+9697,Loniten 2.5mg tablets (Pfizer Ltd),1
+9749,Physiotens 400microgram tablets (Mylan),1
+9764,Carace 20 Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),1
+9783,Co-tenidone 50mg/12.5mg tablets,1
+9876,Physiotens 300microgram tablets (Mylan),1

@@ -1,0 +1,531 @@
+prodcode,prodname,ace
+65,lisinopril 10mg tablets,1
+69,lisinopril 20mg tablets,1
+78,lisinopril 5mg tablets,1
+80,ramipril 5mg capsules,1
+82,ramipril 10mg capsules,1
+97,perindopril erbumine 4mg tablets,1
+147,ramipril 1.25mg capsules,1
+196,enalapril 5mg tablets,1
+217,captopril 4 mg/ml liq,1
+277,lisinopril 2.5mg tablets,1
+448,enalapril 2.5mg tablets,1
+593,perindopril erbumine 2mg tablets,1
+633,fosinopril 10mg tablets,1
+654,ramipril 2.5/5mg/10mg capsule,1
+709,ramipril 2.5mg capsules,1
+756,ramipril 10mg tablets,1
+761,ramipril 1.25mg tablets,1
+1021,innozide 20mg/12.5mg tablets (merck sharp & dohme ltd),1
+1121,captopril 12.5mg tablets,1
+1143,captopril 25mg tablets,1
+1144,capoten 25mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+1299,enalapril 10mg tablets,1
+1520,capozide 25mg/50mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+1807,captopril 50mg tablets,1
+1904,enalapril 20mg tablets,1
+2927,perindopril/tert-butylamine 2 mg tab,1
+2982,zestoretic 20- 20mg+12.5mg tablet (astrazeneca uk ltd),1
+3069,acepril 25mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+3203,capozide ls tablet (e r squibb and sons ltd),1
+3310,capoten 12.5mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+3509,enalapril maleate 40 mg tab,1
+3720,zestril 2.5mg tablets (astrazeneca uk ltd),1
+3839,capoten 50mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+3929,quinapril 10mg tablets,1
+4103,trandolapril 1mg capsules,1
+4571,staril 10mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+5047,trandolapril 2mg capsules,1
+5159,quinapril 20mg tablets,1
+5189,enalapril 20mg / hydrochlorothiazide 12.5mg tablets,1
+5275,tritace 2.5mg capsules (sanofi),1
+5612,coversyl 2mg tablets (servier laboratories ltd),1
+5735,tritace 5mg capsules (sanofi),1
+5800,coversyl 4mg tablets (servier laboratories ltd),1
+5861,fosinopril 20mg tablets,1
+6078,perindopril erbumine 8mg tablets,1
+6200,tritace titration pack capsules (sanofi),1
+6261,tritace 1.25mg tablets (sanofi),1
+6288,ramipril 5mg tablets,1
+6314,ramipril 2.5mg tablets,1
+6359,zestoretic 10- 10mg+12.5mg tablet (astrazeneca uk ltd),1
+6362,tritace 5mg tablets (sanofi),1
+6364,tritace 2.5mg tablets (sanofi),1
+6408,tanatril 5mg tablets (mitsubishi tanabe pharma europe ltd),1
+6468,lisinopril 20mg / hydrochlorothiazide 12.5mg tablets,1
+6765,quinapril 5mg tablets,1
+6786,lisinopril 10mg / hydrochlorothiazide 12.5mg tablets,1
+6794,perindopril erbumine 4mg / indapamide 1.25mg tablets,1
+6806,zestril 10mg tablets (astrazeneca uk ltd),1
+6807,zestril 5mg tablets (astrazeneca uk ltd),1
+7314,accupro 5mg tablets (pfizer ltd),1
+7419,trandolapril 500microgram capsules,1
+8025,gopten 1mg capsules (abbott laboratories ltd),1
+8026,gopten 2mg capsules (abbott laboratories ltd),1
+8105,innovace 20mg tablets (merck sharp & dohme ltd),1
+8106,innovace 2.5mg tablets (merck sharp & dohme ltd),1
+8268,zestril 20mg tablets (astrazeneca uk ltd),1
+8800,innovace 5mg tablets (merck sharp & dohme ltd),1
+8830,innovace 10mg tablets (merck sharp & dohme ltd),1
+8923,captopril 100 mg tab,1
+9646,tritace 1.25mg capsules (aventis pharma),1
+9693,tritace 10mg capsules (sanofi),1
+9731,quinapril 40mg tablets,1
+9764,carace 20 tablet (bristol-myers squibb pharmaceuticals ltd),1
+9915,tritace 10mg tablets (sanofi),1
+9948,trandolapril 4mg capsules,1
+10882,carace 2.5mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+10902,captopril 50mg with hydrochlorothiazide 25mg tablets,1
+11133,hydrochlorothiazide with captopril 25mg with 50mg tablet,1
+11197,innovace melt 5mg wafer (merck sharp & dohme ltd),1
+11351,co-zidocapt 25mg/50mg tablets,1
+11561,co-zidocapt 12.5mg/25mg tablets,1
+11567,ramipril 5mg with felodipine 5mg modified-release tablet,1
+11641,captopril 25mg with hydrochlorothiazide 12.5mg tablets,1
+11937,ramipril 2.5mg/5ml oral suspension,1
+11965,ramipril 2.5mg with felodipine 2.5mg modified-release tablet,1
+11983,perindopril erbumine 4mg/5ml oral suspension,1
+11987,lisinopril 5mg/5ml oral solution,1
+12313,carace 20mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+12411,cilazapril 500microgram tablets,1
+12412,cilazapril 2.5mg tablets,1
+12574,cilazapril 1mg tablets,1
+12815,tanatril 10mg tablets (mitsubishi tanabe pharma europe ltd),1
+12858,imidapril 10mg tablets,1
+13026,cilazapril 5mg tablets,1
+13589,staril 20mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+13755,enalapril 10mg wafer,1
+14228,coversyl plus tablets (servier laboratories ltd),1
+14387,carace 5mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+14477,accupro 10mg tablets (pfizer ltd),1
+14478,accupro 20mg tablets (pfizer ltd),1
+14960,coversyl 8mg tablets (servier laboratories ltd),1
+15031,accuretic 12.5mg/10mg tablets (pfizer ltd),1
+15085,innovace titration pack (merck sharp & dohme ltd),1
+15096,accupro 40mg tablets (pfizer ltd),1
+15108,quinapril 10mg / hydrochlorothiazide 12.5mg tablets,1
+15121,moexipril 7.5mg tablets,1
+15135,hydrochlorothiazide with captopril 12.5mg with 25mg tablet,1
+15605,cilazapril 250micrograms tablets,1
+15958,captopril 2mg tablets,1
+16196,vascace 5mg tablets (roche products ltd),1
+16197,vascace 2.5mg tablets (roche products ltd),1
+16212,vascace 1mg tablets (roche products ltd),1
+16701,carace 10mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+16708,enalapril titration pack,1
+16710,gopten 500microgram capsules (abbott laboratories ltd),1
+16924,imidapril 5mg tablets,1
+17006,triapin 5mg/5mg modified-release tablets (sanofi),1
+17120,moexipril 15mg tablets,1
+17474,felodipine 5mg modified-release / ramipril 5mg tablets,1
+17624,captopril 5mg/5ml oral suspension,1
+17633,captopril 3mg/5ml oral solution,1
+17655,carace 10 tablet (bristol-myers squibb pharmaceuticals ltd),1
+18219,imidapril 20mg tablets,1
+18223,trandolapril with verapamil 2mg + 180mg modified-release capsule,1
+18263,acezide 25mg/50mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+18269,acepril 12.5mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+18325,acepril 50mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+19198,lisinopril 20mg tablets (teva uk ltd),1
+19204,lisinopril 5mg tablets (teva uk ltd),1
+19208,enalapril 10mg tablets (actavis uk ltd),1
+19223,lisinopril 10mg tablets (teva uk ltd),1
+19690,verapamil 180mg modified-release / trandolapril 2mg capsules,1
+20188,enalapril 2.5mg wafer,1
+20579,tarka modified-release capsules (abbott laboratories ltd),1
+20849,tensopril 12.5mg tablets (teva uk ltd),1
+20975,lisinopril 7.5mg/5ml oral suspension,1
+21053,vascace 500microgram tablets (roche products ltd),1
+21162,felodipine 2.5mg modified-release / ramipril 2.5mg tablets,1
+21231,caralpha 20mg/12.5mg tablets (actavis uk ltd),1
+21943,kaplon 12.5mg tablets (teva uk ltd),1
+22004,carace (special compliance pack),1
+22439,ednyt 20mg tablet (dominion pharma),1
+22708,enalapril 5mg wafer,1
+22882,ramipril,1
+23252,pralenal 10 tablets (opus pharmaceuticals ltd),1
+23382,carace (special compliance pack),1
+23478,tensopril 50mg tablets (teva uk ltd),1
+23642,vascace 0.25mg tablet (roche products ltd),1
+24041,enalapril 20mg wafer,1
+24214,tritace 1.25 mg tab,1
+24482,captomex 50mg tablets (actavis uk ltd),1
+24693,carace (special compliance pack),1
+25051,capozide,1
+25998,captomex 12.5mg tablets (actavis uk ltd),1
+26995,kaplon 25mg tablets (teva uk ltd),1
+27871,innovace melt 10mg wafer (merck sharp & dohme ltd),1
+27890,enalapril maleate,1
+28127,enalapril 2.5mg tablets (teva uk ltd),1
+28438,triapin 2.5mg/2.5mg modified-release tablets (sanofi),1
+28486,captopril 6.25mg/5ml oral suspension,1
+28586,lopace 5mg capsules (discovery pharmaceuticals),1
+28724,perdix 7.5mg tablets (ucb pharma ltd),1
+28725,perdix 15mg tablets (ucb pharma ltd),1
+28820,captomex 25mg tablets (actavis uk ltd),1
+28902,odrik 2mg capsules (aventis pharma),1
+29130,gopten 4mg capsules (abbott laboratories ltd),1
+29530,innovace melt 2.5mg wafer (merck sharp & dohme ltd),1
+29627,lopace 2.5mg capsules (discovery pharmaceuticals),1
+29964,tritace 2.5 mg tab,1
+30039,tensopril 25mg tablets (teva uk ltd),1
+30921,lisinopril 2.5mg tablets (teva uk ltd),1
+31288,tritace,1
+31307,odrik 500microgram capsules (aventis pharma),1
+31587,innovace melt 20mg wafer (merck sharp & dohme ltd),1
+31716,enalapril 20mg tablets (actavis uk ltd),1
+31810,odrik 1mg capsules (aventis pharma),1
+32048,kaplon 50mg tablets (teva uk ltd),1
+32166,capto-co 25mg+50mg tablet (ivax pharmaceuticals uk ltd),1
+32241,enalapril 10mg tablets (a a h pharmaceuticals ltd),1
+32514,ecopace 25mg tablets (amco),1
+32560,tanatril 20mg tablets (mitsubishi tanabe pharma europe ltd),1
+32597,lisinopril 10mg tablets (sandoz ltd),1
+32857,ramipril 1.25mg capsules (teva uk ltd),1
+32934,lopace 10mg capsules (discovery pharmaceuticals),1
+33057,ednyt 5mg tablet (dominion pharma),1
+33078,enalapril 20mg tablets (a a h pharmaceuticals ltd),1
+33095,perindopril erbumine 4mg tablets (a a h pharmaceuticals ltd),1
+33336,captopril 5mg/5ml oral suspension (eldon laboratories),1
+33353,lisinopril 20mg / hydrochlorothiazide 12.5mg tablets (teva uk ltd),1
+33646,captopril 12.5mg tablet (generics (uk) ltd),1
+33811,ramipril 2.5mg capsules (ranbaxy (uk) ltd),1
+33894,ramipril 10mg capsules (teva uk ltd),1
+33977,lisinopril 10mg tablets (mylan ltd),1
+34357,ramipril 10mg capsules (genus pharmaceuticals ltd),1
+34382,ramipril 5mg capsules (zentiva),1
+34390,ramipril 5mg capsules (genus pharmaceuticals ltd),1
+34400,enalapril 5mg tablet (dowelhurst ltd),1
+34412,ramipril 5mg capsules (teva uk ltd),1
+34429,ramipril 5mg capsules (mylan ltd),1
+34431,ramipril 2.5mg capsules (zentiva),1
+34432,ramipril 2.5mg capsules (genus pharmaceuticals ltd),1
+34453,enalapril 20mg tablets (mylan ltd),1
+34471,lisinopril 5mg tablets (mylan ltd),1
+34490,ramipril 2.5mg capsules (teva uk ltd),1
+34505,ramipril 2.5mg capsules (sandoz ltd),1
+34528,ramipril 2.5mg capsules (a a h pharmaceuticals ltd),1
+34539,ramipril 5mg capsules (sandoz ltd),1
+34540,ramipril 5mg capsules (a a h pharmaceuticals ltd),1
+34544,captopril 12.5mg tablet (ivax pharmaceuticals uk ltd),1
+34562,captopril 25mg tablet (ivax pharmaceuticals uk ltd),1
+34567,ramipril 2.5mg capsules (mylan ltd),1
+34583,ramipril 10mg capsule (dexcel-pharma ltd),1
+34589,ramipril 5mg capsule (dexcel-pharma ltd),1
+34651,ramipril 10mg capsules (mylan ltd),1
+34652,ramipril 5mg capsule (sovereign medical ltd),1
+34657,ramipril 10mg capsules (zentiva),1
+34696,lisinopril 20mg tablets (mylan ltd),1
+34698,ramipril 1.25mg capsules (zentiva),1
+34710,ramipril 10mg capsules (sandoz ltd),1
+34712,enalapril 20mg tablets (kent pharmaceuticals ltd),1
+34719,captopril 50mg tablet (generics (uk) ltd),1
+34732,ramipril 2.5mg capsule (dexcel-pharma ltd),1
+34768,enalapril 20mg tablets (ivax pharmaceuticals uk ltd),1
+34798,enalapril 20mg tablets (sandoz ltd),1
+34799,lisinopril 20mg tablets (zentiva),1
+34877,ramipril 10mg capsule (sovereign medical ltd),1
+34893,ramipril 10mg capsule (ivax pharmaceuticals uk ltd),1
+34936,captopril 25mg tablet (lagap),1
+34937,captopril 50mg tablet (ivax pharmaceuticals uk ltd),1
+34943,ramipril 10mg capsules (a a h pharmaceuticals ltd),1
+34952,enalapril 10mg tablets (mylan ltd),1
+34953,enalapril 20mg tablets (zentiva),1
+35007,ramipril 10mg/5ml oral suspension,1
+35302,captopril 12.5mg/5ml oral suspension,1
+35731,perindopril erbumine 8mg tablets (a a h pharmaceuticals ltd),1
+35794,enalapril 5mg tablets (a a h pharmaceuticals ltd),1
+36742,captopril 2mg/5ml oral suspension,1
+36753,ednyt 10mg tablet (dominion pharma),1
+37080,enalapril 5mg/5ml oral solution,1
+37087,enalapril 5mg/5ml oral suspension,1
+37655,captopril 25mg tablets (teva uk ltd),1
+37710,lisinopril 10mg / hydrochlorothiazide 12.5mg tablets (teva uk ltd),1
+37778,lisinopril 5mg/5ml oral suspension,1
+37908,coversyl arginine plus 5mg/1.25mg tablets (servier laboratories ltd),1
+37930,perindopril arginine 5mg tablets,1
+37964,perindopril arginine 2.5mg tablets,1
+37965,coversyl arginine 5mg tablets (servier laboratories ltd),1
+37971,perindopril arginine 10mg tablets,1
+37978,perindopril arginine 5mg / indapamide 1.25mg tablets,1
+38026,coversyl arginine 10mg tablets (servier laboratories ltd),1
+38034,coversyl arginine 2.5mg tablets (servier laboratories ltd),1
+38285,perindopril erbumine 4mg tablets (teva uk ltd),1
+38308,ramipril 2.5/5mg/10mg tablet,1
+38510,perindopril erbumine 4mg tablets (apotex uk ltd),1
+38854,quinapril 20mg/5ml oral solution,1
+38899,quinil 10mg tablets (tillomed laboratories ltd),1
+38995,zestoretic 20 tablets (astrazeneca uk ltd),1
+39137,zestoretic 10 tablets (astrazeneca uk ltd),1
+39147,carace 20 plus tablets (merck sharp & dohme ltd),1
+39227,capozide ls 12.5mg/25mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+39242,carace 10 plus tablets (merck sharp & dohme ltd),1
+39355,tritace 10mg tablet (sterwin medicines),1
+39421,tritace titration pack tablets (sanofi),1
+39512,captopril 25mg/5ml oral suspension,1
+40355,quinil 5mg tablets (tillomed laboratories ltd),1
+40384,ramipril 10mg tablets (a a h pharmaceuticals ltd),1
+41417,enalapril 2.5mg tablets (a a h pharmaceuticals ltd),1
+41522,lisopress 20mg tablets (teva uk ltd),1
+41532,lisopress 5mg tablets (teva uk ltd),1
+41538,lisopress 2.5mg tablets (teva uk ltd),1
+41573,lisopress 10mg tablets (teva uk ltd),1
+41617,captopril 25mg tablets (actavis uk ltd),1
+41633,captopril 12.5mg tablets (actavis uk ltd),1
+41694,enalapril 2.5mg tablets (ivax pharmaceuticals uk ltd),1
+41743,captopril 50mg tablets (teva uk ltd),1
+41746,enalapril 10mg tablets (sandoz ltd),1
+42081,tritace 1.25mg tablet (sterwin medicines),1
+42285,quinil 40mg tablets (tillomed laboratories ltd),1
+42723,pralenal 5 tablets (opus pharmaceuticals ltd),1
+42894,enalapril 10mg tablets (teva uk ltd),1
+42901,enalapril 5mg tablets (teva uk ltd),1
+42902,enalapril 20mg tablets (teva uk ltd),1
+42908,enalapril 5mg tablets (ivax pharmaceuticals uk ltd),1
+43012,perindopril erbumine oral solution,1
+43411,enalapril 5mg tablets (sandoz ltd),1
+43412,lisinopril 2.5mg tablets (a a h pharmaceuticals ltd),1
+43413,lisinopril 20mg tablets (a a h pharmaceuticals ltd),1
+43416,lisinopril 10mg tablets (a a h pharmaceuticals ltd),1
+43418,lisinopril 5mg tablets (a a h pharmaceuticals ltd),1
+43432,captopril 6.25mg tablets,1
+43507,captopril 25mg tablet (generics (uk) ltd),1
+43563,enalapril 2.5mg tablets (zentiva),1
+43566,lisinopril 2.5mg tablets (sandoz ltd),1
+43649,captopril 25mg tablets (a a h pharmaceuticals ltd),1
+43813,perindopril erbumine 2mg tablets (actavis uk ltd),1
+44527,captopril 5mg/ml oral solution sugar free,1
+44657,ednyt 2.5mg tablet (dominion pharma),1
+45217,enalapril 5mg tablets (kent pharmaceuticals ltd),1
+45228,captopril capsules,1
+45264,ramipril 1.25mg capsules (actavis uk ltd),1
+45300,lisinopril 10mg tablets (actavis uk ltd),1
+45319,perindopril erbumine 2mg tablets (a a h pharmaceuticals ltd),1
+45324,lisinopril 20mg tablets (actavis uk ltd),1
+45337,lisinopril 5mg tablets (actavis uk ltd),1
+45340,ramipril 10mg capsule (actavis uk ltd),1
+45554,ramipril 5mg/5ml oral solution,1
+45816,lisinopril 5mg tablets (almus pharmaceuticals ltd),1
+45938,perindopril erbumine 8mg tablets (teva uk ltd),1
+46365,quinil 20mg tablets (tillomed laboratories ltd),1
+46851,captopril 5mg/5ml oral solution,1
+46890,ramipril 5mg/5ml oral suspension,1
+46951,captopril 12.5mg tablets (a a h pharmaceuticals ltd),1
+46957,captopril 12.5mg tablets (tillomed laboratories ltd),1
+46974,enalapril 5mg tablets (mylan ltd),1
+46975,lisinopril 5mg tablets (sandoz ltd),1
+46979,lisinopril 20mg tablets (sandoz ltd),1
+47021,ramipril 2.5mg/5ml oral solution sugar free,1
+47159,lisinopril 10mg tablets (almus pharmaceuticals ltd),1
+47998,ramipril 2.5mg capsules (actavis uk ltd),1
+48008,ramipril 5mg capsules (actavis uk ltd),1
+48049,perindopril erbumine 2mg tablets (mylan ltd),1
+48053,ramipril 2.5mg capsules (almus pharmaceuticals ltd),1
+48098,perindopril arginine 4mg with indapamide 1.25mg tablet,1
+48180,perindopril erbumine 4mg tablets (sandoz ltd),1
+48214,perindopril erbumine 4mg tablets (actavis uk ltd),1
+49164,ramipril 10mg capsules (actavis uk ltd),1
+49491,perindopril erbumine 2mg tablets (consilient health ltd),1
+50334,enalapril 4mg/5ml oral suspension,1
+50347,coversyl arginine 5mg tablets (waymade healthcare plc),1
+50402,perindopril 2mg tablet (servier laboratories ltd),1
+50509,ramipril 10mg/5ml oral solution,1
+50607,perindopril arginine 2mg with indapamide 625 micrograms tablet,1
+50780,enalapril 2mg/5ml oral solution,1
+50863,enalapril 5mg/5ml oral solution (drug tariff special order),1
+51258,coversyl arginine plus 5mg/1.25mg tablets (de pharmaceuticals),1
+51433,lisinopril 20mg tablets (tillomed laboratories ltd),1
+51701,ramipril 5mg capsules (bristol laboratories ltd),1
+51714,ramipril 2.5mg capsules (alliance healthcare (distribution) ltd),1
+51807,coversyl arginine 5mg tablets (de pharmaceuticals),1
+52010,enalapril 10mg tablets (alliance healthcare (distribution) ltd),1
+52088,lisinopril 5mg tablets (phoenix healthcare distribution ltd),1
+52197,ramipril 5mg capsules (sigma pharmaceuticals plc),1
+52293,captopril 2mg capsules,1
+52399,ramipril 1.25mg capsules (kent pharmaceuticals ltd),1
+52407,ramipril 10mg capsules (kent pharmaceuticals ltd),1
+52499,captopril 25mg/5ml oral solution,1
+52882,enalapril 5mg/5ml oral suspension sugar free,1
+53058,perindopril erbumine 8mg tablets (sandoz ltd),1
+53271,lisinopril 10mg tablets (alliance healthcare (distribution) ltd),1
+53551,lisinopril 20mg tablets (phoenix healthcare distribution ltd),1
+53612,ramipril 10mg tablets (alliance healthcare (distribution) ltd),1
+53621,ramipril 2.5mg capsules (bristol laboratories ltd),1
+53719,enalapril 20mg tablets (alliance healthcare (distribution) ltd),1
+53820,lisinopril 5mg tablets (arrow generics ltd),1
+53915,enalapril 5mg tablets (dexcel-pharma ltd),1
+54037,lisinopril 10mg tablets (relonchem ltd),1
+54201,lisinopril 20mg / hydrochlorothiazide 12.5mg tablets (almus pharmaceuticals ltd),1
+54283,lisinopril 5mg/5ml oral suspension (special order),1
+54288,lisinopril 10mg tablets (arrow generics ltd),1
+54298,ramipril 2.5mg capsules (arrow generics ltd),1
+54345,trandolapril 4mg capsules (arrow generics ltd),1
+54512,lisinopril oral solution,1
+54544,captopril 25mg/5ml oral suspension,1
+54620,ramipril 2.5mg capsules (sigma pharmaceuticals plc),1
+54733,perindopril erbumine 8mg tablets (consilient health ltd),1
+54899,perindopril erbumine 2mg tablets (teva uk ltd),1
+54928,lisinopril 10mg tablets (bristol laboratories ltd),1
+54941,ramipril 5mg capsules (alliance healthcare (distribution) ltd),1
+54942,perindopril erbumine 8mg tablets (mylan ltd),1
+54986,perindopril erbumine 8mg/5ml oral suspension,1
+55002,lisinopril 20mg tablets (accord healthcare ltd),1
+55299,ramipril 1.25mg capsules (a a h pharmaceuticals ltd),1
+55399,lisinopril 20mg / hydrochlorothiazide 12.5mg tablets (a a h pharmaceuticals ltd),1
+55456,lisinopril 5mg tablets (alliance healthcare (distribution) ltd),1
+55588,lisinopril 20mg tablets (sigma pharmaceuticals plc),1
+55639,lisinopril 10mg tablets (accord healthcare ltd),1
+55798,ramipril 5mg capsules (waymade healthcare plc),1
+55896,lisinopril 2.5mg tablets (actavis uk ltd),1
+55903,enalapril 10mg tablets (dexcel-pharma ltd),1
+56013,ramipril 2.5mg capsules (waymade healthcare plc),1
+56038,ramipril 10mg tablets (pfizer ltd),1
+56079,perindopril tosilate 10mg tablets,1
+56129,ramipril 5mg capsules (kent pharmaceuticals ltd),1
+56148,ramipril 1.25mg tablets (kent pharmaceuticals ltd),1
+56157,perindopril tosilate 5mg / indapamide 1.25mg tablets,1
+56162,perindopril erbumine 4mg tablets (consilient health ltd),1
+56169,ramipril 10mg capsules (arrow generics ltd),1
+56244,lisinopril 20mg / hydrochlorothiazide 12.5mg tablets (tillomed laboratories ltd),1
+56279,lisinopril 2.5mg/5ml oral solution,1
+56356,ramipril 10mg capsules (alliance healthcare (distribution) ltd),1
+56472,perindopril erbumine 4mg tablets (kent pharmaceuticals ltd),1
+56473,perindopril erbumine 2mg tablets (sigma pharmaceuticals plc),1
+56505,zestril 5mg tablets (lexon (uk) ltd),1
+56506,coversyl 2mg tablets (dowelhurst ltd),1
+56508,coversyl 4mg tablets (dowelhurst ltd),1
+56509,capoten 12.5mg tablets (dowelhurst ltd),1
+56510,zestril 20mg tablets (sigma pharmaceuticals plc),1
+56516,perindopril erbumine 2mg tablets (sandoz ltd),1
+56704,ramipril 1.25mg capsules (alliance healthcare (distribution) ltd),1
+56763,ramipril 10mg capsules (phoenix healthcare distribution ltd),1
+56850,ecopace 12.5mg tablets (amco),1
+56855,ramipril 10mg capsules (sigma pharmaceuticals plc),1
+57048,lisinopril 10mg tablets (zentiva),1
+57073,ramipril 1.25mg capsules (waymade healthcare plc),1
+57235,ramipril 1.25mg tablets (sandoz ltd),1
+57333,perindopril tosilate 5mg tablets,1
+57346,ramipril 10mg capsules (waymade healthcare plc),1
+57378,enalapril 2mg/5ml oral suspension,1
+57539,zestoretic 10 tablets (sigma pharmaceuticals plc),1
+57588,zestril 2.5mg tablets (mawdsley-brooks & company ltd),1
+57658,ramipril 1.25mg tablets (a a h pharmaceuticals ltd),1
+57701,perindopril erbumine 8mg tablets (actavis uk ltd),1
+57801,perindopril erbumine 4mg tablets (glenmark pharmaceuticals europe ltd),1
+57864,ramipril 5mg tablets (sigma pharmaceuticals plc),1
+57882,enalapril 2.5mg/5ml oral suspension,1
+57944,perindopril tosilate 2.5mg tablets,1
+58195,captopril 12.5mg/5ml oral solution,1
+58258,lisinopril 2.5mg/5ml oral suspension,1
+58294,lisinopril 5mg tablets (accord healthcare ltd),1
+58451,lisinopril 2.5mg tablets (almus pharmaceuticals ltd),1
+58461,lisinopril 2.5mg tablets (kent pharmaceuticals ltd),1
+58682,lisinopril 2.5mg tablets (mylan ltd),1
+58751,enalapril 1.25mg/5ml oral suspension,1
+58843,perindopril erbumine 2mg tablets (kent pharmaceuticals ltd),1
+58863,lisinopril 10mg tablets (phoenix healthcare distribution ltd),1
+58871,lisinopril 10mg tablets (waymade healthcare plc),1
+58874,perindopril erbumine 2mg tablets (somex pharma),1
+59109,lisinopril 5mg tablets (tillomed laboratories ltd),1
+59111,lisinopril 20mg tablets (alliance healthcare (distribution) ltd),1
+59557,ramipril 2.5mg capsules (kent pharmaceuticals ltd),1
+59603,ramipril 2.5mg capsules (phoenix healthcare distribution ltd),1
+59699,captopril 5mg/5ml oral solution sugar free,1
+59770,perindopril erbumine 4mg tablets (aurobindo pharma ltd),1
+59788,ramipril 10mg capsules (bristol laboratories ltd),1
+59790,perindopril erbumine 8mg tablets (accord healthcare ltd),1
+59915,captopril 25mg/5ml oral solution sugar free,1
+59972,perindopril erbumine 2mg tablets (alliance healthcare (distribution) ltd),1
+59996,enalapril 20mg tablets (milpharm ltd),1
+60010,lisinopril 10mg tablets (kent pharmaceuticals ltd),1
+60065,perindopril erbumine 4mg tablets (sigma pharmaceuticals plc),1
+60067,perindopril erbumine 4mg / amlodipine 5mg tablets,1
+60097,lisinopril 2.5mg tablets (zentiva),1
+60143,enalapril 5mg tablets (medreich plc),1
+60232,lisinopril 5mg tablets (zentiva),1
+60309,lisinopril 5mg tablets (relonchem ltd),1
+60349,noyada 25mg/5ml oral solution (martindale pharmaceuticals ltd),1
+60684,perindopril erbumine 4mg / amlodipine 10mg tablets,1
+60730,ramipril 5mg capsules (phoenix healthcare distribution ltd),1
+60744,perindopril erbumine 8mg / amlodipine 5mg tablets,1
+60757,trandolapril 500microgram capsules (teva uk ltd),1
+60823,noyada 5mg/5ml oral solution (martindale pharmaceuticals ltd),1
+61067,ramipril 5mg capsules (almus pharmaceuticals ltd),1
+61117,perindopril erbumine 4mg/5ml oral solution,1
+61133,enalapril 10mg tablets (phoenix healthcare distribution ltd),1
+61262,lisinopril 20mg tablets (bristol laboratories ltd),1
+61270,perindopril erbumine 4mg tablets (accord healthcare ltd),1
+61292,quinapril 40mg tablets (mylan ltd),1
+61339,ramipril 10mg capsules (almus pharmaceuticals ltd),1
+61499,ramipril 2.5mg tablets (actavis uk ltd),1
+61693,perindopril erbumine 8mg tablets (aurobindo pharma ltd),1
+61694,ramipril 5mg tablets (zentiva),1
+61985,ramipril 1.25mg tablets (teva uk ltd),1
+62036,ramipril 5mg tablets (waymade healthcare plc),1
+62039,ramipril 1.25mg tablets (zentiva),1
+62564,lisinopril 10mg/5ml oral solution,1
+62860,enalapril 5mg tablets (de pharmaceuticals),1
+62918,ramipril 2.5mg/5ml oral solution,1
+62958,ramipril 5mg tablets (teva uk ltd),1
+63010,ramipril 10mg tablets (phoenix healthcare distribution ltd),1
+63030,lisinopril 10mg tablets (de pharmaceuticals),1
+63149,perindopril erbumine 8mg / amlodipine 10mg tablets,1
+63322,enalapril 10mg tablets (almus pharmaceuticals ltd),1
+63442,ramipril 2.5mg tablets (teva uk ltd),1
+63559,lisinopril 20mg tablets (kent pharmaceuticals ltd),1
+63594,generic tritace titration pack tablets,1
+63824,lisinopril 10mg/5ml oral suspension,1
+64055,ramipril 2.5mg/5ml oral solution sugar free (waymade healthcare plc),1
+64062,enalapril 1mg/5ml oral suspension,1
+64602,perindopril erbumine 2mg tablets (waymade healthcare plc),1
+64739,captopril 25mg/5ml oral solution (special order),1
+64877,enalapril 2.5mg tablets (dexcel-pharma ltd),1
+64902,lisinopril 5mg/5ml oral solution sugar free,1
+65102,lisinopril 10mg tablets (sigma pharmaceuticals plc),1
+65273,perindopril erbumine 4mg tablets (mylan ltd),1
+65389,gopten 500microgram capsules (waymade healthcare plc),1
+65416,lisinopril 5mg tablets (lupin (europe) ltd),1
+65443,ramipril 1.25mg tablet (sovereign medical ltd),1
+65536,lisinopril 2.5mg tablets (alliance healthcare (distribution) ltd),1
+65570,trandolapril 4mg capsules (teva uk ltd),1
+65599,ramipril 5mg tablets (a a h pharmaceuticals ltd),1
+65749,ramipril 5mg capsules (ennogen pharma ltd),1
+65936,ramipril 5mg capsules (de pharmaceuticals),1
+65983,lisinopril 2.5mg tablets (lupin (europe) ltd),1
+65985,lisinopril 2.5mg tablets (de pharmaceuticals),1
+66060,perindopril erbumine 2mg tablets (de pharmaceuticals),1
+66162,ramipril 10mg tablets (teva uk ltd),1
+66329,ramipril oral solution,1
+66558,lisinopril 5mg tablets (de pharmaceuticals),1
+66597,captopril 10mg/5ml oral suspension,1
+66622,lisinopril 20mg tablets (de pharmaceuticals),1
+66623,trandolapril 2mg capsules (a a h pharmaceuticals ltd),1
+66669,ramipril 10mg capsules (de pharmaceuticals),1
+66772,lisinopril 2.5mg tablets (waymade healthcare plc),1
+66895,enalapril 10mg/5ml oral suspension,1
+67075,lisinopril 2.5mg tablets (mawdsley-brooks & company ltd),1
+67194,lisinopril 2.5mg tablets (bristol laboratories ltd),1
+67269,coversyl 2mg tablets (waymade healthcare plc),1
+67307,staril 20mg tablets (dowelhurst ltd),1
+67719,ramipril 5mg capsules (mawdsley-brooks & company ltd),1
+67741,ramipril 1.25mg capsules (almus pharmaceuticals ltd),1
+67767,lisinopril 10mg / hydrochlorothiazide 12.5mg tablets (almus pharmaceuticals ltd),1
+67789,perindopril erbumine 2mg tablets (accord healthcare ltd),1
+67795,lisinopril 20mg tablets (almus pharmaceuticals ltd),1
+68021,perindopril erbumine 4mg tablets (alliance healthcare (distribution) ltd),1
+68094,lisinopril 5mg tablets (sigma pharmaceuticals plc),1
+68192,ramipril 5mg capsules (brown & burk uk ltd),1
+68247,lisinopril 5mg tablets (bristol laboratories ltd),1
+68372,ramipril 5mg tablets (actavis uk ltd),1
+68381,perindopril erbumine 4mg tablets (mawdsley-brooks & company ltd),1
+68480,ramipril 10mg capsules (mawdsley-brooks & company ltd),1
+68496,enalapril 10mg tablets (kent pharmaceuticals ltd),1
+68759,perindopril erbumine 2mg tablets (aurobindo pharma ltd),1
+69016,perindopril erbumine 8mg tablets (de pharmaceuticals),1
+69074,lisinopril 20mg tablets (relonchem ltd),1
+69192,captopril oral solution,1
+69269,lisinopril 20mg tablets (waymade healthcare plc),1
+69288,ramipril 10mg capsules (brown & burk uk ltd),1
+69599,captopril 500micrograms/5ml oral suspension,1
+69600,captopril 1mg/5ml oral suspension,1
+70072,ramipril 1.25mg capsules (mawdsley-brooks & company ltd),1

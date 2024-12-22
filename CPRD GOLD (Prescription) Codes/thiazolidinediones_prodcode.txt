@@ -1,0 +1,42 @@
+prodcode,prodname,tzd
+13628,Romozin 400mg Tablet (Glaxo Wellcome UK Ltd),1
+11609,Metformin with rosiglitazone 500mg + 1mg Tablet,1
+7325,Avandamet 4mg/1000mg tablets (GlaxoSmithKline UK Ltd),1
+11717,Rosiglitazone 2mg / Metformin 1g tablets,1
+17580,Avandamet 1mg/500mg tablets (GlaxoSmithKline UK Ltd),1
+7375,Rosiglitazone 4mg / Metformin 1g tablets,1
+11760,Metformin with rosiglitazone 1000mg + 2mg Tablet,1
+63046,Pioglitazone 45mg tablets (A A H Pharmaceuticals Ltd),1
+15232,Avandia 8mg tablets (GlaxoSmithKline UK Ltd),1
+56376,Rosiglitazone 4mg with glimepiride 4mg tablet,1
+48120,Avandia 2mg Tablet (GlaxoSmithKline UK Ltd),1
+11601,Rosiglitazone 2mg / Metformin 500mg tablets,1
+56208,Pioglitazone 15mg tablets (A A H Pharmaceuticals Ltd),1
+11737,Metformin with rosiglitazone 1000mg + 4mg Tablet,1
+37617,Rosiglitazone 2mg tablet,1
+31077,Competact 15mg/850mg tablets (Takeda UK Ltd),1
+48139,Pioglitazone 30mg tablets (A A H Pharmaceuticals Ltd),1
+63107,Pioglitazone 45mg tablets (Waymade Healthcare Plc),1
+57659,Pioglitazone 30mg tablets (Actavis UK Ltd),1
+6855,Avandamet 2mg/500mg tablets (GlaxoSmithKline UK Ltd),1
+11604,Rosiglitazone 1mg / Metformin 500mg tablets,1
+19472,Actos 45mg tablets (Takeda UK Ltd),1
+469,Rosiglitazone 4mg tablets,1
+64900,Glidipion 30mg tablets (Actavis UK Ltd),1
+65563,Pioglitazone 15mg tablets (Alliance Healthcare (Distribution) Ltd),1
+63421,Pioglitazone 30mg tablets (Teva UK Ltd),1
+69885,Pioglitazone 30mg tablets (Consilient Health Ltd),1
+65562,Pioglitazone 30mg tablets (Alliance Healthcare (Distribution) Ltd),1
+18220,Pioglitazone 15mg / Metformin 850mg tablets,1
+548,Pioglitazone 15mg tablets,1
+9662,Avandia 4mg tablets (GlaxoSmithKline UK Ltd),1
+5227,Rosiglitazone 8mg tablets,1
+30316,Metformin with pioglitazone 850mg + 15mg Tablet,1
+11610,Metformin with rosiglitazone 500mg + 2mg Tablet,1
+9699,Pioglitazone 30mg tablets,1
+62426,Pioglitazone 30mg tablets (Accord Healthcare Ltd),1
+14164,Avandamet 2mg/1000mg tablets (GlaxoSmithKline UK Ltd),1
+68934,Diabiom 30mg tablets (Tillomed Laboratories Ltd),1
+20287,Actos 15mg tablets (Takeda UK Ltd),1
+20889,Actos 30mg tablets (Takeda UK Ltd),1
+10051,Pioglitazone 45mg tablets,1
