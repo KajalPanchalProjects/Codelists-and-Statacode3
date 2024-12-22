@@ -1,0 +1,209 @@
+medcode,readterm,anaemia
+19951,Achlorhydric anaemia,1
+15658,Acquired aplastic anaemia,1
+21723,Acquired aplastic anaemia NOS,1
+15314,Acquired haemolytic anaemia NOS,1
+50495,Acquired haemolytic anaemia with haemoglobinuria NEC,1
+27771,Acquired haemolytic anaemias,1
+41699,Acquired sideroblastic anaemia,1
+2743,Acute posthaemorrhagic anaemia,1
+2813,Addison's anaemia,1
+104843,Adverse reaction to liver preps+other antianaemic agent NOS,1
+64601,Amino-acid deficiency anaemia,1
+15633,Anaemia - unspecified whether in pregnancy or the puerperium,1
+104454,Anaemia due to disorders of nucleotide metabolism,1
+33708,Anaemia during pregnancy - baby delivered,1
+21119,Anaemia during pregnancy - baby not yet delivered,1
+1771,"Anaemia during pregnancy, childbirth and the puerperium",1
+33634,Anaemia during pregnancy/childbirth/puerperium NOS,1
+30637,Anaemia in neoplastic disease,1
+48145,Anaemia in ovarian carcinoma,1
+29601,Anaemia in the puerperium - baby delivered,1
+2054,Anaemia in the puerperium - baby previously delivered,1
+19574,Anaemia of prematurity,1
+6577,Anaemia screen,1
+35783,Anaemia screen,1
+25394,Anaemia secondary to chronic renal failure,1
+16929,Anaemia secondary to renal failure,1
+739,Anaemia unspecified,1
+37654,Anaemia/blood screen NOS,1
+15731,Anaemia/blood screening,1
+15422,Aplastic anaemia,1
+68087,Aplastic anaemia NOS,1
+16108,Aplastic anaemia due to chronic disease,1
+43166,Aplastic anaemia due to drugs,1
+57859,Aplastic anaemia due to infection,1
+66239,Aplastic anaemia due to toxic cause,1
+37539,Aplastic and other anaemias,1
+94528,Asiderotic anaemia,1
+39876,Autoimmune haemolytic anaemia NOS,1
+3818,Autoimmune haemolytic anaemias,1
+55370,Biermer's congenital pernicious anaemia,1
+57954,Chlorotic anaemia,1
+12176,Chronic anaemia,1
+22715,Combined B12 and folate deficiency anaemia,1
+57298,Congenital Heinz-body anaemia,1
+31248,Congenital anaemia,1
+99494,Congenital anaemia from fetal blood loss,1
+31040,Congenital dyserythropoietic anaemia,1
+53422,Congenital dyshaematopoietic anaemia,1
+37320,Congenital hypoplastic anaemia,1
+43330,Congenital sideroblastic anaemia,1
+69027,Constitutional aplastic anaemia,1
+102848,Constitutional aplastic anaemia with malformation,1
+69061,Constitutional aplastic anaemia without malformation,1
+7841,Deficiency anaemias,1
+8054,Deficiency anaemias NOS,1
+31734,Drug-induced autoimmune haemolytic anaemia,1
+49451,Drug-induced enzyme deficiency anaemia,1
+67088,Drug-induced haemolytic anaemia,1
+110176,Enzyme deficiency haemolytic anaemia NOS,1
+34754,Fanconi's familial refractory anaemia,1
+64625,Fanconi's hypoplastic anaemia,1
+4080,Folate-deficiency anaemia,1
+42117,Folate-deficiency anaemia NOS,1
+36634,Folate-deficiency anaemia due to dietary causes,1
+56114,Folate-deficiency anaemia due to liver disorders,1
+55481,Folate-deficiency anaemia due to malabsorption,1
+37082,"Folate-deficiency anaemia, drug induced",1
+24870,Folic acid deficiency anaemia,1
+22531,Glucose-6-phosphate dehydrogenase deficiency anaemia,1
+98709,Goat's milk anaemia,1
+54738,H/O: Anaemia vit.B12 deficient,1
+5833,H/O: anaemia,1
+31214,H/O: anaemia - iron deficient,1
+24953,H/O: anaemia NOS,1
+21335,H/O: haemolytic anaemia,1
+71808,Haemolytic anaemia due to glutathione metabolism disorder,1
+107820,Haemolytic anaemia due to hexokinase deficiency,1
+55561,Haemolytic anaemia due to pyruvate kinase deficiency,1
+3326,Haemolytic anaemias,1
+18631,Haemolytic anaemias NOS,1
+14698,Hereditary haemolytic anaemia NOS,1
+39456,Hereditary haemolytic anaemias,1
+100001,History of sickle cell anaemia,1
+882,Hypochromic - microcytic anaemia,1
+44913,Hypoplastic anaemia - familial,1
+32715,Hypoplastic anaemia due to drug or chemical substance,1
+65351,Hypoplastic anaemia due to infection,1
+57114,Hypoplastic anaemia due to toxic cause,1
+83476,Hypoplastic haemolytic and renal anaemia drugs Band 1,1
+92968,Hypoplastic haemolytic and renal anaemia drugs Band 2,1
+41142,Idiopathic aplastic anaemia,1
+40750,Idiopathic hypochromic anaemia,1
+63936,Infective haemolytic anaemia,1
+15439,Iron deficiency anaemia NOS,1
+48338,Iron deficiency anaemia due to blood loss,1
+27726,Iron deficiency anaemia due to chronic blood loss,1
+21127,Iron deficiency anaemia due to dietary causes,1
+1668,Iron deficiency anaemia of pregnancy,1
+795,Iron deficiency anaemias,1
+53052,Late anaemia of newborn due to isoimmunisation,1
+33278,Leukoerythroblastic anaemia,1
+797,Macrocytic anaemia of unspecified cause,1
+3981,Macrocytic anaemia unspecified cause,1
+43367,Mechanical haemolytic anaemia,1
+105439,Mediterranean anaemia,1
+66137,Mediterranean anaemia,1
+4475,Megaloblastic anaemia,1
+53799,Megaloblastic anaemia NOS,1
+59103,Megaloblastic anaemia due to dietary causes,1
+38327,Microangiopathic haemolytic anaemia,1
+539,Microcytic - hypochromic anaemia,1
+4839,Microcytic hypochromic anaemia,1
+56973,Myasthenic syndrome due to pernicious anaemia,1
+36961,Naevus anaemicus,1
+57897,Non-autoimmune haemolytic anaemia,1
+94214,Non-autoimmune haemolytic anaemia NOS,1
+43825,Normocytic anaemia due to aplasia,1
+6816,Normocytic anaemia due to chronic blood loss,1
+1702,Normocytic anaemia due to unspecified cause,1
+45929,Normocytic anaemia following acute bleed,1
+15358,O/E - anaemia,1
+16109,O/E - anaemia NOS,1
+4952,O/E - anaemic,1
+15913,O/E - clinically anaemic,1
+43074,O/E - equivocally anaemic,1
+15914,O/E - profoundly anaemic,1
+35160,Other anaemias NOS,1
+3265,Other and unspecified anaemias,1
+11961,Other deficiency anaemias,1
+57274,Other deficiency anaemias NOS,1
+28768,Other specified anaemia NOS,1
+25876,Other specified anaemias,1
+34934,Other specified anaemias,1
+69379,Other specified constitutional aplastic anaemia,1
+26327,Other specified deficiency anaemias,1
+39967,Other specified haemolytic anaemias,1
+103151,Other specified hereditary haemolytic anaemia NOS,1
+72721,Other specified hereditary haemolytic anaemias,1
+33420,Other specified iron deficiency anaemia,1
+9537,Other specified iron deficiency anaemia NOS,1
+51489,Other specified megaloblastic anaemia NEC,1
+56348,Other specified megaloblastic anaemia NEC NOS,1
+99308,Other specified non-autoimmune haemolytic anaemia,1
+58136,Other specified nutritional deficiency anaemia,1
+92106,Other specified nutritional deficiency anaemia NOS,1
+58695,Other specified other anaemia,1
+100576,Other specified other nutritional deficiency anaemia,1
+31270,Other vitamin B12 deficiency anaemia NOS,1
+29486,Other vitamin B12 deficiency anaemias,1
+103252,Perinatal jaundice from hereditary haemolytic anaemia NOS,1
+70762,Perinatal jaundice from hereditary haemolytic anaemias,1
+2464,Pernicious anaemia,1
+39944,Primary cold-type haemolytic anaemia,1
+49182,Primary warm-type haemolytic anaemia,1
+2452,Protein-deficiency anaemia,1
+70835,Protein-deficiency anaemia NOS,1
+72276,Pyridoxine-responsive sideroblastic anaemia,1
+70128,Radiation aplastic anaemia,1
+16052,Refractory Anaemia,1
+23875,Refractory anaemia with excess of blasts,1
+44420,Refractory anaemia with excess of blasts with transformation,1
+104740,Refractory anaemia with multilineage dysplasia,1
+106993,Refractory anaemia with ring sideroblasts,1
+10817,Refractory anaemia with sideroblasts,1
+105985,Refractory anaemia without ring sideroblasts,1
+22890,"Refractory anaemia without sideroblasts, so stated",1
+19130,"Refractory anaemia, unspecified",1
+4670,Secondary anaemia NOS,1
+57575,Secondary cold-type haemolytic anaemia,1
+31550,Secondary sideroblastic anaemia due to disease,1
+47225,Secondary sideroblastic anaemia due to drugs and toxins,1
+23519,Sickle-cell anaemia,1
+57397,Sickle-cell anaemia NOS,1
+69964,Sickle-cell anaemia of unspecified type,1
+31370,Sickle-cell anaemia with crisis,1
+31306,Sickle-cell anaemia with haemoglobin C disease,1
+8119,Sickle-cell anaemia with haemoglobin D disease,1
+93872,Sickle-cell anaemia with haemoglobin E disease,1
+32937,Sickle-cell anaemia with no crisis,1
+15936,Sideroblastic anaemia,1
+94387,Sideroblastic anaemia NOS,1
+19383,Sideropenic anaemia,1
+45151,Thalassaemia major - Cooley's anaemia,1
+34953,Transient hypoplastic anaemia,1
+18137,Unspecified iron deficiency anaemia,1
+69275,Vegan's anaemia,1
+2482,Vit B12 defic anaemia due to malabsorption with proteinuria,1
+5271,Vitamin B12 deficiency anaemia,1
+32953,Vitamin B12 deficiency anaemia due to dietary causes,1
+6028,"Vitamin B12 deficiency anaemia, unspecified",1
+104812,Vitamin C deficiency anaemia,1
+62257,Vitamin E deficiency anaemia,1
+94921,[M] Refractory anaemia with excess of blasts,1
+56756,[M] Refractory anaemia with sideroblasts,1
+60186,[M]Refractory anaemia+excess of blasts with transformation,1
+56208,[V]Screening for other or unspecified deficiency anaemia,1
+31205,[X]Anaemia in other chronic diseases classified elsewhere,1
+99917,[X]Haemolytic anaemias,1
+10506,[X]Megaloblastic anaemia NOS,1
+71840,[X]Nutritional anaemias,1
+100388,[X]Other autoimmune haemolytic anaemias,1
+99222,"[X]Other congenital anaemias, not elsewhere classified",1
+47952,[X]Other dietary vitamin B12 deficiency anaemia,1
+53783,[X]Other folate deficiency anaemias,1
+4858,[X]Other iron deficiency anaemias,1
+51169,[X]Other specified anaemias,1
+35092,[X]Other vitamin B12 deficiency anaemias,1
+53846,"[X]Vitamin B12 deficiency anaemia, unspecified",1

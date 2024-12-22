@@ -1,0 +1,173 @@
+medcode,alcstatus,readterm,alcohol
+3216,current,Acute alcoholic hepatitis,1
+5740,current,Acute alcoholic intoxication in alcoholism,1
+36296,current,Acute alcoholic intoxication in alcoholism NOS,1
+59574,current,"Acute alcoholic intoxication in remission, in alcoholism",1
+40530,current,"Acute alcoholic intoxication, unspecified, in alcoholism",1
+21650,current,Admitted to alcohol detoxification centre,1
+11140,current,Advice on alcohol consumption,1
+54209,current,Advice to change alcohol intake,1
+97163,current,Advice to change alcoholic drink intake,1
+95650,current,Advice to change drink intake,1
+97309,current,Advised to contact primary care alcohol worker,1
+20762,current,Alcohol amnestic syndrome,1
+41920,current,Alcohol amnestic syndrome NOS,1
+19217,current,Alcohol causing toxic effect,1
+35330,current,Alcohol consumption counselling,1
+47123,current,Alcohol counselling by other agencies,1
+2084,current,Alcohol dependence syndrome,1
+6169,current,Alcohol dependence syndrome NOS,1
+57714,current,Alcohol dependence with acute alcoholic intoxication,1
+41983,current,Alcohol detoxification,1
+2083,current,Alcohol detoxification,1
+38061,current,Alcohol induced hallucinations,1
+12982,current,Alcohol intake above recommended sensible limits,1
+26472,current,Alcohol intake within recommended sensible limits,1
+37264,current,Alcohol leaflet given,1
+94670,current,Alcohol misuse,1
+63529,current,Alcohol misuse - enhanced service completed,1
+11740,current,Alcohol misuse - enhanced services administration,1
+1399,current,Alcohol problem drinking,1
+95181,current,Alcohol reduction programme,1
+16225,current,Alcohol withdrawal delirium,1
+25110,current,Alcohol withdrawal hallucinosis,1
+46677,current,Alcohol withdrawal regime,1
+2082,current,Alcohol withdrawal syndrome,1
+24984,current,Alcohol-induced chronic pancreatitis,1
+30604,current,Alcohol-induced epilepsy,1
+65754,current,Alcohol-induced pseudo-Cushing's syndrome,1
+4915,current,Alcoholic cardiomyopathy,1
+4743,current,Alcoholic cirrhosis of liver,1
+27342,current,Alcoholic dementia NOS,1
+36748,current,Alcoholic encephalopathy,1
+10691,current,Alcoholic fatty liver,1
+21713,current,Alcoholic fibrosis and sclerosis of liver,1
+4506,current,Alcoholic gastritis,1
+17330,current,Alcoholic hepatic failure,1
+7943,current,Alcoholic hepatitis,1
+7885,current,Alcoholic liver damage unspecified,1
+31742,current,Alcoholic myopathy,1
+30404,current,Alcoholic paranoia,1
+2925,current,Alcoholic polyneuropathy,1
+16237,current,Alcoholic psychoses,1
+67651,current,Alcoholic psychosis NOS,1
+18156,current,Alcoholics anonymous,1
+2081,current,Alcoholism,1
+30460,current,Alcoholism counselling,1
+29691,current,Aversion therapy - alcoholism,1
+2689,current,Beer drinker,1
+19401,current,Binge drinker,1
+96053,current,Brief intervention for excessive alcohol consumptn completed,1
+97261,current,Brief intervention for excessive alcohol consumptn declined,1
+33839,current,Cerebellar ataxia due to alcoholism,1
+47555,current,Cerebral degeneration due to alcoholism,1
+37946,current,Chronic alcoholic brain syndrome,1
+7602,current,Chronic alcoholic hepatitis,1
+31443,current,Chronic alcoholism,1
+33635,current,Chronic alcoholism NOS,1
+24485,ex,Chronic alcoholism in remission,1
+56947,current,Continuous acute alcoholic intoxication in alcoholism,1
+24064,current,Continuous chronic alcoholism,1
+12979,non,Current non drinker,1
+46848,current,DPS - Drinking problem scale,1
+22277,current,DTs - delirium tremens,1
+97680,current,Declined referral to specialist alcohol treatment service,1
+1476,current,Delirium tremens,1
+56410,current,Delivery of rehabilitation for alcohol addiction,1
+84218,current,Disqualified from driving due to excess alcohol,1
+22707,current,Drinking problem scale,1
+12968,current,Drinks beer and spirits,1
+749,current,Drinks occasionally,1
+385,current,Drinks rarely,1
+12969,current,Drinks wine,1
+20407,current,Drunkenness - pathological,1
+21624,current,Episodic acute alcoholic intoxication in alcoholism,1
+26106,current,Episodic chronic alcoholism,1
+19493,ex,Ex-heavy drinker - (7-9u/day),1
+26471,ex,Ex-light drinker - (1-2u/day),1
+19495,ex,Ex-moderate drinker - (3-6u/d),1
+22933,ex,Ex-trivial drinker (<1u/day),1
+12983,ex,Ex-very heavy drinker-(>9u/d),1
+96054,current,Extended intervention for excessive alcohol consumptn complt,1
+97916,current,Fetal alcohol syndrome,1
+23945,current,Fetal alcohol syndrome,1
+66699,current,Fetus and newborn affected by maternal use of alcohol,1
+27518,current,Hangover (alcohol),1
+30695,current,Harmful alcohol use,1
+19494,current,Hazardous alcohol use,1
+11491,current,Health ed. - alcohol,1
+8999,current,Heavy drinker,1
+1618,current,Heavy drinker - 7-9u/day,1
+3782,current,Intoxication - alcohol,1
+4500,current,Korsakov's alcoholic psychosis,1
+11106,current,Korsakov's alcoholic psychosis with peripheral neuritis,1
+18711,current,Lifestyle advice regarding alcohol,1
+12980,current,Light drinker,1
+12972,current,Light drinker - 1-2u/day,1
+27670,current,Maternal care for (suspected) damage to fetus from alcohol,1
+12985,current,Moderate drinker,1
+322,current,Moderate drinker - 3-6u/day,1
+12970,non,Non drinker alcohol,1
+4447,non,Non-drinker alcohol,1
+7746,current,Nondependent alcohol abuse,1
+28150,current,Nondependent alcohol abuse NOS,1
+31569,current,Nondependent alcohol abuse in remission,1
+23610,current,"Nondependent alcohol abuse, continuous",1
+12974,current,"Nondependent alcohol abuse, episodic",1
+669,current,"Nondependent alcohol abuse, unspecified",1
+10161,current,O/E - alcoholic breath,1
+24735,current,O/E - breath - alcohol smell,1
+8363,current,Oesophageal varices in alcoholic cirrhosis of the liver,1
+54505,current,Other alcoholic dementia,1
+33670,current,Other alcoholic psychosis,1
+68111,current,Other alcoholic psychosis NOS,1
+42843,current,Other non-alcoholic chronic liver disease,1
+44783,current,Pain in lymph nodes after alcohol consumption,1
+57939,current,Pathological alcohol intoxication,1
+7692,current,Patient advised about alcohol,1
+61383,current,Planned reduction of alcohol consumption,1
+96993,current,Referral to alcohol brief intervention service,1
+9849,current,Referral to community alcohol team,1
+12554,current,Referral to community drug and alcohol team,1
+94553,current,Referral to specialist alcohol treatment service,1
+64409,current,Self-monitoring of alcohol intake,1
+956,current,Social drinker,1
+12971,current,Spirit drinker,1
+967,ex,Stopped drinking alcohol,1
+12976,current,Suspect alcohol abuse - denied,1
+66019,current,Suspect fetal damage from maternal alcohol,1
+12949,non,Teetotaller,1
+12975,current,Trivial drinker - <1u/day,1
+9489,current,Under care of community alcohol team,1
+43193,current,Unspecified chronic alcoholism,1
+12984,current,Very heavy drinker,1
+12977,current,Very heavy drinker - >9u/day,1
+18636,current,Wernicke-Korsakov syndrome,1
+9169,current,[D]Alcohol blood level excessive,1
+7545,current,[V] Alcohol use,1
+8030,current,[V]Alcohol abuse counselling and surveillance,1
+8388,current,[V]Alcohol rehabilitation,1
+7123,current,[V]Personal history of alcoholism,1
+16587,current,[V]Problems related to lifestyle alcohol use,1
+9508,current,[X]Acute alcoholic drunkenness,1
+28780,current,[X]Alcohol addiction,1
+32927,current,[X]Alcohol withdrawal-induced seizure,1
+26323,current,[X]Alcoholic dementia NOS,1
+6467,current,[X]Alcoholic hallucinosis,1
+65932,current,[X]Alcoholic jealousy,1
+30162,current,[X]Alcoholic paranoia,1
+17607,current,[X]Alcoholic psychosis NOS,1
+37691,current,[X]Chronic alcoholic brain syndrome,1
+5758,current,[X]Chronic alcoholism,1
+17259,current,"[X]Delirium tremens, alcohol induced",1
+23978,current,[X]Evid of alcohol involv determind by level of intoxication,1
+11670,current,"[X]Korsakov's psychosis, alcohol induced",1
+45169,current,[X]Men & behav dis due to use alcohol: oth men & behav dis,1
+64389,current,[X]Ment & behav dis due use alcohol: unsp ment & behav dis,1
+44299,current,[X]Mental & behav dis due to use alcohol: acute intoxication,1
+12353,current,[X]Mental & behav dis due to use alcohol: psychotic disorder,1
+39799,current,[X]Mental and behav dis due to use alcohol: amnesic syndrome,1
+39327,current,[X]Mental and behav dis due to use alcohol: dependence syndr,1
+20514,current,[X]Mental and behav dis due to use alcohol: withdrawal state,1
+21879,current,[X]Mental and behav dis due to use of alcohol: harmful use,1
+5611,current,[X]Mental and behavioural disorders due to use of alcohol,1

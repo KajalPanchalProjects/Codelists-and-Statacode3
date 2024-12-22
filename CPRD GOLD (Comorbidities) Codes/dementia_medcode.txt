@@ -1,0 +1,69 @@
+medcode,readterm,dementia
+27342,Alcoholic dementia NOS,1
+1917,Alzheimer's disease,1
+16797,Alzheimer's disease with early onset,1
+32057,Alzheimer's disease with late onset,1
+19477,Arteriosclerotic dementia,1
+42279,Arteriosclerotic dementia NOS,1
+56912,Arteriosclerotic dementia with delirium,1
+43292,Arteriosclerotic dementia with depression,1
+55467,Arteriosclerotic dementia with paranoia,1
+25386,Dementia in conditions EC,1
+5931,H/O: dementia,1
+7572,Lewy body disease,1
+8634,Multi infarct dementia,1
+54505,Other alcoholic dementia,1
+11136,Pick's disease,1
+15165,Presenile dementia,1
+38438,Presenile dementia NOS,1
+49513,Presenile dementia with delirium,1
+27677,Presenile dementia with depression,1
+30032,Presenile dementia with paranoia,1
+33707,Senile and presenile organic psychotic conditions,1
+1916,Senile dementia,1
+37015,Senile dementia with delirium,1
+21887,Senile dementia with depression,1
+44674,Senile dementia with depressive or paranoid features,1
+41089,Senile dementia with depressive or paranoid features NOS,1
+18386,Senile dementia with paranoia,1
+1350,Senile/presenile dementia,1
+43089,Uncomplicated arteriosclerotic dementia,1
+42602,Uncomplicated presenile dementia,1
+7323,Uncomplicated senile dementia,1
+48501,[X] Presenile dementia NOS,1
+34944,[X] Primary degenerative dementia NOS,1
+4357,[X] Senile dementia NOS,1
+27759,"[X] Senile dementia, depressed or paranoid type",1
+4693,[X] Unspecified dementia,1
+26323,[X]Alcoholic dementia NOS,1
+8195,[X]Alzheimer's dementia unspec,1
+46762,[X]Alzheimer's disease type 1,1
+61528,[X]Alzheimer's disease type 2,1
+9565,[X]Arteriosclerotic dementia,1
+53446,[X]Delirium superimposed on dementia,1
+30706,"[X]Dementia in Alzheimer's dis, atypical or mixed type",1
+7664,[X]Dementia in Alzheimer's disease,1
+49263,[X]Dementia in Alzheimer's disease with early onset,1
+38678,[X]Dementia in Alzheimer's disease with late onset,1
+29386,"[X]Dementia in Alzheimer's disease, unspecified",1
+54106,[X]Dementia in Creutzfeldt-Jakob disease,1
+37014,[X]Dementia in Huntington's disease,1
+9509,[X]Dementia in Parkinson's disease,1
+28402,[X]Dementia in Pick's disease,1
+41185,[X]Dementia in human immunodef virus [HIV] disease,1
+12621,[X]Dementia in other diseases classified elsewhere,1
+64267,[X]Dementia in other specified diseases classif elsewhere,1
+26270,[X]Lewy body dementia,1
+31016,[X]Mixed cortical and subcortical vascular dementia,1
+11175,[X]Multi-infarct dementia,1
+59122,[X]Other Alzheimer's disease,1
+55313,[X]Other vascular dementia,1
+55838,[X]Predominantly cortical dementia,1
+25704,"[X]Presenile dementia,Alzheimer's type",1
+43346,"[X]Primary degen dementia of Alzheimer's type, senile onset",1
+60059,"[X]Primary degen dementia, Alzheimer's type, presenile onset",1
+11379,"[X]Senile dementia,Alzheimer's type",1
+8934,[X]Subcortical vascular dementia,1
+6578,[X]Vascular dementia,1
+46488,[X]Vascular dementia of acute onset,1
+19393,"[X]Vascular dementia, unspecified",1

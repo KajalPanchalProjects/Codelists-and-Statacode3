@@ -1,0 +1,58 @@
+medcode,readterm,cld
+3216,Acute alcoholic hepatitis,1
+4743,Alcoholic cirrhosis of liver,1
+10691,Alcoholic fatty liver,1
+21713,Alcoholic fibrosis and sclerosis of liver,1
+17330,Alcoholic hepatic failure,1
+7943,Alcoholic hepatitis,1
+7885,Alcoholic liver damage unspecified,1
+7957,Autoimmune chronic active hepatitis,1
+73482,Bacterial portal cirrhosis,1
+9494,Biliary cirrhosis,1
+58630,Biliary cirrhosis NOS,1
+91591,Biliary cirrhosis of children,1
+40567,Capsular portal cirrhosis,1
+27438,Cardiac portal cirrhosis,1
+9029,Chronic active hepatitis,1
+1755,Chronic aggressive hepatitis,1
+7602,Chronic alcoholic hepatitis,1
+1754,Chronic hepatitis,1
+15489,Chronic hepatitis NOS,1
+53877,Chronic hepatitis unspecified,1
+10539,Chronic liver disease NOS,1
+66534,Chronic lobular hepatitis,1
+23578,Chronic persistent hepatitis,1
+16725,Cirrhosis - non alcoholic,1
+6863,Cirrhosis and chronic liver disease,1
+1638,Cirrhosis of liver NOS,1
+18739,Cryptogenic cirrhosis of liver,1
+3450,Diffuse nodular cirrhosis,1
+103466,Fatty change of liver,1
+103706,Fatty liver,1
+44676,Fatty portal cirrhosis,1
+68376,Florid cirrhosis,1
+71453,Hepatic fibrosis,1
+25383,Hepatic fibrosis,1
+100592,Hepatic fibrosis with hepatic sclerosis,1
+60104,Hepatic sclerosis,1
+1780,Hepatosplenomegaly,1
+92909,Hypertrophic portal cirrhosis,1
+58184,Indian childhood cirrhosis,1
+48928,Infectious cirrhosis NOS,1
+96664,Juvenile portal cirrhosis,1
+100474,Laennec's cirrhosis,1
+22841,Macronodular cirrhosis of liver,1
+69204,Multilobular portal cirrhosis,1
+16455,Non-alcoholic cirrhosis NOS,1
+10234,Non-alcoholic fatty liver,1
+98148,Nonalcoholic steatohepatitis,1
+42843,Other non-alcoholic chronic liver disease,1
+33597,Other non-alcoholic chronic liver disease NOS,1
+47257,Portal cirrhosis,1
+55454,Portal cirrhosis unspecified,1
+40963,Portal fibrosis without cirrhosis,1
+5638,Primary biliary cirrhosis,1
+53480,Recurrent hepatitis,1
+15424,Secondary biliary cirrhosis,1
+10572,Steatosis of liver,1
+100253,Xanthomatous portal cirrhosis,1

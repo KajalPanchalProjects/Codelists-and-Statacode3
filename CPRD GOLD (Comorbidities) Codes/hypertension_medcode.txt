@@ -1,0 +1,131 @@
+medcode,readterm,hypertension
+63164,[x]oth antihyperten drug caus advers eff in therap use, nec,1
+44350,[x] adverse reaction to antihypertensives nos,1
+30770,[x] adverse reaction to other antihypertensives,1
+97533,[x]hypertension secondary to other renal disorders,1
+69753,[x]hypertensive diseases,1
+102458,[x]other secondary hypertension,1
+20497,adverse reaction to antihypertensives nos,1
+21660,adverse reaction to other antihypertensives,1
+18057,antihypertensive therapy,1
+45149,attends hypertension monitor.,1
+1894,benign essential hypertension,1
+63000,benign hypertensive heart and renal disease,1
+52427,benign hypertensive heart disease,1
+105938,benign hypertensive heart disease nos,1
+52127,benign hypertensive heart disease with ccf,1
+61660,benign hypertensive heart disease without ccf,1
+43935,benign hypertensive renal disease,1
+37086,blind hypertensive eye,1
+8296,borderline hyperten:yearly obs,1
+8732,bp - hypertensive disease,1
+8857,cardiomegaly - hypertensive,1
+83473,diastolic hypertension,1
+34281,dna - did not attend hypertension clinic,1
+799,essential hypertension,1
+10818,essential hypertension nos,1
+10976,excepted from hypertension qual indicators: informed dissent,1
+10961,excepted from hypertension qual indicators: patient unsuit,1
+34108,exception reporting: hypertension quality indicators,1
+16565,good hypertension control,1
+2666,h/o: hypertension,1
+351,high blood pressure,1
+85944,high cost hypertension drugs,1
+57987,hyperten heart&renal dis+both(congestv)heart and renal fail,1
+28828,hyperten.monitor offer default,1
+31127,hypertens.monitor 2nd letter,1
+31175,hypertens.monitor 3rd letter,1
+66645,hypertens.monitor deleted,1
+28874,hypertens.monitor phone invite,1
+41634,hypertens.monitor verbal inv.,1
+31117,hypertens.monitor.1st letter,1
+34192,hypertens.monitoring admin.nos,1
+102406,hypertension 9 month review,1
+19070,hypertension annual review,1
+27525,hypertension clinic admin.,1
+12680,hypertension clinical management plan,1
+36305,hypertension monitor.chck done,1
+24127,hypertension monitored,1
+13186,hypertension monitoring,1
+4444,hypertension monitoring,1
+5215,hypertension monitoring admin.,1
+3712,hypertension nos,1
+105480,hypertension resistant to drug therapy,1
+19342,hypertension resolved,1
+3269,hypertension resolved,1
+31341,hypertension secondary to drug,1
+34744,hypertension secondary to endocrine disorders,1
+18482,hypertension six month review,1
+21826,hypertension treatm. started,1
+12948,hypertension treatm.stopped,1
+22333,hypertension treatment refused,1
+30776,hypertension:follow-up default,1
+31816,hypertensive crisis,1
+204,hypertensive disease,1
+7057,hypertensive disease nos,1
+3979,hypertensive encephalopathy,1
+63466,hypertensive heart and renal disease,1
+68659,hypertensive heart and renal disease nos,1
+28684,hypertensive heart and renal disease with renal failure,1
+16292,hypertensive heart disease,1
+16173,hypertensive heart disease nos,1
+31464,hypertensive heart disease nos,1
+62718,hypertensive heart disease nos with ccf,1
+61166,hypertensive heart disease nos without ccf,1
+21837,hypertensive heart&renal dis wth (congestive) heart failure,1
+4668,hypertensive renal disease,1
+15106,hypertensive renal disease nos,1
+32423,hypertensive renal disease with renal failure,1
+6702,hypertensive retinopathy,1
+13188,hypertensive treatm.changed,1
+98230,lifestyle advice regarding hypertension,1
+15377,malignant essential hypertension,1
+67232,malignant hypertensive heart and renal disease,1
+50157,malignant hypertensive heart disease,1
+103046,malignant hypertensive heart disease nos,1
+72668,malignant hypertensive heart disease with ccf,1
+95334,malignant hypertensive heart disease without ccf,1
+39649,malignant hypertensive renal disease,1
+18590,moderate hypertension control,1
+17434,nephrosclerosis,1
+3425,on treatment for hypertension,1
+96743,other pre-exist hypertension in preg/childb/puerp-not deliv,1
+72030,other pre-existing hypertension in preg/childb/puerp - deliv,1
+62432,other pre-existing hypertension in preg/childb/puerp nos,1
+73586,other pre-existing hypertension in preg/childb/puerp unspec,1
+66567,other pre-existing hypertension in preg/childbirth/puerp,1
+101649,other specified high cost hypertension drugs,1
+18765,other specified hypertensive disease,1
+11056,patient on maximal tolerated antihypertensive therapy,1
+27511,poor hypertension control,1
+93055,pre-eclampsia or eclampsia + pre-existing hypertension nos,1
+43664,pre-eclampsia or eclampsia with pre-existing hypertension,1
+52621,pre-exist 2ndry hypertens comp preg childbth and puerperium,1
+60655,pre-exist hyperten heart dis compl preg childbth+puerperium,1
+44549,pre-exist hypertension compl preg childbirth and puerperium,1
+107704,primary hypertension,1
+5513,referral to hypertension clinic,1
+43220,refuses hypertension monitor.,1
+29310,renal hypertension,1
+57288,secondary benign hypertension,1
+51635,secondary benign hypertension nos,1
+25371,secondary benign renovascular hypertension,1
+7329,secondary hypertension,1
+16059,secondary hypertension nos,1
+42229,secondary hypertension nos,1
+31755,secondary malignant hypertension,1
+73293,secondary malignant hypertension nos,1
+59383,secondary malignant renovascular hypertension,1
+31387,secondary renovascular hypertension nos,1
+27634,seen in hypertension clinic,1
+4344,seen in hypertension clinic,1
+105487,severe hypertension,1
+105989,severe hypertension (nat inst for health clinical ex 2011),1
+105316,stage 1 hypertension,1
+105371,stage 1 hypertension (nice - nat ins for hth clin excl 2011),1
+105274,stage 2 hypertension (nice - nat ins for hth clin excl 2011),1
+22356,suspected hypertension,1
+4372,systolic hypertension,1
+99259,trial reduction of antihypertensive therapy,1
+95359,trial withdrawal of antihypertensive therapy,1
+10632,white coat hypertension,1

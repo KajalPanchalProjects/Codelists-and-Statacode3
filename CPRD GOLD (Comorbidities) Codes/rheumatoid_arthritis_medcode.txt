@@ -1,0 +1,79 @@
+medcode,readterm,ra
+47831,Acute polyarticular juvenile rheumatoid arthritis,1
+23834,Adult Still's Disease,1
+32001,Adult-onset Still's disease,1
+56838,Caplan's syndrome,1
+102088,Delivery of rehabilitation for rheumatoid arthritis,1
+103829,Disease activity score 28 joint in rheumatoid arthritis,1
+100187,Disease activity score in rheumatoid arthritis,1
+106092,Except rheumatoid arthritis qual indicator: informed dissent,1
+106118,Except rheumatoid arthritis quality indicator: pt unsuitable,1
+106093,Exception reporting: rheumatoid arthritis quality indicators,1
+23552,Felty's syndrome,1
+28853,Fibrosing alveolitis associated with rheumatoid arthritis,1
+8350,Flare of rheumatoid arthritis,1
+6639,H/O: rheumatoid arthritis,1
+31360,Juvenile rheumatoid arthritis,1
+4186,Juvenile rheumatoid arthritis - Still's disease,1
+27557,Juvenile rheumatoid arthritis NOS,1
+50644,Juvenile rheumatoid arthropathy unspecified,1
+36276,Monarticular juvenile rheumatoid arthritis,1
+31209,Myopathy due to rheumatoid arthritis,1
+33264,O/E-hands-rheumatoid spindling,1
+44203,Other rheumatoid arthritis of spine,1
+49227,Other rheumatoid arthropathy + visceral/systemic involvement,1
+21533,Pauciarticular juvenile rheumatoid arthritis,1
+62401,Polyneuropathy in rheumatoid arthritis,1
+17412,Rheumatoid arthrit. monitoring,1
+844,Rheumatoid arthritis,1
+31054,Rheumatoid arthritis - multiple joint,1
+27603,Rheumatoid arthritis and other inflammatory polyarthropathy,1
+105507,Rheumatoid arthritis annual review,1
+107340,Rheumatoid arthritis monitoring invitation,1
+107435,Rheumatoid arthritis monitoring invitation first letter,1
+107575,Rheumatoid arthritis monitoring invitation second letter,1
+107676,Rheumatoid arthritis monitoring invitation third letter,1
+107797,Rheumatoid arthritis monitoring telephone invitation,1
+107606,Rheumatoid arthritis monitoring verbal invitation,1
+51238,Rheumatoid arthritis of 1st MTP joint,1
+63198,Rheumatoid arthritis of DIP joint of finger,1
+107112,Rheumatoid arthritis of IP joint of toe,1
+42299,Rheumatoid arthritis of MCP joint,1
+41941,Rheumatoid arthritis of PIP joint of finger,1
+100914,Rheumatoid arthritis of acromioclavicular joint,1
+51239,Rheumatoid arthritis of ankle,1
+44743,Rheumatoid arthritis of cervical spine,1
+63365,Rheumatoid arthritis of distal radio-ulnar joint,1
+59738,Rheumatoid arthritis of elbow,1
+49067,Rheumatoid arthritis of hip,1
+50863,Rheumatoid arthritis of knee,1
+99414,Rheumatoid arthritis of lesser MTP joint,1
+71784,Rheumatoid arthritis of other tarsal joint,1
+100776,Rheumatoid arthritis of sacro-iliac joint,1
+21358,Rheumatoid arthritis of shoulder,1
+107963,Rheumatoid arthritis of sternoclavicular joint,1
+73619,Rheumatoid arthritis of subtalar joint,1
+70658,Rheumatoid arthritis of talonavicular joint,1
+107791,Rheumatoid arthritis of tibio-fibular joint,1
+48832,Rheumatoid arthritis of wrist,1
+14303,Rheumatoid arthritis particle agglutination test,1
+16480,Rheumatoid arthritis screen,1
+43544,Rheumatoid arthritis screening test,1
+37431,Rheumatoid arthropathy + visceral/systemic involvement NOS,1
+18155,Rheumatoid bursitis,1
+43816,Rheumatoid carditis,1
+9954,Rheumatoid lung,1
+31724,Rheumatoid lung,1
+46436,Rheumatoid lung disease,1
+49787,Rheumatoid myocarditis,1
+5723,Rheumatoid nodule,1
+53621,Rheumatoid nodule,1
+30548,Rheumatoid vasculitis,1
+6916,Seronegative rheumatoid arthritis,1
+9707,Seropositive errosive rheumatoid arthritis,1
+12019,"Seropositive rheumatoid arthritis, unspecified",1
+6766,[V]Screening for rheumatoid arthritis,1
+93715,[X]Other seropositive rheumatoid arthritis,1
+70221,[X]Other specified rheumatoid arthritis,1
+106440,[X]Rheumatoid arthritis+involvement/other organs or systems,1
+56202,"[X]Seropositive rheumatoid arthritis, unspecified",1

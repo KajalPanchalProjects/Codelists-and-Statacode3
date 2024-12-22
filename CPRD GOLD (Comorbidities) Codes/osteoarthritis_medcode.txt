@@ -1,0 +1,109 @@
+medcode,readterm,oa
+52897,Ankle osteoarthritis NOS,1
+639,Elbow osteoarthritis NOS,1
+38019,Erosive osteoarthrosis,1
+4490,Finger osteoarthritis NOS,1
+1312,Foot osteoarthritis NOS,1
+4353,Generalised osteoarthritis - OA,1
+34867,Generalised osteoarthritis NOS,1
+23676,Generalised osteoarthritis of multiple sites,1
+36327,Generalised osteoarthritis of the hand,1
+38631,Generalised osteoarthritis of unspecified site,1
+9760,H/O: osteoarthritis,1
+2209,Hip osteoarthritis NOS,1
+665,Knee osteoarthritis NOS,1
+34122,"Localised osteoarthritis, unspecified",1
+31200,"Localised osteoarthritis, unspecified, NOS",1
+18112,"Localised osteoarthritis, unspecified, of other spec site",1
+15441,"Localised osteoarthritis, unspecified, of shoulder region",1
+4461,"Localised osteoarthritis, unspecified, of the ankle and foot",1
+60537,"Localised osteoarthritis, unspecified, of the forearm",1
+16242,"Localised osteoarthritis, unspecified, of the hand",1
+34804,"Localised osteoarthritis, unspecified, of the lower leg",1
+59637,"Localised osteoarthritis, unspecified, of the upper arm",1
+49545,"Localised osteoarthritis, unspecified, of unspecified site",1
+20626,"Localised osteoarthritis, unspecified, pelvic region/thigh",1
+32839,"Localised, primary osteoarthritis",1
+20660,"Localised, primary osteoarthritis NOS",1
+18602,"Localised, primary osteoarthritis of elbow",1
+20472,"Localised, primary osteoarthritis of other specified site",1
+25793,"Localised, primary osteoarthritis of the ankle and foot",1
+34806,"Localised, primary osteoarthritis of the forearm",1
+21350,"Localised, primary osteoarthritis of the hand",1
+21159,"Localised, primary osteoarthritis of the lower leg",1
+15839,"Localised, primary osteoarthritis of the pelvic region/thigh",1
+24022,"Localised, primary osteoarthritis of the shoulder region",1
+24217,"Localised, primary osteoarthritis of the upper arm",1
+24958,"Localised, primary osteoarthritis of the wrist",1
+28908,"Localised, primary osteoarthritis of toe",1
+54224,"Localised, primary osteoarthritis of unspecified site",1
+42045,"Localised, secondary osteoarthritis",1
+57912,"Localised, secondary osteoarthritis NOS",1
+32891,"Localised, secondary osteoarthritis of other specified site",1
+44041,"Localised, secondary osteoarthritis of pelvic region/thigh",1
+34035,"Localised, secondary osteoarthritis of the ankle and foot",1
+45815,"Localised, secondary osteoarthritis of the forearm",1
+23638,"Localised, secondary osteoarthritis of the hand",1
+33479,"Localised, secondary osteoarthritis of the lower leg",1
+33574,"Localised, secondary osteoarthritis of the shoulder region",1
+41088,"Localised, secondary osteoarthritis of the upper arm",1
+68712,"Localised, secondary osteoarthritis of unspecified site",1
+48214,"Oligoarticular osteoarthritis, unspec, of unspecified sites",1
+21528,"Oligoarticular osteoarthritis, unspecified",1
+57267,"Oligoarticular osteoarthritis, unspecified, multiple sites",1
+72109,"Oligoarticular osteoarthritis, unspecified, of ankle/foot",1
+112556,"Oligoarticular osteoarthritis, unspecified, of forearm",1
+59616,"Oligoarticular osteoarthritis, unspecified, of hand",1
+41090,"Oligoarticular osteoarthritis, unspecified, of lower leg",1
+68648,"Oligoarticular osteoarthritis, unspecified, of pelvis/thigh",1
+52095,"Oligoarticular osteoarthritis, unspecified, of shoulder",1
+97073,"Oligoarticular osteoarthritis, unspecified, of upper arm",1
+41985,"Oligoarticular osteoarthritis, unspecified, other spec sites",1
+396,Osteoarthritis,1
+27972,Osteoarthritis NOS,1
+5776,Osteoarthritis NOS,1
+6887,"Osteoarthritis NOS, of 1st MTP joint",1
+9681,"Osteoarthritis NOS, of DIP joint of finger",1
+27834,"Osteoarthritis NOS, of IP joint of toe",1
+7866,"Osteoarthritis NOS, of MCP joint",1
+11032,"Osteoarthritis NOS, of PIP joint of finger",1
+2229,"Osteoarthritis NOS, of acromioclavicular joint",1
+8202,"Osteoarthritis NOS, of ankle",1
+15447,"Osteoarthritis NOS, of ankle and foot",1
+65748,"Osteoarthritis NOS, of distal radio-ulnar joint",1
+19713,"Osteoarthritis NOS, of elbow",1
+6812,"Osteoarthritis NOS, of hip",1
+2487,"Osteoarthritis NOS, of knee",1
+9010,"Osteoarthritis NOS, of lesser MTP joint",1
+54350,"Osteoarthritis NOS, of other tarsal joint",1
+34023,"Osteoarthritis NOS, of sacro-iliac joint",1
+5802,"Osteoarthritis NOS, of shoulder",1
+3147,"Osteoarthritis NOS, of shoulder region",1
+3814,"Osteoarthritis NOS, of sternoclavicular joint",1
+40972,"Osteoarthritis NOS, of subtalar joint",1
+55388,"Osteoarthritis NOS, of talonavicular joint",1
+24152,"Osteoarthritis NOS, of the forearm",1
+658,"Osteoarthritis NOS, of the hand",1
+15144,"Osteoarthritis NOS, of the lower leg",1
+50848,"Osteoarthritis NOS, of the upper arm",1
+70425,"Osteoarthritis NOS, of tibio-fibular joint",1
+35527,"Osteoarthritis NOS, of unspecified site",1
+9649,"Osteoarthritis NOS, of wrist",1
+15052,"Osteoarthritis NOS, other specified site",1
+4967,"Osteoarthritis NOS, pelvic region/thigh",1
+3057,Osteoarthritis and allied disorders,1
+17092,Osteoarthritis cervical spine,1
+41378,Osteoarthritis of cervical spine,1
+22452,Osteoarthritis of lumbar spine,1
+53858,"Osteoarthritis of more than one site, unspecified, NOS",1
+106678,Osteoarthritis of spinal facet joint,1
+18826,Osteoarthritis of spine,1
+7429,Osteoarthritis of spine,1
+53184,Osteoarthritis of spine NOS,1
+47024,Osteoarthritis of thoracic spine,1
+829,Osteoarthritis spine,1
+1296,Patellofemoral osteoarthritis,1
+23646,Primary generalized osteoarthrosis,1
+1959,Thumb osteoarthritis NOS,1
+4878,Toe osteoarthritis NOS,1
+15206,Wrist osteoarthritis NOS,1

@@ -1,0 +1,55 @@
+medcode,readterm,copd
+1446,Acute exacerbation of chronic obstructive airways disease,1
+59263,Acute interstitial emphysema,1
+92955,Acute vesicular emphysema,1
+96931,At risk of chronic obstructive pulmonary diseas exacerbation,1
+70787,Atrophic (senile) emphysema,1
+26125,Bronchiolitis obliterans,1
+99536,Bullous emphysema with collapse,1
+10980,Centrilobular emphysema,1
+7884,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",1
+5798,Chronic asthmatic bronchitis,1
+3243,Chronic bronchitis,1
+15157,Chronic bronchitis NOS,1
+26306,Chronic bullous emphysema,1
+23492,Chronic bullous emphysema NOS,1
+15626,Chronic catarrhal bronchitis,1
+21061,Chronic obstruct pulmonary dis with acute lower resp infectn,1
+998,Chronic obstructive airways disease,1
+5710,Chronic obstructive airways disease NOS,1
+1001,Chronic obstructive pulmonary disease,1
+37247,Chronic obstructive pulmonary disease NOS,1
+23618,Chronic tracheitis,1
+45089,Chronic tracheobronchitis,1
+5909,Chronic wheezy bronchitis,1
+794,Emphysema,1
+33450,Emphysema NOS,1
+14798,Emphysematous bronchitis,1
+104608,End stage chronic obstructive airways disease,1
+37959,Fetid chronic bronchitis,1
+60188,Giant bullous emphysema,1
+103494,History of chronic obstructive pulmonary disease,1
+63479,MacLeod's unilateral emphysema,1
+10863,Mild chronic obstructive pulmonary disease,1
+24248,Mixed simple and mucopurulent chronic bronchitis,1
+10802,Moderate chronic obstructive pulmonary disease,1
+11150,Mucopurulent chronic bronchitis,1
+61513,Mucopurulent chronic bronchitis NOS,1
+27819,Obstructive chronic bronchitis,1
+44525,Obstructive chronic bronchitis NOS,1
+66043,Other chronic bronchitis,1
+68066,Other chronic bronchitis NOS,1
+40788,Other emphysema,1
+16410,Other emphysema NOS,1
+12166,Other specified chronic obstructive airways disease,1
+67040,Other specified chronic obstructive pulmonary disease,1
+46578,Panlobular emphysema,1
+40159,Purulent chronic bronchitis,1
+56860,Segmental bullous emphysema,1
+9876,Severe chronic obstructive pulmonary disease,1
+25603,Simple chronic bronchitis,1
+61118,Simple chronic bronchitis NOS,1
+16717,Smokers' cough,1
+103733,Tension pneumatocoele,1
+93568,Very severe chronic obstructive pulmonary disease,1
+68662,Zonal bullous emphysema,1

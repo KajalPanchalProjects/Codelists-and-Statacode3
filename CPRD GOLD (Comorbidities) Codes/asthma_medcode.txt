@@ -1,0 +1,122 @@
+medcode,readterm,asthma
+185,Acute exacerbation of asthma,1
+2290,Allergic asthma,1
+21232,Allergic asthma NEC,1
+18207,Allergic bronchitis NEC,1
+41017,Aspirin induced asthma,1
+78,Asthma,1
+10487,Asthma - currently active,1
+16070,Asthma NOS,1
+232,Asthma attack,1
+8335,Asthma attack NOS,1
+11370,Asthma confirmed,1
+4442,Asthma unspecified,1
+40823,Brittle asthma,1
+1555,Bronchial asthma,1
+1208,Childhood asthma,1
+5798,Chronic asthmatic bronchitis,1
+47684,Detergent asthma,1
+4606,Exercise induced asthma,1
+5867,Exercise induced asthma,1
+7146,Extrinsic (atopic) asthma,1
+45782,Extrinsic asthma NOS,1
+6707,Extrinsic asthma with asthma attack,1
+27926,Extrinsic asthma with status asthmaticus,1
+14777,Extrinsic asthma without status asthmaticus,1
+5627,Hay fever with asthma,1
+15248,Hay fever with asthma,1
+32727,Hyperreactive airways disease,1
+5267,Intrinsic asthma,1
+45073,Intrinsic asthma NOS,1
+18323,Intrinsic asthma with asthma attack,1
+58196,Intrinsic asthma with status asthmaticus,1
+29325,Intrinsic asthma without status asthmaticus,1
+3665,Late onset asthma,1
+12987,Late-onset asthma,1
+3018,Mild asthma,1
+25796,Mixed asthma,1
+13065,Moderate asthma,1
+3458,Occasional asthma,1
+22752,Occupational asthma,1
+7731,Pollen asthma,1
+93353,Sequoiosis (red-cedar asthma),1
+3366,Severe asthma,1
+233,Severe asthma attack,1
+4892,Status asthmaticus NOS,1
+39478,Wood asthma,1
+73522,Work aggravated asthma,1
+40864,[x] adverse reaction to theophylline - asthma,1
+41020,absent from work or school due to asthma,1
+48591,adverse reaction to theophylline (asthma),1
+47337,asthma accident and emergency attendance since last visit,1
+10043,asthma annual review,1
+31225,asthma causes daytime symptoms 1 to 2 times per month,1
+24884,asthma causes daytime symptoms 1 to 2 times per week,1
+26503,asthma causes daytime symptoms most days,1
+39570,asthma causes night symptoms 1 to 2 times per month,1
+102400,asthma causes night time symptoms 1 to 2 times per week,1
+102395,asthma causes symptoms most nights,1
+30815,asthma causing night waking,1
+25791,asthma clinical management plan,1
+100397,asthma control questionnaire,1
+29645,asthma control step 0,1
+16785,asthma control step 1,1
+16667,asthma control step 2,1
+18224,asthma control step 3,1
+20886,asthma control step 4,1
+20860,asthma control step 5,1
+98185,asthma control test,1
+42824,asthma daytime symptoms,1
+7416,asthma disturbing sleep,1
+13175,asthma disturbs sleep frequently,1
+38146,asthma disturbs sleep weekly,1
+13176,asthma follow-up,1
+7191,asthma limiting activities,1
+102713,asthma limits activities 1 to 2 times per month,1
+102888,asthma limits activities 1 to 2 times per week,1
+38145,asthma limits walking on the flat,1
+38144,asthma limits walking up hills or stairs,1
+7378,asthma management plan given,1
+10274,asthma medication review,1
+8355,asthma monitored,1
+81,asthma monitoring,1
+30458,asthma monitoring by doctor,1
+19167,asthma monitoring by nurse,1
+19539,asthma monitoring check done,1
+18141,asthma monitoring due,1
+26501,asthma never causes daytime symptoms,1
+38143,asthma never disturbs sleep,1
+26504,asthma never restricts exercise,1
+31167,asthma night-time symptoms,1
+13173,asthma not disturbing sleep,1
+13174,asthma not limiting activities,1
+7229,asthma prophylactic medication used,1
+25181,asthma restricts exercise,1
+102170,asthma review using roy colleg of physicians three questions,1
+26506,asthma severely restricts exercise,1
+13064,asthma severity,1
+26861,asthma sometimes restricts exercise,1
+19520,asthma treatment compliance satisfactory,1
+19519,asthma treatment compliance unsatisfactory,1
+11022,asthma trigger,1
+103321,asthma trigger - animals,1
+102871,asthma trigger - exercise,1
+102341,asthma trigger - pollen,1
+102449,asthma trigger - respiratory infection,1
+102301,asthma trigger - seasonal,1
+102952,asthma trigger - warm air,1
+46529,attends asthma monitoring,1
+9552,change in asthma management plan,1
+7058,"emergency admission, asthma",1
+24479,emergency asthma admission since last appointment,1
+24506,further asthma - drug prevent.,1
+719,h/o: asthma,1
+100740,health education - structured asthma discussion,1
+103318,health education - structured patient focused asthma discuss,1
+102209,mini asthma quality of life questionnaire,1
+4836,nocturnal cough / wheeze,1
+9018,number of asthma exacerbations in past year,1
+99793,patient has a written asthma personal action plan,1
+18223,step down change in asthma management plan,1
+9663,step up change in asthma management plan,1
+100509,under care of asthma specialist nurse,1

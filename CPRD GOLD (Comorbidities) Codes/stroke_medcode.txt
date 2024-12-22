@@ -1,0 +1,132 @@
+medcode,readterm,stroke
+30202,Intracerebral haemorrhage",1
+57315,Intracerebral haemorrhage",1
+31060,Intracerebral haemorrhage in hemisphere",1
+28314,Left sided intracerebral haemorrhage",1
+19201,Right sided intracerebral haemorrhage",1
+6228,Sequelae of stroke",1
+17326,Subarachnoid haemorrh from intracranial artery",1
+96630,[X]Intracerebral haemorrhage in hemisphere",1
+110337,[X]Sequelae of stroke",1
+108630,[X]Subarachnoid haemorrh from intracranial artery",1
+105520,Admission to stroke unit,1
+19280,Anterior cerebral artery syndrome,1
+46316,Basal nucleus haemorrhage,1
+32447,Basilar artery occlusion,1
+8443,Brain stem stroke syndrome,1
+25615,Brainstem infarction,1
+15252,Brainstem infarction NOS,1
+6116,CVA - Cerebrovascular accident unspecified,1
+5363,CVA - cerebral artery occlusion,1
+6960,CVA - cerebrovascular accid due to intracerebral haemorrhage,1
+47607,CVA - cerebrovascular accident in the puerperium,1
+1298,CVA unspecified,1
+105738,Carotid territory transient ischaemic attack,1
+100639,Central post-stroke pain,1
+40758,Cereb infarct due unsp occlus/stenos precerebr arteries,1
+13564,Cerebellar haemorrhage,1
+5602,Cerebellar infarction,1
+17322,Cerebellar stroke syndrome,1
+8837,Cerebral arterial occlusion,1
+34758,Cerebral embolus,1
+5682,Cerebral haemorrhage following injury,1
+46545,Cerebral haemorrhage following injury NOS,1
+23671,Cerebral infarct due to thrombosis of precerebral arteries,1
+3149,Cerebral infarction NOS,1
+27975,Cerebral infarction due to embolism of cerebral arteries,1
+24446,Cerebral infarction due to embolism of precerebral arteries,1
+36717,Cerebral infarction due to thrombosis of cerebral arteries,1
+16517,Cerebral thrombosis,1
+33543,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,1
+2418,Cerebrovascular disease,1
+10062,Cerebrovascular disease NOS,1
+31595,Cortical haemorrhage,1
+55351,Delivery of rehabilitation for stroke,1
+42248,Discharge from stroke serv,1
+30045,External capsule haemorrhage,1
+12555,Generalised ischaemic cerebrovascular disease NOS,1
+6305,H/O: CVA,1
+34135,H/O: CVA/stroke,1
+66873,H/O: Stroke in last year,1
+13567,H/O: TIA,1
+41577,H/O: cerebrovascular disease,1
+5871,H/O: stroke,1
+28914,Haemorrhagic stroke monitoring,1
+569,Infarction - cerebral,1
+57495,Infarction - precerebral,1
+26424,Infarction of basal ganglia,1
+40338,Internal capsule haemorrhage,1
+5051,Intracerebral haemorrhage,1
+3535,Intracerebral haemorrhage NOS,1
+20284,Intracranial haemorrhage NOS,1
+23361,Late effects of cerebrovascular disease,1
+5185,Lateral medullary syndrome,1
+7780,Left sided CVA,1
+9985,Left sided cerebral infarction,1
+107440,Lobar cerebral haemorrhage,1
+18689,Middle cerebral artery syndrome,1
+98642,Multiple and bilateral precerebral arterial occlusion,1
+57527,Occlusion and stenosis of anterior cerebral artery,1
+55602,Occlusion and stenosis of cerebellar arteries,1
+51759,Occlusion and stenosis of middle cerebral artery,1
+65770,Occlusion and stenosis of posterior cerebral artery,1
+71274,Occlusion+stenosis of multiple and bilat cerebral arteries,1
+109679,Old cerebral infarction on imaging,1
+31805,Other and unspecified intracranial haemorrhage,1
+52968,Other cerebral haemorrhage following injury,1
+42283,Other cerebral haemorrhage following injury NOS,1
+13577,Other cerebrovascular disease,1
+37493,Other cerebrovascular disease NOS,1
+34117,Other cerebrovascular disease OS,1
+51326,Other precerebral artery occlusion,1
+51311,Other specified cerebrovascular disease,1
+7912,Pontine haemorrhage,1
+19260,Posterior cerebral artery syndrome,1
+45781,Precerebral arterial occlusion,1
+71585,Precerebral artery occlusion NOS,1
+33499,Pure motor lacunar syndrome,1
+51767,Pure sensory lacunar syndrome,1
+56458,Ref to multidisciplinary stroke function improvement service,1
+12833,Right sided CVA,1
+10504,Right sided cerebral infarction,1
+31941,Rupture of syphilitic cerebral aneurysm,1
+39403,Sequelae of cerebral infarction,1
+48149,Sequelae of intracerebral haemorrhage,1
+43451,Sequelae of other nontraumatic intracranial haemorrhage,1
+51138,Sequelae/other + unspecified cerebrovascular diseases,1
+105100,Stroke 6 month review,1
+1469,Stroke and cerebrovascular accident unspecified,1
+107886,Stroke annual review,1
+6155,Stroke due to cerebral arterial occlusion,1
+18604,Stroke due to intracerebral haemorrhage,1
+56279,Stroke in the puerperium,1
+104505,Stroke initial post discharge review,1
+10792,Stroke monitoring,1
+107195,Stroke self-management plan agreed,1
+109743,Stroke self-management plan review,1
+6253,Stroke unspecified,1
+18686,Stroke/CVA annual review,1
+31218,Stroke/transient ischaemic attack monitoring administration,1
+28753,Stroke/transient ischaemic attack monitoring first letter,1
+34245,Stroke/transient ischaemic attack monitoring second letter,1
+34375,Stroke/transient ischaemic attack monitoring third letter,1
+56007,Subarachnoid haemorrhage from carotid siphon and bifurcation,1
+19412,Subarachnoid haemorrhage from middle cerebral artery,1
+1433,Transient ischaemic attack,1
+100015,Transient ischaemic attack clinical management plan,1
+28077,Traumatic cerebral haemorrhage,1
+40847,Vertebral artery occlusion,1
+47642,Wallenberg syndrome,1
+7138,[V]Personal history of cerebrovascular accident (CVA),1
+19348,[V]Personal history of stroke,1
+101251,[V]Personal history of transient ischaemic attack,1
+94482,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,1
+91627,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,1
+73901,[X]Cerebrovascular diseases,1
+92036,[X]Occlusion and stenosis of other cerebral arteries,1
+90572,[X]Occlusion and stenosis of other precerebral arteries,1
+53745,[X]Other cerebral infarction,1
+53810,[X]Other intracerebral haemorrhage,1
+93459,[X]Other lacunar syndromes,1
+63746,[X]Other transnt cerebral ischaemic attacks+related syndroms,1
+108668,[X]Subarachnoid haemorrhage from other intracranial arteries,1

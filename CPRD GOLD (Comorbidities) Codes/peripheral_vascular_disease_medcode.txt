@@ -1,0 +1,53 @@
+medcode,readterm,pvd
+6853,Claudication,1
+43001,DNA - Did not attend peripheral vascular disease clinic,1
+65025,Diabetes mellitus NOS with peripheral circulatory disorder,1
+35399,Diabetes mellitus with peripheral circulatory disorder,1
+63357,"Diabetes mellitus, adult, + peripheral circulatory disorder",1
+70448,"Diabetes mellitus, juvenile +peripheral circulatory disorder",1
+34152,Diabetic peripheral angiopathy,1
+104394,Excepted frm peripheral arterial dis qual ind: pt unsuitable,1
+59534,H/O: Peripheral vascular disease procedure,1
+69124,IDDM with peripheral circulatory disorder,1
+64446,Insulin dependent diab mell with peripheral angiopathy,1
+1517,Intermittent claudication,1
+1826,Ischaemia of legs,1
+98174,Ischaemic foot,1
+9561,Ischaemic toe,1
+24327,Ischaemic ulcer diabetic foot,1
+56803,NIDDM with peripheral circulatory disorder,1
+40401,Non-insulin dependent diabetes mellitus with gangrene,1
+5943,Other peripheral vascular disease,1
+45384,Other peripheral vascular system anomalies,1
+38907,Other specified peripheral vascular disease,1
+4325,Other specified peripheral vascular disease NOS,1
+96990,Percutaneous transluminal placement peripheral stent artery,1
+105317,Peripheral arterial disease,1
+110386,Peripheral arterial disease screening,1
+15302,Peripheral arterial embolism and thrombosis NOS,1
+6827,Peripheral ischaemia,1
+5702,Peripheral ischaemic vascular disease,1
+2760,Peripheral vascular disease NOS,1
+3530,Peripheral vascular disease NOS,1
+18499,Peripheral vascular disease monitoring,1
+106260,Peripheral vascular disease monitoring first letter,1
+106224,Peripheral vascular disease monitoring invitation,1
+106660,Peripheral vascular disease monitoring second letter,1
+106855,Peripheral vascular disease monitoring third letter,1
+56429,Peripheral vascular system anomaly NOS,1
+100475,Referred for peripheral artery disease assessment,1
+69993,Type 1 diabetes mellitus with gangrene,1
+93468,Type 1 diabetes mellitus with peripheral angiopathy,1
+46150,Type 2 diabetes mellitus with gangrene,1
+12736,Type 2 diabetes mellitus with gangrene,1
+60699,Type 2 diabetes mellitus with peripheral angiopathy,1
+37806,Type 2 diabetes mellitus with peripheral angiopathy,1
+102112,Type I diabetes mellitus with gangrene,1
+62107,Type II diabetes mellitus with gangrene,1
+104323,Type II diabetes mellitus with gangrene,1
+104639,Type II diabetes mellitus with peripheral angiopathy,1
+54899,Type II diabetes mellitus with peripheral angiopathy,1
+101866,Vascular claudication,1
+53634,[D]Gangrene of toe in diabetic,1
+30484,[D]Peripheral circulatory failure,1
+73961,[X]Other specified peripheral vascular diseases,1

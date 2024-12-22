@@ -1,0 +1,1228 @@
+medcode,readterm,cancer
+42539,Acute erythraemia and erythroleukaemia,1
+4072,Acute leukaemia NOS,1
+4251,Acute lymphoid leukaemia,1
+19974,Acute monocytic leukaemia,1
+28276,Acute myelofibrosis,1
+4413,Acute myeloid leukaemia,1
+61500,Acute myelomonocytic leukaemia,1
+50858,Acute panmyelosis,1
+27664,Acute promyelocytic leukaemia,1
+37461,Adult T-cell leukaemia,1
+9491,Anal carcinoma,1
+104325,B-cell acute lymphoblastic leukaemia,1
+104328,B-cell chronic lymphocytic leukaemia,1
+21402,Burkitt's lymphoma,1
+71304,Burkitt's lymphoma NOS,1
+97577,Burkitt's lymphoma of intra-abdominal lymph nodes,1
+100006,Burkitt's lymphoma of intrathoracic lymph nodes,1
+59115,"Burkitt's lymphoma of lymph nodes of head, face and neck",1
+92380,Burkitt's lymphoma of lymph nodes of inguinal region and leg,1
+348,Ca female breast,1
+11628,Cancer of bowel,1
+1986,Cancer of ovary,1
+36495,Carcinoma common bile duct,1
+31393,Carcinoma gallbladder,1
+9902,"Carcinoma of bone, connective tissue, skin and breast",1
+22163,Carcinoma of caecum,1
+3357,Carcinoma of digestive organs and peritoneum,1
+16874,Carcinoma of genitourinary organ,1
+9984,Carcinoma of lip,1
+24374,"Carcinoma of lip, oral cavity and pharynx",1
+8693,Carcinoma of other and unspecified sites,1
+7219,Carcinoma of rectum,1
+45307,Carcinoma of respiratory tract and intrathoracic organs,1
+6170,Carcinomatosis,1
+5199,Cerebral metastasis,1
+10851,Cerebral tumour - malignant,1
+3230,Cervical carcinoma (uterus),1
+52327,Chloroma,1
+5062,Chondroma,1
+28003,Choriocarcinoma,1
+100786,Chronic eosinophilic leukaemia,1
+37468,Chronic erythraemia,1
+31701,Chronic granulocytic leukaemia,1
+16416,Chronic leukaemia NOS,1
+27790,Chronic lymphatic leukaemia,1
+8625,Chronic lymphoid leukaemia,1
+27458,Chronic monocytic leukaemia,1
+10726,Chronic myeloid leukaemia,1
+27520,Chronic myeloid leukaemia NOS,1
+22050,Chronic myelomonocytic leukaemia,1
+102783,Chronic neutrophilic leukaemia,1
+9118,Colonic cancer,1
+27340,Di Guglielmo's disease,1
+102594,Diffuse large B-cell lymphoma,1
+50695,Diffuse non-Hodgkin mixed sml & lge cell (diffuse) lymphoma,1
+70509,Diffuse non-Hodgkin's centroblastic lymphoma,1
+53551,Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma,1
+101114,Diffuse non-Hodgkin's large cell lymphoma,1
+17460,Diffuse non-Hodgkin's lymphoblastic (diffuse) lymphoma,1
+65180,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse),1
+39798,"Diffuse non-Hodgkin's lymphoma, unspecified",1
+50668,Diffuse non-Hodgkin's small cell (diffuse) lymphoma,1
+13569,Disseminated malignancy NOS,1
+72224,Fibrosarcoma of spleen,1
+104152,Follicular lymphoma,1
+17182,Follicular lymphoma NOS,1
+70842,Follicular non-Hodg mixed sml cleavd & lge cell lymphoma,1
+49262,Follicular non-Hodgkin's large cell lymphoma,1
+21549,Follicular non-Hodgkin's lymphoma,1
+28639,Follicular non-Hodgkin's small cleaved cell lymphoma,1
+10368,Gastric neoplasm,1
+39629,Granulocytic sarcoma,1
+87335,Hairy cell leukaemia,1
+63653,Heilmeyer - Schoner disease,1
+31210,Hepatoblastoma of liver,1
+22187,Hepatocellular carcinoma,1
+101700,Hereditary nonpolyposis colon cancer,1
+4870,"Histiocytosis X (acute, progressive)",1
+104291,Hodgkin lymphoma,1
+2462,Hodgkin's disease,1
+53397,Hodgkin's disease NOS,1
+42461,Hodgkin's disease NOS,1
+59755,Hodgkin's disease NOS of intrathoracic lymph nodes,1
+99012,Hodgkin's disease NOS of lymph nodes inguinal region and leg,1
+91900,Hodgkin's disease NOS of lymph nodes of axilla and arm,1
+59778,"Hodgkin's disease NOS of lymph nodes of head, face and neck",1
+97746,Hodgkin's disease NOS of lymph nodes of multiple sites,1
+94279,Hodgkin's disease NOS of spleen,1
+61662,"Hodgkin's disease NOS, unspecified site",1
+67703,"Hodgkin's disease, lymphocytic depletion",1
+101530,"Hodgkin's disease, lymphocytic depletion NOS",1
+101715,"Hodgkin's disease, lymphocytic depletion of spleen",1
+38939,"Hodgkin's disease, lymphocytic-histiocytic predominance",1
+49605,"Hodgkin's disease, mixed cellularity",1
+94005,"Hodgkin's disease, mixed cellularity NOS",1
+97863,"Hodgkin's disease, mixed cellularity of unspecified site",1
+29178,"Hodgkin's disease, nodular sclerosis",1
+63054,"Hodgkin's disease, nodular sclerosis NOS",1
+57225,"Hodgkin's disease, nodular sclerosis of unspecified site",1
+44196,Hodgkin's granuloma,1
+98909,"Hodgkin's granuloma of lymph nodes of head, face and neck",1
+63625,Hodgkin's lymphocytic depletion lymph nodes axilla and arm,1
+95049,Hodgkin's lymphocytic depletion of unspecified site,1
+58684,Hodgkin's mixed cellularity of intrathoracic lymph nodes,1
+94407,"Hodgkin's mixed cellularity of lymph nodes head, face, neck",1
+55303,"Hodgkin's nodular sclerosis of head, face and neck",1
+61149,Hodgkin's nodular sclerosis of intra-abdominal lymph nodes,1
+67506,Hodgkin's nodular sclerosis of intrathoracic lymph nodes,1
+65483,Hodgkin's nodular sclerosis of lymph nodes of axilla and arm,1
+19140,Hodgkin's nodular sclerosis of lymph nodes of multiple sites,1
+65489,Hodgkin's paragranuloma,1
+98840,Hodgkin's paragranuloma of intra-abdominal lymph nodes,1
+100423,"Hodgkin's paragranuloma of lymph nodes of head, face, neck",1
+64036,Hodgkin's sarcoma,1
+68039,Hodgkin's sarcoma of lymph nodes of axilla and upper limb,1
+93951,"Hodgkin's, lymphocytic-histiocytic pred inguinal and leg",1
+73532,"Hodgkin's, lymphocytic-histiocytic pred intra-abdominal node",1
+95338,"Hodgkin's, lymphocytic-histiocytic pred intrapelvic nodes",1
+92245,"Hodgkin's, lymphocytic-histiocytic pred intrathoracic nodes",1
+68330,"Hodgkin's, lymphocytic-histiocytic pred of head, face, neck",1
+29876,"Hodgkin's, lymphocytic-histiocytic predominance NOS",1
+71142,"Hodgkin's, lymphocytic-histiocytic predominance unspec site",1
+7978,Hypernephroma,1
+70716,Immunoproliferative neoplasm,1
+43450,Immunoproliferative neoplasm or myeloma NOS,1
+43552,Kahler's disease,1
+50290,Kaposi's sarcoma of lymph nodes,1
+65466,Kaposi's sarcoma of multiple organs,1
+37549,Kaposi's sarcoma of palate,1
+104128,Kaposi's sarcoma of soft tissue,1
+49525,"Kaposi's sarcoma, unspecified",1
+46042,Lambda light chain myeloma,1
+34926,Letterer-Siwe disease,1
+47204,Letterer-Siwe disease NOS,1
+102158,Letterer-Siwe disease of intrathoracic lymph nodes,1
+54083,Letterer-Siwe disease of lymph nodes of multiple sites,1
+102715,Letterer-Siwe disease of unspecified sites,1
+4250,Leukaemia NOS,1
+25191,Leukaemia of unspecified cell type,1
+65123,Leukaemic reticuloend of intra-abdominal lymph nodes,1
+5137,Leukaemic reticuloendotheliosis,1
+27330,Leukaemic reticuloendotheliosis,1
+73777,Leukaemic reticuloendotheliosis NOS,1
+65122,Leukaemic reticuloendotheliosis of unspecified sites,1
+4403,Liver metastases,1
+2587,Lung cancer,1
+7830,Lymph node metastases,1
+4222,Lymphatic leukaemia,1
+104412,Lymphoblastic (diffuse) lymphoma,1
+57737,Lymphoepithelioid lymphoma,1
+95792,Lymphoid and histiocytic malignancy NOS,1
+19372,Lymphoid leukaemia,1
+38914,Lymphoid leukaemia NOS,1
+27416,Lymphosarcoma,1
+63723,Lymphosarcoma NOS,1
+41369,Lymphosarcoma and reticulosarcoma,1
+72197,Lymphosarcoma cell leukaemia,1
+64670,Lymphosarcoma of intra-abdominal lymph nodes,1
+62380,Lymphosarcoma of intrathoracic lymph nodes,1
+71238,"Lymphosarcoma of lymph nodes of head, face and neck",1
+100352,Lymphosarcoma of lymph nodes of inguinal region and leg,1
+103245,Lymphosarcoma of spleen,1
+71625,Lymphosarcoma of unspecified site,1
+39531,"Malig neo, overlapping lesion of heart, mediastinum & pleura",1
+24456,"Malig neop auditory tube, middle ear and mastoid air cells",1
+73537,"Malig neop auditory tube, middle ear, mastoid air cells NOS",1
+73718,"Malig neop connective and soft tissue head, face, neck NOS",1
+90546,Malig neop connective and soft tissue hip and leg NOS,1
+54965,Malig neop connective and soft tissue of popliteal space,1
+65233,Malig neop connective and soft tissue other specified site,1
+53989,Malig neop connective and soft tissue upper limb/shoulder,1
+98813,"Malig neop eyeball excl conjunctiva, cornea, retina, choroid",1
+26652,"Malig neop nasal cavities, middle ear and accessory sinuses",1
+18608,"Malig neop of bone, connective tissue, skin and breast",1
+41011,"Malig neop of bone, connective tissue, skin and breast NOS",1
+19389,"Malig neop of bone, connective tissue, skin and breast OS",1
+43475,"Malig neop of connective and soft tissue head, face and neck",1
+60247,Malig neop of connective and soft tissue of abdomen NOS,1
+66488,Malig neop of connective and soft tissue of abdominal wall,1
+66088,Malig neop of connective and soft tissue of hip and leg,1
+67324,Malig neop of connective and soft tissue of inguinal region,1
+30542,Malig neop of connective and soft tissue of lower leg,1
+58836,Malig neop of connective and soft tissue of pelvis NOS,1
+98408,Malig neop of connective and soft tissue of thorax NOS,1
+44805,Malig neop of connective and soft tissue thigh and upper leg,1
+57471,Malig neop of connective and soft tissue trunk unspecified,1
+64195,Malig neop of endocrine gland or related structure NOS,1
+13559,Malig neop of kidney and other unspecified urinary organs,1
+4555,Malig neop of other and unspecified female genital organs,1
+65458,Malig neop of other and unspecified parts of nervous system,1
+30511,Malig neop of other endocrine glands and related structures,1
+100232,"Malig neop of other site of heart, thymus and mediastinum",1
+34075,Malig neop of respiratory tract and intrathoracic organs,1
+65880,Malig neop of scapula and long bones of upper arm NOS,1
+65793,"Malig neop of upper respiratory tract, part unspecified",1
+11009,Malig neop oth/ill-defined sites digestive tract/peritoneum,1
+96971,"Malig neop other site nasal cavity, middle ear and sinuses",1
+55659,"Malig neop other site rectum, rectosigmoid junction and anus",1
+46114,"Malig neop other/ill-defined sites lip, oral cavity, pharynx",1
+44356,Malig neop other/ill-defined sites resp/intrathoracic organs,1
+59718,Malig neop pituitary gland or craniopharyngeal duct NOS,1
+24235,Malig neopl peripheral nerves and autonomic nervous system,1
+53504,"Malig neopl, overlap lesion brain & other part of CNS",1
+94272,Malig neoplasm of connective and soft tissues of lumb spine,1
+104139,Malig neoplasm of connective and soft tissues of thor spine,1
+8154,Malignant ascites,1
+44267,Malignant histiocytosis,1
+58871,Malignant histiocytosis NOS,1
+65642,Malignant histiocytosis of intra-abdominal lymph nodes,1
+94415,"Malignant histiocytosis of lymph nodes head, face and neck",1
+69497,Malignant histiocytosis of unspecified site,1
+58962,Malignant immunoproliferative small intestinal disease,1
+12335,Malignant lymphoma NOS,1
+15027,Malignant lymphoma NOS,1
+42579,Malignant lymphoma NOS of intra-abdominal lymph nodes,1
+71262,Malignant lymphoma NOS of intrapelvic lymph nodes,1
+72725,Malignant lymphoma NOS of intrathoracic lymph nodes,1
+63105,Malignant lymphoma NOS of lymph node inguinal region and leg,1
+34089,Malignant lymphoma NOS of lymph nodes of axilla and arm,1
+50696,"Malignant lymphoma NOS of lymph nodes of head, face and neck",1
+15504,Malignant lymphoma NOS of lymph nodes of multiple sites,1
+60092,Malignant lymphoma NOS of spleen,1
+57427,Malignant lymphoma NOS of unspecified site,1
+17887,Malignant lymphoma otherwise specified,1
+89657,Malignant mast cell tumour NOS,1
+15036,Malignant mast cell tumours,1
+42714,Malignant melanoma of ankle,1
+59061,Malignant melanoma of auricle (ear),1
+49814,Malignant melanoma of axilla,1
+43463,Malignant melanoma of back,1
+32768,Malignant melanoma of breast,1
+53629,Malignant melanoma of buttock,1
+51209,Malignant melanoma of chest wall,1
+71136,Malignant melanoma of chin,1
+57260,Malignant melanoma of ear and external auricular canal,1
+73744,Malignant melanoma of ear and external auricular canal NOS,1
+102145,Malignant melanoma of external auditory meatus,1
+41278,Malignant melanoma of external surface of cheek,1
+45139,Malignant melanoma of external surface of nose,1
+47094,Malignant melanoma of eyebrow,1
+54632,Malignant melanoma of eyelid including canthus,1
+67806,Malignant melanoma of face NOS,1
+25602,Malignant melanoma of finger,1
+41490,Malignant melanoma of foot,1
+45755,Malignant melanoma of fore-arm,1
+68133,Malignant melanoma of forehead,1
+53369,Malignant melanoma of great toe,1
+34259,Malignant melanoma of groin,1
+62475,Malignant melanoma of hand,1
+61246,Malignant melanoma of heel,1
+73536,Malignant melanoma of hip,1
+54305,Malignant melanoma of knee,1
+70637,Malignant melanoma of lip,1
+37872,Malignant melanoma of lower leg,1
+46255,Malignant melanoma of lower limb and hip,1
+64327,Malignant melanoma of lower limb or hip NOS,1
+45306,Malignant melanoma of neck,1
+47252,Malignant melanoma of other and unspecified parts of face,1
+42153,Malignant melanoma of other specified skin site,1
+95629,Malignant melanoma of perineum,1
+39878,Malignant melanoma of popliteal fossa area,1
+55881,Malignant melanoma of scalp,1
+65625,Malignant melanoma of scalp and neck,1
+99257,Malignant melanoma of scalp and neck NOS,1
+50505,Malignant melanoma of shoulder,1
+865,Malignant melanoma of skin,1
+28556,Malignant melanoma of skin NOS,1
+58958,Malignant melanoma of temple,1
+51873,Malignant melanoma of thigh,1
+63997,Malignant melanoma of thumb,1
+36899,Malignant melanoma of toe,1
+38689,Malignant melanoma of trunk (excluding scrotum),1
+45760,"Malignant melanoma of trunk, excluding scrotum, NOS",1
+43715,Malignant melanoma of umbilicus,1
+54685,Malignant melanoma of upper arm,1
+65164,Malignant melanoma of upper limb and shoulder,1
+55292,Malignant melanoma of upper limb or shoulder NOS,1
+57248,"Malignant neoplasm aryepiglottic fold, hypopharyngeal aspect",1
+15711,Malignant neoplasm cerebrum (excluding lobes and ventricles),1
+54103,Malignant neoplasm gallbladder and extrahepatic bile ducts,1
+15907,Malignant neoplasm gallbladder/extrahepatic bile ducts NOS,1
+49301,Malignant neoplasm lymphatic or haematopoietic tissue NOS,1
+30646,Malignant neoplasm lymphatic or haematopoietic tissue OS,1
+35795,Malignant neoplasm of Islets of Langerhans,1
+63995,Malignant neoplasm of Meckel's diverticulum,1
+95016,Malignant neoplasm of Waldeyer's ring,1
+15976,Malignant neoplasm of abdomen,1
+63470,Malignant neoplasm of abdominal oesophagus,1
+55246,Malignant neoplasm of accessory sinus NOS,1
+65599,Malignant neoplasm of acoustic nerve,1
+33388,Malignant neoplasm of adenoid,1
+61390,Malignant neoplasm of adrenal cortex,1
+28148,Malignant neoplasm of adrenal gland,1
+70824,Malignant neoplasm of adrenal gland NOS,1
+94220,Malignant neoplasm of adrenal medulla,1
+10949,Malignant neoplasm of ampulla of Vater,1
+24370,Malignant neoplasm of anal canal,1
+58121,Malignant neoplasm of anterior 2/3 of tongue unspecified,1
+102142,Malignant neoplasm of anterior 2/3 of tongue ventral surface,1
+46728,Malignant neoplasm of anterior epiglottis,1
+73439,Malignant neoplasm of anterior epiglottis NOS,1
+27715,Malignant neoplasm of anterior mediastinum,1
+45408,Malignant neoplasm of anterior portion of floor of mouth,1
+44139,Malignant neoplasm of anterior wall of nasopharynx,1
+100918,Malignant neoplasm of anterior wall of nasopharynx NOS,1
+65312,Malignant neoplasm of anterior wall of stomach NEC,1
+19162,Malignant neoplasm of anterior wall of urinary bladder,1
+27897,Malignant neoplasm of anus unspecified,1
+47840,Malignant neoplasm of aortic body,1
+50035,Malignant neoplasm of aortic body and other paraganglia,1
+103995,Malignant neoplasm of aortic body or paraganglia NOS,1
+18632,Malignant neoplasm of appendix,1
+64686,Malignant neoplasm of areola of female breast,1
+67884,Malignant neoplasm of areola of male breast,1
+63460,Malignant neoplasm of arytenoid cartilage,1
+10946,Malignant neoplasm of ascending colon,1
+37618,Malignant neoplasm of axilla NOS,1
+20685,Malignant neoplasm of axillary tail of female breast,1
+68787,Malignant neoplasm of back NOS,1
+48073,Malignant neoplasm of basal ganglia,1
+43431,Malignant neoplasm of base of tongue,1
+34409,Malignant neoplasm of base of tongue dorsal surface,1
+41571,Malignant neoplasm of bladder neck,1
+40810,Malignant neoplasm of body of pancreas,1
+48743,Malignant neoplasm of body of penis,1
+43572,Malignant neoplasm of body of stomach,1
+7046,Malignant neoplasm of body of uterus,1
+33617,Malignant neoplasm of body of uterus NOS,1
+18314,Malignant neoplasm of bone and articular cartilage,1
+16075,Malignant neoplasm of bone and articular cartilage NOS,1
+59036,Malignant neoplasm of bones of skull and face,1
+69146,Malignant neoplasm of bones of skull and face NOS,1
+18617,Malignant neoplasm of brain,1
+41520,Malignant neoplasm of brain NOS,1
+44089,Malignant neoplasm of brain stem,1
+68641,Malignant neoplasm of brain stem NOS,1
+101778,Malignant neoplasm of broad ligament,1
+3903,Malignant neoplasm of bronchus or lung NOS,1
+30402,Malignant neoplasm of buccal mucosa,1
+3811,Malignant neoplasm of caecum,1
+72212,Malignant neoplasm of calcaneum,1
+32022,Malignant neoplasm of cardia of stomach,1
+37859,Malignant neoplasm of cardia of stomach NOS,1
+100584,Malignant neoplasm of cardiac orifice of stomach,1
+22894,Malignant neoplasm of cardio-oesophageal junction of stomach,1
+17391,Malignant neoplasm of carina of bronchus,1
+57047,Malignant neoplasm of carotid body,1
+69104,Malignant neoplasm of carpal bone - lunate,1
+57988,Malignant neoplasm of carpal bone - scaphoid,1
+60035,Malignant neoplasm of cartilage of ear,1
+71204,Malignant neoplasm of cartilage of nose,1
+9622,Malignant neoplasm of cauda equina,1
+31546,Malignant neoplasm of central part of female breast,1
+45154,Malignant neoplasm of cerebellum,1
+61399,Malignant neoplasm of cerebral cortex,1
+28919,Malignant neoplasm of cerebral meninges,1
+70104,Malignant neoplasm of cerebral meninges NOS,1
+64557,Malignant neoplasm of cerebral peduncle,1
+52511,Malignant neoplasm of cerebral ventricles,1
+54133,Malignant neoplasm of cerebrum NOS,1
+61695,Malignant neoplasm of cervical oesophagus,1
+95505,Malignant neoplasm of cervical stump,1
+46939,Malignant neoplasm of cervical vertebra,1
+2747,Malignant neoplasm of cervix uteri,1
+28311,Malignant neoplasm of cervix uteri NOS,1
+41931,Malignant neoplasm of cheek NOS,1
+31364,Malignant neoplasm of cheek mucosa,1
+23861,Malignant neoplasm of chest wall NOS,1
+15991,Malignant neoplasm of choroid,1
+46789,Malignant neoplasm of choroid plexus,1
+59041,Malignant neoplasm of ciliary body,1
+66639,Malignant neoplasm of clavicle,1
+53910,Malignant neoplasm of clitoris,1
+46159,Malignant neoplasm of cloacogenic zone,1
+46905,Malignant neoplasm of coccygeal body,1
+66908,Malignant neoplasm of coccygeal vertebra,1
+1220,Malignant neoplasm of colon,1
+28163,Malignant neoplasm of colon NOS,1
+96783,Malignant neoplasm of commissure of lip,1
+7982,Malignant neoplasm of common bile duct,1
+63657,Malignant neoplasm of conjunctiva,1
+34451,Malignant neoplasm of connective and other soft tissue,1
+45071,Malignant neoplasm of connective and soft tissue of abdomen,1
+29160,Malignant neoplasm of connective and soft tissue of axilla,1
+70463,Malignant neoplasm of connective and soft tissue of buttock,1
+91586,Malignant neoplasm of connective and soft tissue of finger,1
+54222,Malignant neoplasm of connective and soft tissue of foot,1
+57482,Malignant neoplasm of connective and soft tissue of fore-arm,1
+19321,Malignant neoplasm of connective and soft tissue of hand,1
+102949,Malignant neoplasm of connective and soft tissue of hip,1
+51965,Malignant neoplasm of connective and soft tissue of pelvis,1
+59152,Malignant neoplasm of connective and soft tissue of perineum,1
+50222,Malignant neoplasm of connective and soft tissue of shoulder,1
+22290,Malignant neoplasm of connective and soft tissue of thorax,1
+63988,Malignant neoplasm of connective and soft tissue of thumb,1
+99572,Malignant neoplasm of connective and soft tissue of toe,1
+15182,"Malignant neoplasm of connective and soft tissue, site NOS",1
+64345,"Malignant neoplasm of connective and soft tissue, upper arm",1
+86996,Malignant neoplasm of connective tissue of orbit,1
+73992,Malignant neoplasm of cornea,1
+72723,Malignant neoplasm of cornu of corpus uteri,1
+59170,Malignant neoplasm of corpus callosum,1
+45490,Malignant neoplasm of corpus uteri NOS,1
+3213,"Malignant neoplasm of corpus uteri, excluding isthmus",1
+60403,Malignant neoplasm of costal cartilage,1
+67763,Malignant neoplasm of costo-vertebral joint,1
+99621,Malignant neoplasm of cranial nerves,1
+101086,Malignant neoplasm of cranial nerves NOS,1
+39899,Malignant neoplasm of craniopharyngeal duct,1
+37805,Malignant neoplasm of cricoid cartilage,1
+72445,Malignant neoplasm of cystic duct,1
+19475,Malignant neoplasm of descended testis,1
+91509,Malignant neoplasm of descended testis NOS,1
+10864,Malignant neoplasm of descending colon,1
+54186,Malignant neoplasm of diaphragm,1
+15709,Malignant neoplasm of digestive organs and peritoneum,1
+51255,Malignant neoplasm of digestive tract and peritoneum NOS,1
+44996,Malignant neoplasm of dome of urinary bladder,1
+43642,Malignant neoplasm of dorsal surface of tongue,1
+43781,Malignant neoplasm of dorsum of tongue NOS,1
+18613,Malignant neoplasm of duodenum,1
+96635,Malignant neoplasm of ectopic pancreatic tissue,1
+95057,Malignant neoplasm of ectopic site of female breast,1
+95323,Malignant neoplasm of ectopic site of male breast,1
+63430,Malignant neoplasm of endocardium,1
+57235,Malignant neoplasm of endocervical canal,1
+53103,Malignant neoplasm of endocervical gland,1
+48820,Malignant neoplasm of endocervix,1
+50285,Malignant neoplasm of endocervix NOS,1
+49400,Malignant neoplasm of endometrium,1
+2890,Malignant neoplasm of endometrium of corpus uteri,1
+72127,Malignant neoplasm of epididymis,1
+55374,Malignant neoplasm of epiglottis NOS,1
+26134,"Malignant neoplasm of epiglottis, free border",1
+53594,Malignant neoplasm of ethmoid bone,1
+54636,Malignant neoplasm of ethmoid sinus,1
+50297,Malignant neoplasm of exocervix,1
+23433,Malignant neoplasm of extrahepatic bile ducts,1
+74896,Malignant neoplasm of extrahepatic bile ducts NOS,1
+20160,Malignant neoplasm of eye,1
+54956,Malignant neoplasm of eye NOS,1
+56718,Malignant neoplasm of eyeball NOS,1
+49828,Malignant neoplasm of fallopian tube,1
+51926,Malignant neoplasm of faucial pillar,1
+26448,Malignant neoplasm of faucial tonsil,1
+3968,Malignant neoplasm of female breast,1
+9470,Malignant neoplasm of female breast NOS,1
+20166,Malignant neoplasm of female genital organ NOS,1
+56513,Malignant neoplasm of femur,1
+50402,Malignant neoplasm of fibula,1
+94427,Malignant neoplasm of fifth metacarpal bone,1
+69927,Malignant neoplasm of first metatarsal bone,1
+91035,Malignant neoplasm of fixed part of tongue NOS,1
+94355,Malignant neoplasm of flank NOS,1
+20092,Malignant neoplasm of floor of mouth,1
+36716,Malignant neoplasm of floor of mouth NOS,1
+92382,Malignant neoplasm of fourth metatarsal bone,1
+63979,Malignant neoplasm of frenulum linguae,1
+53599,Malignant neoplasm of frontal bone,1
+42426,Malignant neoplasm of frontal lobe,1
+15684,Malignant neoplasm of frontal sinus,1
+68155,Malignant neoplasm of fundus of corpus uteri,1
+32362,Malignant neoplasm of fundus of stomach,1
+16105,Malignant neoplasm of gallbladder,1
+94278,Malignant neoplasm of gastro-oesophageal junction,1
+13252,Malignant neoplasm of genitourinary organ,1
+52594,Malignant neoplasm of genitourinary organ NOS,1
+38931,Malignant neoplasm of genitourinary organ OS,1
+17841,Malignant neoplasm of glans penis,1
+99913,Malignant neoplasm of globus pallidus,1
+51795,Malignant neoplasm of glomus jugulare,1
+91895,Malignant neoplasm of glossoepiglottic fold,1
+99185,Malignant neoplasm of glossopalatine fold,1
+318,Malignant neoplasm of glottis,1
+72522,Malignant neoplasm of great vessels,1
+55434,Malignant neoplasm of greater curve of stomach unspecified,1
+47899,Malignant neoplasm of greater vestibular (Bartholin's) gland,1
+43400,Malignant neoplasm of gum,1
+93218,Malignant neoplasm of gum NOS,1
+73530,Malignant neoplasm of hand bones,1
+73556,Malignant neoplasm of hand bones NOS,1
+37590,Malignant neoplasm of hard palate,1
+55098,Malignant neoplasm of head NOS,1
+8771,Malignant neoplasm of head of pancreas,1
+68236,"Malignant neoplasm of head, neck and face",1
+58903,"Malignant neoplasm of head, neck and face NOS",1
+95644,Malignant neoplasm of heart,1
+50289,Malignant neoplasm of heart NOS,1
+66750,"Malignant neoplasm of heart, thymus and mediastinum NOS",1
+52537,Malignant neoplasm of hepatic duct,1
+9088,Malignant neoplasm of hepatic flexure of colon,1
+33444,Malignant neoplasm of hilus of lung,1
+67236,Malignant neoplasm of hippocampus,1
+37112,Malignant neoplasm of histiocytic tissue,1
+61741,Malignant neoplasm of humerus,1
+34012,Malignant neoplasm of hypopharynx,1
+28451,Malignant neoplasm of hypopharynx NOS,1
+70942,Malignant neoplasm of hypothalamus,1
+33871,Malignant neoplasm of ileum,1
+44609,Malignant neoplasm of ilium,1
+57854,Malignant neoplasm of inguinal region NOS,1
+65124,Malignant neoplasm of interlobular bile ducts,1
+17559,"Malignant neoplasm of intestinal tract, part unspecified",1
+16915,Malignant neoplasm of intrahepatic bile ducts,1
+61643,Malignant neoplasm of intrahepatic bile ducts NOS,1
+89593,Malignant neoplasm of intrahepatic biliary passages,1
+58088,Malignant neoplasm of intrahepatic gall duct,1
+97547,Malignant neoplasm of intrathoracic site NOS,1
+59381,Malignant neoplasm of iris,1
+59223,Malignant neoplasm of ischium,1
+43940,Malignant neoplasm of isthmus of uterine body,1
+70729,Malignant neoplasm of isthmus of uterine body NOS,1
+51818,Malignant neoplasm of jaw NOS,1
+43479,Malignant neoplasm of jejunum,1
+96003,Malignant neoplasm of junction of hard and soft palate,1
+48519,Malignant neoplasm of junctional region of epiglottis,1
+29462,Malignant neoplasm of kidney or urinary organs NOS,1
+1599,Malignant neoplasm of kidney parenchyma,1
+43761,Malignant neoplasm of labia majora,1
+59362,Malignant neoplasm of labia majora NOS,1
+58061,Malignant neoplasm of labia minora,1
+71584,Malignant neoplasm of lacrimal duct,1
+64817,Malignant neoplasm of lacrimal gland,1
+101805,Malignant neoplasm of lacrimal sac,1
+43111,Malignant neoplasm of laryngeal cartilage,1
+97332,Malignant neoplasm of laryngeal cartilage NOS,1
+39084,Malignant neoplasm of laryngopharynx,1
+319,Malignant neoplasm of larynx,1
+9237,Malignant neoplasm of larynx NOS,1
+26813,"Malignant neoplasm of larynx, other specified site",1
+45986,Malignant neoplasm of lateral portion of floor of mouth,1
+59004,Malignant neoplasm of lateral wall of nasopharynx,1
+102205,Malignant neoplasm of lateral wall of nasopharynx NOS,1
+56355,Malignant neoplasm of lateral wall of oropharynx,1
+35963,Malignant neoplasm of lateral wall of urinary bladder,1
+42193,Malignant neoplasm of lesser curve of stomach unspecified,1
+24852,Malignant neoplasm of lingual tonsil,1
+14712,Malignant neoplasm of lip,1
+73614,"Malignant neoplasm of lip unspecified, buccal aspect",1
+61692,"Malignant neoplasm of lip unspecified, inner aspect",1
+68399,"Malignant neoplasm of lip unspecified, mucosa",1
+100144,"Malignant neoplasm of lip, oral aspect",1
+19415,"Malignant neoplasm of lip, oral cavity and pharynx",1
+39430,"Malignant neoplasm of lip, oral cavity and pharynx NOS",1
+37553,"Malignant neoplasm of lip, unspecified",1
+100906,"Malignant neoplasm of lip, unspecified, external",1
+94251,"Malignant neoplasm of lip, unspecified, lipstick area",1
+69761,"Malignant neoplasm of lip, vermilion border NOS",1
+8918,Malignant neoplasm of liver and intrahepatic bile ducts,1
+38978,Malignant neoplasm of liver and intrahepatic bile ducts NOS,1
+26393,Malignant neoplasm of liver unspecified,1
+68055,Malignant neoplasm of long bones of leg,1
+62630,Malignant neoplasm of long bones of leg NOS,1
+97530,Malignant neoplasm of lower buccal sulcus,1
+49360,Malignant neoplasm of lower gum,1
+31399,Malignant neoplasm of lower limb NOS,1
+67504,"Malignant neoplasm of lower lip, buccal aspect",1
+66384,"Malignant neoplasm of lower lip, external",1
+91843,"Malignant neoplasm of lower lip, frenulum",1
+71147,"Malignant neoplasm of lower lip, inner aspect",1
+96782,"Malignant neoplasm of lower lip, inner aspect NOS",1
+95480,"Malignant neoplasm of lower lip, lipstick area",1
+89909,"Malignant neoplasm of lower lip, mucosa",1
+94441,"Malignant neoplasm of lower lip, oral aspect",1
+67446,"Malignant neoplasm of lower lip, vermilion border",1
+101707,"Malignant neoplasm of lower lip, vermilion border NOS",1
+18678,Malignant neoplasm of lower lobe bronchus,1
+12582,Malignant neoplasm of lower lobe of lung,1
+31188,"Malignant neoplasm of lower lobe, bronchus or lung",1
+42566,"Malignant neoplasm of lower lobe, bronchus or lung NOS",1
+42416,Malignant neoplasm of lower third of oesophagus,1
+59097,Malignant neoplasm of lower uterine segment,1
+45222,Malignant neoplasm of lower-inner quadrant of female breast,1
+42070,Malignant neoplasm of lower-outer quadrant of female breast,1
+54691,Malignant neoplasm of lumbar vertebra,1
+12323,Malignant neoplasm of lymphatic and haemopoietic tissue,1
+12870,Malignant neoplasm of main bronchus,1
+21698,Malignant neoplasm of main bronchus NOS,1
+50475,Malignant neoplasm of major salivary gland NOS,1
+20292,Malignant neoplasm of major salivary glands,1
+59520,Malignant neoplasm of malar bone,1
+19423,Malignant neoplasm of male breast,1
+48809,Malignant neoplasm of male breast NOS,1
+33833,Malignant neoplasm of mandible,1
+71946,Malignant neoplasm of mastoid air cells,1
+17475,Malignant neoplasm of maxilla,1
+32174,Malignant neoplasm of maxillary sinus,1
+34878,Malignant neoplasm of medial cuneiform,1
+61064,"Malignant neoplasm of mediastinum, part unspecified",1
+49132,Malignant neoplasm of medulla oblongata,1
+49875,"Malignant neoplasm of meninges, unspecified",1
+90290,Malignant neoplasm of mesentery,1
+59388,Malignant neoplasm of mesocaecum,1
+30165,Malignant neoplasm of mesorectum,1
+72464,Malignant neoplasm of metacarpal bones,1
+93537,Malignant neoplasm of midbrain,1
+41523,Malignant neoplasm of middle lobe bronchus,1
+39923,Malignant neoplasm of middle lobe of lung,1
+31268,"Malignant neoplasm of middle lobe, bronchus or lung",1
+54134,"Malignant neoplasm of middle lobe, bronchus or lung NOS",1
+54171,Malignant neoplasm of middle third of oesophagus,1
+55015,Malignant neoplasm of mouth NOS,1
+103946,Malignant neoplasm of mucosa of trachea,1
+65605,Malignant neoplasm of myocardium,1
+45793,Malignant neoplasm of myometrium of corpus uteri,1
+95458,Malignant neoplasm of nasal bone,1
+23389,Malignant neoplasm of nasal cavities,1
+42856,Malignant neoplasm of nasal cavities NOS,1
+98911,Malignant neoplasm of nasal conchae,1
+65357,Malignant neoplasm of nasolacrimal duct,1
+24675,Malignant neoplasm of nasopharynx,1
+28665,Malignant neoplasm of nasopharynx NOS,1
+16280,Malignant neoplasm of neck NOS,1
+56490,Malignant neoplasm of nervous system NOS,1
+26853,Malignant neoplasm of nipple and areola of female breast,1
+54494,Malignant neoplasm of nipple and areola of male breast,1
+23380,Malignant neoplasm of nipple of female breast,1
+68480,Malignant neoplasm of nipple of male breast,1
+59831,Malignant neoplasm of nipple or areola of female breast NOS,1
+12490,Malignant neoplasm of nose NOS,1
+55953,Malignant neoplasm of occipital bone,1
+39088,Malignant neoplasm of occipital lobe,1
+1062,Malignant neoplasm of oesophagus,1
+30700,Malignant neoplasm of oesophagus NOS,1
+64971,Malignant neoplasm of olfactory bulb,1
+50898,Malignant neoplasm of omentum,1
+70126,Malignant neoplasm of optic nerve,1
+45667,Malignant neoplasm of orbit,1
+63104,Malignant neoplasm of orbit NOS,1
+50298,Malignant neoplasm of orbital bone,1
+22893,Malignant neoplasm of oropharynx,1
+43200,Malignant neoplasm of oropharynx NOS,1
+67323,"Malignant neoplasm of oropharynx, other specified sites",1
+45267,Malignant neoplasm of other and ill defined site NOS,1
+9030,Malignant neoplasm of other and ill-defined sites,1
+14792,Malignant neoplasm of other and unspecified parts of mouth,1
+1056,Malignant neoplasm of other and unspecified site NOS,1
+38736,Malignant neoplasm of other and unspecified site OS,1
+10995,Malignant neoplasm of other and unspecified sites,1
+70696,Malignant neoplasm of other major salivary glands,1
+67949,Malignant neoplasm of other male genital organ,1
+92329,Malignant neoplasm of other male genital organ NOS,1
+100733,Malignant neoplasm of other part of brain NOS,1
+71139,Malignant neoplasm of other parts of brain,1
+32955,Malignant neoplasm of other site of cervix,1
+43435,Malignant neoplasm of other site of cervix NOS,1
+56715,Malignant neoplasm of other site of female breast,1
+38475,Malignant neoplasm of other site of female breast NOS,1
+54202,Malignant neoplasm of other site of male breast,1
+29283,Malignant neoplasm of other site of respiratory tract,1
+36949,Malignant neoplasm of other site of urinary bladder,1
+97996,Malignant neoplasm of other site of uterine adnexa,1
+31608,Malignant neoplasm of other site of uterine body,1
+49758,"Malignant neoplasm of other sites lip, oral cavity, pharynx",1
+38961,Malignant neoplasm of other sites of bronchus or lung,1
+56709,Malignant neoplasm of other sites of floor of mouth,1
+101753,Malignant neoplasm of other sites of gum,1
+41530,Malignant neoplasm of other sites of tongue,1
+90659,Malignant neoplasm of other specified endocrine gland,1
+95421,Malignant neoplasm of other specified female genital organ,1
+88362,Malignant neoplasm of other specified hypopharyngeal site,1
+37916,Malignant neoplasm of other specified mouth parts,1
+88144,Malignant neoplasm of other specified part of nervous system,1
+53591,Malignant neoplasm of other specified part of oesophagus,1
+98104,Malignant neoplasm of other specified pleura,1
+40437,Malignant neoplasm of other specified site of eye,1
+55630,Malignant neoplasm of other specified site of nasopharynx,1
+91037,Malignant neoplasm of other specified site of oropharynx NOS,1
+55019,Malignant neoplasm of other specified site of stomach,1
+65372,Malignant neoplasm of other specified site of stomach NOS,1
+99896,Malignant neoplasm of other specified site small intestine,1
+42218,Malignant neoplasm of other specified sites,1
+48231,Malignant neoplasm of other specified sites of colon,1
+48537,Malignant neoplasm of other specified sites of pancreas,1
+44884,Malignant neoplasm of other urinary organs,1
+7805,Malignant neoplasm of ovary,1
+19141,Malignant neoplasm of ovary and other uterine adnexa,1
+36371,Malignant neoplasm of overlapping lesion of bronchus & lung,1
+16967,Malignant neoplasm of overlapping lesion of corpus uteri,1
+18882,Malignant neoplasm of overlapping lesion of lip,1
+102151,Malignant neoplasm of overlapping lesion of tonsil,1
+59286,Malignant neoplasm of overlapping lesion of urinary organs,1
+27617,Malignant neoplasm of overlapping lesion of vulva,1
+28559,Malignant neoplasm of palate NOS,1
+70819,Malignant neoplasm of palate unspecified,1
+101988,Malignant neoplasm of palatine tonsil,1
+61510,Malignant neoplasm of palatoglossal arch,1
+93842,Malignant neoplasm of palatopharyngeal arch,1
+8166,Malignant neoplasm of pancreas,1
+34388,Malignant neoplasm of pancreas NOS,1
+35535,Malignant neoplasm of pancreatic duct,1
+46153,Malignant neoplasm of parametrium,1
+4218,Malignant neoplasm of parathyroid gland,1
+72174,Malignant neoplasm of paraurethral glands,1
+54747,Malignant neoplasm of parietal bone,1
+19226,Malignant neoplasm of parietal lobe,1
+64516,Malignant neoplasm of parietal peritoneum,1
+67107,Malignant neoplasm of parietal pleura,1
+4388,Malignant neoplasm of parotid gland,1
+54631,"Malignant neoplasm of pelvic bones, sacrum and coccyx",1
+39413,Malignant neoplasm of pelvic peritoneum,1
+52316,Malignant neoplasm of pelvis,1
+55101,Malignant neoplasm of pelvis NOS,1
+38938,"Malignant neoplasm of pelvis, sacrum or coccyx NOS",1
+63224,Malignant neoplasm of penis and other male genital organ NOS,1
+3541,Malignant neoplasm of penis and other male genital organs,1
+43392,"Malignant neoplasm of penis, part unspecified",1
+94975,Malignant neoplasm of pericardium,1
+65159,Malignant neoplasm of perinephric tissue,1
+86046,Malignant neoplasm of peripheral nerve of abdomen,1
+89258,"Malignant neoplasm of peripheral nerve of low limb, incl hip",1
+73988,Malignant neoplasm of peripheral nerve of pelvis,1
+63695,Malignant neoplasm of peripheral nerve of thorax,1
+61716,"Malignant neoplasm of peripheral nerve,upp limb,incl should",1
+63568,"Malignant neoplasm of peripheral nerves of head, face & neck",1
+58949,Malignant neoplasm of phalanges of foot,1
+86812,Malignant neoplasm of phalanges of hand,1
+37940,Malignant neoplasm of pharyngeal recess,1
+46548,Malignant neoplasm of pharyngeal tonsil,1
+16297,Malignant neoplasm of pharynx unspecified,1
+42460,Malignant neoplasm of pineal gland,1
+8550,Malignant neoplasm of pituitary gland,1
+93762,Malignant neoplasm of placenta,1
+31573,Malignant neoplasm of pleura,1
+34742,Malignant neoplasm of pleura NOS,1
+91240,Malignant neoplasm of pons,1
+43548,Malignant neoplasm of postcricoid region,1
+92720,Malignant neoplasm of posterior mediastinum,1
+64462,Malignant neoplasm of posterior pharynx,1
+69671,Malignant neoplasm of posterior third of tongue,1
+95429,Malignant neoplasm of posterior wall of nasopharynx,1
+96869,Malignant neoplasm of posterior wall of nasopharynx NOS,1
+90124,Malignant neoplasm of posterior wall of oropharynx,1
+96802,Malignant neoplasm of posterior wall of stomach NEC,1
+42012,Malignant neoplasm of posterior wall of urinary bladder,1
+50681,Malignant neoplasm of prepuce (foreskin),1
+48237,Malignant neoplasm of prepylorus of stomach,1
+89916,Malignant neoplasm of presacral region,1
+780,Malignant neoplasm of prostate,1
+51921,Malignant neoplasm of pubis,1
+19318,Malignant neoplasm of pyloric antrum of stomach,1
+41215,Malignant neoplasm of pyloric canal of stomach,1
+21620,Malignant neoplasm of pylorus of stomach,1
+59092,Malignant neoplasm of pylorus of stomach NOS,1
+39897,Malignant neoplasm of pyriform sinus,1
+92371,Malignant neoplasm of radius,1
+27855,Malignant neoplasm of rectosigmoid junction,1
+1800,Malignant neoplasm of rectum,1
+35357,"Malignant neoplasm of rectum, rectosigmoid junction and anus",1
+27540,Malignant neoplasm of renal calyces,1
+12389,Malignant neoplasm of renal pelvis,1
+54184,Malignant neoplasm of renal pelvis NOS,1
+42569,Malignant neoplasm of respiratory tract NOS,1
+28069,Malignant neoplasm of retina,1
+24048,Malignant neoplasm of retrocaecal tissue,1
+37724,Malignant neoplasm of retromolar area,1
+21330,Malignant neoplasm of retroperitoneum,1
+61555,Malignant neoplasm of retroperitoneum NOS,1
+44108,Malignant neoplasm of retroperitoneum and peritoneum,1
+16298,Malignant neoplasm of retroperitoneum and peritoneum NOS,1
+37842,Malignant neoplasm of rib,1
+51237,"Malignant neoplasm of rib, sternum and clavicle NOS",1
+27528,"Malignant neoplasm of ribs, sternum and clavicle",1
+69951,Malignant neoplasm of roof of mouth,1
+94390,Malignant neoplasm of roof of nasopharynx,1
+40966,Malignant neoplasm of sacral vertebra,1
+49054,Malignant neoplasm of scapula,1
+71810,Malignant neoplasm of scapula and long bones of upper arm,1
+47767,Malignant neoplasm of scrotum,1
+68161,Malignant neoplasm of seminal vesicle,1
+62761,Malignant neoplasm of septum of nose,1
+103354,Malignant neoplasm of short bones of leg NOS,1
+2815,Malignant neoplasm of sigmoid colon,1
+43390,Malignant neoplasm of small intestine NOS,1
+6806,Malignant neoplasm of small intestine and duodenum,1
+40292,Malignant neoplasm of soft palate,1
+40014,Malignant neoplasm of soft tissue of face,1
+59382,Malignant neoplasm of soft tissue of head,1
+48517,Malignant neoplasm of soft tissue of neck,1
+46613,Malignant neoplasm of specified parts of peritoneum,1
+64106,Malignant neoplasm of specified parts of peritoneum NOS,1
+60052,Malignant neoplasm of specified site NOS,1
+95783,Malignant neoplasm of specified site of pancreas NOS,1
+63331,Malignant neoplasm of spermatic cord,1
+55595,Malignant neoplasm of sphenoid bone,1
+65215,Malignant neoplasm of sphenoidal sinus,1
+51115,Malignant neoplasm of spinal cord,1
+49714,Malignant neoplasm of spinal meninges,1
+67211,Malignant neoplasm of spinal meninges NOS,1
+65460,Malignant neoplasm of spleen NEC,1
+93778,Malignant neoplasm of spleen NOS,1
+18619,Malignant neoplasm of splenic flexure of colon,1
+57719,Malignant neoplasm of squamocolumnar junction of cervix,1
+49491,Malignant neoplasm of sternum,1
+8386,Malignant neoplasm of stomach,1
+14800,Malignant neoplasm of stomach NOS,1
+22441,Malignant neoplasm of subglottis,1
+70928,Malignant neoplasm of sublingual gland,1
+51786,Malignant neoplasm of submandibular gland,1
+73510,Malignant neoplasm of supraclavicular fossa NOS,1
+26165,Malignant neoplasm of supraglottis,1
+39870,Malignant neoplasm of tail of pancreas,1
+95182,Malignant neoplasm of talus,1
+49463,Malignant neoplasm of tarsus of eyelid,1
+62104,Malignant neoplasm of temporal bone,1
+46792,Malignant neoplasm of temporal lobe,1
+47556,Malignant neoplasm of temporal lobe NOS,1
+15148,Malignant neoplasm of testis,1
+38510,Malignant neoplasm of testis NOS,1
+62126,Malignant neoplasm of thalamus,1
+69821,Malignant neoplasm of the pouch of Douglas,1
+41362,Malignant neoplasm of thoracic oesophagus,1
+32372,Malignant neoplasm of thoracic vertebra,1
+47286,Malignant neoplasm of thorax,1
+64810,Malignant neoplasm of thorax NOS,1
+27483,Malignant neoplasm of thymus,1
+62556,"Malignant neoplasm of thymus, heart and mediastinum",1
+47862,Malignant neoplasm of thyroid cartilage,1
+5637,Malignant neoplasm of thyroid gland,1
+40814,Malignant neoplasm of tibia,1
+10283,Malignant neoplasm of tongue,1
+40557,Malignant neoplasm of tongue NOS,1
+37096,"Malignant neoplasm of tongue, junctional zone",1
+36161,"Malignant neoplasm of tongue, tip and lateral border",1
+16241,Malignant neoplasm of tonsil,1
+24397,Malignant neoplasm of tonsillar fossa,1
+100002,Malignant neoplasm of tonsillar fossa NOS,1
+55066,Malignant neoplasm of tonsillar pillar,1
+15221,Malignant neoplasm of trachea,1
+37810,Malignant neoplasm of trachea NOS,1
+13243,"Malignant neoplasm of trachea, bronchus and lung",1
+6935,Malignant neoplasm of transverse colon,1
+38862,Malignant neoplasm of trigone of urinary bladder,1
+67217,Malignant neoplasm of trunk NOS,1
+47668,Malignant neoplasm of tunica vaginalis,1
+96445,Malignant neoplasm of turbinate,1
+54613,Malignant neoplasm of tympanic antrum,1
+98537,Malignant neoplasm of tympanic cavity,1
+64848,Malignant neoplasm of ulna,1
+64602,Malignant neoplasm of undescended testis,1
+96429,Malignant neoplasm of undescended testis NOS,1
+47810,Malignant neoplasm of unspecified site,1
+54267,Malignant neoplasm of unspecified site NOS,1
+95772,Malignant neoplasm of upper buccal sulcus,1
+32024,Malignant neoplasm of upper gum,1
+27449,Malignant neoplasm of upper limb NOS,1
+66270,"Malignant neoplasm of upper lip, external",1
+99001,"Malignant neoplasm of upper lip, frenulum",1
+99493,"Malignant neoplasm of upper lip, inner aspect",1
+100721,"Malignant neoplasm of upper lip, inner aspect NOS",1
+50296,"Malignant neoplasm of upper lip, lipstick area",1
+98500,"Malignant neoplasm of upper lip, mucosa",1
+90610,"Malignant neoplasm of upper lip, oral aspect",1
+73962,"Malignant neoplasm of upper lip, vermilion border",1
+98740,"Malignant neoplasm of upper lip, vermilion border NOS",1
+31700,Malignant neoplasm of upper lobe bronchus,1
+25886,Malignant neoplasm of upper lobe of lung,1
+10358,"Malignant neoplasm of upper lobe, bronchus or lung",1
+44169,"Malignant neoplasm of upper lobe, bronchus or lung NOS",1
+50789,Malignant neoplasm of upper third of oesophagus,1
+29826,Malignant neoplasm of upper-inner quadrant of female breast,1
+23399,Malignant neoplasm of upper-outer quadrant of female breast,1
+42023,Malignant neoplasm of urachus,1
+15223,Malignant neoplasm of ureter,1
+28241,Malignant neoplasm of ureteric orifice,1
+101608,Malignant neoplasm of ureteropelvic junction,1
+15644,Malignant neoplasm of urethra,1
+779,Malignant neoplasm of urinary bladder,1
+31102,Malignant neoplasm of urinary bladder NOS,1
+65106,Malignant neoplasm of uterine adnexa NOS,1
+2744,"Malignant neoplasm of uterus, part unspecified",1
+37516,Malignant neoplasm of uvula,1
+37328,Malignant neoplasm of vagina,1
+60772,Malignant neoplasm of vagina NOS,1
+10698,Malignant neoplasm of vaginal vault,1
+39554,Malignant neoplasm of vallecula,1
+62840,Malignant neoplasm of ventral surface of tongue,1
+38488,Malignant neoplasm of ventral tongue surface NOS,1
+16704,Malignant neoplasm of vertebral column,1
+49701,Malignant neoplasm of vertebral column NOS,1
+103796,Malignant neoplasm of vestibule of mouth,1
+62182,Malignant neoplasm of vestibule of nose,1
+44452,Malignant neoplasm of vomer,1
+4554,Malignant neoplasm of vulva unspecified,1
+54493,Malignant neoplasm of xiphoid process,1
+50299,Malignant neoplasm of zygomatic bone,1
+60312,Malignant neoplasm other gallbladder/extrahepatic bile duct,1
+56918,Malignant neoplasm other spec digestive tract and peritoneum,1
+59823,Malignant neoplasm pituitary gland and craniopharyngeal duct,1
+99386,Malignant neoplasm posterior margin nasal septum and choanae,1
+50974,"Malignant neoplasm rectum,rectosigmoid junction and anus NOS",1
+53884,Malignant neoplasm tonsil NOS,1
+66646,"Malignant neoplasm, overlap lesion of resp & intrathor orgs",1
+68824,"Malignant neoplasm, overlapping lesion male genital orgs",1
+39590,"Malignant neoplasm, overlapping lesion of accessory sinuses",1
+35039,"Malignant neoplasm, overlapping lesion of biliary tract",1
+47801,"Malignant neoplasm, overlapping lesion of bladder",1
+65241,"Malignant neoplasm, overlapping lesion of brain",1
+49148,"Malignant neoplasm, overlapping lesion of breast",1
+58094,"Malignant neoplasm, overlapping lesion of cervix uteri",1
+93478,"Malignant neoplasm, overlapping lesion of colon",1
+94776,"Malignant neoplasm, overlapping lesion of digestive system",1
+45922,"Malignant neoplasm, overlapping lesion of eye and adnexa",1
+17912,"Malignant neoplasm, overlapping lesion of floor of mouth",1
+50579,"Malignant neoplasm, overlapping lesion of larynx",1
+66422,"Malignant neoplasm, overlapping lesion of nasopharynx",1
+67497,"Malignant neoplasm, overlapping lesion of oesophagus",1
+97875,"Malignant neoplasm, overlapping lesion of pancreas",1
+52570,"Malignant neoplasm, overlapping lesion of penis",1
+66166,"Malignant neoplasm, overlapping lesion of small intestine",1
+51690,"Malignant neoplasm, overlapping lesion of stomach",1
+50777,"Malignant neoplasm,overlap lesion periph nerve & auton ns",1
+87113,"Malignant neoplasm-pluriglandular involvement,unspecified",1
+43614,"Malignant neoplasm/bones+articular cartilage/limb,unspfd",1
+67451,Malignant neoplasm/overlap lesion/bone+articulr cartilage,1
+26454,Malignant neoplasm/overlapping lesion/feml genital organs,1
+51352,Malignant neoplasms of independent (primary) multiple sites,1
+65434,Malignant neoplasms of lymphoid and histiocytic tissue NOS,1
+47205,Malignant overlapping lesion of tongue,1
+22158,"Malignant plasma cell neoplasm, extramedullary plasmacytoma",1
+62437,Malignant reticulosis,1
+50152,Malignant sacral teratoma,1
+104324,Malignant tumour of unknown origin,1
+95545,Maltoma,1
+104620,Mantle cell lymphoma,1
+65721,Mast cell leukaemia,1
+100615,Mast cell malignancy of lymph nodes inguinal region and leg,1
+31324,Mast cell malignancy of lymph nodes of multiple sites,1
+103900,Mast cell malignancy of unspecified site,1
+57671,Megakaryocytic leukaemia,1
+7484,Mesothelioma,1
+101885,Mesothelioma of pericardium,1
+17874,Mesothelioma of peritoneum,1
+9600,Mesothelioma of pleura,1
+6471,Metastases of respiratory and/or digestive systems,1
+67700,Monoblastic leukaemia,1
+35875,Monocytic leukaemia,1
+93342,Monocytic leukaemia NOS,1
+95715,Mucosa-associated lymphoma,1
+4944,Multiple myeloma,1
+37182,Multiple myeloma and immunoproliferative neoplasms,1
+12006,Mycosis fungoides,1
+38005,Mycosis fungoides NOS,1
+91674,Mycosis fungoides of intra-abdominal lymph nodes,1
+96379,Mycosis fungoides of lymph nodes of axilla and upper limb,1
+72714,Mycosis fungoides of lymph nodes of inguinal region and leg,1
+95012,Mycosis fungoides of lymph nodes of multiple sites,1
+95949,Mycosis fungoides of unspecified site,1
+104273,Myelodysplastic and myeloproliferative disease,1
+7176,Myeloid leukaemia,1
+33344,Myeloid leukaemia NOS,1
+70724,Myeloid sarcoma,1
+15211,Myelomatosis,1
+20440,Myelomonocytic leukaemia,1
+17056,Myeloproliferative disease,1
+6115,Myeloproliferative disorder,1
+39336,Myelosclerosis with myeloid metaplasia,1
+100083,Neuroblastoma,1
+5179,Nodular lymphoma (Brill - Symmers disease),1
+65701,Nodular lymphoma NOS,1
+92068,Nodular lymphoma of intra-abdominal lymph nodes,1
+45264,"Nodular lymphoma of lymph nodes of head, face and neck",1
+94995,Nodular lymphoma of lymph nodes of inguinal region and leg,1
+58082,Nodular lymphoma of lymph nodes of multiple sites,1
+66327,Nodular lymphoma of unspecified site,1
+3604,Non - Hodgkin's lymphoma,1
+104391,Non-Hodgkin lymphoma,1
+4865,Oesophageal cancer,1
+29735,Osteoma,1
+19437,Osteosarcoma,1
+44318,Oth and unspecif peripheral & cutaneous T-cell lymphomas,1
+94174,Other and unspecified leukaemia,1
+99413,Other and unspecified leukaemia NOS,1
+104484,Other classical Hodgkin lymphoma,1
+64567,Other immunoproliferative neoplasms,1
+34692,Other leukaemia of unspecified cell type,1
+49725,Other lymphoid leukaemia,1
+38331,Other lymphoid leukaemia NOS,1
+26034,Other malignant neoplasm NOS,1
+33333,Other malignant neoplasm of lymphoid and histiocytic tissue,1
+99015,Other monocytic leukaemia,1
+103645,Other monocytic leukaemia NOS,1
+66089,Other myeloid leukaemia NOS,1
+37272,Other specified leukaemia,1
+30632,Other specified leukaemia NOS,1
+99887,Other specified reticulosarcoma or lymphosarcoma,1
+31576,Other types of follicular non-Hodgkin's lymphoma,1
+10314,Overlapping lesion of other and unspecified parts of mouth,1
+101907,Overlapping malign lesion of retroperitoneum and peritoneum,1
+96585,Overlapping malignant melanoma of skin,1
+20170,Pancoast's syndrome,1
+18676,Pathological fracture due to metastatic bone disease,1
+12464,Peripheral T-cell lymphoma,1
+18231,Phaeochromocytoma,1
+39187,Plasma cell leukaemia,1
+21329,Plasmacytoma NOS,1
+68410,Primary angiosarcoma of liver,1
+16126,Primary carcinoma of liver,1
+25535,Primary malignant neoplasm of liver,1
+44399,Primary malignant neoplasm of liver NOS,1
+11035,Primary malignant neoplasm of unknown site,1
+11991,Primary vulval cancer,1
+31586,Prolymphocytic leukaemia,1
+5901,Rectal carcinoma,1
+18712,Renal malignant neoplasm,1
+1481,Reticulosarcoma,1
+99240,Reticulosarcoma NOS,1
+70374,Reticulosarcoma of intra-abdominal lymph nodes,1
+71031,"Reticulosarcoma of lymph nodes of head, face and neck",1
+95058,Reticulosarcoma of spleen,1
+60242,Reticulosarcoma of unspecified site,1
+99951,Reticulosarcoma or lymphosarcoma NOS,1
+12539,Sarcoma of bone and connective tissue,1
+25366,Secondary and unspec malig neop ant mediastinal lymph nodes,1
+44627,Secondary and unspec malig neop anterior cervical LN,1
+50199,Secondary and unspec malig neop axilla and upper limb LN,1
+73538,Secondary and unspec malig neop axilla and upper limb LN NOS,1
+37540,Secondary and unspec malig neop axillary lymph nodes,1
+62124,Secondary and unspec malig neop bronchopulmonary lymph nodes,1
+101662,Secondary and unspec malig neop circumflex iliac LN,1
+41691,Secondary and unspec malig neop coeliac lymph nodes,1
+18658,Secondary and unspec malig neop common iliac lymph nodes,1
+68611,Secondary and unspec malig neop deep cervical LN,1
+61289,Secondary and unspec malig neop deep inguinal lymph nodes,1
+92703,Secondary and unspec malig neop deep parotid lymph nodes,1
+95378,Secondary and unspec malig neop diaphragmatic lymph nodes,1
+69132,Secondary and unspec malig neop external iliac lymph nodes,1
+61677,Secondary and unspec malig neop inferior mesenteric LN,1
+69392,Secondary and unspec malig neop inferior tracheobronchial LN,1
+50904,Secondary and unspec malig neop infraclavicular lymph nodes,1
+63915,Secondary and unspec malig neop inguinal and lower limb LN,1
+84368,Secondary and unspec malig neop internal iliac lymph nodes,1
+37919,Secondary and unspec malig neop internal mammary lymph nodes,1
+44931,Secondary and unspec malig neop intra-abdominal LN NOS,1
+52736,Secondary and unspec malig neop intra-abdominal lymph nodes,1
+72803,Secondary and unspec malig neop intrapelvic LN NOS,1
+6701,Secondary and unspec malig neop intrapelvic lymph nodes,1
+93716,Secondary and unspec malig neop intrathoracic LN NOS,1
+64116,Secondary and unspec malig neop intrathoracic lymph nodes,1
+15507,Secondary and unspec malig neop lymph nodes NOS,1
+49214,Secondary and unspec malig neop lymph nodes head/face/neck,1
+20159,Secondary and unspec malig neop lymph nodes multiple sites,1
+28059,Secondary and unspec malig neop of facial lymph nodes,1
+70747,Secondary and unspec malig neop of inguinal and leg LN NOS,1
+64918,Secondary and unspec malig neop of superficial parotid LN,1
+58692,Secondary and unspec malig neop paratracheal lymph nodes,1
+46409,Secondary and unspec malig neop pectoral lymph nodes,1
+55463,Secondary and unspec malig neop post mediastinal lymph nodes,1
+52190,Secondary and unspec malig neop pulmonary lymph nodes,1
+47366,Secondary and unspec malig neop sacral lymph nodes,1
+39433,Secondary and unspec malig neop submandibular lymph nodes,1
+38343,Secondary and unspec malig neop submental lymph nodes,1
+67797,Secondary and unspec malig neop superfic tracheobronchial LN,1
+33395,Secondary and unspec malig neop superficial cervical LN,1
+54278,Secondary and unspec malig neop superficial inguinal LN,1
+72713,Secondary and unspec malig neop superficial mesenteric LN,1
+98626,Secondary and unspec malig neop supratrochlear lymph nodes,1
+66775,Secondary and unspec malignant neoplasm mastoid lymph nodes,1
+65253,Secondary and unspec malignant neoplasm occipital lymph node,1
+9618,Secondary and unspecified malignant neoplasm of lymph nodes,1
+97832,Secondary cancer of the cervix,1
+65490,Secondary cancer of the vulva,1
+27651,Secondary carcinoma of other specified sites,1
+24301,Secondary carcinoma of respiratory and/or digestive systems,1
+36200,Secondary malig neop of large intestine or rectum NOS,1
+35053,Secondary malig neop of respiratory and digestive systems,1
+66083,Secondary malig neop of respiratory or digestive system NOS,1
+67396,Secondary malig neop of retroperitoneum and peritoneum,1
+97672,Secondary malig neop of retroperitoneum or peritoneum NOS,1
+70026,Secondary malig neop of small intestine or duodenum NOS,1
+36401,Secondary malignant neoplasm of adrenal gland,1
+22146,Secondary malignant neoplasm of bladder,1
+7654,Secondary malignant neoplasm of bone and bone marrow,1
+5198,Secondary malignant neoplasm of brain,1
+33843,Secondary malignant neoplasm of brain and spinal cord,1
+59375,Secondary malignant neoplasm of brain or spinal cord NOS,1
+16760,Secondary malignant neoplasm of breast,1
+73616,Secondary malignant neoplasm of cervix uteri,1
+28727,Secondary malignant neoplasm of colon,1
+55946,Secondary malignant neoplasm of duodenum,1
+104480,Secondary malignant neoplasm of epididymis and vas deferens,1
+99511,Secondary malignant neoplasm of ileum,1
+1952,Secondary malignant neoplasm of kidney,1
+44529,Secondary malignant neoplasm of large intestine and rectum,1
+15103,Secondary malignant neoplasm of liver,1
+36147,Secondary malignant neoplasm of liver,1
+4137,Secondary malignant neoplasm of lung,1
+51551,Secondary malignant neoplasm of mediastinum,1
+56345,Secondary malignant neoplasm of other digestive organ,1
+54120,Secondary malignant neoplasm of other part of nervous system,1
+62584,Secondary malignant neoplasm of other respiratory organs,1
+16500,Secondary malignant neoplasm of other specified site NOS,1
+22524,Secondary malignant neoplasm of other specified site NOS,1
+5842,Secondary malignant neoplasm of other specified sites,1
+18616,Secondary malignant neoplasm of other specified sites,1
+62828,Secondary malignant neoplasm of other urinary organ NOS,1
+73213,Secondary malignant neoplasm of other urinary organs,1
+44615,Secondary malignant neoplasm of ovary,1
+49145,Secondary malignant neoplasm of penis,1
+27391,Secondary malignant neoplasm of peritoneum,1
+16213,Secondary malignant neoplasm of pleura,1
+21590,Secondary malignant neoplasm of prostate,1
+62909,Secondary malignant neoplasm of rectum,1
+35364,Secondary malignant neoplasm of retroperitoneum,1
+19945,Secondary malignant neoplasm of skin,1
+55096,Secondary malignant neoplasm of skin NOS,1
+9505,Secondary malignant neoplasm of skin of breast,1
+100296,Secondary malignant neoplasm of skin of face,1
+43930,Secondary malignant neoplasm of skin of head,1
+48828,Secondary malignant neoplasm of skin of hip and leg,1
+35999,Secondary malignant neoplasm of skin of neck,1
+63896,Secondary malignant neoplasm of skin of shoulder and arm,1
+41144,Secondary malignant neoplasm of skin of trunk,1
+64680,Secondary malignant neoplasm of small intestine and duodenum,1
+38918,Secondary malignant neoplasm of spinal cord,1
+34145,Secondary malignant neoplasm of testis,1
+45824,Secondary malignant neoplasm of tongue,1
+54679,Secondary malignant neoplasm of unknown site,1
+60134,Secondary malignant neoplasm of ureter,1
+53528,Secondary malignant neoplasm of urethra,1
+55090,Secondary malignant neoplasm of uterus,1
+70736,Secondary malignant neoplasm of vagina,1
+60335,Secondary malignant neoplasm of vulva,1
+67129,Secondary unspec malig neop lymph nodes head/face/neck NOS,1
+21786,Seminoma of descended testis,1
+2961,Seminoma of testis,1
+7740,Seminoma of undescended testis,1
+35014,Sezary's disease,1
+100532,Sezary's disease NOS,1
+98142,Siewert type I adenocarcinoma,1
+97499,Siewert type II adenocarcinoma,1
+96094,Siewert type III adenocarcinoma,1
+104386,Small cell B-cell lymphoma,1
+19028,Solitary myeloma,1
+104418,Solitary plasmacytoma,1
+54793,Subacute leukaemia NOS,1
+72774,Subacute lymphoid leukaemia,1
+101606,Subacute monocytic leukaemia,1
+63475,Subacute myeloid leukaemia,1
+104475,Subacute myelomonocytic leukaemia,1
+90201,T-zone lymphoma,1
+9476,Teratoma of descended testis,1
+15989,Teratoma of testis,1
+36325,Teratoma of undescended testis,1
+65777,Thrombocytic leukaemia,1
+95630,True histiocytic lymphoma,1
+103353,Unspec malig neop lymphoid/histiocytic intra-abdominal nodes,1
+64427,Unspec malig neop lymphoid/histiocytic lymph node head/neck,1
+71609,Unspec malig neop lymphoid/histiocytic nodes inguinal/leg,1
+93384,Unspec malig neop lymphoid/histiocytic of intrathoracic node,1
+101465,Unspec malig neop lymphoid/histiocytic of multiple sites,1
+31794,Unspecified B-cell non-Hodgkin's lymphoma,1
+97091,[X]2ndry malignant neoplasm/bladder+oth+unsp urinary organs,1
+68332,[X]2ndry malignant neoplasm/oth+unspec parts/nervous system,1
+66163,[X]2ndry+unspcf malignant neoplasm lymph nodes/multi regions,1
+60053,[X]Additional neoplasm classification terms,1
+64515,"[X]Diffuse non-Hodgkin's lymphoma, unspecified",1
+98361,[X]Kaposi's sarcoma of other sites,1
+93665,"[X]Kaposi's sarcoma, unspecified",1
+91896,"[X]Mal neoplasm/connective+soft tissue of trunk,unspecified",1
+72500,"[X]Mal neoplasm/lymphoid,haematopoietic+related tissu,unspcf",1
+47633,"[X]Malig neopl, overlap lesion brain & other part of CNS",1
+56925,[X]Malignant melanoma of other+unspecified parts of face,1
+19444,"[X]Malignant melanoma of skin, unspecified",1
+99096,[X]Malignant neopl/overlapping les/resp+intrathoracic organs,1
+40749,[X]Malignant neoplasm of bone and articular cartilage,1
+12499,[X]Malignant neoplasm of breast,1
+40595,"[X]Malignant neoplasm of bronchus or lung, unspecified",1
+35180,[X]Malignant neoplasm of digestive organs,1
+64309,"[X]Malignant neoplasm of endocrine gland, unspecified",1
+35285,"[X]Malignant neoplasm of eye, brain and other parts of cent",1
+55588,"[X]Malignant neoplasm of female genital organ, unspecified",1
+40598,[X]Malignant neoplasm of female genital organs,1
+35186,"[X]Malignant neoplasm of ill-defined, secondary and unspeci",1
+45766,"[X]Malignant neoplasm of intestinal tract, part unspecified",1
+58973,"[X]Malignant neoplasm of lip, oral cavity and pharynx",1
+45262,"[X]Malignant neoplasm of male genital organ, unspecified",1
+40671,[X]Malignant neoplasm of male genital organs,1
+50292,"[X]Malignant neoplasm of mediastinum, part unspecified",1
+63925,"[X]Malignant neoplasm of meninges, unspecified",1
+40592,[X]Malignant neoplasm of mesothelial and soft tissue,1
+39027,[X]Malignant neoplasm of other specified sites,1
+95671,"[X]Malignant neoplasm of peritoneum, unspecified",1
+35325,[X]Malignant neoplasm of respiratory and intrathoracic orga,1
+40608,[X]Malignant neoplasm of thyroid and other endocrine glands,1
+45260,"[X]Malignant neoplasm of urinary organ, unspecified",1
+35113,[X]Malignant neoplasm of urinary tract,1
+64497,"[X]Malignant neoplasm of uterine adnexa, unspecified",1
+60162,[X]Malignant neoplasm overlapping lesion of skin,1
+52029,[X]Malignant neoplasm without specification of site,1
+43151,"[X]Malignant neoplasm/bone+articular cartilage, unspecified",1
+73296,"[X]Malignant neoplasm/bones+articular cartilage/limb,unspfd",1
+41515,"[X]Malignant neoplasm/central nervous system, unspecified",1
+91457,"[X]Malignant neoplasm/connective + soft tissue,unspecified",1
+86997,[X]Malignant neoplasm/ill-defined sites within resp system,1
+68027,[X]Malignant neoplasm/other and unspecified cranial nerves,1
+57756,[X]Malignant neoplasm/other specified female genital organs,1
+57191,[X]Malignant neoplasm/other specified male genital organs,1
+63300,[X]Malignant neoplasm/overlap lesion/bone+articulr cartilage,1
+66444,"[X]Malignant neoplasm/overlap lesion/heart,mediastinm+pleura",1
+96226,[X]Malignant neoplasm/overlap lesion/other+ill-defined sites,1
+101668,"[X]Malignant neoplasm/peripheral nerves of trunk,unspecified",1
+40740,"[X]Malignant neoplasms of lymphoid, haematopoietic and rela",1
+63598,[X]Malignant neoplasms/independent (primary) multiple sites,1
+64897,[X]Malignant neoplasms/independent(primary)multiple sites,1
+49292,[X]Malignant neoplsm/ill-defin sites within digestive system,1
+19144,[X]Melanoma and other malignant neoplasms of skin,1
+21715,[X]Mesothelioma of lung,1
+67034,[X]Mesothelioma of other sites,1
+30526,"[X]Mesothelioma, unspecified",1
+7940,[X]Non-Hodgkin's lymphoma NOS,1
+8649,"[X]Non-Hodgkin's lymphoma, unspecified type",1
+43415,[X]Other Hodgkin's disease,1
+65165,[X]Other leukaemia of unspecified cell type,1
+67029,[X]Other lymphoid leukaemia,1
+102688,[X]Other malignant immunoproliferative diseases,1
+89762,[X]Other monocytic leukaemia,1
+61693,[X]Other myeloid leukaemia,1
+43490,[X]Other specified carcinomas of liver,1
+89329,[X]Other specified leukaemias,1
+64336,[X]Other specified types of non-Hodgkin's lymphoma,1
+98596,[X]Other types of diffuse non-Hodgkin's lymphoma,1
+67518,[X]Other types of follicular non-Hodgkin's lymphoma,1
+54253,[X]Secondary malignant neoplasm of other specified sites,1
+57481,[X]Secondary malignant neoplasm/oth+unspc respiratory organs,1
+88022,[X]Secondary malignant neoplasm/oth+unspcfd digestive organs,1
+63375,[X]Unspecified B-cell non-Hodgkin's lymphoma,1

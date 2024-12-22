@@ -1,0 +1,29 @@
+medcode,readterm,hf
+5255, Acute left ventricular failure,1
+23481, Asthma - cardiac,1
+9524, Biventricular failure,1
+32671, Chronic congestive heart failure,1
+11424, Compensated cardiac failure,1
+101137, HFNEF - heart failure with normal ejection fraction,1
+9913, Heart failure confirmed,1
+106897, Heart failure with preserved ejection fraction,1
+884, Left ventricular failure,1
+23707,Acute congestive heart failure,1
+27964,Acute heart failure,1
+1223,Cardiac failure,1
+17278,Cardiac failure NOS,1
+2906,Congestive cardiac failure,1
+398,Congestive heart failure,1
+94870,Congestive heart failure due to valvular disease,1
+27884,Decompensated cardiac failure,1
+2062,Heart failure,1
+4024,Heart failure NOS,1
+101138,Heart failure with normal ejection fraction,1
+21837,Hypertensive heart&renal dis wth (congestive) heart failure,1
+5942,Impaired left ventricular function,1
+43618,Pulmonary oedema - acute,1
+22262,Rheumatic left ventricular failure,1
+10079,Right heart failure,1
+10154,Right ventricular failure,1
+104275,Right ventricular failure,1
+12590,Weak heart,1

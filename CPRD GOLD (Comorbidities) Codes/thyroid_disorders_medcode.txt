@@ -1,0 +1,64 @@
+medcode,readterm,thyroid
+46345,Acquired atrophy of thyroid,1
+3290,Acquired hypothyroidism,1
+31971,Autoimmune myxoedema,1
+47658,Cerebral degeneration due to myxoedema,1
+10097,Congenital hypothyroidism,1
+51481,Congenital hypothyroidism NOS,1
+31612,Congenital hypothyroidism with diffuse goitre,1
+93159,Congenital hypothyroidism without goitre,1
+39166,"Congenital iodine-deficiency syndrome, myxoedematous type",1
+93323,Congenital thyroid insufficiency,1
+67513,Cretinism,1
+27533,Cretinism,1
+47449,Goitrous cretin,1
+6245,H/O: hyperthyroidism,1
+3611,H/O: hypothyroidism,1
+4937,H/O: thyroid disorder,1
+35608,H/O: thyroid disorder NOS,1
+1472,Hyperthyroidism,1
+18282,"Hypothyroid goitre, acquired",1
+273,Hypothyroidism,1
+3941,Hypothyroidism NOS,1
+95885,Hypothyroidism annual review,1
+85955,Hypothyroidism clinical management plan,1
+28735,Hypothyroidism monitoring administration,1
+46057,Hypothyroidism monitoring first letter,1
+46630,Hypothyroidism monitoring second letter,1
+85661,Hypothyroidism monitoring telephone invitation,1
+46640,Hypothyroidism monitoring third letter,1
+19367,Hypothyroidism monitoring verbal invite,1
+15743,Hypothyroidism resulting from para-aminosalicylic acid,1
+97090,Hypothyroidism resulting from phenylbutazone,1
+94915,Hypothyroidism resulting from resorcinol,1
+38976,Iatrogenic hypothyroidism NOS,1
+108018,Incretin mimetic treatment started,1
+34221,Iodine hypothyroidism,1
+11322,Irradiation hypothyroidism,1
+61069,Myasthenic syndrome due to hypothyroidism,1
+51416,Myopathy due to myxoedema,1
+1619,Myxoedema,1
+59702,Myxoedema coma,1
+58833,Neonatal jaundice with congenital hypothyroidism,1
+24748,Other acquired hypothyroidism,1
+25913,Other iatrogenic hypothyroidism,1
+50275,Other postablative hypothyroidism,1
+69290,Other specified congenital hypothyroidism,1
+27996,Other specified thyroid disorder NOS,1
+11892,Pendred's syndrome,1
+47521,Post ablative hypothyroidism,1
+51706,Postablative hypothyroidism NOS,1
+50860,Postinfectious hypothyroidism,1
+28852,Postsurgical hypothyroidism,1
+56722,Premature puberty due to hypothyroidism,1
+20310,Pretibial myxoedema - hypothyroid,1
+95830,Subclinical hypothyroidism,1
+718,Subclinical iodine-deficiency hypothyroidism,1
+108482,Suspected congenital hypothyroidism,1
+102442,Suspected hypothyroidism,1
+14704,Thyroid deficiency,1
+8268,Thyroid disease monitoring,1
+35957,Thyroid disorder NOS,1
+23014,Thyroid insufficiency,1
+40608,[X]Malignant neoplasm of thyroid and other endocrine glands,1
+73107,[X]Other sp cified hypothyroidism,1

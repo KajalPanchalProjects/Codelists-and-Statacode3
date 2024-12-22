@@ -1,0 +1,19 @@
+medcode,readterm,af
+1664,Atrial fibrillation,1
+2212,Atrial fibrillation and flutter,1
+23437,Atrial fibrillation and flutter NOS,1
+45773,Atrial fibrillation annual review,1
+105554,Atrial fibrillation care pathway,1
+18746,Atrial fibrillation monitoring,1
+57832,Atrial fibrillation monitoring administration,1
+90187,Atrial fibrillation monitoring first letter,1
+90188,Atrial fibrillation monitoring second letter,1
+90189,Atrial fibrillation monitoring third letter,1
+3757,ECG: atrial fibrillation,1
+6345,H/O: atrial fibrillation,1
+9479,Implant intravenous pacemaker for atrial fibrillation,1
+35127,Non-rheumatic atrial fibrillation,1
+1268,Paroxysmal atrial fibrillation,1
+96277,Permanent atrial fibrillation,1
+96076,Persistent atrial fibrillation,1
+103506,Referral to atrial fibrillation clinic,1

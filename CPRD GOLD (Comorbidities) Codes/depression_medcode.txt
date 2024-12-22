@@ -1,0 +1,133 @@
+medcode,readterm,depression
+29342,Recurrent major depressive episodes, mild,1
+14709,Recurrent major depressive episodes, moderate,1
+25697,Recurrent major depressive episodes, severe, no psychosis,1
+24171,Recurrent major depressive episodes, severe, with psychosis,1
+35671,Recurrent major depressive episodes, unspecified,1
+16506,Single major depressive episode, mild,1
+15155,Single major depressive episode, moderate,1
+32159,Single major depressive episode, severe, with psychosis,1
+15219,Single major depressive episode, severe, without psychosis,1
+34390,Single major depressive episode, unspecified,1
+27759,[X] Senile dementia, depressed or paranoid type,1
+2970,[X]Depressive episode, unspecified,1
+98346,[X]Major depression, mild,1
+98252,[X]Major depression, moderately severe,1
+11252,[X]Major depression, recurrent without psychotic symptoms,1
+98417,[X]Major depression, severe with psychotic symptoms,1
+98414,[X]Major depression, severe without psychotic symptoms,1
+29784,[X]Recurrent depressive disorder, current episode mild,1
+29520,[X]Recurrent depressive disorder, current episode moderate,1
+44300,[X]Recurrent depressive disorder, unspecified,1
+11055,[X]Schizoaffective disorder, depressive type,1
+35274,[X]Schizoaffective psychosis, depressive type,1
+41022,[X]Schizophreniform psychosis, depressive type,1
+73991,[X]Vital depression, recurrent without psychotic symptoms,1
+1055,Agitated depression,1
+5879,Agitated depression,1
+655,Anxiety with depression,1
+43292,Arteriosclerotic dementia with depression,1
+27491,Atypical depressive disorder,1
+1533,Brief depressive reaction,1
+36246,Brief depressive reaction NOS,1
+4824,C/O - feeling depressed,1
+2930,C/O - feeling unhappy,1
+4323,Chronic depression,1
+1996,Depressed,1
+10015,Depressed mood,1
+12399,Depression annual review,1
+30405,Depression interim review,1
+44848,Depression management programme,1
+12122,Depression medication review,1
+324,Depressive disorder NEC,1
+10455,Depressive personality disorder,1
+2560,Depressive psychoses,1
+10438,Depressive symptoms,1
+595,Endogenous depression,1
+6932,Endogenous depression - recurrent,1
+6546,Endogenous depression first episode,1
+6950,Endogenous depression first episode,1
+2716,H/O: depression,1
+25435,Loss of capacity for enjoyment,1
+7412,Loss of confidence,1
+53148,Loss of hope for the future,1
+30740,Loss of interest,1
+59869,Loss of interest in previously enjoyable activity,1
+8928,Low mood,1
+9183,Masked depression,1
+1131,Neurotic depression reactive type,1
+1908,O/E - depressed,1
+42931,On depression register,1
+30483,Patient given advice about management of depression,1
+2147,Poor self esteem,1
+2639,Postnatal depression,1
+2972,Postviral depression,1
+27677,Presenile dementia with depression,1
+16632,Prolonged depressive reaction,1
+17770,Psychotic reactive depression,1
+2923,Puerperal depression,1
+8478,Reactive depressive psychosis,1
+6482,Recurrent depression,1
+15099,Recurrent major depressive episode,1
+25563,Recurrent major depressive episode NOS,1
+32841,Referral for guided self-help for depression,1
+26028,Sad mood,1
+10825,Seasonal affective disorder,1
+21887,Senile dementia with depression,1
+44674,Senile dementia with depressive or paranoid features,1
+41089,Senile dementia with depressive or paranoid features NOS,1
+10610,Single major depressive episode,1
+7011,Single major depressive episode NOS,1
+9796,Symptoms of depression,1
+29527,[D]Postoperative depression,1
+5987,[X] Reactive depression NOS,1
+10720,[X]Atypical depression,1
+543,[X]Depression NOS,1
+32845,[X]Depressive conduct disorder,1
+3291,[X]Depressive disorder NOS,1
+4639,[X]Depressive episode,1
+8584,[X]Depressive neurosis,1
+10290,[X]Depressive personality disorder,1
+7953,[X]Dysthymia,1
+23731,[X]Endogenous depression with psychotic symptoms,1
+11329,[X]Endogenous depression without psychotic symptoms,1
+7749,[X]Mild anxiety depression,1
+10667,[X]Mild depression,1
+11717,[X]Mild depressive episode,1
+11913,[X]Mixed anxiety and depressive disorder,1
+9211,[X]Moderate depressive episode,1
+36616,[X]Monopolar depression NOS,1
+7737,[X]Neurotic depression,1
+6854,[X]Other depressive episodes,1
+47731,[X]Other recurrent depressive disorders,1
+15220,[X]Persistant anxiety depression,1
+20785,[X]Post-schizophrenic depression,1
+13307,[X]Postnatal depression NOS,1
+4979,[X]Postpartum depression NOS,1
+28248,[X]Prolonged single episode of reactive depression,1
+33469,[X]Recurr depress disorder cur epi severe without psyc sympt,1
+32941,[X]Recurr severe episodes/major depression+psychotic symptom,1
+31757,[X]Recurr severe episodes/psychogenic depressive psychosis,1
+19054,[X]Recurrent brief depressive episodes,1
+47009,[X]Recurrent depress disorder cur epi severe with psyc symp,1
+3292,[X]Recurrent depressive disorder,1
+8851,[X]Recurrent episodes of depressive reaction,1
+19696,[X]Recurrent episodes of psychogenic depression,1
+8902,[X]Recurrent episodes of reactive depression,1
+16861,[X]Recurrent severe episodes of psychotic depression,1
+37764,[X]Recurrent severe episodes/reactive depressive psychosis,1
+8826,[X]SAD - Seasonal affective disorder,1
+28756,[X]Seasonal depressive disorder,1
+12099,[X]Severe depressive episode with psychotic symptoms,1
+9667,[X]Severe depressive episode without psychotic symptoms,1
+41989,[X]Single episode agitated depressn w'out psychotic symptoms,1
+22806,[X]Single episode major depression w'out psychotic symptoms,1
+9055,[X]Single episode of depressive reaction,1
+24117,[X]Single episode of major depression and psychotic symptoms,1
+56609,[X]Single episode of masked depression NOS,1
+18510,[X]Single episode of psychogenic depression,1
+52678,[X]Single episode of psychogenic depressive psychosis,1
+24112,[X]Single episode of psychotic depression,1
+7604,[X]Single episode of reactive depression,1
+28863,[X]Single episode of reactive depressive psychosis,1
+59386,[X]Single episode vital depression w'out psychotic symptoms,1
