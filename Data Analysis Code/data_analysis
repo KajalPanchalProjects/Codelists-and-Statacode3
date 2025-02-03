@@ -66,7 +66,7 @@ gen indexyear2 = yofd(index2)
 gen age2 = indexyear2 - yob 
 
 *Comorbid variables (0,1)
-foreach ot in af anaemia asthma cancer cld copd dementia depression oa pvd ra stroke thy htn {	
+foreach ot in af anaemia asthma cancer cld copd dementia depression oa pvd ra stroke thy htn vd {	
 destring `ot'_BL, replace 
 replace `ot'_BL=0 if `ot'_BL==.
 }
@@ -423,14 +423,14 @@ use "...\nonfatalHF_cleancc.dta", clear
 keep if gender=="female"
 keep if hfi_out==1 
 *continous variables (mean, standard deviation)
-foreach cv in age BMI systolic chol {
+foreach cv in age BMI systolic chol hb hb_mm {
 destring `cv', replace 
 tab t2d, summarize(`cv')
 sum `cv', d
 }
 
 *categorical variables 
-foreach b in gender ethnic imd smokstatus_cut alcstatus anaemia asthma af_BL cancer CKD cld copd dementia depression htn_BL oa ra thy oral_hyper antiplat digoxin oral_lipid {
+foreach b in gender ethnic imd smokstatus_cut alcstatus anaemia asthma af_BL cancer CKD cld copd dementia depression vd htn_BL oa ra thy oral_hyper antiplat digoxin oral_lipid {
 destring `b', replace 
 tab `b' t2d, column 
 }
@@ -440,14 +440,14 @@ use "...\nonfatalHF_cleancc.dta", clear
 keep if gender=="male"
 keep if hfi_out==1 
 *continous variables (mean, standard deviation)
-foreach cv in age BMI systolic chol {
+foreach cv in age BMI systolic chol hb hb_mm {
 destring `cv', replace 
 tab t2d, summarize(`cv')
 sum `cv', d
 }
 
 *categorical variables 
-foreach b in gender ethnic imd smokstatus_cut alcstatus anaemia asthma af_BL cancer CKD cld copd dementia depression htn_BL oa ra thy oral_hyper antiplat digoxin oral_lipid {
+foreach b in gender ethnic imd smokstatus_cut alcstatus anaemia asthma af_BL cancer CKD cld copd dementia depression vd htn_BL oa ra thy oral_hyper antiplat digoxin oral_lipid {
 destring `b', replace 
 tab `b' t2d, column 
 }
@@ -457,14 +457,14 @@ use "...\nonfatalHF_cleancc.dta", clear
 keep if gender=="female" 
 keep if hfn_out==1 
 *continous variables (mean, standard deviation)
-foreach cv in age BMI systolic chol {
+foreach cv in age BMI systolic chol hb hb_mm {
 destring `cv', replace 
 tab t2d, summarize(`cv')
 sum `cv', d
 }
 
 *categorical variables 
-foreach b in gender ethnic imd smokstatus_cut alcstatus anaemia asthma af_BL cancer CKD cld copd dementia depression htn_BL oa ra thy oral_hyper antiplat digoxin oral_lipid {
+foreach b in gender ethnic imd smokstatus_cut alcstatus anaemia asthma af_BL cancer CKD cld copd dementia depression vd htn_BL oa ra thy oral_hyper antiplat digoxin oral_lipid {
 destring `b', replace 
 tab `b' t2d, column 
 }
@@ -474,14 +474,14 @@ use "...\nonfatalHF_cleancc.dta", clear
 keep if gender=="male" 
 keep if hfn_out==1 
 *continous variables (mean, standard deviation)
-foreach cv in age BMI systolic chol {
+foreach cv in age BMI systolic chol hb hb_mm {
 destring `cv', replace 
 tab t2d, summarize(`cv')
 sum `cv', d
 }
 
 *categorical variables 
-foreach b in gender ethnic imd smokstatus_cut alcstatus anaemia asthma af_BL cancer CKD cld copd dementia depression htn_BL oa ra thy oral_hyper antiplat digoxin oral_lipid {
+foreach b in gender ethnic imd smokstatus_cut alcstatus anaemia asthma af_BL cancer CKD cld copd dementia depression vd htn_BL oa ra thy oral_hyper antiplat digoxin oral_lipid {
 destring `b', replace 
 tab `b' t2d, column 
 }
