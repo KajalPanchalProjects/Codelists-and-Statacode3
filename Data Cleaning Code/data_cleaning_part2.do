@@ -150,7 +150,7 @@ save "...\non_fatalHF2.dta", replace
 *BL characteristics 
 *Comorbid conditons (BL)
 clear 
-foreach ot in af anaemia asthma cancer cld copd dementia depression oa pvd ra stroke thy htn {
+foreach ot in af anaemia asthma cancer cld copd dementia depression oa pvd ra stroke thy htn vd {
 cd "..."
 use aurum_hes_diagnosis_hosp_21_000355_DM_baseline, clear 
 cd "...\HES\"
@@ -247,6 +247,88 @@ save "...\non_fatalHF2.dta", replace
 ********************************************************************************
 *Add test files 
 ********************************************************************************
+*add HbA1c (%) - CPRD Aurum 
+*units = % or mmol/mol 
+import delimited "...\NumUnit.txt", stringcols(_all) clear 
+merge 1:m numunitid using "...\HbA1c.dta", force 
+drop if _merge==1 
+drop _merge
+
+*explore units 
+*tab description
+destring value, replace 
+sum value, d 
+
+*explore units 
+*tab description
+destring value, replace 
+sum value, d 
+
+******1. convert mmol/mol to (%)
+*Conversion formulas: (%)= (0.0915 × `mmol/mol') + 2.15
+
+*keep if units == mmol/mol 
+keep if description=="IFCCmmol/mol" | description=="dcct" | description=="mmol/ mol" | description=="mmol / mol" | description=="mmol/mol" | description=="mmol/molHb" | description=="mmols/mol" 
+*tab description 
+destring value, replace 
+*convert mmol/mol to (%)
+gen hb=(value*0.0915) + 2.15
+sort patid obsdate
+keep patid obsdate hb
+save "...\HbA1c_perc1.dta", replace 
+
+*****2. convert mmol/l to (%)
+*HbA1c(%) = 'mmol/l'*0.6277 + 1.627 
+use "...\HbA1c.dta", clear 
+keep if description=="mmol/L"
+destring value, replace 
+*convert mmol/l to (%)
+gen hb=(value*0.6277) + 1.627
+sort patid obsdate
+keep patid obsdate hb
+save "...\HbA1c_perc2.dta", replace 
+
+******3. Append % (converted from mmol/mol) to % in HbA1c codeslist 
+
+*load HbA1c data 
+use "...\HbA1c.dta", clear 
+*tab description
+*keep if units == (%)
+keep if strpos(description,"%") | strpos(description,"perc") | description=="per cent"
+tab description 
+rename value hb 
+destring hb, replace 
+keep patid obsdate hb
+append using "...\HbA1c_perc1.dta", force 
+append using "...\HbA1c_perc2.dta", force 
+drop if hb==. 
+sort patid obsdate 
+sum hb, d
+drop if hb<3 | hb>23
+sum hb, d 
+
+*Add HbA1c (mmol/mol) column variable 
+gen hb_mm=(hb-2.15)/0.0915
+sum hb_mm, d 
+
+*merge with main aurum cohort (keep closest to index date)
+keep patid obsdate hb hb_mm 
+rename obsdate eventdate 
+sort patid eventdate 
+merge m:1 patid using "...\non_fatalHF2.dta", force
+drop if _merge==1
+drop _merge
+gen diff = date(indexdate2, "DMY") - date(eventdate, "DMY")
+drop if diff<0
+sort patid diff
+by patid: keep if _n == 1
+drop diff eventdate
+merge 1:1 patid using "...\non_fatalHF2.dta", force
+drop if _merge==1
+drop _merge
+save "...\non_fatalHF2.dta", replace
+
+************************************************************************
 *add lipids
 import delimited "...\NumUnit.txt", stringcols(_all) clear 
 merge 1:m numunitid using "...\append\lipids.dta", force
@@ -458,8 +540,8 @@ format index2 %td
 gen indexyear2 = yofd(index2) 
 gen age = indexyear2 - yob 
 
-gen cr_k = CR_mgdL/0.7 if gender=="F"
-replace cr_k = CR_mgdL/0.9 if gender=="M"
+gen cr_k = CR_mgdL/0.7 if gender=="female"
+replace cr_k = CR_mgdL/0.9 if gender=="male"
 
 gen min =  cr_k if  cr_k<1
 replace min=1 if cr_k >=1
@@ -468,12 +550,12 @@ gen max =  cr_k if  cr_k>1
 replace max=1 if cr_k <=1
 
 *women 
-gen eGFR= 141 * (min)^-0.329 * (max)^-1.209 * (0.993)^age * 1.018 if gender =="F"
-replace eGFR = 141 * (min)^-0.329 * (max)^-1.209 * (0.993)^age * 1.018 * 1.159 if gender =="F" & ethnic=="Black"
+gen eGFR= 141 * (min)^-0.329 * (max)^-1.209 * (0.993)^age * 1.018 if gender =="female"
+replace eGFR = 141 * (min)^-0.329 * (max)^-1.209 * (0.993)^age * 1.018 * 1.159 if gender =="female" & ethnic=="Black"
 
 *men
-replace eGFR = 141 * (min)^-0.411 * (max)^-1.209 * (0.993)^age  if gender =="M" 
-replace eGFR = 141 * (min)^-0.411 * (max)^-1.209 * (0.993)^age * 1.159 if gender =="M" & ethnic=="Black"
+replace eGFR = 141 * (min)^-0.411 * (max)^-1.209 * (0.993)^age  if gender =="male" 
+replace eGFR = 141 * (min)^-0.411 * (max)^-1.209 * (0.993)^age * 1.159 if gender =="male" & ethnic=="Black"
 
 sum  eGFR,d
 drop if  eGFR>500 | eGFR==.
@@ -520,7 +602,7 @@ save "...\non_fatalHF2.dta", replace
 
 *HES baseline - comorbid conditions  
 clear
-foreach ot in af anaemia asthma cancer cld copd dementia depression oa pvd ra stroke thy htn {
+foreach ot in af anaemia asthma cancer cld copd dementia depression oa pvd ra stroke thy htn vd {
 cd "...\HES\"
 use `ot'_hes, clear 
 keep icd `ot'_hes
@@ -634,20 +716,67 @@ save "...\non_fatalHF2.dta", replace
 
 ********************************************************************************
 *Merging HES/ONS linkage files 
-
 ********************************************************************************
 //Bringing in tests 
-
+*HbA1c 
 *BMI 
 *Cholesterol
 *Systolic
-*HbA1c 
 *eGFR 
 
-*[Referral files DO NOT have adid/enttype - use ONLY CLINICAL FILES] 
+********HbA1c (%)
+use "...\append_test_hba1c.dta", clear
+*275 = HbA1c - diabetic control
+keep if enttype=="275" 
+drop if eventdate==""
+rename data3 unit 
+rename data2 value 
+destring unit, replace 
+destring value, replace 
+*tab unit 
+*tab value 
 
+*keep if plausible unit (%) | mmol/mol | mmol/l 
+**Percentage 
+*1 = % 
+*215 = %Hb
+gen hb = value if unit== 1 | unit== 215
+
+**mmol/mol 
+*97 = mmol/mol
+*205 = mmol/mol Hb
+replace hb = (value*0.0915) + 2.15 if unit==97 | unit==205 & hb==.
+
+**mmol/L 
+*96 = mmol/L
+replace hb = (value*0.6277) + 1.627 if unit==96 & hb==.
+
+*HbA1c (mmol/mol)
+gen hb_mm=(hb-2.15)/0.0915
+
+*apply inclusion criterion 
+sum hb, d 
+sum hb_mm, d
+drop if hb<3 | hb>23
+sum hb, d 
+sum hb_mm, d
+
+keep patid eventdate hb_mm hb
+****1:1 with main 
+merge m:1 patid using "...\non_fatalHF2.dta", force
+drop if _merge==1
+drop _merge
+gen diff = date(indexdate2, "DMY") - date(eventdate, "DMY")
+drop if diff<0
+sort patid diff
+by patid: keep if _n == 1
+keep patid hb hb_mm 
+merge 1:1 patid using "...\non_fatalHF2.dta", force 
+drop if _merge==1
+drop _merge
+save "...\non_fatalHF2.dta", replace 
+********************************************************************************
 *BMI 
-
 ***HEIGHT (code from 1st CPRD paper, already run)
 *use "...\append_clinical.dta", clear 
 *enttype 14 (height)
