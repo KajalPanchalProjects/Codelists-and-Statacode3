@@ -1,0 +1,52 @@
+medcode,readterm,vd
+58810,"Aortic insufficiency alone, cause unspecified",1
+47887,"Aortic insufficiency, non-rheumatic",1
+7963,Aortic regurgitation - rheumatic,1
+1005,"Aortic regurgitation alone, cause unspecified",1
+10187,"Aortic regurgitation, non-rheumatic",1
+9591,Aortic stenosis,1
+999,"Aortic stenosis, non-rheumatic",1
+10964,Aortic valve stenosis with insufficiency,1
+8636,Congenital aortic valve insufficiency,1
+6843,Congenital aortic valve insufficiency NOS,1
+58734,"Congenital aortic valve insufficiency, unspecified",1
+6886,Congenital aortic valve stenosis,1
+61651,Congenital mitral insufficiency,1
+94872,Mitral and aortic insufficiency,1
+11878,Mitral and aortic regurgitation,1
+33262,Mitral insufficiency and aortic stenosis,1
+561,Mitral regurgitation,1
+22837,Mitral regurgitation - rheumatic,1
+33907,Mitral regurgitation and aortic stenosis,1
+49355,Mitral stenosis and aortic insufficiency,1
+17596,Mitral stenosis and aortic regurgitation,1
+44488,Mitral stenosis with insufficiency,1
+44328,Mitral stenosis with regurgitation,1
+40949,Mitral valve insufficiency,1
+9450,Mitral valve regurgitation,1
+28662,Nonrheumatic mitral valve stenosis,1
+52271,Nonrheumatic tricuspid valve stenosis with insufficiency,1
+96754,Pulmonary insufficiency following trauma,1
+38299,"Pulmonary insufficiency, cause unspecified",1
+15640,"Pulmonary insufficiency, non-rheumatic",1
+6077,"Pulmonary regurgitation, cause unspecified",1
+15496,"Pulmonary regurgitation, non-rheumatic",1
+34932,Pulmonary valve stenosis with insufficiency,1
+15133,Replacement of aortic valve NEC,1
+32211,Rheumatic aortic insufficiency,1
+63960,Rheumatic aortic stenosis with insufficiency,1
+51879,Rheumatic mitral insufficiency,1
+54088,Rheumatic pulmonary insufficiency,1
+105626,Rheumatic pulmonary stenosis and insufficiency,1
+60266,Rheumatic tricuspid insufficiency,1
+93114,Rheumatic tricuspid stenosis and insufficiency,1
+93113,Rheumatic tricuspid stenosis and regurgitation,1
+65000,Trauma and post-operative pulmonary insufficiency,1
+42128,"Tricuspid insufficiency, cause unspecified",1
+97738,"Tricuspid insufficiency, non-rheumatic",1
+21980,Tricuspid regurgitation - rheumatic,1
+9286,"Tricuspid regurgitation, cause unspecified",1
+35372,"Tricuspid regurgitation, non-rheumatic",1
+72306,"Tricuspid stenosis and insufficiency, cause unspecified",1
+49551,"Tricuspid stenosis and regurgitation, cause unspecified",1
+5743,Valvular heart disease,1
