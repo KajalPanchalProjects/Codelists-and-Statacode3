@@ -1,0 +1,472 @@
+medcode,term,t2d
+48078,Acute painful diabetic neuropathy,1
+7059,Admit diabetic emergency,1
+10099,Advanced diabetic maculopathy,1
+47584,Advanced diabetic retinal disease,1
+68928,Adverse reaction to insulins and antidiabetic agents,1
+61210,Adverse reaction to insulins and antidiabetic agents NOS,1
+107739,Advice about diabetes and driving,1
+18167,Annual diabetic blood test,1
+24571,Asymptomatic diabetic neuropathy,1
+93390,Attended DAFNE diabetes structured education programme,1
+94011,Attended XPERT diabetes structured education programme,1
+26605,Attended diabetes structured education programme,1
+6430,Attending diabetes clinic,1
+13197,Attends diabetes monitoring,1
+17067,Autonomic neuropathy due to diabetes,1
+7069,Background diabetic retinopathy,1
+2478,Brittle diabetes,1
+91164,CSQ - Diabetes clinic satisfaction questionnaire,1
+7328,Cellulitis in diabetic foot,1
+35785,Chronic painful diabetic neuropathy,1
+107881,Clinical diabetic nephropathy,1
+107508,Conversion to insulin by diabetes specialist nurse,1
+93491,DAFNE diabetes structured education programme completed,1
+93529,DESMOND diabetes structured education programme completed,1
+9145,DNA - Did not attend diabetic clinic,1
+68818,DTSQ - Diabetes treatment satisfaction questionnaire,1
+97824,DWBQ - Diabetes wellbeing questionnaire,1
+29041,Date diabetic treatment start,1
+55123,Date diabetic treatment stopp.,1
+101190,Declined consent for diabetes year of care programme,1
+106218,Declined diabetic retinopathy screening,1
+107464,Diabetes Year of Care annual review,1
+12307,Diabetes care by hospital only,1
+47032,Diabetes care plan agreed,1
+103743,Diabetes care plan declined,1
+13191,Diabetes clinic administration,1
+68546,Diabetes clinic satisfaction questionnaire,1
+63412,Diabetes clinical management plan,1
+105585,Diabetes clinical pathway,1
+8836,Diabetes management plan given,1
+11471,Diabetes medication review,1
+711,Diabetes mellitus,1
+67635,Diabetes mellitus - unspec whether in pregnancy/puerperium,1
+72345,Diabetes mellitus NOS with hyperosmolar coma,1
+42505,Diabetes mellitus NOS with ketoacidosis,1
+65062,Diabetes mellitus NOS with ketoacidotic coma,1
+22573,Diabetes mellitus NOS with neurological manifestation,1
+50972,Diabetes mellitus NOS with no mention of complication,1
+34283,Diabetes mellitus NOS with ophthalmic manifestation,1
+70821,Diabetes mellitus NOS with other specified manifestation,1
+65025,Diabetes mellitus NOS with peripheral circulatory disorder,1
+64357,Diabetes mellitus NOS with unspecified complication,1
+36695,Diabetes mellitus autosomal dominant type 2,1
+107603,Diabetes mellitus in remission,1
+32403,Diabetes mellitus with gangrene,1
+21482,Diabetes mellitus with hyperosmolar coma,1
+1682,Diabetes mellitus with ketoacidosis,1
+15690,Diabetes mellitus with ketoacidotic coma,1
+35107,Diabetes mellitus with nephropathy NOS,1
+16230,Diabetes mellitus with neurological manifestation,1
+7795,Diabetes mellitus with neuropathy,1
+38986,Diabetes mellitus with no mention of complication,1
+33254,Diabetes mellitus with ophthalmic manifestation,1
+33343,Diabetes mellitus with other specified manifestation,1
+35399,Diabetes mellitus with peripheral circulatory disorder,1
+16491,Diabetes mellitus with polyneuropathy,1
+16502,Diabetes mellitus with renal manifestation,1
+45491,Diabetes mellitus with unspecified complication,1
+39317,"Diabetes mellitus, adult onset, + neurological manifestation",1
+41389,"Diabetes mellitus, adult onset, + ophthalmic manifestation",1
+63762,"Diabetes mellitus, adult onset, + unspecified complication",1
+14803,"Diabetes mellitus, adult onset, no mention of complication",1
+43139,"Diabetes mellitus, adult onset, with hyperosmolar coma",1
+54856,"Diabetes mellitus, adult onset, with ketoacidosis",1
+68843,"Diabetes mellitus, adult onset, with ketoacidotic coma",1
+35105,"Diabetes mellitus, adult onset, with renal manifestation",1
+33807,"Diabetes mellitus, adult with gangrene",1
+63371,"Diabetes mellitus, adult, + other specified manifestation",1
+63357,"Diabetes mellitus, adult, + peripheral circulatory disorder",1
+101455,Diabetes monitor invitation by SMS (short message service),1
+13192,Diabetes monitor. check done,1
+31141,Diabetes monitor.phone invite,1
+31240,Diabetes monitor.verbal invite,1
+20900,Diabetes monitored,1
+13194,Diabetes monitoring 1st letter,1
+13195,Diabetes monitoring 2nd letter,1
+12030,Diabetes monitoring 3rd letter,1
+9897,Diabetes monitoring admin.,1
+31241,Diabetes monitoring admin.NOS,1
+22130,Diabetes monitoring default,1
+54846,Diabetes monitoring deleted,1
+108993,Diabetes self-management plan agreed,1
+107423,Diabetes self-management plan review,1
+94186,Diabetes structured education programme completed,1
+93854,Diabetes structured education programme declined,1
+107414,Diabetes structured education programme not available,1
+94699,Diabetes treatment satisfaction questionnaire,1
+98954,Diabetes treatment satisfaction questionnaire,1
+83532,Diabetes type 2 review,1
+34528,Diabetes well being questionnaire,1
+38130,Diabetes wellbeing questionnaire,1
+32556,Diabetes with gangrene,1
+12506,Diabetes: practice programme,1
+12675,Diabetes: shared care programme,1
+43951,Diabetic - cooperative patient,1
+17886,Diabetic - follow-up default,1
+13071,Diabetic - good control,1
+2378,Diabetic - poor control,1
+22023,Diabetic - poor control NOS,1
+28873,Diabetic 6 month review,1
+27891,Diabetic Charcot arthropathy,1
+59903,Diabetic amyotrophy,1
+2340,Diabetic amyotrophy,1
+6125,Diabetic annual review,1
+102490,Diabetic assessment of erectile dysfunction,1
+46533,Diabetic association member,1
+110393,Diabetic carbohydrate counting diet,1
+10659,Diabetic cataract,1
+18142,Diabetic cheiroarthropathy,1
+57333,Diabetic cheiropathy,1
+47341,Diabetic crisis monitoring,1
+13074,Diabetic diet,1
+26604,Diabetic diet - good compliance,1
+25636,Diabetic diet - poor compliance,1
+101177,Diabetic dietary review,1
+101456,Diabetic dietary review declined,1
+61021,Diabetic digital retinopathy screening offered,1
+53238,Diabetic drug side effects,1
+102434,Diabetic erectile dysfunction review,1
+108890,Diabetic foot care education,1
+22823,Diabetic foot examination,1
+18824,Diabetic foot examination declined,1
+12247,Diabetic foot examination not indicated,1
+50175,Diabetic foot risk assessment,1
+95994,Diabetic foot screen,1
+106738,Diabetic foot screening invitation,1
+106723,Diabetic foot screening invitation first letter,1
+106722,Diabetic foot screening invitation second letter,1
+107793,Diabetic foot screening invitation third letter,1
+110409,Diabetic injection administration education,1
+17313,Diabetic iritis,1
+18066,Diabetic leaflet given,1
+21689,Diabetic lipid lowering diet,1
+3837,Diabetic maculopathy,1
+103798,Diabetic medicine,1
+3550,Diabetic monitoring,1
+61470,Diabetic monitoring - higher risk albumin excretion,1
+66475,Diabetic monitoring - lower risk albumin excretion,1
+13067,Diabetic monitoring NOS,1
+36669,Diabetic monitoring not required,1
+17247,Diabetic mononeuritis NOS,1
+44033,Diabetic mononeuritis multiplex,1
+37315,Diabetic mononeuropathy,1
+2475,Diabetic nephropathy,1
+2342,Diabetic neuropathy,1
+7563,Diabetic on diet only,1
+8842,Diabetic on insulin,1
+111483,Diabetic on insulin and glucagon-like peptide 1,1
+28769,Diabetic on insulin and oral treatment,1
+110344,Diabetic on non-insulin injectable medication,1
+1684,Diabetic on oral treatment,1
+110379,Diabetic on oral treatment and glucagon-like peptide 1,1
+101728,Diabetic on subcutaneous treatment,1
+35383,Diabetic patient unsuitable for digital retinal photography,1
+34152,Diabetic peripheral angiopathy,1
+109760,Diabetic peripheral neuropathic pain,1
+10977,Diabetic peripheral neuropathy screening,1
+5002,Diabetic polyneuropathy,1
+1323,Diabetic retinopathy,1
+11018,Diabetic retinopathy 12 month review,1
+18662,Diabetic retinopathy 6 month review,1
+11626,Diabetic retinopathy NOS,1
+18311,Diabetic retinopathy screening,1
+106269,Diabetic retinopathy screening administrative status,1
+18747,Diabetic retinopathy screening not indicated,1
+19739,Diabetic retinopathy screening offered,1
+12262,Diabetic retinopathy screening refused,1
+24363,Diabetic stabilisation,1
+16490,Diabetic treatment changed,1
+13078,Diabetic weight reducing diet,1
+17869,Diabetic-uncooperative patient,1
+47370,Diabetology D.V. done,1
+61557,Diabetology D.V. requested,1
+99277,Did not attend DAFNE diabetes structured education programme,1
+95159,Did not attend DESMOND diabetes structured education program,1
+94955,Did not attend XPERT diabetes structured education programme,1
+102768,Did not attend diabetes foot screening,1
+95553,Did not attend diabetes structured education programme,1
+30648,Did not attend diabetic retinopathy clinic,1
+97809,Did not complete DAFNE diabetes structured education program,1
+95093,Did not complete DESMOND diabetes structured educat program,1
+94956,Did not complete XPERT diabetes structured education program,1
+95094,Did not complete diabetes structured education programme,1
+109878,Diet advice for insulin-dependent diabetes,1
+10642,Dietary advice for diabetes mellitus,1
+25041,Dietary advice for type II diabetes,1
+58133,Discharge by diabetic liaison nurse,1
+109806,Discharge from secondary care diabetes service,1
+47058,Discharged from care of diabetes specialist nurse,1
+100422,Discharged from diabetes shared care programme,1
+107361,Education about diabetes and driving,1
+100436,Education in self management of diabetes,1
+12703,Education score - diabetes,1
+67664,Education score - diabetes,1
+109520,Eligibility permanently inactive for diabetic retinop screen,1
+109521,Eligibility temporarily inactive for diabetic retinop screen,1
+106332,Eligible for diabetic retinopathy screening,1
+109643,Enquiry about diabetic erectile dysfunction declined,1
+106360,Erectile dysfunction due to diabetes mellitus,1
+11041,Excepted from diabetes qual indicators: Patient unsuitable,1
+101834,Excepted from diabetes qual indicators: service unavailable,1
+11348,Excepted from diabetes quality indicators: Informed dissent,1
+28574,Exception reporting: diabetes quality indicators,1
+106328,Excluded diabetc retinop screen as under care ophthalmolgist,1
+106778,Excluded frm diabetic retinopathy screen as terminal illness,1
+106351,Excluded from diabetic retinop screen as no longer diabetic,1
+106445,Excluded from diabetic retinopathy screen physical disorder,1
+106327,Excluded from diabetic retinopathy screening,1
+106329,Excluded from diabetic retinopathy screening as blind,1
+106352,Excluded from diabetic retinopathy screening as deceased,1
+106350,Excluded from diabetic retinopathy screening as moved away,1
+107597,Excluded from diabetic retinopthy screen as learn disability,1
+51066,Family/carer attended diabetes structured education prog,1
+95641,Family/carer referral to diabetes structured education prog,1
+608,Follow-up diabetic assessment,1
+27921,Foot abnormality - diabetes related,1
+18056,Foot abnormality - diabetes related,1
+13196,Fundoscopy - diabetic check,1
+107452,Further diabetic monitoring,1
+7045,H/O: Admission in last year for diabetes foot problem,1
+6813,H/O: diabetes mellitus,1
+13069,Has seen dietician - diabetes,1
+9958,Hb. A1C - diabetic control,1
+14049,Hb. A1C - diabetic control NOS,1
+14050,HbA1 - diabetic control,1
+13057,Health education - diabetes,1
+65463,High risk non proliferative diabetic retinopathy,1
+30477,High risk proliferative diabetic retinopathy,1
+34450,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,1
+36633,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,1
+107701,Hyperosmolar non-ketotic state in type II diabetes mellitus,1
+69124,IDDM with peripheral circulatory disorder ,1
+101881,Impaired vision due to diabetic retinopathy,1
+108634,In-house diabetic foot screening,1
+106441,Ineligible for diabetic retinopathy screening,1
+61461,Informed consent for diabetes national audit,1
+44312,Informed dissent for diabetes national audit,1
+13070,Initial diabetic assessment,1
+20696,Injection sites - diabetic,1
+97849,Insulin dependent diabetes maturity onset,1
+31310,Insulin dependent diabetes maturity onset,1
+1407,Insulin treated Type 2 diabetes mellitus,1
+18278,Insulin treated Type 2 diabetes mellitus,1
+64668,Insulin treated Type II diabetes mellitus,1
+18264,Insulin treated Type II diabetes mellitus,1
+37648,Insulin treated non-insulin dependent diabetes mellitus,1
+24327,Ischaemic ulcer diabetic foot,1
+111347,Joint consultn pracse nurse & comm diabetes specialist nurse,1
+109222,Lifestyle education for diabetes,1
+43857,Lipoatrophic diabetes mellitus,1
+72333,Listed for Diabetology admissn,1
+9881,Mixed diabetic ulcer - foot,1
+39420,Myasthenic syndrome due to diabetic amyotrophy,1
+5884,NIDDM - Non-insulin dependent diabetes mellitus,1
+2471,Nephrotic syndrome in diabetes mellitus,1
+11663,Neuropathic diabetic ulcer - foot,1
+103935,No evidence of diabetic nephropathy,1
+10755,Non proliferative diabetic retinopathy,1
+69278,Non-insulin depend diabetes mellitus with diabetic cataract,1
+4513,Non-insulin dependent diabetes mellitus,1
+506,Non-insulin dependent diabetes mellitus,1
+8403,Non-insulin dependent diabetes mellitus - poor control,1
+24693,Non-insulin dependent diabetes mellitus with arthropathy,1
+40401,Non-insulin dependent diabetes mellitus with gangrene,1
+43785,Non-insulin dependent diabetes mellitus with hypoglyca coma,1
+72320,Non-insulin dependent diabetes mellitus with mononeuropathy,1
+59365,Non-insulin dependent diabetes mellitus with nephropathy,1
+45467,Non-insulin dependent diabetes mellitus with polyneuropathy,1
+34912,Non-insulin dependent diabetes mellitus with ulcer,1
+62146,Non-insulin-dependent diabetes mellitus with multiple comps,1
+55842,Non-insulin-dependent diabetes mellitus with neuro comps,1
+50429,Non-insulin-dependent diabetes mellitus with ophthalm comps,1
+52303,Non-insulin-dependent diabetes mellitus with renal comps,1
+17262,Non-insulin-dependent diabetes mellitus with retinopathy,1
+29979,Non-insulin-dependent diabetes mellitus without complication,1
+35321,Non-urgent diabetic admission,1
+35116,O/E - Left diabetic foot - ulcerated,1
+31172,O/E - Left diabetic foot at high risk,1
+105740,O/E - Left diabetic foot at increased risk,1
+26667,O/E - Left diabetic foot at low risk,1
+31156,O/E - Left diabetic foot at moderate risk,1
+26664,O/E - Left diabetic foot at risk,1
+35316,O/E - Right diabetic foot - ulcerated,1
+31171,O/E - Right diabetic foot at high risk,1
+105741,O/E - Right diabetic foot at increased risk,1
+26666,O/E - Right diabetic foot at low risk,1
+31157,O/E - Right diabetic foot at moderate risk,1
+17095,O/E - Right diabetic foot at risk,1
+47144,O/E - diabetic maculopathy absent both eyes,1
+9835,O/E - diabetic maculopathy present both eyes,1
+49640,O/E - left chronic diabetic foot ulcer,1
+11129,O/E - left eye background diabetic retinopathy,1
+13108,O/E - left eye diabetic maculopathy,1
+13103,O/E - left eye preproliferative diabetic retinopathy,1
+13101,O/E - left eye proliferative diabetic retinopathy,1
+52041,O/E - left eye stable treated prolif diabetic retinopathy,1
+13104,O/E - no left diabetic retinopathy,1
+13100,O/E - no right diabetic retinopathy,1
+62384,O/E - right chronic diabetic foot ulcer,1
+11433,O/E - right eye background diabetic retinopathy,1
+13102,O/E - right eye diabetic maculopathy,1
+13099,O/E - right eye preproliferative diabetic retinopathy,1
+13097,O/E - right eye proliferative diabetic retinopathy,1
+47328,O/E - right eye stable treated prolif diabetic retinopathy,1
+52630,O/E - sight threatening diabetic retinopathy,1
+11599,Pan retinal photocoagulation for diabetes,1
+57389,Patient consent given for addition to diabetic register,1
+32619,Patient diabetes education review,1
+58639,Patient held diabetic record declined,1
+52237,Patient held diabetic record issued,1
+12682,Patient offered diabetes structured education programme,1
+12213,Patient on maximal tolerated therapy for diabetes,1
+31790,Polyneuropathy in diabetes,1
+50609,"Pre-existing diabetes mellitus, non-insulin-dependent",1
+2986,Preproliferative diabetic retinopathy,1
+34541,Private referral to diabetologist,1
+3286,Proliferative diabetic retinopathy,1
+105302,Proteinuric diabetic nephropathy,1
+104374,Provision of diabetes clinical summary,1
+106679,Provision of written information about diabetes and driving,1
+110087,Provision of written information about diabetes and high BP,1
+112237,Provision written information abt diabetes & high HbA1c levl,1
+109744,Provsn written information about diabetes & high cholesterol,1
+8414,Pt advised re diabetic diet,1
+110511,Recommendation self-refer for diabetes structured education,1
+11677,Refer to diabetic foot screener,1
+12225,"Refer, diabetic liaison nurse",1
+64142,Referral for diabetic retinopathy screening,1
+93704,Referral to DAFNE diabetes structured education programme,1
+106953,Referral to DAFNE diabetes structured educn prog declined,1
+93657,Referral to DESMOND diabetes structured education programme,1
+93870,Referral to XPERT diabetes structured education programme,1
+105207,Referral to community diabetes clinic,1
+104287,Referral to community diabetes service,1
+82474,Referral to community diabetes specialist nurse,1
+105937,Referral to community diabetes specialist nurse declined,1
+11977,Referral to diabetes nurse,1
+8306,Referral to diabetes nurse,1
+94330,Referral to diabetes special interest general practitioner,1
+47011,Referral to diabetes structured education programme,1
+19381,Referral to diabetic eye clinic,1
+13678,Referral to diabetic liaison nurse,1
+57723,Referral to diabetic register,1
+7777,Referral to diabetologist,1
+69163,Referral to multidisciplinary diabetic clinic,1
+26603,Refuses diabetes monitoring,1
+22967,Retinal abnormality - diabetes related,1
+8618,Seen by diabetic liaison nurse,1
+12507,Seen by diabetic liaison nurse,1
+46521,Seen by diabetologist,1
+97281,Seen by general practitioner special interest in diabetes,1
+32739,Seen in community diabetes specialist clinic,1
+38129,Seen in community diabetic specialist nurse clinic,1
+2379,Seen in diabetic clinic,1
+9974,Seen in diabetic eye clinic,1
+10824,Seen in diabetic foot clinic,1
+38103,Seen in diabetic nurse consultant clinic,1
+95813,Seen in multidisciplinary diabetic clinic,1
+28856,Transition of diabetes care options discussed,1
+758,Type 2 diabetes mellitus,1
+17859,Type 2 diabetes mellitus,1
+45913,Type 2 diabetes mellitus - poor control,1
+25627,Type 2 diabetes mellitus - poor control,1
+110611,Type 2 diabetes mellitus in remission,1
+59253,Type 2 diabetes mellitus with arthropathy,1
+49869,Type 2 diabetes mellitus with arthropathy,1
+44779,Type 2 diabetes mellitus with diabetic cataract,1
+44982,Type 2 diabetes mellitus with diabetic cataract,1
+25591,Type 2 diabetes mellitus with exudative maculopathy,1
+46150,Type 2 diabetes mellitus with gangrene,1
+12736,Type 2 diabetes mellitus with gangrene,1
+63690,Type 2 diabetes mellitus with gastroparesis,1
+61071,Type 2 diabetes mellitus with hypoglycaemic coma,1
+46917,Type 2 diabetes mellitus with hypoglycaemic coma,1
+32627,Type 2 diabetes mellitus with ketoacidosis,1
+51756,Type 2 diabetes mellitus with ketoacidotic coma,1
+62674,Type 2 diabetes mellitus with mononeuropathy,1
+108005,Type 2 diabetes mellitus with multiple complications,1
+65267,Type 2 diabetes mellitus with multiple complications,1
+24836,Type 2 diabetes mellitus with nephropathy,1
+12640,Type 2 diabetes mellitus with nephropathy,1
+34268,Type 2 diabetes mellitus with neurological complications,1
+45919,Type 2 diabetes mellitus with neurological complications,1
+66965,Type 2 diabetes mellitus with neuropathic arthropathy,1
+35385,Type 2 diabetes mellitus with neuropathic arthropathy,1
+47321,Type 2 diabetes mellitus with ophthalmic complications,1
+70316,Type 2 diabetes mellitus with ophthalmic complications,1
+37806,Type 2 diabetes mellitus with peripheral angiopathy,1
+60699,Type 2 diabetes mellitus with peripheral angiopathy,1
+18390,Type 2 diabetes mellitus with persistent microalbuminuria,1
+26054,Type 2 diabetes mellitus with persistent proteinuria,1
+109865,Type 2 diabetes mellitus with polyneuropathy,1
+18425,Type 2 diabetes mellitus with polyneuropathy,1
+18777,Type 2 diabetes mellitus with renal complications,1
+18209,Type 2 diabetes mellitus with renal complications,1
+18496,Type 2 diabetes mellitus with retinopathy,1
+42762,Type 2 diabetes mellitus with retinopathy,1
+49074,Type 2 diabetes mellitus with ulcer,1
+65704,Type 2 diabetes mellitus with ulcer,1
+105784,Type 2 diabetes mellitus without complication,1
+47954,Type 2 diabetes mellitus without complication,1
+102611,Type 2 diabetic dietary review,1
+18219,Type II diabetes mellitus,1
+22884,Type II diabetes mellitus,1
+47315,Type II diabetes mellitus - poor control,1
+24458,Type II diabetes mellitus - poor control,1
+107824,Type II diabetes mellitus in remission,1
+18143,Type II diabetes mellitus with arthropathy,1
+103902,Type II diabetes mellitus with arthropathy,1
+48192,Type II diabetes mellitus with diabetic cataract,1
+93727,Type II diabetes mellitus with diabetic cataract,1
+111798,Type II diabetes mellitus with exudative maculopathy,1
+104323,Type II diabetes mellitus with gangrene,1
+62107,Type II diabetes mellitus with gangrene,1
+98723,Type II diabetes mellitus with hypoglycaemic coma,1
+56268,Type II diabetes mellitus with hypoglycaemic coma,1
+106528,Type II diabetes mellitus with ketoacidosis,1
+106061,Type II diabetes mellitus with ketoacidotic coma,1
+95351,Type II diabetes mellitus with mononeuropathy,1
+50813,Type II diabetes mellitus with mononeuropathy,1
+43227,Type II diabetes mellitus with multiple complications,1
+64571,Type II diabetes mellitus with nephropathy,1
+102201,Type II diabetes mellitus with nephropathy,1
+67905,Type II diabetes mellitus with neurological complications,1
+98616,Type II diabetes mellitus with neurological complications,1
+47816,Type II diabetes mellitus with neuropathic arthropathy,1
+109197,Type II diabetes mellitus with neuropathic arthropathy,1
+59725,Type II diabetes mellitus with ophthalmic complications,1
+100964,Type II diabetes mellitus with ophthalmic complications,1
+104639,Type II diabetes mellitus with peripheral angiopathy,1
+54899,Type II diabetes mellitus with peripheral angiopathy,1
+85991,Type II diabetes mellitus with persistent microalbuminuria,1
+60796,Type II diabetes mellitus with persistent proteinuria,1
+47409,Type II diabetes mellitus with polyneuropathy,1
+50527,Type II diabetes mellitus with polyneuropathy,1
+57278,Type II diabetes mellitus with renal complications,1
+50225,Type II diabetes mellitus with renal complications,1
+58604,Type II diabetes mellitus with retinopathy,1
+49655,Type II diabetes mellitus with retinopathy,1
+55075,Type II diabetes mellitus with ulcer,1
+91646,Type II diabetes mellitus with ulcer,1
+53392,Type II diabetes mellitus without complication,1
+109103,Type II diabetes mellitus without complication,1
+101801,Type II diabetic dietary review,1
+11930,Under care of diabetes specialist nurse,1
+11094,Under care of diabetic foot screener,1
+45250,Under care of diabetic liaison nurse,1
+54601,Under care of diabetologist,1
+38078,Understands diet - diabetes,1
+9013,Unstable diabetes,1
+100533,Unsuitable for diabetes year of care programme,1
+93631,XPERT diabetes structured education programme completed,1
+53634,[D]Gangrene of toe in diabetic,1
+31053,[D]Widespread diabetic foot gangrene,1
+16881,[V]Dietary counselling in diabetes mellitus,1
+65684,[X] Adverse reaction to insulins and antidiabetic agents,1
+100033,[X] Adverse reaction to insulins and antidiabetic agents NOS,1
+52212,[X]Diabetes mellitus,1
+99628,[X]Glomerular disorders in diabetes mellitus,1
+112365,"[X]Pre-existing diabetes mellitus, unspecified",1
+100292,[X]Unspecified diabetes mellitus with renal complications,1
