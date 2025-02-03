@@ -1,0 +1,52 @@
+medcodeid,term,vd
+1222314017,"Aortic insufficiency alone, cause unspecified",1
+299987012,"Aortic insufficiency, non-rheumatic",1
+488451000006114,Aortic regurgitation - rheumatic,1
+1222315016,"Aortic regurgitation alone, cause unspecified",1
+299986015,"Aortic regurgitation, non-rheumatic",1
+1232103019,Aortic stenosis,1
+299988019,"Aortic stenosis, non-rheumatic",1
+299991019,Aortic valve stenosis with insufficiency,1
+580471000006114,Congenital aortic valve insufficiency,1
+313374012,Congenital aortic valve insufficiency NOS,1
+313373018,"Congenital aortic valve insufficiency, unspecified",1
+580501000006119,Congenital aortic valve stenosis,1
+50085019,Congenital mitral insufficiency,1
+299611018,Mitral and aortic insufficiency,1
+299612013,Mitral and aortic regurgitation,1
+299609010,Mitral insufficiency and aortic stenosis,1
+81193017,Mitral regurgitation,1
+700741000006112,Mitral regurgitation - rheumatic,1
+299608019,Mitral regurgitation and aortic stenosis,1
+299604017,Mitral stenosis and aortic insufficiency,1
+299605016,Mitral stenosis and aortic regurgitation,1
+299591014,Mitral stenosis with insufficiency,1
+299592019,Mitral stenosis with regurgitation,1
+81192010,Mitral valve insufficiency,1
+81186016,Mitral valve regurgitation,1
+585851000006114,Nonrheumatic mitral valve stenosis,1
+297501000006112,Nonrheumatic tricuspid valve stenosis with insufficiency,1
+301749010,Pulmonary insufficiency following trauma,1
+1222317012,"Pulmonary insufficiency, cause unspecified",1
+300003017,"Pulmonary insufficiency, non-rheumatic",1
+1222316015,"Pulmonary regurgitation, cause unspecified",1
+300002010,"Pulmonary regurgitation, non-rheumatic",1
+300011010,Pulmonary valve stenosis with insufficiency,1
+270949019,Replacement of aortic valve NEC,1
+129504017,Rheumatic aortic insufficiency,1
+30011012,Rheumatic aortic stenosis with insufficiency,1
+52032016,Rheumatic mitral insufficiency,1
+1228148017,Rheumatic pulmonary insufficiency,1
+1495489016,Rheumatic pulmonary stenosis and insufficiency,1
+1232960018,Rheumatic tricuspid insufficiency,1
+299620010,Rheumatic tricuspid stenosis and insufficiency,1
+299619016,Rheumatic tricuspid stenosis and regurgitation,1
+91811000006110,Trauma and post-operative pulmonary insufficiency,1
+299622019,"Tricuspid insufficiency, cause unspecified",1
+299995011,"Tricuspid insufficiency, non-rheumatic",1
+87501000006118,Tricuspid regurgitation - rheumatic,1
+1222307019,"Tricuspid regurgitation, cause unspecified",1
+299996012,"Tricuspid regurgitation, non-rheumatic",1
+299623012,"Tricuspid stenosis and insufficiency, cause unspecified",1
+1222308012,"Tricuspid stenosis and regurgitation, cause unspecified",1
+1705016,Valvular heart disease,1
